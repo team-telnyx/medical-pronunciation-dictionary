@@ -2,553 +2,603 @@
   "name": "Medical Pronunciations 08",
   "items": [
     {
-      "text": "alendronate",
-      "type": "alias",
-      "alias": "uh-LEN-dro-nate"
-    },
-    {
-      "text": "alendronate",
+      "text": "ketoacidosis",
       "type": "phoneme",
-      "phoneme": "əˈlɛndrəneɪt",
+      "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "risedronate",
-      "type": "alias",
-      "alias": "rih-SED-ro-nate"
-    },
-    {
-      "text": "risedronate",
+      "text": "hypoglycemia",
       "type": "phoneme",
-      "phoneme": "rɪˈsɛdrəneɪt",
+      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "ibandronate",
-      "type": "alias",
-      "alias": "ih-BAN-dro-nate"
-    },
-    {
-      "text": "ibandronate",
+      "text": "hyperglycemia",
       "type": "phoneme",
-      "phoneme": "ɪˈbændrəneɪt",
+      "phoneme": "ˌhaɪpərɡlaɪˈsiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "zoledronic acid",
-      "type": "alias",
-      "alias": "zoh-leh-DRON-ik AS-id"
-    },
-    {
-      "text": "zoledronic acid",
+      "text": "insulinoma",
       "type": "phoneme",
-      "phoneme": "zoʊˈlɛdrɒnɪk ˈæsɪd",
+      "phoneme": "ˌɪnsəlɪˈnoʊmə",
       "alphabet": "ipa"
     },
     {
-      "text": "denosumab",
-      "type": "alias",
-      "alias": "den-OH-suh-mab"
-    },
-    {
-      "text": "denosumab",
+      "text": "pheochromocytoma",
       "type": "phoneme",
-      "phoneme": "dəˈnoʊsʊmæb",
+      "phoneme": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə",
       "alphabet": "ipa"
     },
     {
-      "text": "teriparatide",
-      "type": "alias",
-      "alias": "ter-ih-PAR-uh-tide"
-    },
-    {
-      "text": "teriparatide",
+      "text": "anemia",
       "type": "phoneme",
-      "phoneme": "ˌtɛrɪˈpærətaɪd",
+      "phoneme": "əˈniːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "raloxifene",
-      "type": "alias",
-      "alias": "ral-OX-ih-feen"
-    },
-    {
-      "text": "raloxifene",
+      "text": "polycythemia",
       "type": "phoneme",
-      "phoneme": "ræˈlɒksɪfiːn",
+      "phoneme": "ˌpɑːlɪsaɪˈθiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "calcitonin",
-      "type": "alias",
-      "alias": "kal-sih-TONE-in"
-    },
-    {
-      "text": "calcitonin",
+      "text": "thrombocytopenia",
       "type": "phoneme",
-      "phoneme": "ˌkælsɪˈtoʊnɪn",
+      "phoneme": "ˌθrɑːmboʊˌsaɪtəˈpiːniə",
       "alphabet": "ipa"
     },
     {
-      "text": "tadalafil",
-      "type": "alias",
-      "alias": "tuh-DAF-ih-lil"
-    },
-    {
-      "text": "tadalafil",
+      "text": "thrombocytosis",
       "type": "phoneme",
-      "phoneme": "təˈdælɪfɪl",
+      "phoneme": "ˌθrɑːmboʊsaɪˈtoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "sildenafil",
-      "type": "alias",
-      "alias": "sil-DEN-uh-fil"
-    },
-    {
-      "text": "sildenafil",
+      "text": "leukopenia",
       "type": "phoneme",
-      "phoneme": "sɪlˈdɛnəfɪl",
+      "phoneme": "ˌluːkəˈpiːniə",
       "alphabet": "ipa"
     },
     {
-      "text": "vardenafil",
-      "type": "alias",
-      "alias": "var-DEN-ah-fil"
-    },
-    {
-      "text": "vardenafil",
+      "text": "leukocytosis",
       "type": "phoneme",
-      "phoneme": "vɑrˈdɛnəfɪl",
+      "phoneme": "ˌluːkəsaɪˈtoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "finasteride",
-      "type": "alias",
-      "alias": "fin-AS-ter-ide"
-    },
-    {
-      "text": "finasteride",
+      "text": "neutropenia",
       "type": "phoneme",
-      "phoneme": "fɪˈnæstəˌraɪd",
+      "phoneme": "ˌnuːtrəˈpiːniə",
       "alphabet": "ipa"
     },
     {
-      "text": "dutasteride",
-      "type": "alias",
-      "alias": "doo-TAS-ter-ide"
-    },
-    {
-      "text": "dutasteride",
+      "text": "neutrophilia",
       "type": "phoneme",
-      "phoneme": "duˈtæstəˌraɪd",
+      "phoneme": "ˌnuːtrəˈfɪliə",
       "alphabet": "ipa"
     },
     {
-      "text": "tamsulosin",
-      "type": "alias",
-      "alias": "tam-SOO-loh-sin"
-    },
-    {
-      "text": "tamsulosin",
+      "text": "lymphopenia",
       "type": "phoneme",
-      "phoneme": "tæmˈsuːləsɪn",
+      "phoneme": "ˌlɪmfəˈpiːniə",
       "alphabet": "ipa"
     },
     {
-      "text": "silodosin",
-      "type": "alias",
-      "alias": "si-LOH-doh-sin"
-    },
-    {
-      "text": "silodosin",
+      "text": "lymphocytosis",
       "type": "phoneme",
-      "phoneme": "sɪˈloʊdəsɪn",
+      "phoneme": "ˌlɪmfəsaɪˈtoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "alfuzosin",
-      "type": "alias",
-      "alias": "al-FOO-zoh-sin"
-    },
-    {
-      "text": "alfuzosin",
+      "text": "monocytosis",
       "type": "phoneme",
-      "phoneme": "ælˈfjuːzəsɪn",
+      "phoneme": "ˌmɑːnəsaɪˈtoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "oxybutynin",
-      "type": "alias",
-      "alias": "ok-see-BYOO-ti-nin"
-    },
-    {
-      "text": "oxybutynin",
+      "text": "eosinophilia",
       "type": "phoneme",
-      "phoneme": "ˌɑksɪˈbjuːtɪnɪn",
+      "phoneme": "ˌiːəˌsɪnəˈfɪliə",
       "alphabet": "ipa"
     },
     {
-      "text": "tolterodine",
-      "type": "alias",
-      "alias": "tol-TER-oh-deen"
-    },
-    {
-      "text": "tolterodine",
+      "text": "basophilia",
       "type": "phoneme",
-      "phoneme": "tɔlˈtɛrəˌdiːn",
+      "phoneme": "ˌbeɪsəˈfɪliə",
       "alphabet": "ipa"
     },
     {
-      "text": "solifenacin",
-      "type": "alias",
-      "alias": "sol-i-FEN-ah-sin"
-    },
-    {
-      "text": "solifenacin",
+      "text": "pancytopenia",
       "type": "phoneme",
-      "phoneme": "ˌsoʊlɪˈfɛnəsɪn",
+      "phoneme": "ˌpænsaɪtəˈpiːniə",
       "alphabet": "ipa"
     },
     {
-      "text": "darifenacin",
-      "type": "alias",
-      "alias": "dar-i-FEN-ah-sin"
-    },
-    {
-      "text": "darifenacin",
+      "text": "hemophilia",
       "type": "phoneme",
-      "phoneme": "ˌdærɪˈfɛnəsɪn",
+      "phoneme": "ˌhiːməˈfɪliə",
       "alphabet": "ipa"
     },
     {
-      "text": "mirabegron",
-      "type": "alias",
-      "alias": "mir-ah-BEG-ron"
-    },
-    {
-      "text": "mirabegron",
+      "text": "thrombophilia",
       "type": "phoneme",
-      "phoneme": "mɪˈræbəˌɡrɑn",
+      "phoneme": "ˌθrɒmboʊˈfɪliə",
       "alphabet": "ipa"
     },
     {
-      "text": "phenazopyridine",
-      "type": "alias",
-      "alias": "fen-az-oh-PYR-i-deen"
-    },
-    {
-      "text": "phenazopyridine",
+      "text": "purpura",
       "type": "phoneme",
-      "phoneme": "fəˌnæzoʊˈpɪrɪdiːn",
+      "phoneme": "ˈpɜːrpjʊrə",
       "alphabet": "ipa"
     },
     {
-      "text": "hydroxyzine",
-      "type": "alias",
-      "alias": "hy-DROK-si-zeen"
-    },
-    {
-      "text": "hydroxyzine",
+      "text": "petechiae",
       "type": "phoneme",
-      "phoneme": "haɪˈdrɑksɪˌziːn",
+      "phoneme": "pɪˈtɛkiaɪ",
       "alphabet": "ipa"
     },
     {
-      "text": "fexofenadine",
-      "type": "alias",
-      "alias": "fek-soh-FEN-ah-deen"
-    },
-    {
-      "text": "fexofenadine",
+      "text": "ecchymosis",
       "type": "phoneme",
-      "phoneme": "ˌfɛksoʊˈfɛnəˌdiːn",
+      "phoneme": "ˌɛkɪˈmoʊsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "loratadine",
-      "type": "alias",
-      "alias": "lor-AT-ah-deen"
-    },
-    {
-      "text": "loratadine",
+      "text": "hematoma",
       "type": "phoneme",
-      "phoneme": "lɔˈrætəˌdiːn",
+      "phoneme": "ˌhɛməˈtoʊmə",
       "alphabet": "ipa"
     },
     {
-      "text": "cetirizine",
-      "type": "alias",
-      "alias": "se-TIR-i-zeen"
-    },
-    {
-      "text": "cetirizine",
+      "text": "hemolysis",
       "type": "phoneme",
-      "phoneme": "səˈtɪrɪˌziːn",
+      "phoneme": "hɪˈmɒlɪsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "diphenhydramine",
-      "type": "alias",
-      "alias": "dy-fen-HY-drah-meen"
-    },
-    {
-      "text": "diphenhydramine",
+      "text": "cellulitis",
       "type": "phoneme",
-      "phoneme": "ˌdaɪfɛnˈhaɪdrəˌmiːn",
+      "phoneme": "ˌsɛljuˈlaɪtɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "chlorpheniramine",
-      "type": "alias",
-      "alias": "klor-fen-EER-ah-meen"
-    },
-    {
-      "text": "chlorpheniramine",
+      "text": "abscess",
       "type": "phoneme",
-      "phoneme": "ˌklɔrfɛnˈɪrəˌmiːn",
+      "phoneme": "ˈæbsɛs",
       "alphabet": "ipa"
     },
     {
-      "text": "azelastine",
-      "type": "alias",
-      "alias": "ah-ZEL-ah-steen"
-    },
-    {
-      "text": "azelastine",
+      "text": "furuncle",
       "type": "phoneme",
-      "phoneme": "əˈzɛləˌstiːn",
+      "phoneme": "ˈfjʊrʌŋkəl",
       "alphabet": "ipa"
     },
     {
-      "text": "olopatadine",
-      "type": "alias",
-      "alias": "oh-loh-PAT-ah-deen"
-    },
-    {
-      "text": "olopatadine",
+      "text": "carbuncle",
       "type": "phoneme",
-      "phoneme": "ˌoʊloʊˈpætəˌdiːn",
+      "phoneme": "ˈkɑːrbʌŋkəl",
       "alphabet": "ipa"
     },
     {
-      "text": "modafinil",
-      "type": "alias",
-      "alias": "mo-DAF-i-nil"
-    },
-    {
-      "text": "modafinil",
+      "text": "impetigo",
       "type": "phoneme",
-      "phoneme": "moʊˈdæfɪnɪl",
+      "phoneme": "ˌɪmpɪˈtaɪɡoʊ",
       "alphabet": "ipa"
     },
     {
-      "text": "armodafinil",
-      "type": "alias",
-      "alias": "ar-mo-DAF-i-nil"
-    },
-    {
-      "text": "armodafinil",
+      "text": "erysipelas",
       "type": "phoneme",
-      "phoneme": "ˌɑrmoʊˈdæfɪnɪl",
+      "phoneme": "ˌɛrɪˈsɪpələs",
       "alphabet": "ipa"
     },
     {
-      "text": "sumatriptan",
-      "type": "alias",
-      "alias": "soo-mah-TRIP-tan"
-    },
-    {
-      "text": "sumatriptan",
+      "text": "necrotizing fasciitis",
       "type": "phoneme",
-      "phoneme": "ˌsuːməˈtrɪpˌtæn",
+      "phoneme": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "rizatriptan",
-      "type": "alias",
-      "alias": "ry-zah-TRIP-tan"
-    },
-    {
-      "text": "rizatriptan",
+      "text": "osteomyelitis",
       "type": "phoneme",
-      "phoneme": "ˌraɪzəˈtrɪpˌtæn",
+      "phoneme": "ˌɒstioʊˌmaɪəˈlaɪtɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "zolmitriptan",
-      "type": "alias",
-      "alias": "zohl-mi-TRIP-tan"
-    },
-    {
-      "text": "zolmitriptan",
+      "text": "septic arthritis",
       "type": "phoneme",
-      "phoneme": "zoʊlˈmɪtrɪpˌtæn",
+      "phoneme": "ˈsɛptɪk ɑːrˈθraɪtɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "eletriptan",
-      "type": "alias",
-      "alias": "el-e-TRIP-tan"
-    },
-    {
-      "text": "eletriptan",
+      "text": "sepsis",
       "type": "phoneme",
-      "phoneme": "ˌɛləˈtrɪpˌtæn",
+      "phoneme": "ˈsɛpsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "almotriptan",
-      "type": "alias",
-      "alias": "al-moh-TRIP-tan"
-    },
-    {
-      "text": "almotriptan",
+      "text": "septicemia",
       "type": "phoneme",
-      "phoneme": "ˌælmoʊˈtrɪpˌtæn",
+      "phoneme": "ˌsɛptɪˈsiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "frovatriptan",
-      "type": "alias",
-      "alias": "froh-vah-TRIP-tan"
-    },
-    {
-      "text": "frovatriptan",
+      "text": "bacteremia",
       "type": "phoneme",
-      "phoneme": "ˌfroʊvəˈtrɪpˌtæn",
+      "phoneme": "ˌbæktəˈriːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "naratriptan",
-      "type": "alias",
-      "alias": "nar-ah-TRIP-tan"
-    },
-    {
-      "text": "naratriptan",
+      "text": "viremia",
       "type": "phoneme",
-      "phoneme": "ˌnærəˈtrɪpˌtæn",
+      "phoneme": "vaɪˈriːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "ubrogepant",
-      "type": "alias",
-      "alias": "yoo-BROH-jeh-pant"
-    },
-    {
-      "text": "ubrogepant",
+      "text": "fungemia",
       "type": "phoneme",
-      "phoneme": "juːˈbroʊdʒəˌpænt",
+      "phoneme": "fʌnˈdʒiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "rimegepant",
-      "type": "alias",
-      "alias": "rih-MEH-jeh-pant"
-    },
-    {
-      "text": "rimegepant",
+      "text": "parasitemia",
       "type": "phoneme",
-      "phoneme": "rɪˈmɛdʒɪpænt",
+      "phoneme": "ˌpærəsaɪˈtiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "erenumab",
-      "type": "alias",
-      "alias": "eh-REH-nyoo-mab"
-    },
-    {
-      "text": "erenumab",
+      "text": "endotoxemia",
       "type": "phoneme",
-      "phoneme": "ɛˈrɛnjʊmæb",
+      "phoneme": "ˌɛndoʊtɒkˈsiːmiə",
       "alphabet": "ipa"
     },
     {
-      "text": "fremanezumab",
-      "type": "alias",
-      "alias": "freh-mah-NEH-zoo-mab"
-    },
-    {
-      "text": "fremanezumab",
+      "text": "erythema",
       "type": "phoneme",
-      "phoneme": "friˈmænɪzʊmæb",
+      "phoneme": "ˌɛrɪˈθiːmə",
       "alphabet": "ipa"
     },
     {
-      "text": "galcanezumab",
-      "type": "alias",
-      "alias": "gal-kah-NEH-zoo-mab"
-    },
-    {
-      "text": "galcanezumab",
+      "text": "urticaria",
       "type": "phoneme",
-      "phoneme": "ɡælˈkænɪzʊmæb",
+      "phoneme": "ˌɜːrtɪˈkɛriə",
       "alphabet": "ipa"
     },
     {
-      "text": "eprodual",
-      "type": "alias",
-      "alias": "eh-PROH-dool"
-    },
-    {
-      "text": "eprodual",
+      "text": "pruritus",
       "type": "phoneme",
-      "phoneme": "ɛˈprɑduəl",
+      "phoneme": "prʊˈraɪtəs",
       "alphabet": "ipa"
     },
     {
-      "text": "onabotulinumtoxinA",
-      "type": "alias",
-      "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay"
-    },
-    {
-      "text": "onabotulinumtoxinA",
+      "text": "eczema",
       "type": "phoneme",
-      "phoneme": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ",
+      "phoneme": "ˈɛksɪmə",
       "alphabet": "ipa"
     },
     {
-      "text": "MI",
-      "type": "alias",
-      "alias": "myocardial infarction"
-    },
-    {
-      "text": "MI",
+      "text": "psoriasis",
       "type": "phoneme",
-      "phoneme": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən",
+      "phoneme": "səˈraɪəsɪs",
       "alphabet": "ipa"
     },
     {
-      "text": "COPD",
-      "type": "alias",
-      "alias": "chronic obstructive pulmonary disease"
-    },
-    {
-      "text": "COPD",
+      "text": "lichenification",
       "type": "phoneme",
-      "phoneme": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz",
+      "phoneme": "lɪˌkɛnɪfɪˈkeɪʃən",
       "alphabet": "ipa"
     },
     {
-      "text": "CHF",
-      "type": "alias",
-      "alias": "congestive heart failure"
-    },
-    {
-      "text": "CHF",
+      "text": "excoriation",
       "type": "phoneme",
-      "phoneme": "kənˈɡɛstɪv hɑrt ˈfɜːr",
+      "phoneme": "ɪkˌskɔːriˈeɪʃən",
       "alphabet": "ipa"
     },
     {
-      "text": "UTI",
-      "type": "alias",
-      "alias": "urinary tract infection"
+      "text": "vesicle",
+      "type": "phoneme",
+      "phoneme": "ˈvɛsɪkəl",
+      "alphabet": "ipa"
     },
     {
-      "text": "UTI",
+      "text": "bulla",
       "type": "phoneme",
-      "phoneme": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən",
+      "phoneme": "ˈbʊlə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pustule",
+      "type": "phoneme",
+      "phoneme": "ˈpʌstʃul",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "macule",
+      "type": "phoneme",
+      "phoneme": "ˈmækjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "papule",
+      "type": "phoneme",
+      "phoneme": "ˈpæpjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nodule",
+      "type": "phoneme",
+      "phoneme": "ˈnɑːdjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "plaque",
+      "type": "phoneme",
+      "phoneme": "plˈæk",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "scale",
+      "type": "phoneme",
+      "phoneme": "skˈeɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "crust",
+      "type": "phoneme",
+      "phoneme": "krˈʌst",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "erosion",
+      "type": "phoneme",
+      "phoneme": "ɪˈroʊʒən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ulcer",
+      "type": "phoneme",
+      "phoneme": "ˈʌlsər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fissure",
+      "type": "phoneme",
+      "phoneme": "ˈfɪʃər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atrophy",
+      "type": "phoneme",
+      "phoneme": "ˈætrəfi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sclerosis",
+      "type": "phoneme",
+      "phoneme": "skləˈroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "appendectomy",
+      "type": "phoneme",
+      "phoneme": "ˌæpənˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholecystectomy",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləsɪˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "herniorrhaphy",
+      "type": "phoneme",
+      "phoneme": "ˌhɜːrniˈɔːrəfi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colostomy",
+      "type": "phoneme",
+      "phoneme": "kəˈlɑːstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ileostomy",
+      "type": "phoneme",
+      "phoneme": "ˌɪliˈɑːstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrectomy",
+      "type": "phoneme",
+      "phoneme": "nəˈfrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hysterectomy",
+      "type": "phoneme",
+      "phoneme": "ˌhɪstəˈrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mastectomy",
+      "type": "phoneme",
+      "phoneme": "mæˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thyroidectomy",
+      "type": "phoneme",
+      "phoneme": "ˌθaɪrɔɪˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "parathyroidectomy",
+      "type": "phoneme",
+      "phoneme": "ˌpærəˌθaɪrɔɪˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "adrenalectomy",
+      "type": "phoneme",
+      "phoneme": "əˌdriːnəˈlɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "splenectomy",
+      "type": "phoneme",
+      "phoneme": "spliˈnɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pancreatectomy",
+      "type": "phoneme",
+      "phoneme": "ˌpæŋkriəˈtɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "esophagectomy",
+      "type": "phoneme",
+      "phoneme": "iːˌsɑːfəˈdʒɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastrectomy",
+      "type": "phoneme",
+      "phoneme": "ɡæˈstrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colectomy",
+      "type": "phoneme",
+      "phoneme": "kəˈlɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "proctectomy",
+      "type": "phoneme",
+      "phoneme": "prɑːkˈtɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cystectomy",
+      "type": "phoneme",
+      "phoneme": "sɪˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrostomy",
+      "type": "phoneme",
+      "phoneme": "nəˈfrɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ureterostomy",
+      "type": "phoneme",
+      "phoneme": "jʊˌriːtəˈrɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tracheostomy",
+      "type": "phoneme",
+      "phoneme": "ˌtreɪkiˈɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cricothyroidotomy",
+      "type": "phoneme",
+      "phoneme": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thoracotomy",
+      "type": "phoneme",
+      "phoneme": "ˌθɔːrəˈkɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sternotomy",
+      "type": "phoneme",
+      "phoneme": "stɜːrˈnɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "laparotomy",
+      "type": "phoneme",
+      "phoneme": "ˌlæpəˈrɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "celiotomy",
+      "type": "phoneme",
+      "phoneme": "ˌsiːliˈɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arthroscopy",
+      "type": "phoneme",
+      "phoneme": "ɑːrˈθrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bronchoscopy",
+      "type": "phoneme",
+      "phoneme": "brɑŋˈkɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colonoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləˈnɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endoscopy",
+      "type": "phoneme",
+      "phoneme": "ɛnˈdɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastroscopy",
+      "type": "phoneme",
+      "phoneme": "ɡæˈstrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sigmoidoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌsɪɡmɔɪˈdɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cystoscopy",
+      "type": "phoneme",
+      "phoneme": "sɪˈstɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colposcopy",
+      "type": "phoneme",
+      "phoneme": "kɑlˈpɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hysteroscopy",
+      "type": "phoneme",
+      "phoneme": "ˌhɪstəˈrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "laparoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌlæpəˈrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thoracoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌθɔːrəˈkɑskəpi",
       "alphabet": "ipa"
     }
   ]

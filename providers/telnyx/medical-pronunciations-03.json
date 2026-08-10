@@ -2,553 +2,603 @@
   "name": "Medical Pronunciations 03",
   "items": [
     {
-      "text": "ceftriaxone",
-      "type": "alias",
-      "alias": "sef-try-AX-one"
-    },
-    {
-      "text": "ceftriaxone",
+      "text": "reslizumab",
       "type": "phoneme",
-      "phoneme": "ˌsɛftraɪˈæksoʊn",
+      "phoneme": "rɛzˈlɪzʊmæb",
       "alphabet": "ipa"
     },
     {
-      "text": "cefepime",
-      "type": "alias",
-      "alias": "SEF-e-peem"
-    },
-    {
-      "text": "cefepime",
+      "text": "dupilumab",
       "type": "phoneme",
-      "phoneme": "ˈsɛfəpiːm",
+      "phoneme": "duːˈpɪljuːmæb",
       "alphabet": "ipa"
     },
     {
-      "text": "meropenem",
-      "type": "alias",
-      "alias": "mer-oh-PEN-em"
-    },
-    {
-      "text": "meropenem",
+      "text": "omalizumab",
       "type": "phoneme",
-      "phoneme": "məˈrɑpənɛm",
+      "phoneme": "oʊˈmælɪzʊmæb",
       "alphabet": "ipa"
     },
     {
-      "text": "ertapenem",
-      "type": "alias",
-      "alias": "er-ta-PEN-em"
-    },
-    {
-      "text": "ertapenem",
+      "text": "sertraline",
       "type": "phoneme",
-      "phoneme": "ˌɛrtəˈpiːnɛm",
+      "phoneme": "ˈsɜːrtrəliːn",
       "alphabet": "ipa"
     },
     {
-      "text": "imipenem",
-      "type": "alias",
-      "alias": "i-mi-PEN-em"
-    },
-    {
-      "text": "imipenem",
+      "text": "fluoxetine",
       "type": "phoneme",
-      "phoneme": "ˌɪmɪˈpiːnɛm",
+      "phoneme": "fluːˈɑːksətiːn",
       "alphabet": "ipa"
     },
     {
-      "text": "piperacillin tazobactam",
-      "type": "alias",
-      "alias": "pi-PER-a-sil-in ta-zo-BAK-tam"
-    },
-    {
-      "text": "piperacillin tazobactam",
+      "text": "escitalopram",
       "type": "phoneme",
-      "phoneme": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm",
+      "phoneme": "ˌɛsɪˈtæləpræm",
       "alphabet": "ipa"
     },
     {
-      "text": "gentamicin",
-      "type": "alias",
-      "alias": "jen-ta-MY-sin"
-    },
-    {
-      "text": "gentamicin",
+      "text": "citalopram",
       "type": "phoneme",
-      "phoneme": "ˌdʒɛntəˈmaɪsɪn",
+      "phoneme": "sɪˈtæləpræm",
       "alphabet": "ipa"
     },
     {
-      "text": "tobramycin",
-      "type": "alias",
-      "alias": "toe-bra-MY-sin"
-    },
-    {
-      "text": "tobramycin",
+      "text": "paroxetine",
       "type": "phoneme",
-      "phoneme": "ˌtoʊbrəˈmaɪsɪn",
+      "phoneme": "pəˈrɑːksətiːn",
       "alphabet": "ipa"
     },
     {
-      "text": "amikacin",
-      "type": "alias",
-      "alias": "am-i-KAY-sin"
-    },
-    {
-      "text": "amikacin",
+      "text": "venlafaxine",
       "type": "phoneme",
-      "phoneme": "ˌæmɪˈkeɪsɪn",
+      "phoneme": "vɛnˈlæfəksiːn",
       "alphabet": "ipa"
     },
     {
-      "text": "linezolid",
-      "type": "alias",
-      "alias": "li-NEZ-o-lid"
-    },
-    {
-      "text": "linezolid",
+      "text": "desvenlafaxine",
       "type": "phoneme",
-      "phoneme": "lɪˈnɛzəlɪd",
+      "phoneme": "dɛzˈvɛnələˌfæksiːn",
       "alphabet": "ipa"
     },
     {
-      "text": "daptomycin",
-      "type": "alias",
-      "alias": "dap-toe-MY-sin"
-    },
-    {
-      "text": "daptomycin",
+      "text": "milnacipran",
       "type": "phoneme",
-      "phoneme": "ˌdæptoʊˈmaɪsɪn",
+      "phoneme": "mɪlˈnæsɪpræn",
       "alphabet": "ipa"
     },
     {
-      "text": "tigecycline",
-      "type": "alias",
-      "alias": "tye-ge-SY-kleen"
-    },
-    {
-      "text": "tigecycline",
+      "text": "bupropion",
       "type": "phoneme",
-      "phoneme": "ˌtɪɡəˈsaɪkliːn",
+      "phoneme": "bjuˈproʊpiɑn",
       "alphabet": "ipa"
     },
     {
-      "text": "minocycline",
-      "type": "alias",
-      "alias": "mi-no-SY-kleen"
-    },
-    {
-      "text": "minocycline",
+      "text": "mirtazapine",
       "type": "phoneme",
-      "phoneme": "ˌmɪnoʊˈsaɪkliːn",
+      "phoneme": "mɪrˈtæzəpin",
       "alphabet": "ipa"
     },
     {
-      "text": "rifampin",
-      "type": "alias",
-      "alias": "ri-FAM-pin"
-    },
-    {
-      "text": "rifampin",
+      "text": "trazodone",
       "type": "phoneme",
-      "phoneme": "rɪˈfæmpɪn",
+      "phoneme": "ˈtræzədoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "isoniazid",
-      "type": "alias",
-      "alias": "eye-so-NY-a-zid"
-    },
-    {
-      "text": "isoniazid",
+      "text": "nefazodone",
       "type": "phoneme",
-      "phoneme": "ˌaɪsoʊˈnaɪəzɪd",
+      "phoneme": "nəˈfæzədoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "pyrazinamide",
-      "type": "alias",
-      "alias": "py-ra-ZIN-a-mide"
-    },
-    {
-      "text": "pyrazinamide",
+      "text": "vortioxetine",
       "type": "phoneme",
-      "phoneme": "ˌpɪrəˈzɪnəmaɪd",
+      "phoneme": "vɔrtiˈɑksətin",
       "alphabet": "ipa"
     },
     {
-      "text": "ethambutol",
-      "type": "alias",
-      "alias": "e-THAM-byoo-tol"
-    },
-    {
-      "text": "ethambutol",
+      "text": "vilazodone",
       "type": "phoneme",
-      "phoneme": "ɛˈθæmbjətɔl",
+      "phoneme": "vɪˈlæzədoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "fluconazole",
-      "type": "alias",
-      "alias": "floo-KON-a-zole"
-    },
-    {
-      "text": "fluconazole",
+      "text": "fluvoxamine",
       "type": "phoneme",
-      "phoneme": "fluˈkɑnəzoʊl",
+      "phoneme": "fluˈvɑksəmin",
       "alphabet": "ipa"
     },
     {
-      "text": "ketoconazole",
-      "type": "alias",
-      "alias": "kee-toe-KON-a-zole"
-    },
-    {
-      "text": "ketoconazole",
+      "text": "clomipramine",
       "type": "phoneme",
-      "phoneme": "ˌkiːtoʊˈkɑnəzoʊl",
+      "phoneme": "kloʊˈmɪprəmin",
       "alphabet": "ipa"
     },
     {
-      "text": "itraconazole",
-      "type": "alias",
-      "alias": "i-tra-KON-a-zole"
-    },
-    {
-      "text": "itraconazole",
+      "text": "desipramine",
       "type": "phoneme",
-      "phoneme": "ˌɪtrəˈkɑnəzoʊl",
+      "phoneme": "dəˈsɪprəmin",
       "alphabet": "ipa"
     },
     {
-      "text": "voriconazole",
-      "type": "alias",
-      "alias": "vor-ih-KON-uh-zole"
-    },
-    {
-      "text": "voriconazole",
+      "text": "imipramine",
       "type": "phoneme",
-      "phoneme": "ˌvɔrɪˈkɑnəzoʊl",
+      "phoneme": "ɪˈmɪprəmin",
       "alphabet": "ipa"
     },
     {
-      "text": "posaconazole",
-      "type": "alias",
-      "alias": "poh-sah-KON-uh-zole"
-    },
-    {
-      "text": "posaconazole",
+      "text": "protriptyline",
       "type": "phoneme",
-      "phoneme": "poʊsəˈkɑnəzoʊl",
+      "phoneme": "proʊˈtrɪptəlin",
       "alphabet": "ipa"
     },
     {
-      "text": "acyclovir",
-      "type": "alias",
-      "alias": "ay-SY-kloh-veer"
-    },
-    {
-      "text": "acyclovir",
+      "text": "phenelzine",
       "type": "phoneme",
-      "phoneme": "eɪˈsaɪkləvɪr",
+      "phoneme": "ˈfɛnəlzin",
       "alphabet": "ipa"
     },
     {
-      "text": "valacyclovir",
-      "type": "alias",
-      "alias": "val-ay-SY-kloh-veer"
-    },
-    {
-      "text": "valacyclovir",
+      "text": "tranylcypromine",
       "type": "phoneme",
-      "phoneme": "vəˈlæsɪkləvɪr",
+      "phoneme": "trænɪlˈsɪprəmin",
       "alphabet": "ipa"
     },
     {
-      "text": "famciclovir",
-      "type": "alias",
-      "alias": "fam-SY-kloh-veer"
-    },
-    {
-      "text": "famciclovir",
+      "text": "isocarboxazid",
       "type": "phoneme",
-      "phoneme": "fæmˈsaɪkləvɪr",
+      "phoneme": "ˌaɪsoʊkɑrˈbɑksəzɪd",
       "alphabet": "ipa"
     },
     {
-      "text": "oseltamivir",
-      "type": "alias",
-      "alias": "oh-sel-TAM-ih-veer"
-    },
-    {
-      "text": "oseltamivir",
+      "text": "selegiline",
       "type": "phoneme",
-      "phoneme": "ˌoʊsɛlˈtæmɪvɪr",
+      "phoneme": "səˈlɛdʒəlin",
       "alphabet": "ipa"
     },
     {
-      "text": "aciklovir",
-      "type": "alias",
-      "alias": "ah-SEE-kloh-veer"
-    },
-    {
-      "text": "aciklovir",
+      "text": "rasagiline",
       "type": "phoneme",
-      "phoneme": "eɪˈsaɪkləvɪr",
+      "phoneme": "rəˈsædʒəlin",
       "alphabet": "ipa"
     },
     {
-      "text": "ibuprofen",
-      "type": "alias",
-      "alias": "eye-byoo-PROH-fen"
-    },
-    {
-      "text": "ibuprofen",
+      "text": "aripiprazole",
       "type": "phoneme",
-      "phoneme": "ˌaɪbjuˈproʊfən",
+      "phoneme": "əˈrɪpɪprəzoʊl",
       "alphabet": "ipa"
     },
     {
-      "text": "naproxen",
-      "type": "alias",
-      "alias": "nah-PROK-sen"
-    },
-    {
-      "text": "naproxen",
+      "text": "olanzapine",
       "type": "phoneme",
-      "phoneme": "nəˈprɑksən",
+      "phoneme": "oʊˈlænzəpin",
       "alphabet": "ipa"
     },
     {
-      "text": "celecoxib",
-      "type": "alias",
-      "alias": "sel-eh-KOK-sib"
-    },
-    {
-      "text": "celecoxib",
+      "text": "quetiapine",
       "type": "phoneme",
-      "phoneme": "səˈlɛksɪb",
+      "phoneme": "kwɛˈtaɪəpin",
       "alphabet": "ipa"
     },
     {
-      "text": "meloxicam",
-      "type": "alias",
-      "alias": "mel-OK-sih-kam"
-    },
-    {
-      "text": "meloxicam",
+      "text": "risperidone",
       "type": "phoneme",
-      "phoneme": "məˈlɑksɪkæm",
+      "phoneme": "rɪˈspɛrɪdoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "diclofenac",
-      "type": "alias",
-      "alias": "dye-KLOH-fen-ak"
-    },
-    {
-      "text": "diclofenac",
+      "text": "paliperidone",
       "type": "phoneme",
-      "phoneme": "daɪˈkloʊfənæk",
+      "phoneme": "pəˈlɪpərɪdoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "ketorolac",
-      "type": "alias",
-      "alias": "kee-TOR-oh-lak"
-    },
-    {
-      "text": "ketorolac",
+      "text": "ziprasidone",
       "type": "phoneme",
-      "phoneme": "kiˈtɔrəlæk",
+      "phoneme": "zɪˈpræsɪdoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "indomethacin",
-      "type": "alias",
-      "alias": "in-doh-METH-ah-sin"
-    },
-    {
-      "text": "indomethacin",
+      "text": "lurasidone",
       "type": "phoneme",
-      "phoneme": "ˌɪndoʊˈmɛθəsɪn",
+      "phoneme": "lʊˈræsɪdoʊn",
       "alphabet": "ipa"
     },
     {
-      "text": "nabumetone",
-      "type": "alias",
-      "alias": "na-BYOO-meh-tone"
-    },
-    {
-      "text": "nabumetone",
+      "text": "brexpiprazole",
       "type": "phoneme",
-      "phoneme": "nəˈbjumətoʊn",
+      "phoneme": "brɛksˈpɪprəzoʊl",
       "alphabet": "ipa"
     },
     {
-      "text": "etodolac",
-      "type": "alias",
-      "alias": "ee-TOH-doh-lak"
-    },
-    {
-      "text": "etodolac",
+      "text": "cariprazine",
       "type": "phoneme",
-      "phoneme": "iˈtoʊdəlæk",
+      "phoneme": "kəˈrɪprəzin",
       "alphabet": "ipa"
     },
     {
-      "text": "oxaprozin",
-      "type": "alias",
-      "alias": "ok-sah-PROH-zin"
-    },
-    {
-      "text": "oxaprozin",
+      "text": "clozapine",
       "type": "phoneme",
-      "phoneme": "ˌɑksəˈproʊzɪn",
+      "phoneme": "ˈkloʊzəpin",
       "alphabet": "ipa"
     },
     {
-      "text": "acetaminophen",
-      "type": "alias",
-      "alias": "ah-SEE-tah-MIN-oh-fen"
-    },
-    {
-      "text": "acetaminophen",
+      "text": "haloperidol",
       "type": "phoneme",
-      "phoneme": "əˌsiːtəˈmɪnəfən",
+      "phoneme": "ˌhæloʊˈpɛrɪdɔl",
       "alphabet": "ipa"
     },
     {
-      "text": "tramadol",
-      "type": "alias",
-      "alias": "TRAM-ah-dol"
-    },
-    {
-      "text": "tramadol",
+      "text": "chlorpromazine",
       "type": "phoneme",
-      "phoneme": "ˈtræmədɔl",
+      "phoneme": "klɔrˈproʊməzin",
       "alphabet": "ipa"
     },
     {
-      "text": "gabapentin",
-      "type": "alias",
-      "alias": "gab-ah-PEN-tin"
-    },
-    {
-      "text": "gabapentin",
+      "text": "lithium",
       "type": "phoneme",
-      "phoneme": "ˌɡæbəˈpɛntɪn",
+      "phoneme": "ˈlɪθiəm",
       "alphabet": "ipa"
     },
     {
-      "text": "pregabalin",
-      "type": "alias",
-      "alias": "pree-GAB-ah-lin"
-    },
-    {
-      "text": "pregabalin",
+      "text": "valproate",
       "type": "phoneme",
-      "phoneme": "priˈɡæbəlɪn",
+      "phoneme": "vælˈproʊ.eɪt",
       "alphabet": "ipa"
     },
     {
-      "text": "duloxetine",
-      "type": "alias",
-      "alias": "doo-LOK-seh-teen"
-    },
-    {
-      "text": "duloxetine",
+      "text": "asenapine",
       "type": "phoneme",
-      "phoneme": "duˈlɑksətiːn",
+      "phoneme": "əˈsɛn.ə.piːn",
       "alphabet": "ipa"
     },
     {
-      "text": "amitriptyline",
-      "type": "alias",
-      "alias": "am-ee-TRIP-tih-leen"
-    },
-    {
-      "text": "amitriptyline",
+      "text": "dexmethylphenidate",
       "type": "phoneme",
-      "phoneme": "ˌæmɪˈtrɪptəliːn",
+      "phoneme": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt",
       "alphabet": "ipa"
     },
     {
-      "text": "nortriptyline",
-      "type": "alias",
-      "alias": "nor-TRIP-tih-leen"
-    },
-    {
-      "text": "nortriptyline",
+      "text": "lisdexamfetamine",
       "type": "phoneme",
-      "phoneme": "nɔrˈtrɪptəliːn",
+      "phoneme": "lɪsˌdɛks.æmˈfɛt.ə.miːn",
       "alphabet": "ipa"
     },
     {
-      "text": "topiramate",
-      "type": "alias",
-      "alias": "toh-PIHR-ah-mayt"
-    },
-    {
-      "text": "topiramate",
+      "text": "methylphenidate",
       "type": "phoneme",
-      "phoneme": "toʊˈpɪrəmeɪt",
+      "phoneme": "ˌmɛθ.əlˈfɛn.ə.deɪt",
       "alphabet": "ipa"
     },
     {
-      "text": "carbamazepine",
-      "type": "alias",
-      "alias": "kar-bah-MAZ-eh-peen"
-    },
-    {
-      "text": "carbamazepine",
+      "text": "amfetamine",
       "type": "phoneme",
-      "phoneme": "ˌkɑrbəˈmæzəpiːn",
+      "phoneme": "æmˈfɛt.ə.miːn",
       "alphabet": "ipa"
     },
     {
-      "text": "oxcarbazepine",
-      "type": "alias",
-      "alias": "oks-kar-BAZ-eh-peen"
-    },
-    {
-      "text": "oxcarbazepine",
+      "text": "guanfacine",
       "type": "phoneme",
-      "phoneme": "ˌɑkskɑrˈbæzəpiːn",
+      "phoneme": "ˈɡwɑːn.fə.siːn",
       "alphabet": "ipa"
     },
     {
-      "text": "lamotrigine",
-      "type": "alias",
-      "alias": "lah-MOH-trih-jeen"
-    },
-    {
-      "text": "lamotrigine",
+      "text": "tamoxifen",
       "type": "phoneme",
-      "phoneme": "ləˈmɑtrɪdʒiːn",
+      "phoneme": "təˈmɑːk.sə.fən",
       "alphabet": "ipa"
     },
     {
-      "text": "levetiracetam",
-      "type": "alias",
-      "alias": "lev-eh-TIHR-ah-seh-tam"
-    },
-    {
-      "text": "levetiracetam",
+      "text": "anastrozole",
       "type": "phoneme",
-      "phoneme": "ləˌvɛtɪˈræsɪtæm",
+      "phoneme": "əˈnæs.trə.zɔːl",
       "alphabet": "ipa"
     },
     {
-      "text": "phenytoin",
-      "type": "alias",
-      "alias": "FEN-ih-toh-in"
+      "text": "letrozole",
+      "type": "phoneme",
+      "phoneme": "ˈlɛ.trə.zɔːl",
+      "alphabet": "ipa"
     },
     {
-      "text": "phenytoin",
+      "text": "exemestane",
       "type": "phoneme",
-      "phoneme": "fəˈnɪtoʊɪn",
+      "phoneme": "ˌɛk.səˈmɛs.teɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "leuprolide",
+      "type": "phoneme",
+      "phoneme": "luːˈproʊ.laɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "goserelin",
+      "type": "phoneme",
+      "phoneme": "ɡoʊˈsɛr.ə.lɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "triptorelin",
+      "type": "phoneme",
+      "phoneme": "trɪpˈtɔːr.ə.lɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bicalutamide",
+      "type": "phoneme",
+      "phoneme": "baɪ.kəˈluː.tə.maɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "enzalutamide",
+      "type": "phoneme",
+      "phoneme": "ɛn.zəˈluː.tə.maɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "abiraterone",
+      "type": "phoneme",
+      "phoneme": "əˈbɪr.ə.tə.roʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "imatinib",
+      "type": "phoneme",
+      "phoneme": "ɪˈmæ.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dasatinib",
+      "type": "phoneme",
+      "phoneme": "dəˈsæ.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nilotinib",
+      "type": "phoneme",
+      "phoneme": "naɪˈloʊ.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bosutinib",
+      "type": "phoneme",
+      "phoneme": "boʊˈsuː.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ponatinib",
+      "type": "phoneme",
+      "phoneme": "poʊˈnæ.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ibrutinib",
+      "type": "phoneme",
+      "phoneme": "aɪˈbruː.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "acalabrutinib",
+      "type": "phoneme",
+      "phoneme": "əˌkæl.əˈbruː.tɪ.nɪb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "venetoclax",
+      "type": "phoneme",
+      "phoneme": "vəˈnɛ.toʊ.klæks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rituximab",
+      "type": "phoneme",
+      "phoneme": "rɪˈtʊk.sɪ.mæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "trastuzumab",
+      "type": "phoneme",
+      "phoneme": "træsˈtʊ.zuː.mæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pertuzumab",
+      "type": "phoneme",
+      "phoneme": "pərˈtʊ.zuː.mæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bevacizumab",
+      "type": "phoneme",
+      "phoneme": "bəˌvæk.sɪˈzuː.mæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cetuximab",
+      "type": "phoneme",
+      "phoneme": "səˈtʊk.sɪ.mæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "panitumumab",
+      "type": "phoneme",
+      "phoneme": "ˌpænɪˈtjuːməmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pembrolizumab",
+      "type": "phoneme",
+      "phoneme": "ˌpɛmbroʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nivolumab",
+      "type": "phoneme",
+      "phoneme": "nɪˈvɒljʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ipilimumab",
+      "type": "phoneme",
+      "phoneme": "ɪˌpɪlɪˈmuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atezolizumab",
+      "type": "phoneme",
+      "phoneme": "əˌtɛzoʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "durvalumab",
+      "type": "phoneme",
+      "phoneme": "dɜːrˈvæljʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "avelumab",
+      "type": "phoneme",
+      "phoneme": "əˈvɛljʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cisplatin",
+      "type": "phoneme",
+      "phoneme": "sɪsˈpleɪtɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "carboplatin",
+      "type": "phoneme",
+      "phoneme": "kɑːrˈboʊplætɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "oxaliplatin",
+      "type": "phoneme",
+      "phoneme": "ɒkˈsælɪplætɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "paclitaxel",
+      "type": "phoneme",
+      "phoneme": "ˌpæklɪˈtæksɛl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "docetaxel",
+      "type": "phoneme",
+      "phoneme": "ˌdoʊsɪˈtæksɛl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "doxorubicin",
+      "type": "phoneme",
+      "phoneme": "ˌdɒksəˈruːbɪsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "daunorubicin",
+      "type": "phoneme",
+      "phoneme": "ˌdɔːnəˈruːbɪsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vincristine",
+      "type": "phoneme",
+      "phoneme": "vɪnˈkrɪstiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vinblastine",
+      "type": "phoneme",
+      "phoneme": "vɪnˈblæstiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vinorelbine",
+      "type": "phoneme",
+      "phoneme": "vɪˈnɔːrɛlbiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "etoposide",
+      "type": "phoneme",
+      "phoneme": "ɪˈtoʊpəsaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cyclophosphamide",
+      "type": "phoneme",
+      "phoneme": "ˌsaɪkloʊˈfɒsfəmaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ifosfamide",
+      "type": "phoneme",
+      "phoneme": "ɪˈfɒsfəmaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "methotrexate",
+      "type": "phoneme",
+      "phoneme": "ˌmɛθəˈtrɛkseɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pemetrexed",
+      "type": "phoneme",
+      "phoneme": "ˌpɛmɪˈtrɛksɛd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gemcitabine",
+      "type": "phoneme",
+      "phoneme": "dʒɛmˈsaɪtəbiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fluorouracil",
+      "type": "phoneme",
+      "phoneme": "ˌflʊroʊˈjʊɚəsɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "capecitabine",
+      "type": "phoneme",
+      "phoneme": "ˌkæpɪˈsaɪtəbiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cytarabine",
+      "type": "phoneme",
+      "phoneme": "saɪˈtɛɚəbiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "adalimumab",
+      "type": "phoneme",
+      "phoneme": "əˌdælɪˈmuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "etanercept",
+      "type": "phoneme",
+      "phoneme": "ɪˈtænɚsɛpt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "infliximab",
+      "type": "phoneme",
+      "phoneme": "ɪnˈflɪksɪmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "certolizumab",
+      "type": "phoneme",
+      "phoneme": "ˌsɜːrtoʊˈlɪzjuːmæb",
       "alphabet": "ipa"
     }
   ]

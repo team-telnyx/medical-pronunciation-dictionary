@@ -100,26 +100,22 @@ def pad(n: int) -> str:
 # ---------------------------------------------------------------------------
 
 def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
-    """One JSON file per CHUNK_SIZE entries. Each term produces 2 entries
-    (one alias, one phoneme), so we chunk by CHUNK_SIZE // 2 terms."""
+    """One JSON file per CHUNK_SIZE entries. One phoneme entry per term
+    (Telnyx API rejects duplicate text entries, and phoneme is more
+    precise than alias for providers that support IPA)."""
     out_dir.mkdir(parents=True, exist_ok=True)
     files: list[Path] = []
-    terms_per_file = CHUNK_SIZE // 2  # 50 terms -> 100 entries
-    for idx, batch in enumerate(chunked(terms, terms_per_file), start=1):
+    for idx, batch in enumerate(chunked(terms, CHUNK_SIZE), start=1):
         name = f"{DICT_PREFIX} {pad(idx)}"
-        items: list[dict] = []
-        for item in batch:
-            items.append({
-                "text": item["text"],
-                "type": "alias",
-                "alias": item["alias"],
-            })
-            items.append({
+        items = [
+            {
                 "text": item["text"],
                 "type": "phoneme",
                 "phoneme": item["ipa"],
                 "alphabet": "ipa",
-            })
+            }
+            for item in batch
+        ]
         payload = {"name": name, "items": items}
         path = out_dir / f"medical-pronunciations-{pad(idx)}.json"
         with path.open("w", encoding="utf-8") as f:
@@ -144,31 +140,37 @@ PLS_SCHEMA = (
 ET.register_namespace("", PLS_NAMESPACE)
 
 
-def build_pls_document(batch: list[dict], include_alias: bool) -> ET.ElementTree:
+def build_pls_document(
+    batch: list[dict],
+    include_alias: bool,
+    xml_lang: str = "en-US",
+) -> ET.ElementTree:
     """Build a W3C PLS XML document for a batch of terms.
 
     When include_alias is True, each lexeme gets both <alias> and <phoneme>.
     When False, each lexeme gets only <phoneme> (for providers like Polly
     that don't support alias).
+
+    xml_lang defaults to en-US (required by Amazon Polly, fine for others).
+    No id attribute on lexemes (spaces in multi-word terms break xsd:ID).
     """
     lexicon = ET.Element(
         f"{{{PLS_NAMESPACE}}}lexicon",
         {
             "version": "1.0",
             f"{{{PLS_XSI}}}schemaLocation": PLS_SCHEMA,
-            "{http://www.w3.org/XML/1998/namespace}lang": "en",
+            "alphabet": "ipa",
+            "{http://www.w3.org/XML/1998/namespace}lang": xml_lang,
         },
     )
     for item in batch:
         lexeme = ET.SubElement(lexicon, f"{{{PLS_NAMESPACE}}}lexeme")
-        lexeme.set("id", item["text"])
         grapheme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}grapheme")
         grapheme.text = item["text"]
         if include_alias:
             alias_el = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}alias")
             alias_el.text = item["alias"]
         phoneme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}phoneme")
-        phoneme.set("alphabet", "ipa")
         phoneme.text = item["ipa"]
     return ET.ElementTree(lexicon)
 
@@ -196,13 +198,13 @@ def write_pls(
 # ---------------------------------------------------------------------------
 
 def write_vapi(terms: list[dict], out_dir: Path) -> list[Path]:
-    """Single JSON file. Each term gets two entries: one with the plain
-    alias, and one with the IPA wrapped in <<>> (Vapi's phoneme syntax)."""
+    """Single JSON file. One entry per term using IPA in Vapi's
+    <<ipa>> phoneme syntax (more precise than alias)."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    items: list[dict] = []
-    for item in terms:
-        items.append({"text": item["text"], "alias": item["alias"]})
-        items.append({"text": item["text"], "alias": f"<<{item['ipa']}>>"})
+    items = [
+        {"text": item["text"], "alias": f"<<{item['ipa']}>>"}
+        for item in terms
+    ]
     payload = {"name": "Medical Pronunciation Dictionary", "items": items}
     path = out_dir / "medical-pronunciations.json"
     with path.open("w", encoding="utf-8") as f:
@@ -217,17 +219,40 @@ def write_vapi(terms: list[dict], out_dir: Path) -> list[Path]:
 
 def write_retell(terms: list[dict], out_dir: Path) -> list[Path]:
     """Single JSON file with IPA phoneme entries only.
-    Retell uses 'word' (not 'text') and requires 'alphabet' + 'phoneme'."""
+    Retell uses 'word' (not 'text') and requires 'alphabet' + 'phoneme'.
+    Multi-word terms are filtered out (Retell is word-level)."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    items = [
-        {"word": item["text"], "alphabet": "ipa", "phoneme": item["ipa"]}
-        for item in terms
-    ]
-    payload = {"name": "Medical Pronunciation Dictionary", "items": items}
+    filtered = []
+    skipped = 0
+    for item in terms:
+        if " " in item["text"]:
+            skipped += 1
+            continue
+        filtered.append(
+            {"word": item["text"], "alphabet": "ipa", "phoneme": item["ipa"]}
+        )
+    if skipped:
+        print(f"  [retell] skipped {skipped} multi-word entries (word-level only)")
+    payload = {"name": "Medical Pronunciation Dictionary", "items": filtered}
     path = out_dir / "medical-pronunciations.json"
     with path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
         f.write("\n")
+    return [path]
+
+
+# ---------------------------------------------------------------------------
+# STT keyterms (Deepgram keyterm boosting)
+# ---------------------------------------------------------------------------
+
+def write_keyterms(terms: list[dict], out_dir: Path) -> list[Path]:
+    """Single comma-separated keyterms file for STT keyterm boosting
+    (e.g., Deepgram transcription.settings.keyterm)."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    keyterms = [item["text"] for item in terms]
+    path = out_dir / "keyterms.txt"
+    with path.open("w", encoding="utf-8") as f:
+        f.write(",".join(keyterms) + "\n")
     return [path]
 
 
@@ -276,10 +301,10 @@ def main() -> int:
 
     summary: list[tuple[str, list[Path]]] = []
 
-    print("[1/7] Telnyx JSON (chunked, 100 entries/file) ...")
+    print("[1/8] Telnyx JSON (chunked, 100 phoneme entries/file) ...")
     summary.append(("telnyx", write_telnyx(terms, PROVIDERS_DIR / "telnyx")))
 
-    print("[2/7] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
+    print("[2/8] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
     summary.append((
         "elevenlabs",
         write_pls(
@@ -290,10 +315,10 @@ def main() -> int:
         ),
     ))
 
-    print("[3/7] Vapi JSON (single file, alias + <<ipa>>) ...")
+    print("[3/8] Vapi JSON (single file, <<ipa>> phoneme entries) ...")
     summary.append(("vapi", write_vapi(terms, PROVIDERS_DIR / "vapi")))
 
-    print("[4/7] Amazon Polly PLS (chunked, 100 lexemes/file, phoneme only) ...")
+    print("[4/8] Amazon Polly PLS (chunked, 100 lexemes/file, phoneme only) ...")
     summary.append((
         "amazon-polly",
         write_pls(
@@ -304,13 +329,16 @@ def main() -> int:
         ),
     ))
 
-    print("[5/7] Retell JSON (single file, IPA phoneme only) ...")
+    print("[5/8] Retell JSON (single file, IPA phoneme only, word-level) ...")
     summary.append(("retell", write_retell(terms, PROVIDERS_DIR / "retell")))
 
-    print("[6/7] Generic CSV ...")
+    print("[6/8] STT keyterms (comma-separated for Deepgram keyterm boosting) ...")
+    summary.append(("keyterms", write_keyterms(terms, PROVIDERS_DIR / "stt")))
+
+    print("[7/8] Generic CSV ...")
     summary.append(("generic-csv", write_generic_csv(terms, PROVIDERS_DIR / "generic")))
 
-    print("[7/7] Generic JSON (flat) ...")
+    print("[8/8] Generic JSON (flat) ...")
     summary.append(("generic-json", write_generic_json(terms, PROVIDERS_DIR / "generic")))
 
     print()
