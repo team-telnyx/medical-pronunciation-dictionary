@@ -75,7 +75,9 @@ Repeat for files 02 through 10.
 
 **Alias** (plain-text phonetic respelling like `a-TOR-va-STAT-in`) works across every TTS provider. **IPA** (like `əˌtɔr.vəˈstæ.tɪn`) is more precise but only supported by some providers.
 
-This pack provides both. Providers that support IPA (Telnyx Ultra, MiniMax, Inworld, ElevenLabs, Retell) get precise phoneme entries. Providers that only support aliases get plain-text respellings. The converter script emits both formats per term so you can use whichever your provider accepts.
+`data/terms_master.json` carries both for every term. The converter then emits whichever the provider actually supports: phoneme entries for Telnyx, Vapi, Polly, and Retell, alias plus phoneme for ElevenLabs, alias only for the legacy `pls/` and `txt/` exports, and both columns for `providers/generic/`.
+
+Telnyx, Vapi, and Retell reject duplicate entries for the same word, so those get one rule per term rather than a competing alias and phoneme pair.
 
 ## Provider support
 
@@ -105,22 +107,23 @@ This pack provides both. Providers that support IPA (Telnyx Ultra, MiniMax, Inwo
 ```
 medical-pronunciation-dictionary/
 ├── data/
-│   ├── terms_master.json                # Source of truth: 962 terms with alias + IPA
+│   ├── terms_master.json                # Source of truth: 966 terms with alias + IPA
 │   └── audio/
 │       ├── before/                      # 10 MP3 samples without dictionary
 │       ├── after/                       # 10 MP3 samples with alias applied
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
-│   ├── telnyx/                          # 20 JSON files (100 entries each, alias + IPA)
+│   ├── telnyx/                          # 10 JSON files (100 phoneme entries each)
 │   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
-│   ├── vapi/                            # 1 JSON file (alias + <<ipa>> per term)
-│   ├── amazon-polly/                    # 10 PLS XML files (IPA only)
-│   ├── retell/                          # 1 JSON file (IPA only, word/phoneme format)
+│   ├── vapi/                            # 1 JSON file (<<ipa>> per term)
+│   ├── amazon-polly/                    # 10 PLS XML files (IPA only, en-US)
+│   ├── retell/                          # 1 JSON file (IPA only, word-level, 911 entries)
+│   ├── stt/                             # keyterms.txt (comma-separated, 966 terms)
 │   └── generic/                         # CSV (text, alias, ipa, category) + nested JSON
-├── pls/                                 # 11 W3C PLS XML files (original export, alias only)
+├── pls/                                 # 11 W3C PLS XML files (legacy export, alias only)
 ├── txt/                                 # 11 plain text files (word=alias format)
 ├── src/
-│   ├── terms.py                         # Curated term lists (962 terms)
+│   ├── terms.py                         # Curated term lists (966 terms)
 │   ├── generate_pronunciations.py       # Alias pronunciation generator
 │   ├── export_pls.py                    # PLS XML + plain text exporter
 │   └── generate_audio_samples.py        # Before/after audio sample generator

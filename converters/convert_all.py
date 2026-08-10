@@ -95,6 +95,21 @@ def pad(n: int) -> str:
     return f"{n:02d}"
 
 
+def prune(out_dir: Path, pattern: str, keep: list[Path]) -> None:
+    """Delete numbered chunk files left over from a previous, larger run.
+
+    The writers only ever overwrite chunk 01..N. When the term count shrinks,
+    the tail from the old run survives on disk and downstream consumers pick
+    it up: import_to_telnyx.py globs the whole directory, so an orphan chunk
+    gets POSTed alongside the current ones.
+    """
+    kept = {p.resolve() for p in keep}
+    for path in sorted(out_dir.glob(pattern)):
+        if path.resolve() not in kept:
+            path.unlink()
+            print(f"  [prune] removed stale {path.relative_to(PROJECT_DIR)}")
+
+
 # ---------------------------------------------------------------------------
 # Telnyx JSON
 # ---------------------------------------------------------------------------
@@ -122,6 +137,7 @@ def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
             json.dump(payload, f, indent=2, ensure_ascii=False)
             f.write("\n")
         files.append(path)
+    prune(out_dir, "medical-pronunciations-*.json", files)
     return files
 
 
@@ -190,6 +206,7 @@ def write_pls(
         # xml_declaration=True with utf-8 encoding for a proper PLS header.
         tree.write(path, encoding="utf-8", xml_declaration=True)
         files.append(path)
+    prune(out_dir, f"{file_prefix}-*.pls", files)
     return files
 
 

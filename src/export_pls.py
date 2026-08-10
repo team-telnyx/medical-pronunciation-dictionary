@@ -39,6 +39,15 @@ def chunk_list(lst, size):
         yield lst[i:i + size]
 
 
+def prune(out_dir, pattern, keep):
+    """Delete numbered chunk files left over from a previous, larger run."""
+    kept = {p.resolve() for p in keep}
+    for path in sorted(out_dir.glob(pattern)):
+        if path.resolve() not in kept:
+            path.unlink()
+            print(f"  [prune] removed stale {path.relative_to(BASE)}")
+
+
 def export_pls_xml(terms, filepath):
     """Export terms as W3C PLS XML format."""
     # These files carry <alias> only, so no alphabet attribute: alphabet
@@ -105,16 +114,22 @@ def main():
 
     # Export PLS XML files
     PLS_DIR.mkdir(exist_ok=True)
+    written = []
     for i, chunk in enumerate(all_chunks, 1):
         fname = f"medical-pronunciation-dict-{i:02d}.pls"
         export_pls_xml(chunk, PLS_DIR / fname)
+        written.append(PLS_DIR / fname)
+    prune(PLS_DIR, "medical-pronunciation-dict-*.pls", written)
     print(f"Exported {len(all_chunks)} PLS XML files to {PLS_DIR}/")
 
     # Export plain text files
     TXT_DIR.mkdir(exist_ok=True)
+    written = []
     for i, chunk in enumerate(all_chunks, 1):
         fname = f"medical-pronunciation-dict-{i:02d}.txt"
         export_plain_text(chunk, TXT_DIR / fname)
+        written.append(TXT_DIR / fname)
+    prune(TXT_DIR, "medical-pronunciation-dict-*.txt", written)
     print(f"Exported {len(all_chunks)} plain text files to {TXT_DIR}/")
 
     # Stats
