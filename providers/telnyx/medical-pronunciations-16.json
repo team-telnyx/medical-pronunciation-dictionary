@@ -1,0 +1,555 @@
+{
+  "name": "Medical Pronunciations 16",
+  "items": [
+    {
+      "text": "bulla",
+      "type": "alias",
+      "alias": "BULL-ah"
+    },
+    {
+      "text": "bulla",
+      "type": "phoneme",
+      "phoneme": "ˈbʊlə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pustule",
+      "type": "alias",
+      "alias": "PUS-chool"
+    },
+    {
+      "text": "pustule",
+      "type": "phoneme",
+      "phoneme": "ˈpʌstʃul",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "macule",
+      "type": "alias",
+      "alias": "MAK-yool"
+    },
+    {
+      "text": "macule",
+      "type": "phoneme",
+      "phoneme": "ˈmækjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "papule",
+      "type": "alias",
+      "alias": "PAP-yool"
+    },
+    {
+      "text": "papule",
+      "type": "phoneme",
+      "phoneme": "ˈpæpjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nodule",
+      "type": "alias",
+      "alias": "NOD-yool"
+    },
+    {
+      "text": "nodule",
+      "type": "phoneme",
+      "phoneme": "ˈnɑːdjuːl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "plaque",
+      "type": "alias",
+      "alias": "PLAK"
+    },
+    {
+      "text": "plaque",
+      "type": "phoneme",
+      "phoneme": "plæk",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "scale",
+      "type": "alias",
+      "alias": "SKAYL"
+    },
+    {
+      "text": "scale",
+      "type": "phoneme",
+      "phoneme": "skeɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "crust",
+      "type": "alias",
+      "alias": "KRUST"
+    },
+    {
+      "text": "crust",
+      "type": "phoneme",
+      "phoneme": "krʌst",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "erosion",
+      "type": "alias",
+      "alias": "ee-ROH-zhun"
+    },
+    {
+      "text": "erosion",
+      "type": "phoneme",
+      "phoneme": "ɪˈroʊʒən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ulcer",
+      "type": "alias",
+      "alias": "UL-ser"
+    },
+    {
+      "text": "ulcer",
+      "type": "phoneme",
+      "phoneme": "ˈʌlsər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fissure",
+      "type": "alias",
+      "alias": "FISH-ur"
+    },
+    {
+      "text": "fissure",
+      "type": "phoneme",
+      "phoneme": "ˈfɪʃər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atrophy",
+      "type": "alias",
+      "alias": "AT-roh-fee"
+    },
+    {
+      "text": "atrophy",
+      "type": "phoneme",
+      "phoneme": "ˈætrəfi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sclerosis",
+      "type": "alias",
+      "alias": "skleh-ROH-sis"
+    },
+    {
+      "text": "sclerosis",
+      "type": "phoneme",
+      "phoneme": "skləˈroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "appendectomy",
+      "type": "alias",
+      "alias": "ap-en-DEK-toh-mee"
+    },
+    {
+      "text": "appendectomy",
+      "type": "phoneme",
+      "phoneme": "ˌæpənˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholecystectomy",
+      "type": "alias",
+      "alias": "koh-leh-sis-TEK-toh-mee"
+    },
+    {
+      "text": "cholecystectomy",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləsɪˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "herniorrhaphy",
+      "type": "alias",
+      "alias": "her-nee-OR-ah-fee"
+    },
+    {
+      "text": "herniorrhaphy",
+      "type": "phoneme",
+      "phoneme": "ˌhɜːrniˈɔːrəfi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colostomy",
+      "type": "alias",
+      "alias": "koh-LOS-toh-mee"
+    },
+    {
+      "text": "colostomy",
+      "type": "phoneme",
+      "phoneme": "kəˈlɑːstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ileostomy",
+      "type": "alias",
+      "alias": "il-ee-OS-toh-mee"
+    },
+    {
+      "text": "ileostomy",
+      "type": "phoneme",
+      "phoneme": "ˌɪliˈɑːstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrectomy",
+      "type": "alias",
+      "alias": "neh-FREK-toh-mee"
+    },
+    {
+      "text": "nephrectomy",
+      "type": "phoneme",
+      "phoneme": "nəˈfrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hysterectomy",
+      "type": "alias",
+      "alias": "his-teh-REK-toh-mee"
+    },
+    {
+      "text": "hysterectomy",
+      "type": "phoneme",
+      "phoneme": "ˌhɪstəˈrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mastectomy",
+      "type": "alias",
+      "alias": "mas-TEK-toh-mee"
+    },
+    {
+      "text": "mastectomy",
+      "type": "phoneme",
+      "phoneme": "mæˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thyroidectomy",
+      "type": "alias",
+      "alias": "thy-roy-DEK-toh-mee"
+    },
+    {
+      "text": "thyroidectomy",
+      "type": "phoneme",
+      "phoneme": "ˌθaɪrɔɪˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "parathyroidectomy",
+      "type": "alias",
+      "alias": "par-ah-thy-roy-DEK-toh-mee"
+    },
+    {
+      "text": "parathyroidectomy",
+      "type": "phoneme",
+      "phoneme": "ˌpærəˌθaɪrɔɪˈdɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "adrenalectomy",
+      "type": "alias",
+      "alias": "ad-reh-nal-EK-toh-mee"
+    },
+    {
+      "text": "adrenalectomy",
+      "type": "phoneme",
+      "phoneme": "əˌdriːnəˈlɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "splenectomy",
+      "type": "alias",
+      "alias": "spleh-NEK-toh-mee"
+    },
+    {
+      "text": "splenectomy",
+      "type": "phoneme",
+      "phoneme": "spliˈnɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pancreatectomy",
+      "type": "alias",
+      "alias": "pan-kree-ah-TEK-toh-mee"
+    },
+    {
+      "text": "pancreatectomy",
+      "type": "phoneme",
+      "phoneme": "ˌpæŋkriəˈtɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "esophagectomy",
+      "type": "alias",
+      "alias": "eh-sof-ah-JEK-toh-mee"
+    },
+    {
+      "text": "esophagectomy",
+      "type": "phoneme",
+      "phoneme": "iːˌsɑːfəˈdʒɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastrectomy",
+      "type": "alias",
+      "alias": "gas-TREK-toh-mee"
+    },
+    {
+      "text": "gastrectomy",
+      "type": "phoneme",
+      "phoneme": "ɡæˈstrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colectomy",
+      "type": "alias",
+      "alias": "koh-LEK-toh-mee"
+    },
+    {
+      "text": "colectomy",
+      "type": "phoneme",
+      "phoneme": "kəˈlɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "proctectomy",
+      "type": "alias",
+      "alias": "prok-TEK-toh-mee"
+    },
+    {
+      "text": "proctectomy",
+      "type": "phoneme",
+      "phoneme": "prɑːkˈtɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cystectomy",
+      "type": "alias",
+      "alias": "sis-TEK-toh-mee"
+    },
+    {
+      "text": "cystectomy",
+      "type": "phoneme",
+      "phoneme": "sɪˈstɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrostomy",
+      "type": "alias",
+      "alias": "neh-FROS-toh-mee"
+    },
+    {
+      "text": "nephrostomy",
+      "type": "phoneme",
+      "phoneme": "nəˈfrɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ureterostomy",
+      "type": "alias",
+      "alias": "yoo-REE-ter-OS-toh-mee"
+    },
+    {
+      "text": "ureterostomy",
+      "type": "phoneme",
+      "phoneme": "jʊˌriːtəˈrɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tracheostomy",
+      "type": "alias",
+      "alias": "TRAY-kee-OS-toh-mee"
+    },
+    {
+      "text": "tracheostomy",
+      "type": "phoneme",
+      "phoneme": "ˌtreɪkiˈɑstəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cricothyroidotomy",
+      "type": "alias",
+      "alias": "KRY-koh-thy-ROY-DOT-oh-mee"
+    },
+    {
+      "text": "cricothyroidotomy",
+      "type": "phoneme",
+      "phoneme": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thoracotomy",
+      "type": "alias",
+      "alias": "thor-ah-KOT-oh-mee"
+    },
+    {
+      "text": "thoracotomy",
+      "type": "phoneme",
+      "phoneme": "ˌθɔːrəˈkɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sternotomy",
+      "type": "alias",
+      "alias": "ster-NOT-oh-mee"
+    },
+    {
+      "text": "sternotomy",
+      "type": "phoneme",
+      "phoneme": "stɜːrˈnɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "laparotomy",
+      "type": "alias",
+      "alias": "lap-ah-ROT-oh-mee"
+    },
+    {
+      "text": "laparotomy",
+      "type": "phoneme",
+      "phoneme": "ˌlæpəˈrɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "celiotomy",
+      "type": "alias",
+      "alias": "see-lee-OT-oh-mee"
+    },
+    {
+      "text": "celiotomy",
+      "type": "phoneme",
+      "phoneme": "ˌsiːliˈɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arthroscopy",
+      "type": "alias",
+      "alias": "ar-THROS-koh-pee"
+    },
+    {
+      "text": "arthroscopy",
+      "type": "phoneme",
+      "phoneme": "ɑːrˈθrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bronchoscopy",
+      "type": "alias",
+      "alias": "brong-KOS-koh-pee"
+    },
+    {
+      "text": "bronchoscopy",
+      "type": "phoneme",
+      "phoneme": "brɑŋˈkɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colonoscopy",
+      "type": "alias",
+      "alias": "KOH-lon-OS-koh-pee"
+    },
+    {
+      "text": "colonoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləˈnɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endoscopy",
+      "type": "alias",
+      "alias": "en-DOS-koh-pee"
+    },
+    {
+      "text": "endoscopy",
+      "type": "phoneme",
+      "phoneme": "ɛnˈdɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastroscopy",
+      "type": "alias",
+      "alias": "gas-TROS-koh-pee"
+    },
+    {
+      "text": "gastroscopy",
+      "type": "phoneme",
+      "phoneme": "ɡæˈstrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sigmoidoscopy",
+      "type": "alias",
+      "alias": "sig-moy-DOS-koh-pee"
+    },
+    {
+      "text": "sigmoidoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌsɪɡmɔɪˈdɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cystoscopy",
+      "type": "alias",
+      "alias": "sis-TOS-koh-pee"
+    },
+    {
+      "text": "cystoscopy",
+      "type": "phoneme",
+      "phoneme": "sɪˈstɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colposcopy",
+      "type": "alias",
+      "alias": "kol-POS-koh-pee"
+    },
+    {
+      "text": "colposcopy",
+      "type": "phoneme",
+      "phoneme": "kɑlˈpɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hysteroscopy",
+      "type": "alias",
+      "alias": "his-ter-OS-koh-pee"
+    },
+    {
+      "text": "hysteroscopy",
+      "type": "phoneme",
+      "phoneme": "ˌhɪstəˈrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "laparoscopy",
+      "type": "alias",
+      "alias": "lap-ah-ROS-koh-pee"
+    },
+    {
+      "text": "laparoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌlæpəˈrɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thoracoscopy",
+      "type": "alias",
+      "alias": "thor-ah-KOS-koh-pee"
+    },
+    {
+      "text": "thoracoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌθɔːrəˈkɑskəpi",
+      "alphabet": "ipa"
+    }
+  ]
+}

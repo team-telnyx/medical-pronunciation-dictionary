@@ -2,15 +2,20 @@
 """
 Multi-provider format converters for the medical pronunciation dictionary.
 
-Reads ../data/terms_with_pronunciations.json and emits provider-specific
-formats under ../providers/<provider>/.
+Reads ../data/terms_master.json and emits provider-specific formats
+under ../providers/<provider>/.
+
+Each term produces BOTH an alias entry and an IPA phoneme entry where
+the provider supports both. Providers that only support phoneme (Polly,
+Retell) emit phoneme-only entries.
 
 Providers:
-  - telnyx:      chunked JSON, 100 items per file, with "type": "alias"
-  - elevenlabs:  W3C PLS XML, 100 items per file
-  - vapi:        single JSON file, no "type" field
-  - amazon-polly: W3C PLS XML, 100 items per file
-  - generic:     CSV (text, alias, category) + flat JSON (text -> alias)
+  - telnyx:       chunked JSON, 100 entries per file (50 terms x 2 entries)
+  - elevenlabs:   W3C PLS XML, 100 lexemes per file, alias + phoneme
+  - vapi:         single JSON file, alias + <<ipa>> entries
+  - amazon-polly: W3C PLS XML, 100 lexemes per file, phoneme only
+  - retell:       single JSON file, IPA phoneme entries only
+  - generic:      CSV (text, alias, ipa, category) + flat JSON
 
 Run from the project root:
     python3 converters/convert_all.py
@@ -31,7 +36,7 @@ from typing import Iterable
 
 SCRIPT_DIR = Path(__file__).resolve().parent          # .../converters
 PROJECT_DIR = SCRIPT_DIR.parent                       # .../medical-pronunciation-dictionary
-SOURCE_FILE = PROJECT_DIR / "data" / "terms_with_pronunciations.json"
+SOURCE_FILE = PROJECT_DIR / "data" / "terms_master.json"
 PROVIDERS_DIR = PROJECT_DIR / "providers"
 
 CHUNK_SIZE = 100
@@ -59,15 +64,16 @@ def load_terms(path: Path) -> list[dict]:
     for entry in data:
         text = (entry.get("text") or "").strip()
         alias = (entry.get("alias") or "").strip()
+        ipa = (entry.get("ipa") or "").strip()
         category = (entry.get("category") or "").strip()
-        if not text or not alias:
+        if not text or not alias or not ipa:
             skipped += 1
             continue
         if text in seen:
             skipped += 1
             continue
         seen.add(text)
-        cleaned.append({"text": text, "alias": alias, "category": category})
+        cleaned.append({"text": text, "alias": alias, "ipa": ipa, "category": category})
 
     if skipped:
         print(f"  [load] skipped {skipped} entries (missing fields or duplicates)")
@@ -75,7 +81,7 @@ def load_terms(path: Path) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Chunking helper
+# Chunking helpers
 # ---------------------------------------------------------------------------
 
 def chunked(seq: list, size: int) -> Iterable[list]:
@@ -94,18 +100,27 @@ def pad(n: int) -> str:
 # ---------------------------------------------------------------------------
 
 def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
-    """One JSON file per CHUNK_SIZE items, with 'type': 'alias' on each item."""
+    """One JSON file per CHUNK_SIZE entries. Each term produces 2 entries
+    (one alias, one phoneme), so we chunk by CHUNK_SIZE // 2 terms."""
     out_dir.mkdir(parents=True, exist_ok=True)
     files: list[Path] = []
-    for idx, batch in enumerate(chunked(terms, CHUNK_SIZE), start=1):
+    terms_per_file = CHUNK_SIZE // 2  # 50 terms -> 100 entries
+    for idx, batch in enumerate(chunked(terms, terms_per_file), start=1):
         name = f"{DICT_PREFIX} {pad(idx)}"
-        payload = {
-            "name": name,
-            "items": [
-                {"text": item["text"], "type": "alias", "alias": item["alias"]}
-                for item in batch
-            ],
-        }
+        items: list[dict] = []
+        for item in batch:
+            items.append({
+                "text": item["text"],
+                "type": "alias",
+                "alias": item["alias"],
+            })
+            items.append({
+                "text": item["text"],
+                "type": "phoneme",
+                "phoneme": item["ipa"],
+                "alphabet": "ipa",
+            })
+        payload = {"name": name, "items": items}
         path = out_dir / f"medical-pronunciations-{pad(idx)}.json"
         with path.open("w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
@@ -129,14 +144,18 @@ PLS_SCHEMA = (
 ET.register_namespace("", PLS_NAMESPACE)
 
 
-def build_pls_document(batch: list[dict]) -> ET.ElementTree:
-    """Build a W3C PLS XML document for a batch of terms."""
+def build_pls_document(batch: list[dict], include_alias: bool) -> ET.ElementTree:
+    """Build a W3C PLS XML document for a batch of terms.
+
+    When include_alias is True, each lexeme gets both <alias> and <phoneme>.
+    When False, each lexeme gets only <phoneme> (for providers like Polly
+    that don't support alias).
+    """
     lexicon = ET.Element(
         f"{{{PLS_NAMESPACE}}}lexicon",
         {
             "version": "1.0",
             f"{{{PLS_XSI}}}schemaLocation": PLS_SCHEMA,
-            "alphabet": "ipa",
             "{http://www.w3.org/XML/1998/namespace}lang": "en",
         },
     )
@@ -145,17 +164,26 @@ def build_pls_document(batch: list[dict]) -> ET.ElementTree:
         lexeme.set("id", item["text"])
         grapheme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}grapheme")
         grapheme.text = item["text"]
+        if include_alias:
+            alias_el = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}alias")
+            alias_el.text = item["alias"]
         phoneme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}phoneme")
-        phoneme.text = item["alias"]
+        phoneme.set("alphabet", "ipa")
+        phoneme.text = item["ipa"]
     return ET.ElementTree(lexicon)
 
 
-def write_pls(terms: list[dict], out_dir: Path, file_prefix: str) -> list[Path]:
-    """Write W3C PLS XML files, one per CHUNK_SIZE items."""
+def write_pls(
+    terms: list[dict],
+    out_dir: Path,
+    file_prefix: str,
+    include_alias: bool,
+) -> list[Path]:
+    """Write W3C PLS XML files, one per CHUNK_SIZE lexemes."""
     out_dir.mkdir(parents=True, exist_ok=True)
     files: list[Path] = []
     for idx, batch in enumerate(chunked(terms, CHUNK_SIZE), start=1):
-        tree = build_pls_document(batch)
+        tree = build_pls_document(batch, include_alias=include_alias)
         path = out_dir / f"{file_prefix}-{pad(idx)}.pls"
         # xml_declaration=True with utf-8 encoding for a proper PLS header.
         tree.write(path, encoding="utf-8", xml_declaration=True)
@@ -168,12 +196,34 @@ def write_pls(terms: list[dict], out_dir: Path, file_prefix: str) -> list[Path]:
 # ---------------------------------------------------------------------------
 
 def write_vapi(terms: list[dict], out_dir: Path) -> list[Path]:
-    """Single JSON file with all items, no 'type' field."""
+    """Single JSON file. Each term gets two entries: one with the plain
+    alias, and one with the IPA wrapped in <<>> (Vapi's phoneme syntax)."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    payload = {
-        "name": "Medical Pronunciation Dictionary",
-        "items": [{"text": item["text"], "alias": item["alias"]} for item in terms],
-    }
+    items: list[dict] = []
+    for item in terms:
+        items.append({"text": item["text"], "alias": item["alias"]})
+        items.append({"text": item["text"], "alias": f"<<{item['ipa']}>>"})
+    payload = {"name": "Medical Pronunciation Dictionary", "items": items}
+    path = out_dir / "medical-pronunciations.json"
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    return [path]
+
+
+# ---------------------------------------------------------------------------
+# Retell JSON
+# ---------------------------------------------------------------------------
+
+def write_retell(terms: list[dict], out_dir: Path) -> list[Path]:
+    """Single JSON file with IPA phoneme entries only.
+    Retell uses 'word' (not 'text') and requires 'alphabet' + 'phoneme'."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    items = [
+        {"word": item["text"], "alphabet": "ipa", "phoneme": item["ipa"]}
+        for item in terms
+    ]
+    payload = {"name": "Medical Pronunciation Dictionary", "items": items}
     path = out_dir / "medical-pronunciations.json"
     with path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
@@ -186,21 +236,24 @@ def write_vapi(terms: list[dict], out_dir: Path) -> list[Path]:
 # ---------------------------------------------------------------------------
 
 def write_generic_csv(terms: list[dict], out_dir: Path) -> list[Path]:
-    """Single CSV with columns: text, alias, category."""
+    """Single CSV with columns: text, alias, ipa, category."""
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "medical-pronunciations.csv"
     with path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["text", "alias", "category"])
+        writer.writerow(["text", "alias", "ipa", "category"])
         for item in terms:
-            writer.writerow([item["text"], item["alias"], item["category"]])
+            writer.writerow([item["text"], item["alias"], item["ipa"], item["category"]])
     return [path]
 
 
 def write_generic_json(terms: list[dict], out_dir: Path) -> list[Path]:
-    """Flat JSON: {text: alias, ...} for simple lookups."""
+    """Flat JSON: {text: {alias, ipa}, ...} for simple lookups."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    payload = {item["text"]: item["alias"] for item in terms}
+    payload = {
+        item["text"]: {"alias": item["alias"], "ipa": item["ipa"]}
+        for item in terms
+    }
     path = out_dir / "medical-pronunciations.json"
     with path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
@@ -223,28 +276,41 @@ def main() -> int:
 
     summary: list[tuple[str, list[Path]]] = []
 
-    print("[1/6] Telnyx JSON (chunked, 100/file) ...")
+    print("[1/7] Telnyx JSON (chunked, 100 entries/file) ...")
     summary.append(("telnyx", write_telnyx(terms, PROVIDERS_DIR / "telnyx")))
 
-    print("[2/6] ElevenLabs PLS (chunked, 100/file) ...")
+    print("[2/7] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
     summary.append((
         "elevenlabs",
-        write_pls(terms, PROVIDERS_DIR / "elevenlabs", "medical-pronunciations"),
+        write_pls(
+            terms,
+            PROVIDERS_DIR / "elevenlabs",
+            "medical-pronunciations",
+            include_alias=True,
+        ),
     ))
 
-    print("[3/6] Vapi JSON (single file) ...")
+    print("[3/7] Vapi JSON (single file, alias + <<ipa>>) ...")
     summary.append(("vapi", write_vapi(terms, PROVIDERS_DIR / "vapi")))
 
-    print("[4/6] Amazon Polly PLS (chunked, 100/file) ...")
+    print("[4/7] Amazon Polly PLS (chunked, 100 lexemes/file, phoneme only) ...")
     summary.append((
         "amazon-polly",
-        write_pls(terms, PROVIDERS_DIR / "amazon-polly", "medical-pronunciations"),
+        write_pls(
+            terms,
+            PROVIDERS_DIR / "amazon-polly",
+            "medical-pronunciations",
+            include_alias=False,
+        ),
     ))
 
-    print("[5/6] Generic CSV ...")
+    print("[5/7] Retell JSON (single file, IPA phoneme only) ...")
+    summary.append(("retell", write_retell(terms, PROVIDERS_DIR / "retell")))
+
+    print("[6/7] Generic CSV ...")
     summary.append(("generic-csv", write_generic_csv(terms, PROVIDERS_DIR / "generic")))
 
-    print("[6/6] Generic JSON (flat) ...")
+    print("[7/7] Generic JSON (flat) ...")
     summary.append(("generic-json", write_generic_json(terms, PROVIDERS_DIR / "generic")))
 
     print()

@@ -1,964 +1,3850 @@
 {
-  "atorvastatin": "a-TOR-va-STAT-in",
-  "Lipitor": "LIP-i-tor",
-  "lisinopril": "ly-SIN-oh-pril",
-  "metoprolol": "me-TOE-pro-lol",
-  "amlodipine": "am-LOE-di-peen",
-  "losartan": "loe-SAR-tan",
-  "metoprolol succinate": "me-TOE-pro-lol SUK-si-nate",
-  "metoprolol tartrate": "me-TOE-pro-lol TAR-trate",
-  "carvedilol": "kar-VE-di-lol",
-  "valsartan": "val-SAR-tan",
-  "enalapril": "e-NAL-a-pril",
-  "ramipril": "ra-MI-pril",
-  "felodipine": "fe-LOE-di-peen",
-  "nimodipine": "ny-MOE-di-peen",
-  "nicardipine": "ny-KAR-di-peen",
-  "nitroglycerin": "ny-tro-GLIS-er-in",
-  "hydralazine": "hy-DRAL-a-zeen",
-  "clonidine": "KLON-i-deen",
-  "spironolactone": "spir-oh-no-LAK-tone",
-  "furosemide": "fur-OH-se-mide",
-  "hydrochlorothiazide": "hy-dro-KLOR-oh-THY-a-zide",
-  "triamterene": "try-AM-ter-een",
-  "bumetanide": "byoo-MET-a-nide",
-  "torsemide": "TOR-se-mide",
-  "eplerenone": "e-PLER-e-none",
-  "diltiazem": "dil-TY-a-zem",
-  "verapamil": "ver-AP-a-mil",
-  "nifedipine": "ny-FED-i-peen",
-  "doxazosin": "dok-SAZ-oh-sin",
-  "terazosin": "ter-AZ-oh-sin",
-  "prazosin": "PRAZ-oh-sin",
-  "amiodarone": "am-ee-OH-da-rone",
-  "dronedarone": "droe-NEH-da-rone",
-  "sotalol": "SOH-ta-lol",
-  "propafenone": "pro-PAF-eh-none",
-  "flecainide": "FLEH-ka-nide",
-  "mexiletine": "mex-IL-eh-teen",
-  "isosorbide dinitrate": "eye-so-SOR-bide dye-NYE-trate",
-  "isosorbide mononitrate": "eye-so-SOR-bide mon-oh-NYE-trate",
-  "warfarin": "war-FAR-in",
-  "rivaroxaban": "riv-a-ROX-a-ban",
-  "apixaban": "a-PIX-a-ban",
-  "dabigatran": "da-big-a-TRAN",
-  "clopidogrel": "kloh-PID-oh-grel",
-  "prasugrel": "PRA-soo-grel",
-  "ticagrelor": "tye-ka-GREL-or",
-  "ezetimibe": "eh-ZET-i-mibe",
-  "fenofibrate": "fen-oh-FYE-brate",
-  "gemfibrozil": "jem-FYE-broh-zil",
-  "niacin": "NYE-a-sin",
-  "colesevelam": "koh-leh-SEV-eh-lam",
-  "simvastatin": "sim-va-STAT-in",
-  "rosuvastatin": "roh-soo-va-STAT-in",
-  "pravastatin": "PRAV-va-STAT-in",
-  "fluvastatin": "FLOO-va-STAT-in",
-  "pitavastatin": "pit-a-va-STAT-in",
-  "alirocumab": "a-LIR-oh-kyoo-mab",
-  "evolocumab": "e-VOL-oh-kyoo-mab",
-  "metformin": "met-FOR-min",
-  "glipizide": "GLIP-i-zide",
-  "glyburide": "GLY-bur-ide",
-  "pioglitazone": "py-oh-GLIT-ah-zone",
-  "sitagliptin": "sit-ah-GLIP-tin",
-  "linagliptin": "lin-ah-GLIP-tin",
-  "saxagliptin": "sax-ah-GLIP-tin",
-  "alogliptin": "al-oh-GLIP-tin",
-  "empagliflozin": "em-pah-gli-FLOH-zin",
-  "canagliflozin": "kan-ah-gli-FLOH-zin",
-  "dapagliflozin": "dap-ah-gli-FLOH-zin",
-  "semaglutide": "sem-ah-GLOO-tide",
-  "liraglutide": "lir-ah-GLOO-tide",
-  "exenatide": "ex-EN-ah-tide",
-  "dulaglutide": "doo-lah-GLOO-tide",
-  "tirzepatide": "teer-ZEP-ah-tide",
-  "insulin glargine": "IN-suh-lin GLAR-jeen",
-  "insulin lispro": "IN-suh-lin LIS-proh",
-  "insulin aspart": "IN-suh-lin AS-part",
-  "insulin detemir": "IN-suh-lin DET-uh-meer",
-  "insulin degludec": "IN-suh-lin deh-GLOO-dek",
-  "acarbose": "AY-kar-bose",
-  "miglitol": "MIG-li-tol",
-  "repaglinide": "reh-PAG-li-nide",
-  "nateglinide": "nah-TEG-li-nide",
-  "amoxicillin": "ah-MOX-i-sil-in",
-  "amoxicillin clavulanate": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
-  "azithromycin": "ah-ZITH-roh-my-sin",
-  "cephalexin": "sef-ah-LEX-in",
-  "ciprofloxacin": "sip-roh-FLOX-ah-sin",
-  "clindamycin": "klin-dah-MY-sin",
-  "doxycycline": "dok-see-SY-kleen",
-  "metronidazole": "me-tro-NI-da-zole",
-  "sulfamethoxazole trimethoprim": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
-  "nitrofurantoin": "ny-tro-fyoor-an-TOYN",
-  "penicillin": "pen-i-SIL-in",
-  "vancomycin": "van-ko-MY-sin",
-  "levofloxacin": "lee-vo-FLOX-a-sin",
-  "moxifloxacin": "mox-i-FLOX-a-sin",
-  "cefdinir": "SEF-di-ner",
-  "cefaclor": "SEF-a-klor",
-  "cefuroxime": "se-fyoor-OX-eem",
-  "ceftriaxone": "sef-try-AX-one",
-  "cefepime": "SEF-e-peem",
-  "meropenem": "mer-oh-PEN-em",
-  "ertapenem": "er-ta-PEN-em",
-  "imipenem": "i-mi-PEN-em",
-  "piperacillin tazobactam": "pi-PER-a-sil-in ta-zo-BAK-tam",
-  "gentamicin": "jen-ta-MY-sin",
-  "tobramycin": "toe-bra-MY-sin",
-  "amikacin": "am-i-KAY-sin",
-  "linezolid": "li-NEZ-o-lid",
-  "daptomycin": "dap-toe-MY-sin",
-  "tigecycline": "tye-ge-SY-kleen",
-  "minocycline": "mi-no-SY-kleen",
-  "rifampin": "ri-FAM-pin",
-  "isoniazid": "eye-so-NY-a-zid",
-  "pyrazinamide": "py-ra-ZIN-a-mide",
-  "ethambutol": "e-THAM-byoo-tol",
-  "fluconazole": "floo-KON-a-zole",
-  "ketoconazole": "kee-toe-KON-a-zole",
-  "itraconazole": "i-tra-KON-a-zole",
-  "voriconazole": "vor-ih-KON-uh-zole",
-  "posaconazole": "poh-sah-KON-uh-zole",
-  "acyclovir": "ay-SY-kloh-veer",
-  "valacyclovir": "val-ay-SY-kloh-veer",
-  "famciclovir": "fam-SY-kloh-veer",
-  "oseltamivir": "oh-sel-TAM-ih-veer",
-  "aciklovir": "ah-SEE-kloh-veer",
-  "ibuprofen": "eye-byoo-PROH-fen",
-  "naproxen": "nah-PROK-sen",
-  "celecoxib": "sel-eh-KOK-sib",
-  "meloxicam": "mel-OK-sih-kam",
-  "diclofenac": "dye-KLOH-fen-ak",
-  "ketorolac": "kee-TOR-oh-lak",
-  "indomethacin": "in-doh-METH-ah-sin",
-  "nabumetone": "na-BYOO-meh-tone",
-  "etodolac": "ee-TOH-doh-lak",
-  "oxaprozin": "ok-sah-PROH-zin",
-  "acetaminophen": "ah-SEE-tah-MIN-oh-fen",
-  "tramadol": "TRAM-ah-dol",
-  "gabapentin": "gab-ah-PEN-tin",
-  "pregabalin": "pree-GAB-ah-lin",
-  "duloxetine": "doo-LOK-seh-teen",
-  "amitriptyline": "am-ee-TRIP-tih-leen",
-  "nortriptyline": "nor-TRIP-tih-leen",
-  "topiramate": "toh-PIHR-ah-mayt",
-  "carbamazepine": "kar-bah-MAZ-eh-peen",
-  "oxcarbazepine": "oks-kar-BAZ-eh-peen",
-  "lamotrigine": "lah-MOH-trih-jeen",
-  "levetiracetam": "lev-eh-TIHR-ah-seh-tam",
-  "phenytoin": "FEN-ih-toh-in",
-  "valproic acid": "val-PROH-ik AS-id",
-  "zonisamide": "zoh-NIS-ah-mide",
-  "lacosamide": "lah-KOH-sah-mide",
-  "rufinamide": "roo-FIN-ah-mide",
-  "omeprazole": "oh-MEP-rah-zole",
-  "pantoprazole": "pan-TOH-prah-zole",
-  "esomeprazole": "es-oh-MEP-rah-zole",
-  "lansoprazole": "lan-SOH-prah-zole",
-  "rabeprazole": "rah-BEP-rah-zole",
-  "dexlansoprazole": "deks-lan-SOH-prah-zole",
-  "famotidine": "fam-OH-tih-deen",
-  "ranitidine": "ran-IH-tih-deen",
-  "cimetidine": "sy-MET-ih-deen",
-  "nizatidine": "ny-ZAT-ih-deen",
-  "aluminum hydroxide": "ah-LOO-min-um hy-DROK-side",
-  "simethicone": "sy-METH-ih-kone",
-  "ondansetron": "on-DAN-seh-tron",
-  "granisetron": "gran-IS-eh-tron",
-  "palonosetron": "pal-oh-NOH-seh-tron",
-  "metoclopramide": "met-oh-KLOH-prah-mide",
-  "promethazine": "proh-METH-ah-zeen",
-  "prochlorperazine": "proh-klor-PER-ah-zeen",
-  "loperamide": "loh-PER-ah-mide",
-  "docusate": "DOK-yoo-sate",
-  "polyethylene glycol": "pol-ee-ETH-ih-leen GLY-kol",
-  "bisacodyl": "bis-AK-oh-dil",
-  "senna": "SEN-ah",
-  "lactulose": "LAK-tyoo-lose",
-  "albuterol": "al-BOO-ter-ol",
-  "levalbuterol": "lev-al-BOO-ter-ol",
-  "ipratropium": "ip-ra-TROH-pee-um",
-  "tiotropium": "ty-oh-TROH-pee-um",
-  "umeclidinium": "yoo-meh-kli-DIN-ee-um",
-  "glycopyrrolate": "gly-koh-PIR-oh-late",
-  "formoterol": "for-MOH-ter-ol",
-  "salmeterol": "sal-MEH-ter-ol",
-  "indacaterol": "in-da-KA-ter-ol",
-  "olodaterol": "oh-loh-DA-ter-ol",
-  "fluticasone": "floo-TIK-a-sone",
-  "budesonide": "byoo-DEH-soh-nide",
-  "mometasone": "moh-MEH-ta-sone",
-  "ciclesonide": "sik-LEH-soh-nide",
-  "beclomethasone": "beh-kloh-MEH-tha-sone",
-  "montelukast": "mon-teh-LOO-kast",
-  "zafirlukast": "za-FIR-loo-kast",
-  "zileuton": "zy-LOO-ton",
-  "theophylline": "thee-OFF-i-lin",
-  "roflumilast": "roh-FLOO-mi-last",
-  "benralizumab": "ben-ra-LIZ-oo-mab",
-  "mepolizumab": "meh-poh-LIZ-oo-mab",
-  "reslizumab": "rez-LIZ-oo-mab",
-  "dupilumab": "doo-PIL-oo-mab",
-  "omalizumab": "oh-ma-LIZ-oo-mab",
-  "sertraline": "SER-tra-leen",
-  "fluoxetine": "floo-OK-seh-teen",
-  "escitalopram": "es-sit-AL-oh-pram",
-  "citalopram": "sit-AL-oh-pram",
-  "paroxetine": "pa-ROK-seh-teen",
-  "venlafaxine": "ven-la-FAK-seen",
-  "desvenlafaxine": "des-ven-la-FAK-seen",
-  "milnacipran": "mil-NA-si-pran",
-  "bupropion": "byoo-PRO-pee-on",
-  "mirtazapine": "mir-TAZ-a-peen",
-  "trazodone": "TRAZ-oh-done",
-  "nefazodone": "ne-FAZ-oh-done",
-  "vortioxetine": "vor-tee-OK-seh-teen",
-  "vilazodone": "vil-AZ-oh-done",
-  "fluvoxamine": "floo-VOK-sah-meen",
-  "clomipramine": "klo-MIP-rah-meen",
-  "desipramine": "des-IP-rah-meen",
-  "imipramine": "im-IP-rah-meen",
-  "protriptyline": "pro-TRIP-tih-leen",
-  "phenelzine": "FEN-el-zeen",
-  "tranylcypromine": "tran-il-SIP-roh-meen",
-  "isocarboxazid": "eye-so-kar-BOK-sah-zid",
-  "selegiline": "se-LEJ-ih-leen",
-  "rasagiline": "ra-SAJ-ih-leen",
-  "aripiprazole": "a-RIP-ip-ra-zole",
-  "olanzapine": "oh-LAN-zah-peen",
-  "quetiapine": "kwe-TIE-ah-peen",
-  "risperidone": "ris-PER-ih-done",
-  "paliperidone": "pal-ee-PER-ih-done",
-  "ziprasidone": "zip-RAS-ih-done",
-  "lurasidone": "loo-RAS-ih-done",
-  "brexpiprazole": "brek-SIP-ra-zole",
-  "cariprazine": "ka-RIP-ra-zeen",
-  "clozapine": "KLOZ-ah-peen",
-  "haloperidol": "hal-oh-PER-ih-dol",
-  "chlorpromazine": "klor-PROH-mah-zeen",
-  "lithium": "LITH-ee-um",
-  "valproate": "val-PRO-ate",
-  "asenapine": "a-SEN-a-peen",
-  "dexmethylphenidate": "dex-METH-il-FEN-i-date",
-  "lisdexamfetamine": "lis-dex-am-FET-a-meen",
-  "methylphenidate": "METH-il-FEN-i-date",
-  "amfetamine": "am-FET-a-meen",
-  "guanfacine": "GWAHN-fa-seen",
-  "tamoxifen": "ta-MOX-i-fen",
-  "anastrozole": "an-AS-troh-zole",
-  "letrozole": "LET-roh-zole",
-  "exemestane": "ex-e-MES-tane",
-  "leuprolide": "loo-PRO-lide",
-  "goserelin": "goh-SER-a-lin",
-  "triptorelin": "trip-toh-REL-in",
-  "bicalutamide": "bye-ka-LOO-ta-mide",
-  "enzalutamide": "en-za-LOO-ta-mide",
-  "abiraterone": "a-bir-A-ter-one",
-  "imatinib": "i-MAT-in-ib",
-  "dasatinib": "da-SAT-in-ib",
-  "nilotinib": "ny-LOH-tin-ib",
-  "bosutinib": "boh-SOO-tin-ib",
-  "ponatinib": "poh-NA-tin-ib",
-  "ibrutinib": "eye-BROO-tin-ib",
-  "acalabrutinib": "a-KAL-a-BROO-tin-ib",
-  "venetoclax": "ve-NET-oh-klax",
-  "rituximab": "ri-TUX-i-mab",
-  "trastuzumab": "tras-TUZ-oo-mab",
-  "pertuzumab": "per-TUZ-oo-mab",
-  "bevacizumab": "beh-va-KIZ-oo-mab",
-  "cetuximab": "se-TUX-i-mab",
-  "panitumumab": "pan-i-TOO-moo-mab",
-  "pembrolizumab": "pem-broh-LIZ-oo-mab",
-  "nivolumab": "niv-OL-oo-mab",
-  "ipilimumab": "i-pi-LIM-oo-mab",
-  "atezolizumab": "a-TEZ-oh-LIZ-oo-mab",
-  "durvalumab": "dur-VAL-oo-mab",
-  "avelumab": "a-VEL-oo-mab",
-  "cisplatin": "sis-PLAT-in",
-  "carboplatin": "kar-boh-PLAT-in",
-  "oxaliplatin": "ok-SAL-i-plat-in",
-  "paclitaxel": "pak-li-TAKS-el",
-  "docetaxel": "doh-se-TAKS-el",
-  "doxorubicin": "dok-soh-ROO-bi-sin",
-  "daunorubicin": "daw-noh-ROO-bi-sin",
-  "vincristine": "vin-KRIS-teen",
-  "vinblastine": "vin-BLAS-teen",
-  "vinorelbine": "vi-NOR-el-been",
-  "etoposide": "e-TOH-poh-side",
-  "cyclophosphamide": "sy-kloh-FOS-fa-mide",
-  "ifosfamide": "i-FOS-fa-mide",
-  "methotrexate": "meth-oh-TREK-sate",
-  "pemetrexed": "pem-e-TREK-sed",
-  "gemcitabine": "jem-SITE-a-been",
-  "fluorouracil": "floor-oh-YOO-ra-sil",
-  "capecitabine": "ka-pe-SITE-a-been",
-  "cytarabine": "sy-TAIR-a-been",
-  "adalimumab": "a-da-LIM-oo-mab",
-  "etanercept": "e-TAN-er-sept",
-  "infliximab": "in-FLIK-si-mab",
-  "certolizumab": "ser-toh-LIZ-oo-mab",
-  "golimumab": "go-LIM-ue-mab",
-  "tocilizumab": "TOE-sih-LIZ-ue-mab",
-  "sarilumab": "sar-IL-ue-mab",
-  "ustekinumab": "US-te-KIN-ue-mab",
-  "secukinumab": "SEK-ue-KIN-ue-mab",
-  "ixekizumab": "IX-e-KIZ-ue-mab",
-  "brodalumab": "broe-DAL-ue-mab",
-  "guselkumab": "gus-ELK-ue-mab",
-  "risankizumab": "RIS-an-KIZ-ue-mab",
-  "tildrakizumab": "TIL-dra-KIZ-ue-mab",
-  "abatacept": "a-BAT-a-sept",
-  "leflunomide": "le-FLOO-no-mide",
-  "sulfasalazine": "SUL-fa-SAL-a-zeen",
-  "hydroxychloroquine": "hy-DROX-ee-KLOR-oh-kween",
-  "azathioprine": "AY-za-THYE-oh-preen",
-  "mycophenolate": "MYE-koe-FEN-oh-late",
-  "tacrolimus": "ta-KROE-li-mus",
-  "cyclosporine": "SYE-kloe-SPOR-een",
-  "sirolimus": "sir-OH-li-mus",
-  "everolimus": "e-VER-oh-LI-mus",
-  "levodopa": "LEE-voe-DOE-pa",
-  "carbidopa": "KAR-bi-DOE-pa",
-  "pramipexole": "PRAM-i-PEX-ole",
-  "ropinirole": "roe-PIN-i-role",
-  "rotigotine": "roe-TIG-oh-teen",
-  "amantadine": "a-MAN-ta-deen",
-  "entacapone": "en-TAK-a-pone",
-  "safinamide": "sa-FIN-a-mide",
-  "apomorphine": "AP-oh-MOR-feen",
-  "donepezil": "doe-NEP-e-zil",
-  "rivastigmine": "riv-uh-STIG-meen",
-  "galantamine": "guh-LAN-tuh-meen",
-  "memantine": "muh-MAN-teen",
-  "glatiramer": "gluh-TIR-uh-mer",
-  "fingolimod": "fin-GOL-ih-mod",
-  "dimethyl fumarate": "die-METH-ul FYOO-muh-rate",
-  "teriflunomide": "ter-ih-FLOO-noh-mide",
-  "ozanimod": "oh-ZAN-ih-mod",
-  "siponimod": "sih-PON-ih-mod",
-  "natalizumab": "na-tal-IZ-uh-mab",
-  "ocrelizumab": "ok-re-LIZ-uh-mab",
-  "ofatumumab": "oh-fuh-TOO-muh-mab",
-  "fumarate": "FYOO-muh-rate",
-  "levothyroxine": "lee-voh-thigh-ROX-een",
-  "prednisone": "PRED-nih-zone",
-  "prednisolone": "pred-NIS-oh-lone",
-  "methylprednisolone": "METH-ul-pred-NIS-oh-lone",
-  "hydrocortisone": "HIGH-dro-KOR-tih-zone",
-  "dexamethasone": "dex-uh-METH-uh-zone",
-  "fludrocortisone": "floo-dro-KOR-tih-zone",
-  "alendronate": "uh-LEN-dro-nate",
-  "risedronate": "rih-SED-ro-nate",
-  "ibandronate": "ih-BAN-dro-nate",
-  "zoledronic acid": "zoh-leh-DRON-ik AS-id",
-  "denosumab": "den-OH-suh-mab",
-  "teriparatide": "ter-ih-PAR-uh-tide",
-  "raloxifene": "ral-OX-ih-feen",
-  "calcitonin": "kal-sih-TONE-in",
-  "tadalafil": "tuh-DAF-ih-lil",
-  "sildenafil": "sil-DEN-uh-fil",
-  "vardenafil": "var-DEN-ah-fil",
-  "finasteride": "fin-AS-ter-ide",
-  "dutasteride": "doo-TAS-ter-ide",
-  "tamsulosin": "tam-SOO-loh-sin",
-  "silodosin": "si-LOH-doh-sin",
-  "alfuzosin": "al-FOO-zoh-sin",
-  "oxybutynin": "ok-see-BYOO-ti-nin",
-  "tolterodine": "tol-TER-oh-deen",
-  "solifenacin": "sol-i-FEN-ah-sin",
-  "darifenacin": "dar-i-FEN-ah-sin",
-  "mirabegron": "mir-ah-BEG-ron",
-  "phenazopyridine": "fen-az-oh-PYR-i-deen",
-  "hydroxyzine": "hy-DROK-si-zeen",
-  "fexofenadine": "fek-soh-FEN-ah-deen",
-  "loratadine": "lor-AT-ah-deen",
-  "cetirizine": "se-TIR-i-zeen",
-  "diphenhydramine": "dy-fen-HY-drah-meen",
-  "chlorpheniramine": "klor-fen-EER-ah-meen",
-  "azelastine": "ah-ZEL-ah-steen",
-  "olopatadine": "oh-loh-PAT-ah-deen",
-  "modafinil": "mo-DAF-i-nil",
-  "armodafinil": "ar-mo-DAF-i-nil",
-  "sumatriptan": "soo-mah-TRIP-tan",
-  "rizatriptan": "ry-zah-TRIP-tan",
-  "zolmitriptan": "zohl-mi-TRIP-tan",
-  "eletriptan": "el-e-TRIP-tan",
-  "almotriptan": "al-moh-TRIP-tan",
-  "frovatriptan": "froh-vah-TRIP-tan",
-  "naratriptan": "nar-ah-TRIP-tan",
-  "ubrogepant": "yoo-BROH-jeh-pant",
-  "rimegepant": "rih-MEH-jeh-pant",
-  "erenumab": "eh-REH-nyoo-mab",
-  "fremanezumab": "freh-mah-NEH-zoo-mab",
-  "galcanezumab": "gal-kah-NEH-zoo-mab",
-  "eprodual": "eh-PROH-dool",
-  "onabotulinumtoxinA": "on-ah-BOT-yoo-ly-num-TOX-in ay",
-  "MI": "myocardial infarction",
-  "COPD": "chronic obstructive pulmonary disease",
-  "CHF": "congestive heart failure",
-  "UTI": "urinary tract infection",
-  "MRI": "magnetic resonance imaging",
-  "CT": "computed tomography",
-  "EKG": "electrocardiogram",
-  "ECG": "electrocardiogram",
-  "EEG": "electroencephalogram",
-  "BUN": "blood urea nitrogen",
-  "CMP": "comprehensive metabolic panel",
-  "CBC": "complete blood count",
-  "TSH": "thyroid stimulating hormone",
-  "HbA1c": "hemoglobin A one C",
-  "PT": "prothrombin time",
-  "INR": "international normalized ratio",
-  "PTT": "partial thromboplastin time",
-  "DVT": "deep vein thrombosis",
-  "PE": "pulmonary embolism",
-  "CVA": "cerebrovascular accident",
-  "TIA": "transient ischemic attack",
-  "ICU": "intensive care unit",
-  "NICU": "neonatal intensive care unit",
-  "ER": "emergency room",
-  "ED": "emergency department",
-  "OR": "operating room",
-  "PACU": "post-anesthesia care unit",
-  "CCU": "coronary care unit",
-  "SICU": "surgical intensive care unit",
-  "MICU": "medical intensive care unit",
-  "BP": "blood pressure",
-  "HR": "heart rate",
-  "RR": "respiratory rate",
-  "SpO2": "saturation of peripheral oxygen",
-  "ETCO2": "end-tidal carbon dioxide",
-  "IV": "intravenous",
-  "IM": "intramuscular",
-  "SC": "subcutaneous",
-  "PO": "by mouth",
-  "PR": "per rectum",
-  "SL": "sublingual",
-  "OD": "right eye",
-  "OS": "left eye",
-  "OU": "both eyes",
-  "AU": "both ears",
-  "AD": "right ear",
-  "AS": "left ear",
-  "APAP": "acetaminophen",
-  "NSAID": "non-steroidal anti-inflammatory drug",
-  "PPI": "proton pump inhibitor",
-  "ARB": "angiotensin receptor blocker",
-  "ACE": "angiotensin-converting enzyme",
-  "BB": "beta blocker",
-  "CCB": "calcium channel blocker",
-  "SSRI": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter",
-  "SNRI": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter",
-  "TCA": "tri-SIK-lik an-TI-de-PRE-sant",
-  "MAOI": "mono-amine OK-si-DASE in-HIB-i-ter",
-  "DM": "di-a-BE-teez mel-LI-tus",
-  "HTN": "hi-per-TEN-shun",
-  "HLD": "hi-per-LIP-i-dee-mee-uh",
-  "CAD": "co-ROH-ner-ee AR-ter-ee di-ZEEZ",
-  "PVD": "per-i-FER-ul vas-KYOO-ler di-ZEEZ",
-  "CKD": "kron-ik KID-nee di-ZEEZ",
-  "ESRD": "end-STAGE re-NAL di-ZEEZ",
-  "AKI": "ak-YOOT KID-nee in-JER-ee",
-  "ASTHMA": "AZ-muh",
-  "GERD": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ",
-  "IBD": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ",
-  "IBS": "i-RI-ta-bul bo-WEL SIN-drom",
-  "NASH": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis",
-  "NAFLD": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ",
-  "HCC": "he-PAT-o-sel-YOO-ler kar-si-NO-ma",
-  "ALL": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh",
-  "AML": "ak-YOOT my-eh-LOYD le-KEE-mee-uh",
-  "CLL": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh",
-  "CML": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh",
-  "NHL": "non-HOJ-kin lym-FO-ma",
-  "Hodgkin": "HOJ-kin",
-  "MM": "mul-TI-pul my-eh-LO-ma",
-  "SLE": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus",
-  "RA": "rew-ma-TOYD ar-THRI-tis",
-  "OA": "os-tee-o-ar-THRI-tis",
-  "DJD": "de-JEN-er-a-tiv jint di-ZEEZ",
-  "GOUT": "gowt",
-  "MG": "myasthenia gravis",
-  "MS": "multiple sclerosis",
-  "ALS": "amyotrophic lateral sclerosis",
-  "GBS": "Guillain-Barré syndrome",
-  "TBI": "traumatic brain injury",
-  "PD": "Parkinson disease",
-  "HD": "Huntington disease",
-  "CJD": "Creutzfeldt-Jakob disease",
-  "SCI": "spinal cord injury",
-  "CA": "cancer",
-  "N/V": "nausea and vomiting",
-  "SOB": "shortness of breath",
-  "CP": "cerebral palsy",
-  "N/V/D": "nausea vomiting and diarrhea",
-  "LOC": "loss of consciousness",
-  "GCS": "Glasgow Coma Scale",
-  "HEENT": "head eyes ears nose and throat",
-  "CV": "cardiovascular",
-  "GI": "gastrointestinal",
-  "GU": "genitourinary",
-  "MSK": "musculoskeletal",
-  "Neuro": "NEU-roh",
-  "Psych": "SYKE",
-  "Derm": "derm",
-  "ENT": "ear nose and throat",
-  "OB": "obstetrics",
-  "GYN": "gynecology",
-  "LMP": "last menstrual period",
-  "EDC": "estimated date of confinement",
-  "Gest": "gest",
-  "NS": "normal saline",
-  "LR": "lactated Ringer's",
-  "D5W": "D-five-W",
-  "D5NS": "D-five-N-S",
-  "D5LR": "D-five-L-R",
-  "KCl": "potassium chloride",
-  "MgSO4": "mag-NEE-zee-um sul-FATE",
-  "CaCl2": "KAL-see-um KLOR-ide",
-  "NaHCO3": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate",
-  "ABG": "arterial blood gas",
-  "VBG": "venous blood gas",
-  "LP": "lumbar puncture",
-  "BM": "bowel movement",
-  "PEG": "PEG",
-  "ICD": "implantable cardioverter defibrillator",
-  "Pacemaker": "PACE-may-ker",
-  "AICD": "automatic implantable cardioverter defibrillator",
-  "CABG": "cabbage",
-  "PCI": "percutaneous coronary intervention",
-  "TAVR": "TAH-ver",
-  "TEVAR": "TEV-ar",
-  "EVAR": "EE-var",
-  "PTCA": "percutaneous transluminal coronary angioplasty",
-  "ETOH": "alcohol",
-  "IVDU": "I-V drug use",
-  "ASA": "ASPIR-in",
-  "NYD": "not yet diagnosed",
-  "HX": "history",
-  "Sx": "symptoms",
-  "Tx": "treatment",
-  "Dx": "diagnosis",
-  "Rx": "prescription",
-  "FHx": "family history",
-  "SHx": "social history",
-  "myocardial infarction": "my-oh-KAR-dee-al in-FARK-shun",
-  "angina pectoris": "an-JY-nah PEK-tor-is",
-  "arrhythmia": "a-RITH-mee-ah",
-  "atrial fibrillation": "AY-tree-al fib-ri-LAY-shun",
-  "ventricular fibrillation": "ven-TRIK-yoo-lar fib-ri-LAY-shun",
-  "tachycardia": "tak-ee-KAR-dee-ah",
-  "bradycardia": "brad-ee-KAR-dee-ah",
-  "hypertension": "hy-per-TEN-shun",
-  "hypotension": "hy-poh-TEN-shun",
-  "atherosclerosis": "ath-er-oh-skleh-ROH-sis",
-  "endocarditis": "en-doh-kar-DY-tis",
-  "pericarditis": "per-ee-kar-DY-tis",
-  "myocarditis": "my-oh-kar-DY-tis",
-  "cardiomyopathy": "kar-dee-oh-my-OP-ah-thee",
-  "thromboembolism": "throm-boh-EM-boh-liz-um",
-  "thrombophlebitis": "throm-boh-fleh-BY-tis",
-  "phlebitis": "fleh-BY-tis",
-  "embolism": "EM-boh-liz-um",
-  "stenosis": "steh-NOH-sis",
-  "regurgitation": "ree-gur-ji-TAY-shun",
-  "prolapse": "proh-LAPS",
-  "aneurysm": "AN-yoo-riz-um",
-  "dissection": "dy-SEK-shun",
-  "ischemia": "is-KEE-mee-ah",
-  "infarction": "in-FARK-shun",
-  "reperfusion": "REE-per-FYOO-zhun",
-  "hypercholesterolemia": "HY-per-koh-LES-ter-oh-LEE-mee-ah",
-  "hypertriglyceridemia": "HY-per-try-GLIS-er-ih-DEE-mee-ah",
-  "hypoalbuminemia": "HY-poh-al-BYOO-mih-NEE-mee-ah",
-  "pneumonia": "noo-MOHN-yah",
-  "bronchitis": "brong-KY-tis",
-  "bronchiectasis": "brong-kee-EK-tah-sis",
-  "emphysema": "em-fih-SEE-mah",
-  "pneumothorax": "noo-moh-THOR-aks",
-  "hemothorax": "hee-moh-THOR-aks",
-  "pleural effusion": "PLOO-ral eh-FYOO-zhun",
-  "pleurisy": "PLOO-rih-see",
-  "atelectasis": "at-ih-LEK-tah-sis",
-  "pulmonary embolism": "PUL-moh-nair-ee EM-bol-izm",
-  "pulmonary edema": "PUL-moh-nair-ee eh-DEE-mah",
-  "pulmonary fibrosis": "PUL-moh-nair-ee fy-BROH-sis",
-  "sarcoidosis": "SAR-koy-DOH-sis",
-  "tuberculosis": "too-BER-kyoo-LOH-sis",
-  "hypoxia": "hy-POK-see-ah",
-  "hypercapnia": "hy-per-KAP-nee-ah",
-  "respiratory failure": "RES-pih-rah-tor-ee FAYL-yer",
-  "apnea": "AP-nee-ah",
-  "dyspnea": "DISP-nee-ah",
-  "hemoptysis": "hee-MOP-tih-sis",
-  "stridor": "STRY-dor",
-  "wheezing": "WEE-zing",
-  "coryza": "koh-RY-zah",
-  "gastroesophageal reflux": "GAS-troh-ee-sof-ah-JEE-al REE-fluks",
-  "esophagitis": "ee-sof-ah-JY-tis",
-  "gastritis": "gas-TRY-tis",
-  "peptic ulcer": "PEP-tik UL-ser",
-  "gastroenteritis": "gas-tro-en-ter-EYE-tis",
-  "colitis": "ko-LYE-tis",
-  "ulcerative colitis": "UL-ser-a-tiv ko-LYE-tis",
-  "Crohn's disease": "KROHNZ dih-ZEEZ",
-  "diverticulitis": "dye-ver-tik-yoo-LYE-tis",
-  "appendicitis": "a-pen-dih-SYE-tis",
-  "cholecystitis": "ko-luh-sis-TYE-tis",
-  "pancreatitis": "pan-kree-a-TYE-tis",
-  "hepatitis": "hep-a-TYE-tis",
-  "cirrhosis": "sir-OH-sis",
-  "cholestasis": "ko-luh-STAY-sis",
-  "steatosis": "stee-a-TOH-sis",
-  "steatohepatitis": "stee-a-toh-hep-a-TYE-tis",
-  "peritonitis": "pair-ih-toh-NYE-tis",
-  "ileus": "IL-ee-us",
-  "intussusception": "in-tuh-suh-SEP-shun",
-  "volvulus": "VOL-vyoo-lus",
-  "hematemesis": "hee-ma-TEM-eh-sis",
-  "melena": "muh-LEE-na",
-  "hematochezia": "hee-ma-toh-KEE-zee-a",
-  "choledocholithiasis": "ko-led-oh-ko-lih-THIGH-a-sis",
-  "cholelithiasis": "ko-luh-lih-THIGH-a-sis",
-  "nephrolithiasis": "nef-ro-lih-THIGH-a-sis",
-  "sialadenitis": "sigh-al-a-deh-NYE-tis",
-  "nephritis": "neh-FRY-tis",
-  "nephrosis": "neh-FROH-sis",
-  "glomerulonephritis": "gloh-mer-yoo-loh-neh-FRY-tis",
-  "pyelonephritis": "pye-eh-loh-neh-FRY-tis",
-  "cystitis": "sis-TYE-tis",
-  "urethritis": "yoo-reh-THRY-tis",
-  "ureterolithiasis": "yoo-REH-ter-oh-lih-THY-ah-sis",
-  "hydronephrosis": "HY-droh-neh-FROH-sis",
-  "oliguria": "oh-lih-GYOO-ree-ah",
-  "anuria": "an-YOO-ree-ah",
-  "hematuria": "HEE-mah-TOO-ree-ah",
-  "proteinuria": "PROH-tee-NYOO-ree-ah",
-  "dysuria": "dis-YOO-ree-ah",
-  "incontinence": "in-KON-tih-nens",
-  "retention": "ree-TEN-shun",
-  "azoospermia": "AY-zoh-oh-SPER-mee-ah",
-  "oligospermia": "OH-lih-goh-SPER-mee-ah",
-  "encephalopathy": "en-SEH-fah-LOP-ah-thee",
-  "encephalitis": "en-SEH-fah-LY-tis",
-  "meningitis": "MEH-nin-JY-tis",
-  "myelitis": "MY-eh-LY-tis",
-  "neuropathy": "nyoo-ROP-ah-thee",
-  "radiculopathy": "rah-DIK-yoo-LOP-ah-thee",
-  "myelopathy": "MY-eh-LOP-ah-thee",
-  "ataxia": "ah-TAK-see-ah",
-  "dysarthria": "dis-AR-three-ah",
-  "aphasia": "ah-FAY-zhah",
-  "apraxia": "ah-PRAK-see-ah",
-  "agnosia": "ag-NOH-zhah",
-  "anomia": "ah-NOH-mee-ah",
-  "dysphagia": "dis-FAY-jah",
-  "dysphonia": "dis-FOH-nee-ah",
-  "dyskinesia": "dis-kih-NEE-zhah",
-  "myoclonus": "my-OK-loh-nus",
-  "chorea": "koh-REE-ah",
-  "athetosis": "ATH-eh-TOE-sis",
-  "dystonia": "dis-TOE-nee-ah",
-  "tremor": "TREM-or",
-  "fasciculation": "fa-SIK-yoo-LAY-shun",
-  "clonus": "KLOH-nus",
-  "nystagmus": "nis-TAG-mus",
-  "ptosis": "TOE-sis",
-  "miosis": "my-OH-sis",
-  "mydriasis": "mi-DRY-ah-sis",
-  "anisocoria": "an-EYE-so-KOR-ee-ah",
-  "hyperreflexia": "HY-per-re-FLEK-see-ah",
-  "hyporeflexia": "HY-po-re-FLEK-see-ah",
-  "Babinski": "ba-BIN-skee",
-  "paresthesia": "par-es-THEE-zhah",
-  "anesthesia": "an-es-THEE-zhah",
-  "hyperesthesia": "HY-per-es-THEE-zhah",
-  "dysesthesia": "dis-es-THEE-zhah",
-  "neuralgia": "nyoo-RAL-jah",
-  "neuritis": "nyoo-RY-tis",
-  "sciatica": "sy-AT-ik-ah",
-  "trigeminal": "try-JEM-in-al",
-  "prosopagnosia": "PROS-oh-pag-NOH-zhah",
-  "hyperthyroidism": "HY-per-THY-roy-dizm",
-  "hypothyroidism": "HY-po-THY-roy-dizm",
-  "thyrotoxicosis": "THY-ro-TOK-sih-KOH-sis",
-  "myxedema": "mik-seh-DEE-mah",
-  "hyperparathyroidism": "HY-per-PAR-ah-THY-roy-dizm",
-  "hypoparathyroidism": "HY-po-PAR-ah-THY-roy-dizm",
-  "hypercalcemia": "HY-per-kal-SEE-mee-ah",
-  "hypocalcemia": "HY-po-kal-SEE-mee-ah",
-  "hyperkalemia": "hy-per-kah-LEE-mee-ah",
-  "hypokalemia": "hy-poh-kah-LEE-mee-ah",
-  "hypernatremia": "hy-per-nah-TREE-mee-ah",
-  "hyponatremia": "hy-poh-nah-TREE-mee-ah",
-  "hypomagnesemia": "hy-poh-mag-neh-SEE-mee-ah",
-  "hypermagnesemia": "hy-per-mag-neh-SEE-mee-ah",
-  "hypophosphatemia": "hy-poh-fos-fah-TEE-mee-ah",
-  "hyperphosphatemia": "hy-per-fos-fah-TEE-mee-ah",
-  "acidosis": "ah-sih-DOH-sis",
-  "alkalosis": "al-kah-LOH-sis",
-  "ketoacidosis": "kee-toh-ah-sih-DOH-sis",
-  "hypoglycemia": "hy-poh-gly-SEE-mee-ah",
-  "hyperglycemia": "hy-per-gly-SEE-mee-ah",
-  "insulinoma": "in-suh-lih-NOH-mah",
-  "pheochromocytoma": "fee-oh-kroh-moh-sy-TOH-mah",
-  "anemia": "ah-NEE-mee-ah",
-  "polycythemia": "pol-ee-sy-THEE-mee-ah",
-  "thrombocytopenia": "throm-boh-sy-toh-PEE-nee-ah",
-  "thrombocytosis": "throm-boh-sy-TOH-sis",
-  "leukopenia": "loo-koh-PEE-nee-ah",
-  "leukocytosis": "loo-koh-sy-TOH-sis",
-  "neutropenia": "noo-troh-PEE-nee-ah",
-  "neutrophilia": "noo-troh-FIL-ee-ah",
-  "lymphopenia": "lim-foh-PEE-nee-ah",
-  "lymphocytosis": "lim-foh-sy-TOH-sis",
-  "monocytosis": "mon-oh-sy-TOH-sis",
-  "eosinophilia": "ee-oh-sin-oh-FIL-ee-ah",
-  "basophilia": "bay-soh-FIL-ee-ah",
-  "pancytopenia": "pan-sy-toh-PEE-nee-ah",
-  "hemophilia": "hee-moh-FIL-ee-ah",
-  "thrombophilia": "throm-bo-FIL-ee-ah",
-  "purpura": "PUR-pur-ah",
-  "petechiae": "pe-TEE-kee-eye",
-  "ecchymosis": "ek-ih-MOH-sis",
-  "hematoma": "hee-mah-TOH-mah",
-  "hemolysis": "hee-MOL-ih-sis",
-  "cellulitis": "sel-yoo-LY-tis",
-  "abscess": "AB-ses",
-  "furuncle": "FYOOR-ung-kul",
-  "carbuncle": "KAR-bung-kul",
-  "impetigo": "im-peh-TY-goh",
-  "erysipelas": "er-ih-SIP-eh-las",
-  "necrotizing fasciitis": "NEK-roh-ty-zing fash-ee-EYE-tis",
-  "osteomyelitis": "os-tee-oh-my-eh-LY-tis",
-  "septic arthritis": "SEP-tik ar-THRY-tis",
-  "sepsis": "SEP-sis",
-  "septicemia": "sep-tih-SEE-mee-ah",
-  "bacteremia": "bak-ter-EE-mee-ah",
-  "viremia": "vy-REE-mee-ah",
-  "fungemia": "fun-JEE-mee-ah",
-  "parasitemia": "par-ah-sih-TEE-mee-ah",
-  "endotoxemia": "en-doh-tok-SEE-mee-ah",
-  "erythema": "er-ih-THEE-mah",
-  "urticaria": "ur-tih-KAR-ee-ah",
-  "pruritus": "proo-RY-tus",
-  "eczema": "EK-zeh-mah",
-  "psoriasis": "soh-RY-ah-sis",
-  "lichenification": "ly-ken-ih-fih-KAY-shun",
-  "excoriation": "eks-kor-ee-AY-shun",
-  "vesicle": "VES-ih-kul",
-  "bulla": "BULL-ah",
-  "pustule": "PUS-chool",
-  "macule": "MAK-yool",
-  "papule": "PAP-yool",
-  "nodule": "NOD-yool",
-  "plaque": "PLAK",
-  "scale": "SKAYL",
-  "crust": "KRUST",
-  "erosion": "ee-ROH-zhun",
-  "ulcer": "UL-ser",
-  "fissure": "FISH-ur",
-  "atrophy": "AT-roh-fee",
-  "sclerosis": "skleh-ROH-sis",
-  "appendectomy": "ap-en-DEK-toh-mee",
-  "cholecystectomy": "koh-leh-sis-TEK-toh-mee",
-  "herniorrhaphy": "her-nee-OR-ah-fee",
-  "colostomy": "koh-LOS-toh-mee",
-  "ileostomy": "il-ee-OS-toh-mee",
-  "nephrectomy": "neh-FREK-toh-mee",
-  "hysterectomy": "his-teh-REK-toh-mee",
-  "mastectomy": "mas-TEK-toh-mee",
-  "thyroidectomy": "thy-roy-DEK-toh-mee",
-  "parathyroidectomy": "par-ah-thy-roy-DEK-toh-mee",
-  "adrenalectomy": "ad-reh-nal-EK-toh-mee",
-  "splenectomy": "spleh-NEK-toh-mee",
-  "pancreatectomy": "pan-kree-ah-TEK-toh-mee",
-  "esophagectomy": "eh-sof-ah-JEK-toh-mee",
-  "gastrectomy": "gas-TREK-toh-mee",
-  "colectomy": "koh-LEK-toh-mee",
-  "proctectomy": "prok-TEK-toh-mee",
-  "cystectomy": "sis-TEK-toh-mee",
-  "nephrostomy": "neh-FROS-toh-mee",
-  "ureterostomy": "yoo-REE-ter-OS-toh-mee",
-  "tracheostomy": "TRAY-kee-OS-toh-mee",
-  "cricothyroidotomy": "KRY-koh-thy-ROY-DOT-oh-mee",
-  "thoracotomy": "thor-ah-KOT-oh-mee",
-  "sternotomy": "ster-NOT-oh-mee",
-  "laparotomy": "lap-ah-ROT-oh-mee",
-  "celiotomy": "see-lee-OT-oh-mee",
-  "arthroscopy": "ar-THROS-koh-pee",
-  "bronchoscopy": "brong-KOS-koh-pee",
-  "colonoscopy": "KOH-lon-OS-koh-pee",
-  "endoscopy": "en-DOS-koh-pee",
-  "gastroscopy": "gas-TROS-koh-pee",
-  "sigmoidoscopy": "sig-moy-DOS-koh-pee",
-  "cystoscopy": "sis-TOS-koh-pee",
-  "colposcopy": "kol-POS-koh-pee",
-  "hysteroscopy": "his-ter-OS-koh-pee",
-  "laparoscopy": "lap-ah-ROS-koh-pee",
-  "thoracoscopy": "thor-ah-KOS-koh-pee",
-  "mediastinoscopy": "MEE-dee-ah-stih-NOS-koh-pee",
-  "arthroplasty": "AR-throh-plas-tee",
-  "osteotomy": "os-tee-OT-oh-mee",
-  "craniotomy": "KRAY-nee-OT-oh-mee",
-  "laminectomy": "lam-ih-NEK-toh-mee",
-  "discectomy": "dis-EK-toh-mee",
-  "rhizotomy": "ry-ZOT-oh-mee",
-  "neurectomy": "nyoo-REK-toh-mee",
-  "sympathectomy": "sim-pah-THEK-toh-mee",
-  "vagotomy": "vay-GOT-oh-mee",
-  "epithelium": "eh-pih-THEE-lee-um",
-  "endothelium": "en-doh-THEE-lee-um",
-  "mesothelium": "meh-zoh-THEE-lee-um",
-  "stratum corneum": "STRAY-tum KOR-nee-um",
-  "dermis": "DER-mis",
-  "epidermis": "eh-pih-DER-mis",
-  "hypodermis": "hy-poh-DER-mis",
-  "subcutaneous": "sub-kyoo-TAY-nee-us",
-  "fascia": "FAH-shah",
-  "ligament": "LIH-gah-ment",
-  "tendon": "TEN-dun",
-  "aponeurosis": "ap-oh-noo-ROH-sis",
-  "bursa": "BER-sah",
-  "meniscus": "meh-NIS-kus",
-  "cartilage": "KAR-tih-lij",
-  "periosteum": "per-ee-OS-tee-um",
-  "endosteum": "en-DOS-tee-um",
-  "diaphysis": "dy-AF-ih-sis",
-  "epiphysis": "eh-PIF-ih-sis",
-  "metaphysis": "meh-TAF-ih-sis",
-  "physis": "FY-sis",
-  "symphysis": "SIM-fih-sis",
-  "synovium": "sih-NOH-vee-um",
-  "synovia": "sih-NOH-vee-ah",
-  "sutura": "soo-TOO-rah",
-  "fontanelle": "fon-tah-NEL",
-  "myocardium": "my-oh-KAR-dee-um",
-  "epicardium": "eh-pih-KAR-dee-um",
-  "pericardium": "per-ih-KAR-dee-um",
-  "endocardium": "en-doh-KAR-dee-um",
-  "intima": "IN-tih-mah",
-  "media": "MEH-dee-ah",
-  "adventitia": "ad-ven-TISH-ah",
-  "tunica": "TOO-nih-kah",
-  "parenchyma": "pah-REN-kih-mah",
-  "stroma": "STROH-mah",
-  "septum": "SEP-tum",
-  "septa": "SEP-tah",
-  "trabecula": "trah-BEK-yoo-lah",
-  "hilum": "HY-lum",
-  "hilus": "HY-lus",
-  "sulcus": "SUL-kus",
-  "gyrus": "JY-rus",
-  "cortex": "KOR-teks",
-  "medulla": "meh-DOOL-ah",
-  "capsule": "KAP-sool",
-  "lobe": "LOHB",
-  "lobule": "LOB-yool",
-  "acinus": "AS-ih-nus",
-  "alveolus": "al-VEE-oh-lus",
-  "glomerulus": "gloh-MER-yoo-lus",
-  "nephron": "NEF-ron",
-  "tubule": "TOOB-yool",
-  "ductule": "DUK-tool",
-  "ductus": "DUK-tus",
-  "vas deferens": "vas DEF-er-enz",
-  "epididymis": "ep-ih-DID-ih-mis",
-  "fimbria": "FIM-bree-ah",
-  "fornix": "FOR-niks",
-  "mesentery": "MEZ-en-ter-ee",
-  "omentum": "oh-MEN-tum",
-  "peritoneum": "per-ih-toh-NEE-um",
-  "retroperitoneum": "REH-troh-per-ih-toh-NEE-um",
-  "mesocolon": "MEZ-oh-KOH-lon",
-  "haustra": "HAW-strah",
-  "plicae": "PLY-see",
-  "rugae": "ROO-jee",
-  "villi": "VIL-eye",
-  "microvilli": "MY-kroh-VIL-eye",
-  "cryptae": "KRIP-tee",
-  "pylorus": "py-LOR-us",
-  "cardia": "KAR-dee-ah",
-  "fundus": "FUN-dus",
-  "antrum": "AN-trum",
-  "duodenum": "doo-oh-DEE-num",
-  "jejunum": "jeh-JOO-num",
-  "ileum": "IL-ee-um",
-  "cecum": "SEE-kum",
-  "vermiform": "VER-mih-form",
-  "appendix": "ah-PEN-diks",
-  "sigmoid": "SIG-moyd",
-  "rectum": "REK-tum",
-  "anus": "AY-nus",
-  "sphincter": "SFINK-ter",
-  "papilla": "pah-PIL-ah",
-  "ampulla": "am-POOL-ah",
-  "cholecyst": "KOH-leh-sist",
-  "choledochus": "koh-LED-oh-kus",
-  "pancreas": "PAN-kree-as",
-  "islets": "EYE-lets",
-  "acini": "AS-ih-nye",
-  "centrilobular": "sen-trih-LOB-yoo-lar",
-  "periportal": "per-ih-POR-tal",
-  "sinusoids": "SIN-yoo-soydz",
-  "Kupffer": "KOOP-fer",
-  "space of Disse": "spays of DIS",
-  "canaliculi": "kan-ah-LIK-yoo-lye",
-  "falciform": "FAL-sih-form",
-  "ligamentum teres": "lig-ah-MEN-tum TER-eez",
-  "ligamentum venosum": "lig-ah-MEN-tum veh-NOH-sum",
-  "porta hepatis": "POR-tah heh-PAT-is",
-  "coronary": "KOR-ah-nair-ee",
-  "circumflex": "SER-kum-fleks",
-  "interventricular": "in-ter-ven-TRIK-yoo-lar",
-  "interventricular septum": "in-ter-ven-TRIK-yoo-lar SEP-tum",
-  "papillary muscle": "PAP-ih-lair-ee MUS-el",
-  "chordae tendineae": "KOR-dee ten-DIN-ee-ee",
-  "valve": "valv",
-  "leaflet": "LEEF-let",
-  "cusp": "kusp",
-  "semilunar": "sem-ee-LOO-nar",
-  "atrioventricular": "ay-tree-oh-ven-TRIK-yoo-lar",
-  "ventricular": "ven-TRIK-yoo-lar",
-  "sinoatrial": "sigh-noh-AY-tree-al",
-  "coronary sinus": "KOR-ah-nair-ee SIGH-nus",
-  "vena cava": "VEE-nah KAY-vah",
-  "pulmonary trunk": "PUL-mah-nair-ee trunk",
-  "aorta": "ay-OR-tah",
-  "carotid": "kah-ROT-id",
-  "subclavian": "sub-KLAY-vee-an",
-  "vertebral": "VER-teh-bral",
-  "basilar": "BAS-ih-lar",
-  "circle of Willis": "SER-kul of WIL-is",
-  "meninges": "men-IN-jeez",
-  "dura mater": "DUR-ah MAH-ter",
-  "arachnoid": "ah-RAK-noyd",
-  "pia mater": "PEE-ah MAH-ter",
-  "subdural": "sub-DUR-al",
-  "subarachnoid": "sub-ah-RAK-noyd",
-  "epidural": "ep-ih-DUR-al",
-  "ventricles": "VEN-trih-kulz",
-  "foramina": "fo-RAM-ih-nah",
-  "aqueduct": "AK-weh-dukt",
-  "choroid plexus": "KOR-oyd PLEK-sus",
-  "cauda equina": "KAW-dah eh-KWY-nah",
-  "filum terminale": "FY-lum ter-mih-NAH-lee",
-  "conus medullaris": "KOH-nus med-yoo-LAR-is",
-  "dorsal root": "DOR-sal ROOT",
-  "ventral root": "VEN-tral ROOT",
-  "ganglion": "GANG-glee-on",
-  "plexus": "PLEK-sus",
-  "phrenic": "FREN-ik",
-  "vagus": "VAY-gus",
-  "recurrent laryngeal": "ree-KUR-ent lar-IN-jee-al",
-  "facial": "FAY-shal",
-  "vestibulocochlear": "ves-TIB-yoo-loh-KOK-lee-ar",
-  "glossopharyngeal": "GLOS-oh-fah-RIN-jee-al",
-  "hypoglossal": "HY-poh-GLOS-al",
-  "accessory": "ak-SES-oh-ree",
-  "oculomotor": "OK-yoo-loh-MOH-tor",
-  "trochlear": "TROK-lee-ar",
-  "abducens": "ab-DOO-senz"
+  "atorvastatin": {
+    "alias": "a-TOR-va-STAT-in",
+    "ipa": "əˌtɔr.vəˈstæ.tɪn"
+  },
+  "Lipitor": {
+    "alias": "LIP-i-tor",
+    "ipa": "lɪˈpɪ.tɔr"
+  },
+  "lisinopril": {
+    "alias": "ly-SIN-oh-pril",
+    "ipa": "laɪˈsɪ.nə.prɪl"
+  },
+  "metoprolol": {
+    "alias": "me-TOE-pro-lol",
+    "ipa": "məˈtoʊ.prə.lɔl"
+  },
+  "amlodipine": {
+    "alias": "am-LOE-di-peen",
+    "ipa": "æmˈloʊ.dɪˌpin"
+  },
+  "losartan": {
+    "alias": "loe-SAR-tan",
+    "ipa": "loʊˈsɑr.tæn"
+  },
+  "metoprolol succinate": {
+    "alias": "me-TOE-pro-lol SUK-si-nate",
+    "ipa": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt"
+  },
+  "metoprolol tartrate": {
+    "alias": "me-TOE-pro-lol TAR-trate",
+    "ipa": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt"
+  },
+  "carvedilol": {
+    "alias": "kar-VE-di-lol",
+    "ipa": "kɑrˈvɛ.dɪ.lɔl"
+  },
+  "valsartan": {
+    "alias": "val-SAR-tan",
+    "ipa": "vælˈsɑr.tæn"
+  },
+  "enalapril": {
+    "alias": "e-NAL-a-pril",
+    "ipa": "ɪˈnæ.lə.prɪl"
+  },
+  "ramipril": {
+    "alias": "ra-MI-pril",
+    "ipa": "ræˈmɪ.prɪl"
+  },
+  "felodipine": {
+    "alias": "fe-LOE-di-peen",
+    "ipa": "fɪˈloʊ.dɪˌpin"
+  },
+  "nimodipine": {
+    "alias": "ny-MOE-di-peen",
+    "ipa": "naɪˈmoʊ.dɪˌpin"
+  },
+  "nicardipine": {
+    "alias": "ny-KAR-di-peen",
+    "ipa": "naɪˈkɑr.dɪˌpin"
+  },
+  "nitroglycerin": {
+    "alias": "ny-tro-GLIS-er-in",
+    "ipa": "ˌnaɪ.trəˈɡlɪ.sə.rɪn"
+  },
+  "hydralazine": {
+    "alias": "hy-DRAL-a-zeen",
+    "ipa": "haɪˈdræ.ləˌzin"
+  },
+  "clonidine": {
+    "alias": "KLON-i-deen",
+    "ipa": "ˈkloʊ.nɪˌdin"
+  },
+  "spironolactone": {
+    "alias": "spir-oh-no-LAK-tone",
+    "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn"
+  },
+  "furosemide": {
+    "alias": "fur-OH-se-mide",
+    "ipa": "fjʊˈroʊ.səˌmaɪd"
+  },
+  "hydrochlorothiazide": {
+    "alias": "hy-dro-KLOR-oh-THY-a-zide",
+    "ipa": "ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd"
+  },
+  "triamterene": {
+    "alias": "try-AM-ter-een",
+    "ipa": "traɪˈæm.tərˌin"
+  },
+  "bumetanide": {
+    "alias": "byoo-MET-a-nide",
+    "ipa": "bjuˈmɛ.təˌnaɪd"
+  },
+  "torsemide": {
+    "alias": "TOR-se-mide",
+    "ipa": "ˈtɔr.səˌmaɪd"
+  },
+  "eplerenone": {
+    "alias": "e-PLER-e-none",
+    "ipa": "ɪˈplɛ.rɪˌnoʊn"
+  },
+  "diltiazem": {
+    "alias": "dil-TY-a-zem",
+    "ipa": "dɪlˈtaɪ.ə.zəm"
+  },
+  "verapamil": {
+    "alias": "ver-AP-a-mil",
+    "ipa": "vəˈræ.pə.mɪl"
+  },
+  "nifedipine": {
+    "alias": "ny-FED-i-peen",
+    "ipa": "naɪˈfɛ.dɪˌpin"
+  },
+  "doxazosin": {
+    "alias": "dok-SAZ-oh-sin",
+    "ipa": "dɑkˈsæ.zə.sɪn"
+  },
+  "terazosin": {
+    "alias": "ter-AZ-oh-sin",
+    "ipa": "təˈræ.zə.sɪn"
+  },
+  "prazosin": {
+    "alias": "PRAZ-oh-sin",
+    "ipa": "ˈpræzəsɪn"
+  },
+  "amiodarone": {
+    "alias": "am-ee-OH-da-rone",
+    "ipa": "əˈmiːoʊdəroʊn"
+  },
+  "dronedarone": {
+    "alias": "droe-NEH-da-rone",
+    "ipa": "droʊˈnɛdəroʊn"
+  },
+  "sotalol": {
+    "alias": "SOH-ta-lol",
+    "ipa": "ˈsoʊtəlɔːl"
+  },
+  "propafenone": {
+    "alias": "pro-PAF-eh-none",
+    "ipa": "proʊˈpæfənoʊn"
+  },
+  "flecainide": {
+    "alias": "FLEH-ka-nide",
+    "ipa": "ˈflɛkənaɪd"
+  },
+  "mexiletine": {
+    "alias": "mex-IL-eh-teen",
+    "ipa": "mɛkˈsɪlətiːn"
+  },
+  "isosorbide dinitrate": {
+    "alias": "eye-so-SOR-bide dye-NYE-trate",
+    "ipa": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt"
+  },
+  "isosorbide mononitrate": {
+    "alias": "eye-so-SOR-bide mon-oh-NYE-trate",
+    "ipa": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt"
+  },
+  "warfarin": {
+    "alias": "war-FAR-in",
+    "ipa": "ˈwɔːrfərɪn"
+  },
+  "rivaroxaban": {
+    "alias": "riv-a-ROX-a-ban",
+    "ipa": "ˌrɪvəˈrɒksəbæn"
+  },
+  "apixaban": {
+    "alias": "a-PIX-a-ban",
+    "ipa": "əˈpɪksəbæn"
+  },
+  "dabigatran": {
+    "alias": "da-big-a-TRAN",
+    "ipa": "dəˈbɪɡətræn"
+  },
+  "clopidogrel": {
+    "alias": "kloh-PID-oh-grel",
+    "ipa": "kloʊˈpɪdəɡrɛl"
+  },
+  "prasugrel": {
+    "alias": "PRA-soo-grel",
+    "ipa": "ˈpræsʊɡrɛl"
+  },
+  "ticagrelor": {
+    "alias": "tye-ka-GREL-or",
+    "ipa": "taɪˈkæɡrəlɔːr"
+  },
+  "ezetimibe": {
+    "alias": "eh-ZET-i-mibe",
+    "ipa": "ɪˈzɛtəmaɪb"
+  },
+  "fenofibrate": {
+    "alias": "fen-oh-FYE-brate",
+    "ipa": "ˌfɛnoʊˈfaɪbreɪt"
+  },
+  "gemfibrozil": {
+    "alias": "jem-FYE-broh-zil",
+    "ipa": "dʒɛmˈfaɪbrəzɪl"
+  },
+  "niacin": {
+    "alias": "NYE-a-sin",
+    "ipa": "ˈnaɪəsɪn"
+  },
+  "colesevelam": {
+    "alias": "koh-leh-SEV-eh-lam",
+    "ipa": "koʊləˈsɛvəlæm"
+  },
+  "simvastatin": {
+    "alias": "sim-va-STAT-in",
+    "ipa": "ˌsɪmvəˈstætɪn"
+  },
+  "rosuvastatin": {
+    "alias": "roh-soo-va-STAT-in",
+    "ipa": "ˌroʊsuˈvæstətɪn"
+  },
+  "pravastatin": {
+    "alias": "PRAV-va-STAT-in",
+    "ipa": "ˈprævəstætɪn"
+  },
+  "fluvastatin": {
+    "alias": "FLOO-va-STAT-in",
+    "ipa": "fluːˈvæstətɪn"
+  },
+  "pitavastatin": {
+    "alias": "pit-a-va-STAT-in",
+    "ipa": "ˌpɪtəˈvæstətɪn"
+  },
+  "alirocumab": {
+    "alias": "a-LIR-oh-kyoo-mab",
+    "ipa": "əˌlɪroʊˈkuːmæb"
+  },
+  "evolocumab": {
+    "alias": "e-VOL-oh-kyoo-mab",
+    "ipa": "ɪˈvoʊloʊkuːmæb"
+  },
+  "metformin": {
+    "alias": "met-FOR-min",
+    "ipa": "mɛtˈfɔːrmɪn"
+  },
+  "glipizide": {
+    "alias": "GLIP-i-zide",
+    "ipa": "ˈɡlɪpəzaɪd"
+  },
+  "glyburide": {
+    "alias": "GLY-bur-ide",
+    "ipa": "ˈɡlaɪbjʊˌraɪd"
+  },
+  "pioglitazone": {
+    "alias": "py-oh-GLIT-ah-zone",
+    "ipa": "ˌpaɪoʊɡlɪˈtæzoʊn"
+  },
+  "sitagliptin": {
+    "alias": "sit-ah-GLIP-tin",
+    "ipa": "ˌsɪtəˈɡlɪptɪn"
+  },
+  "linagliptin": {
+    "alias": "lin-ah-GLIP-tin",
+    "ipa": "ˌlɪnəˈɡlɪptɪn"
+  },
+  "saxagliptin": {
+    "alias": "sax-ah-GLIP-tin",
+    "ipa": "ˌsæksəˈɡlɪptɪn"
+  },
+  "alogliptin": {
+    "alias": "al-oh-GLIP-tin",
+    "ipa": "ˌæloʊˈɡlɪptɪn"
+  },
+  "empagliflozin": {
+    "alias": "em-pah-gli-FLOH-zin",
+    "ipa": "ˌɛmpəɡlɪˈfloʊzɪn"
+  },
+  "canagliflozin": {
+    "alias": "kan-ah-gli-FLOH-zin",
+    "ipa": "ˌkænəɡlɪˈfloʊzɪn"
+  },
+  "dapagliflozin": {
+    "alias": "dap-ah-gli-FLOH-zin",
+    "ipa": "ˌdæpəɡlɪˈfloʊzɪn"
+  },
+  "semaglutide": {
+    "alias": "sem-ah-GLOO-tide",
+    "ipa": "ˌsɛməˈɡluːtaɪd"
+  },
+  "liraglutide": {
+    "alias": "lir-ah-GLOO-tide",
+    "ipa": "ˌlɪrəˈɡluːtaɪd"
+  },
+  "exenatide": {
+    "alias": "ex-EN-ah-tide",
+    "ipa": "ɛɡˈzɛnətaɪd"
+  },
+  "dulaglutide": {
+    "alias": "doo-lah-GLOO-tide",
+    "ipa": "ˌduːləˈɡluːtaɪd"
+  },
+  "tirzepatide": {
+    "alias": "teer-ZEP-ah-tide",
+    "ipa": "tɪrˈzɛpətaɪd"
+  },
+  "insulin glargine": {
+    "alias": "IN-suh-lin GLAR-jeen",
+    "ipa": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn"
+  },
+  "insulin lispro": {
+    "alias": "IN-suh-lin LIS-proh",
+    "ipa": "ˈɪnsəlɪn ˈlɪsproʊ"
+  },
+  "insulin aspart": {
+    "alias": "IN-suh-lin AS-part",
+    "ipa": "ˈɪnsəlɪn ˈæspɑːrt"
+  },
+  "insulin detemir": {
+    "alias": "IN-suh-lin DET-uh-meer",
+    "ipa": "ˈɪnsəlɪn dəˈtiːmɪr"
+  },
+  "insulin degludec": {
+    "alias": "IN-suh-lin deh-GLOO-dek",
+    "ipa": "ˈɪnsəlɪn dɛˈɡluːdɛk"
+  },
+  "acarbose": {
+    "alias": "AY-kar-bose",
+    "ipa": "ˈækɑːrboʊs"
+  },
+  "miglitol": {
+    "alias": "MIG-li-tol",
+    "ipa": "ˈmɪɡlɪtɔːl"
+  },
+  "repaglinide": {
+    "alias": "reh-PAG-li-nide",
+    "ipa": "ˌrɛpəˈɡlaɪnaɪd"
+  },
+  "nateglinide": {
+    "alias": "nah-TEG-li-nide",
+    "ipa": "nəˈtɛɡlɪnaɪd"
+  },
+  "amoxicillin": {
+    "alias": "ah-MOX-i-sil-in",
+    "ipa": "əˌmɑːksɪˈsɪlɪn"
+  },
+  "amoxicillin clavulanate": {
+    "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
+    "ipa": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt"
+  },
+  "azithromycin": {
+    "alias": "ah-ZITH-roh-my-sin",
+    "ipa": "æˌzɪθroʊˈmaɪsɪn"
+  },
+  "cephalexin": {
+    "alias": "sef-ah-LEX-in",
+    "ipa": "ˌsɛfəˈlɛksɪn"
+  },
+  "ciprofloxacin": {
+    "alias": "sip-roh-FLOX-ah-sin",
+    "ipa": "ˌsaɪproʊˈflɑːksəsɪn"
+  },
+  "clindamycin": {
+    "alias": "klin-dah-MY-sin",
+    "ipa": "ˌklɪndəˈmaɪsɪn"
+  },
+  "doxycycline": {
+    "alias": "dok-see-SY-kleen",
+    "ipa": "ˌdɑːksiˈsaɪkliːn"
+  },
+  "metronidazole": {
+    "alias": "me-tro-NI-da-zole",
+    "ipa": "ˌmɛtrəˈnaɪdəzoʊl"
+  },
+  "sulfamethoxazole trimethoprim": {
+    "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
+    "ipa": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm"
+  },
+  "nitrofurantoin": {
+    "alias": "ny-tro-fyoor-an-TOYN",
+    "ipa": "ˌnaɪtroʊfjʊˈræntoʊɪn"
+  },
+  "penicillin": {
+    "alias": "pen-i-SIL-in",
+    "ipa": "ˌpɛnɪˈsɪlɪn"
+  },
+  "vancomycin": {
+    "alias": "van-ko-MY-sin",
+    "ipa": "væŋˈkoʊmaɪsɪn"
+  },
+  "levofloxacin": {
+    "alias": "lee-vo-FLOX-a-sin",
+    "ipa": "ˌlɛvoʊˈflɑksəsɪn"
+  },
+  "moxifloxacin": {
+    "alias": "mox-i-FLOX-a-sin",
+    "ipa": "ˌmɑksɪˈflɑksəsɪn"
+  },
+  "cefdinir": {
+    "alias": "SEF-di-ner",
+    "ipa": "ˈsɛfdɪnɪr"
+  },
+  "cefaclor": {
+    "alias": "SEF-a-klor",
+    "ipa": "ˈsɛfəklɔr"
+  },
+  "cefuroxime": {
+    "alias": "se-fyoor-OX-eem",
+    "ipa": "ˌsɛfjʊˈrɑksiːm"
+  },
+  "ceftriaxone": {
+    "alias": "sef-try-AX-one",
+    "ipa": "ˌsɛftraɪˈæksoʊn"
+  },
+  "cefepime": {
+    "alias": "SEF-e-peem",
+    "ipa": "ˈsɛfəpiːm"
+  },
+  "meropenem": {
+    "alias": "mer-oh-PEN-em",
+    "ipa": "məˈrɑpənɛm"
+  },
+  "ertapenem": {
+    "alias": "er-ta-PEN-em",
+    "ipa": "ˌɛrtəˈpiːnɛm"
+  },
+  "imipenem": {
+    "alias": "i-mi-PEN-em",
+    "ipa": "ˌɪmɪˈpiːnɛm"
+  },
+  "piperacillin tazobactam": {
+    "alias": "pi-PER-a-sil-in ta-zo-BAK-tam",
+    "ipa": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm"
+  },
+  "gentamicin": {
+    "alias": "jen-ta-MY-sin",
+    "ipa": "ˌdʒɛntəˈmaɪsɪn"
+  },
+  "tobramycin": {
+    "alias": "toe-bra-MY-sin",
+    "ipa": "ˌtoʊbrəˈmaɪsɪn"
+  },
+  "amikacin": {
+    "alias": "am-i-KAY-sin",
+    "ipa": "ˌæmɪˈkeɪsɪn"
+  },
+  "linezolid": {
+    "alias": "li-NEZ-o-lid",
+    "ipa": "lɪˈnɛzəlɪd"
+  },
+  "daptomycin": {
+    "alias": "dap-toe-MY-sin",
+    "ipa": "ˌdæptoʊˈmaɪsɪn"
+  },
+  "tigecycline": {
+    "alias": "tye-ge-SY-kleen",
+    "ipa": "ˌtɪɡəˈsaɪkliːn"
+  },
+  "minocycline": {
+    "alias": "mi-no-SY-kleen",
+    "ipa": "ˌmɪnoʊˈsaɪkliːn"
+  },
+  "rifampin": {
+    "alias": "ri-FAM-pin",
+    "ipa": "rɪˈfæmpɪn"
+  },
+  "isoniazid": {
+    "alias": "eye-so-NY-a-zid",
+    "ipa": "ˌaɪsoʊˈnaɪəzɪd"
+  },
+  "pyrazinamide": {
+    "alias": "py-ra-ZIN-a-mide",
+    "ipa": "ˌpɪrəˈzɪnəmaɪd"
+  },
+  "ethambutol": {
+    "alias": "e-THAM-byoo-tol",
+    "ipa": "ɛˈθæmbjətɔl"
+  },
+  "fluconazole": {
+    "alias": "floo-KON-a-zole",
+    "ipa": "fluˈkɑnəzoʊl"
+  },
+  "ketoconazole": {
+    "alias": "kee-toe-KON-a-zole",
+    "ipa": "ˌkiːtoʊˈkɑnəzoʊl"
+  },
+  "itraconazole": {
+    "alias": "i-tra-KON-a-zole",
+    "ipa": "ˌɪtrəˈkɑnəzoʊl"
+  },
+  "voriconazole": {
+    "alias": "vor-ih-KON-uh-zole",
+    "ipa": "ˌvɔrɪˈkɑnəzoʊl"
+  },
+  "posaconazole": {
+    "alias": "poh-sah-KON-uh-zole",
+    "ipa": "poʊsəˈkɑnəzoʊl"
+  },
+  "acyclovir": {
+    "alias": "ay-SY-kloh-veer",
+    "ipa": "eɪˈsaɪkləvɪr"
+  },
+  "valacyclovir": {
+    "alias": "val-ay-SY-kloh-veer",
+    "ipa": "vəˈlæsɪkləvɪr"
+  },
+  "famciclovir": {
+    "alias": "fam-SY-kloh-veer",
+    "ipa": "fæmˈsaɪkləvɪr"
+  },
+  "oseltamivir": {
+    "alias": "oh-sel-TAM-ih-veer",
+    "ipa": "ˌoʊsɛlˈtæmɪvɪr"
+  },
+  "aciklovir": {
+    "alias": "ah-SEE-kloh-veer",
+    "ipa": "eɪˈsaɪkləvɪr"
+  },
+  "ibuprofen": {
+    "alias": "eye-byoo-PROH-fen",
+    "ipa": "ˌaɪbjuˈproʊfən"
+  },
+  "naproxen": {
+    "alias": "nah-PROK-sen",
+    "ipa": "nəˈprɑksən"
+  },
+  "celecoxib": {
+    "alias": "sel-eh-KOK-sib",
+    "ipa": "səˈlɛksɪb"
+  },
+  "meloxicam": {
+    "alias": "mel-OK-sih-kam",
+    "ipa": "məˈlɑksɪkæm"
+  },
+  "diclofenac": {
+    "alias": "dye-KLOH-fen-ak",
+    "ipa": "daɪˈkloʊfənæk"
+  },
+  "ketorolac": {
+    "alias": "kee-TOR-oh-lak",
+    "ipa": "kiˈtɔrəlæk"
+  },
+  "indomethacin": {
+    "alias": "in-doh-METH-ah-sin",
+    "ipa": "ˌɪndoʊˈmɛθəsɪn"
+  },
+  "nabumetone": {
+    "alias": "na-BYOO-meh-tone",
+    "ipa": "nəˈbjumətoʊn"
+  },
+  "etodolac": {
+    "alias": "ee-TOH-doh-lak",
+    "ipa": "iˈtoʊdəlæk"
+  },
+  "oxaprozin": {
+    "alias": "ok-sah-PROH-zin",
+    "ipa": "ˌɑksəˈproʊzɪn"
+  },
+  "acetaminophen": {
+    "alias": "ah-SEE-tah-MIN-oh-fen",
+    "ipa": "əˌsiːtəˈmɪnəfən"
+  },
+  "tramadol": {
+    "alias": "TRAM-ah-dol",
+    "ipa": "ˈtræmədɔl"
+  },
+  "gabapentin": {
+    "alias": "gab-ah-PEN-tin",
+    "ipa": "ˌɡæbəˈpɛntɪn"
+  },
+  "pregabalin": {
+    "alias": "pree-GAB-ah-lin",
+    "ipa": "priˈɡæbəlɪn"
+  },
+  "duloxetine": {
+    "alias": "doo-LOK-seh-teen",
+    "ipa": "duˈlɑksətiːn"
+  },
+  "amitriptyline": {
+    "alias": "am-ee-TRIP-tih-leen",
+    "ipa": "ˌæmɪˈtrɪptəliːn"
+  },
+  "nortriptyline": {
+    "alias": "nor-TRIP-tih-leen",
+    "ipa": "nɔrˈtrɪptəliːn"
+  },
+  "topiramate": {
+    "alias": "toh-PIHR-ah-mayt",
+    "ipa": "toʊˈpɪrəmeɪt"
+  },
+  "carbamazepine": {
+    "alias": "kar-bah-MAZ-eh-peen",
+    "ipa": "ˌkɑrbəˈmæzəpiːn"
+  },
+  "oxcarbazepine": {
+    "alias": "oks-kar-BAZ-eh-peen",
+    "ipa": "ˌɑkskɑrˈbæzəpiːn"
+  },
+  "lamotrigine": {
+    "alias": "lah-MOH-trih-jeen",
+    "ipa": "ləˈmɑtrɪdʒiːn"
+  },
+  "levetiracetam": {
+    "alias": "lev-eh-TIHR-ah-seh-tam",
+    "ipa": "ləˌvɛtɪˈræsɪtæm"
+  },
+  "phenytoin": {
+    "alias": "FEN-ih-toh-in",
+    "ipa": "fəˈnɪtoʊɪn"
+  },
+  "valproic acid": {
+    "alias": "val-PROH-ik AS-id",
+    "ipa": "vælˈproʊɪk ˈæsɪd"
+  },
+  "zonisamide": {
+    "alias": "zoh-NIS-ah-mide",
+    "ipa": "zoʊˈnɪsəmaɪd"
+  },
+  "lacosamide": {
+    "alias": "lah-KOH-sah-mide",
+    "ipa": "ləˈkoʊsəmaɪd"
+  },
+  "rufinamide": {
+    "alias": "roo-FIN-ah-mide",
+    "ipa": "ruˈfɪnəmaɪd"
+  },
+  "omeprazole": {
+    "alias": "oh-MEP-rah-zole",
+    "ipa": "oʊˈmɛprəzoʊl"
+  },
+  "pantoprazole": {
+    "alias": "pan-TOH-prah-zole",
+    "ipa": "pænˈtoʊprəzoʊl"
+  },
+  "esomeprazole": {
+    "alias": "es-oh-MEP-rah-zole",
+    "ipa": "ɛˈsoʊmɛprəzoʊl"
+  },
+  "lansoprazole": {
+    "alias": "lan-SOH-prah-zole",
+    "ipa": "lænˈsoʊprəzoʊl"
+  },
+  "rabeprazole": {
+    "alias": "rah-BEP-rah-zole",
+    "ipa": "rəˈbɛprəzoʊl"
+  },
+  "dexlansoprazole": {
+    "alias": "deks-lan-SOH-prah-zole",
+    "ipa": "dɛksˌlænˈsoʊprəzoʊl"
+  },
+  "famotidine": {
+    "alias": "fam-OH-tih-deen",
+    "ipa": "fəˈmoʊtɪdiːn"
+  },
+  "ranitidine": {
+    "alias": "ran-IH-tih-deen",
+    "ipa": "rəˈnɪtɪdiːn"
+  },
+  "cimetidine": {
+    "alias": "sy-MET-ih-deen",
+    "ipa": "saɪˈmɛtɪdiːn"
+  },
+  "nizatidine": {
+    "alias": "ny-ZAT-ih-deen",
+    "ipa": "naɪˈzætɪdiːn"
+  },
+  "aluminum hydroxide": {
+    "alias": "ah-LOO-min-um hy-DROK-side",
+    "ipa": "əˈluːmɪnəm haɪˈdrɒksaɪd"
+  },
+  "simethicone": {
+    "alias": "sy-METH-ih-kone",
+    "ipa": "saɪˈmɛθɪkoʊn"
+  },
+  "ondansetron": {
+    "alias": "on-DAN-seh-tron",
+    "ipa": "ɒnˈdænsətrɒn"
+  },
+  "granisetron": {
+    "alias": "gran-IS-eh-tron",
+    "ipa": "grəˈnɪsətrɒn"
+  },
+  "palonosetron": {
+    "alias": "pal-oh-NOH-seh-tron",
+    "ipa": "pəˌloʊnəˈsɛtrɒn"
+  },
+  "metoclopramide": {
+    "alias": "met-oh-KLOH-prah-mide",
+    "ipa": "məˌtoʊkloʊˈpræmaɪd"
+  },
+  "promethazine": {
+    "alias": "proh-METH-ah-zeen",
+    "ipa": "proʊˈmɛθəziːn"
+  },
+  "prochlorperazine": {
+    "alias": "proh-klor-PER-ah-zeen",
+    "ipa": "proʊˌklɔːrˈpɛrəziːn"
+  },
+  "loperamide": {
+    "alias": "loh-PER-ah-mide",
+    "ipa": "loʊˈpɛrəmaɪd"
+  },
+  "docusate": {
+    "alias": "DOK-yoo-sate",
+    "ipa": "ˈdɒkjuseɪt"
+  },
+  "polyethylene glycol": {
+    "alias": "pol-ee-ETH-ih-leen GLY-kol",
+    "ipa": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl"
+  },
+  "bisacodyl": {
+    "alias": "bis-AK-oh-dil",
+    "ipa": "baɪˈsækədɪl"
+  },
+  "senna": {
+    "alias": "SEN-ah",
+    "ipa": "ˈsɛnə"
+  },
+  "lactulose": {
+    "alias": "LAK-tyoo-lose",
+    "ipa": "ˈlæktjuːloʊs"
+  },
+  "albuterol": {
+    "alias": "al-BOO-ter-ol",
+    "ipa": "ælˈbjuːtərɒl"
+  },
+  "levalbuterol": {
+    "alias": "lev-al-BOO-ter-ol",
+    "ipa": "ˌlɛvælˈbjuːtərɒl"
+  },
+  "ipratropium": {
+    "alias": "ip-ra-TROH-pee-um",
+    "ipa": "ˌɪprəˈtroʊpiəm"
+  },
+  "tiotropium": {
+    "alias": "ty-oh-TROH-pee-um",
+    "ipa": "ˌtaɪəˈtroʊpiəm"
+  },
+  "umeclidinium": {
+    "alias": "yoo-meh-kli-DIN-ee-um",
+    "ipa": "ˌjuːˌmɛklɪˈdɪniəm"
+  },
+  "glycopyrrolate": {
+    "alias": "gly-koh-PIR-oh-late",
+    "ipa": "ˌɡlaɪkoʊˈpɪroʊleɪt"
+  },
+  "formoterol": {
+    "alias": "for-MOH-ter-ol",
+    "ipa": "fɔrˈmɑːtərɔːl"
+  },
+  "salmeterol": {
+    "alias": "sal-MEH-ter-ol",
+    "ipa": "sælˈmiːtərɔːl"
+  },
+  "indacaterol": {
+    "alias": "in-da-KA-ter-ol",
+    "ipa": "ˌɪndəˈkætərɔːl"
+  },
+  "olodaterol": {
+    "alias": "oh-loh-DA-ter-ol",
+    "ipa": "ˌoʊloʊˈdætərɔːl"
+  },
+  "fluticasone": {
+    "alias": "floo-TIK-a-sone",
+    "ipa": "fluːˈtɪkəsoʊn"
+  },
+  "budesonide": {
+    "alias": "byoo-DEH-soh-nide",
+    "ipa": "bjuːˈdɛsənaɪd"
+  },
+  "mometasone": {
+    "alias": "moh-MEH-ta-sone",
+    "ipa": "moʊˈmɛtəsoʊn"
+  },
+  "ciclesonide": {
+    "alias": "sik-LEH-soh-nide",
+    "ipa": "sɪˈklɛsənaɪd"
+  },
+  "beclomethasone": {
+    "alias": "beh-kloh-MEH-tha-sone",
+    "ipa": "ˌbɛkloʊˈmɛθəsoʊn"
+  },
+  "montelukast": {
+    "alias": "mon-teh-LOO-kast",
+    "ipa": "ˌmɑːntəˈluːkæst"
+  },
+  "zafirlukast": {
+    "alias": "za-FIR-loo-kast",
+    "ipa": "zəˈfɪrluːkæst"
+  },
+  "zileuton": {
+    "alias": "zy-LOO-ton",
+    "ipa": "zaɪˈluːtɑːn"
+  },
+  "theophylline": {
+    "alias": "thee-OFF-i-lin",
+    "ipa": "ˌθiːəˈfɪliːn"
+  },
+  "roflumilast": {
+    "alias": "roh-FLOO-mi-last",
+    "ipa": "roʊˈfluːmɪlæst"
+  },
+  "benralizumab": {
+    "alias": "ben-ra-LIZ-oo-mab",
+    "ipa": "bɛnˈrælɪzʊmæb"
+  },
+  "mepolizumab": {
+    "alias": "meh-poh-LIZ-oo-mab",
+    "ipa": "məˈpɑːlɪzʊmæb"
+  },
+  "reslizumab": {
+    "alias": "rez-LIZ-oo-mab",
+    "ipa": "rɛzˈlɪzʊmæb"
+  },
+  "dupilumab": {
+    "alias": "doo-PIL-oo-mab",
+    "ipa": "duːˈpɪljuːmæb"
+  },
+  "omalizumab": {
+    "alias": "oh-ma-LIZ-oo-mab",
+    "ipa": "oʊˈmælɪzʊmæb"
+  },
+  "sertraline": {
+    "alias": "SER-tra-leen",
+    "ipa": "ˈsɜːrtrəliːn"
+  },
+  "fluoxetine": {
+    "alias": "floo-OK-seh-teen",
+    "ipa": "fluːˈɑːksətiːn"
+  },
+  "escitalopram": {
+    "alias": "es-sit-AL-oh-pram",
+    "ipa": "ˌɛsɪˈtæləpræm"
+  },
+  "citalopram": {
+    "alias": "sit-AL-oh-pram",
+    "ipa": "sɪˈtæləpræm"
+  },
+  "paroxetine": {
+    "alias": "pa-ROK-seh-teen",
+    "ipa": "pəˈrɑːksətiːn"
+  },
+  "venlafaxine": {
+    "alias": "ven-la-FAK-seen",
+    "ipa": "vɛnˈlæfəksiːn"
+  },
+  "desvenlafaxine": {
+    "alias": "des-ven-la-FAK-seen",
+    "ipa": "dɛzˈvɛnələˌfæksiːn"
+  },
+  "milnacipran": {
+    "alias": "mil-NA-si-pran",
+    "ipa": "mɪlˈnæsɪpræn"
+  },
+  "bupropion": {
+    "alias": "byoo-PRO-pee-on",
+    "ipa": "bjuˈproʊpiɑn"
+  },
+  "mirtazapine": {
+    "alias": "mir-TAZ-a-peen",
+    "ipa": "mɪrˈtæzəpin"
+  },
+  "trazodone": {
+    "alias": "TRAZ-oh-done",
+    "ipa": "ˈtræzədoʊn"
+  },
+  "nefazodone": {
+    "alias": "ne-FAZ-oh-done",
+    "ipa": "nəˈfæzədoʊn"
+  },
+  "vortioxetine": {
+    "alias": "vor-tee-OK-seh-teen",
+    "ipa": "vɔrtiˈɑksətin"
+  },
+  "vilazodone": {
+    "alias": "vil-AZ-oh-done",
+    "ipa": "vɪˈlæzədoʊn"
+  },
+  "fluvoxamine": {
+    "alias": "floo-VOK-sah-meen",
+    "ipa": "fluˈvɑksəmin"
+  },
+  "clomipramine": {
+    "alias": "klo-MIP-rah-meen",
+    "ipa": "kloʊˈmɪprəmin"
+  },
+  "desipramine": {
+    "alias": "des-IP-rah-meen",
+    "ipa": "dəˈsɪprəmin"
+  },
+  "imipramine": {
+    "alias": "im-IP-rah-meen",
+    "ipa": "ɪˈmɪprəmin"
+  },
+  "protriptyline": {
+    "alias": "pro-TRIP-tih-leen",
+    "ipa": "proʊˈtrɪptəlin"
+  },
+  "phenelzine": {
+    "alias": "FEN-el-zeen",
+    "ipa": "ˈfɛnəlzin"
+  },
+  "tranylcypromine": {
+    "alias": "tran-il-SIP-roh-meen",
+    "ipa": "trænɪlˈsɪprəmin"
+  },
+  "isocarboxazid": {
+    "alias": "eye-so-kar-BOK-sah-zid",
+    "ipa": "ˌaɪsoʊkɑrˈbɑksəzɪd"
+  },
+  "selegiline": {
+    "alias": "se-LEJ-ih-leen",
+    "ipa": "səˈlɛdʒəlin"
+  },
+  "rasagiline": {
+    "alias": "ra-SAJ-ih-leen",
+    "ipa": "rəˈsædʒəlin"
+  },
+  "aripiprazole": {
+    "alias": "a-RIP-ip-ra-zole",
+    "ipa": "əˈrɪpɪprəzoʊl"
+  },
+  "olanzapine": {
+    "alias": "oh-LAN-zah-peen",
+    "ipa": "oʊˈlænzəpin"
+  },
+  "quetiapine": {
+    "alias": "kwe-TIE-ah-peen",
+    "ipa": "kwɛˈtaɪəpin"
+  },
+  "risperidone": {
+    "alias": "ris-PER-ih-done",
+    "ipa": "rɪˈspɛrɪdoʊn"
+  },
+  "paliperidone": {
+    "alias": "pal-ee-PER-ih-done",
+    "ipa": "pəˈlɪpərɪdoʊn"
+  },
+  "ziprasidone": {
+    "alias": "zip-RAS-ih-done",
+    "ipa": "zɪˈpræsɪdoʊn"
+  },
+  "lurasidone": {
+    "alias": "loo-RAS-ih-done",
+    "ipa": "lʊˈræsɪdoʊn"
+  },
+  "brexpiprazole": {
+    "alias": "brek-SIP-ra-zole",
+    "ipa": "brɛksˈpɪprəzoʊl"
+  },
+  "cariprazine": {
+    "alias": "ka-RIP-ra-zeen",
+    "ipa": "kəˈrɪprəzin"
+  },
+  "clozapine": {
+    "alias": "KLOZ-ah-peen",
+    "ipa": "ˈkloʊzəpin"
+  },
+  "haloperidol": {
+    "alias": "hal-oh-PER-ih-dol",
+    "ipa": "ˌhæloʊˈpɛrɪdɔl"
+  },
+  "chlorpromazine": {
+    "alias": "klor-PROH-mah-zeen",
+    "ipa": "klɔrˈproʊməzin"
+  },
+  "lithium": {
+    "alias": "LITH-ee-um",
+    "ipa": "ˈlɪθiəm"
+  },
+  "valproate": {
+    "alias": "val-PRO-ate",
+    "ipa": "vælˈproʊ.eɪt"
+  },
+  "asenapine": {
+    "alias": "a-SEN-a-peen",
+    "ipa": "əˈsɛn.ə.piːn"
+  },
+  "dexmethylphenidate": {
+    "alias": "dex-METH-il-FEN-i-date",
+    "ipa": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt"
+  },
+  "lisdexamfetamine": {
+    "alias": "lis-dex-am-FET-a-meen",
+    "ipa": "lɪsˌdɛks.æmˈfɛt.ə.miːn"
+  },
+  "methylphenidate": {
+    "alias": "METH-il-FEN-i-date",
+    "ipa": "ˌmɛθ.əlˈfɛn.ə.deɪt"
+  },
+  "amfetamine": {
+    "alias": "am-FET-a-meen",
+    "ipa": "æmˈfɛt.ə.miːn"
+  },
+  "guanfacine": {
+    "alias": "GWAHN-fa-seen",
+    "ipa": "ˈɡwɑːn.fə.siːn"
+  },
+  "tamoxifen": {
+    "alias": "ta-MOX-i-fen",
+    "ipa": "təˈmɑːk.sə.fən"
+  },
+  "anastrozole": {
+    "alias": "an-AS-troh-zole",
+    "ipa": "əˈnæs.trə.zɔːl"
+  },
+  "letrozole": {
+    "alias": "LET-roh-zole",
+    "ipa": "ˈlɛ.trə.zɔːl"
+  },
+  "exemestane": {
+    "alias": "ex-e-MES-tane",
+    "ipa": "ˌɛk.səˈmɛs.teɪn"
+  },
+  "leuprolide": {
+    "alias": "loo-PRO-lide",
+    "ipa": "luːˈproʊ.laɪd"
+  },
+  "goserelin": {
+    "alias": "goh-SER-a-lin",
+    "ipa": "ɡoʊˈsɛr.ə.lɪn"
+  },
+  "triptorelin": {
+    "alias": "trip-toh-REL-in",
+    "ipa": "trɪpˈtɔːr.ə.lɪn"
+  },
+  "bicalutamide": {
+    "alias": "bye-ka-LOO-ta-mide",
+    "ipa": "baɪ.kəˈluː.tə.maɪd"
+  },
+  "enzalutamide": {
+    "alias": "en-za-LOO-ta-mide",
+    "ipa": "ɛn.zəˈluː.tə.maɪd"
+  },
+  "abiraterone": {
+    "alias": "a-bir-A-ter-one",
+    "ipa": "əˈbɪr.ə.tə.roʊn"
+  },
+  "imatinib": {
+    "alias": "i-MAT-in-ib",
+    "ipa": "ɪˈmæ.tɪ.nɪb"
+  },
+  "dasatinib": {
+    "alias": "da-SAT-in-ib",
+    "ipa": "dəˈsæ.tɪ.nɪb"
+  },
+  "nilotinib": {
+    "alias": "ny-LOH-tin-ib",
+    "ipa": "naɪˈloʊ.tɪ.nɪb"
+  },
+  "bosutinib": {
+    "alias": "boh-SOO-tin-ib",
+    "ipa": "boʊˈsuː.tɪ.nɪb"
+  },
+  "ponatinib": {
+    "alias": "poh-NA-tin-ib",
+    "ipa": "poʊˈnæ.tɪ.nɪb"
+  },
+  "ibrutinib": {
+    "alias": "eye-BROO-tin-ib",
+    "ipa": "aɪˈbruː.tɪ.nɪb"
+  },
+  "acalabrutinib": {
+    "alias": "a-KAL-a-BROO-tin-ib",
+    "ipa": "əˌkæl.əˈbruː.tɪ.nɪb"
+  },
+  "venetoclax": {
+    "alias": "ve-NET-oh-klax",
+    "ipa": "vəˈnɛ.toʊ.klæks"
+  },
+  "rituximab": {
+    "alias": "ri-TUX-i-mab",
+    "ipa": "rɪˈtʊk.sɪ.mæb"
+  },
+  "trastuzumab": {
+    "alias": "tras-TUZ-oo-mab",
+    "ipa": "træsˈtʊ.zuː.mæb"
+  },
+  "pertuzumab": {
+    "alias": "per-TUZ-oo-mab",
+    "ipa": "pərˈtʊ.zuː.mæb"
+  },
+  "bevacizumab": {
+    "alias": "beh-va-KIZ-oo-mab",
+    "ipa": "bəˌvæk.sɪˈzuː.mæb"
+  },
+  "cetuximab": {
+    "alias": "se-TUX-i-mab",
+    "ipa": "səˈtʊk.sɪ.mæb"
+  },
+  "panitumumab": {
+    "alias": "pan-i-TOO-moo-mab",
+    "ipa": "ˌpænɪˈtjuːməmæb"
+  },
+  "pembrolizumab": {
+    "alias": "pem-broh-LIZ-oo-mab",
+    "ipa": "ˌpɛmbroʊˈlɪzjuːmæb"
+  },
+  "nivolumab": {
+    "alias": "niv-OL-oo-mab",
+    "ipa": "nɪˈvɒljʊmæb"
+  },
+  "ipilimumab": {
+    "alias": "i-pi-LIM-oo-mab",
+    "ipa": "ɪˌpɪlɪˈmuːmæb"
+  },
+  "atezolizumab": {
+    "alias": "a-TEZ-oh-LIZ-oo-mab",
+    "ipa": "əˌtɛzoʊˈlɪzjuːmæb"
+  },
+  "durvalumab": {
+    "alias": "dur-VAL-oo-mab",
+    "ipa": "dɜːrˈvæljʊmæb"
+  },
+  "avelumab": {
+    "alias": "a-VEL-oo-mab",
+    "ipa": "əˈvɛljʊmæb"
+  },
+  "cisplatin": {
+    "alias": "sis-PLAT-in",
+    "ipa": "sɪsˈpleɪtɪn"
+  },
+  "carboplatin": {
+    "alias": "kar-boh-PLAT-in",
+    "ipa": "kɑːrˈboʊplætɪn"
+  },
+  "oxaliplatin": {
+    "alias": "ok-SAL-i-plat-in",
+    "ipa": "ɒkˈsælɪplætɪn"
+  },
+  "paclitaxel": {
+    "alias": "pak-li-TAKS-el",
+    "ipa": "ˌpæklɪˈtæksɛl"
+  },
+  "docetaxel": {
+    "alias": "doh-se-TAKS-el",
+    "ipa": "ˌdoʊsɪˈtæksɛl"
+  },
+  "doxorubicin": {
+    "alias": "dok-soh-ROO-bi-sin",
+    "ipa": "ˌdɒksəˈruːbɪsɪn"
+  },
+  "daunorubicin": {
+    "alias": "daw-noh-ROO-bi-sin",
+    "ipa": "ˌdɔːnəˈruːbɪsɪn"
+  },
+  "vincristine": {
+    "alias": "vin-KRIS-teen",
+    "ipa": "vɪnˈkrɪstiːn"
+  },
+  "vinblastine": {
+    "alias": "vin-BLAS-teen",
+    "ipa": "vɪnˈblæstiːn"
+  },
+  "vinorelbine": {
+    "alias": "vi-NOR-el-been",
+    "ipa": "vɪˈnɔːrɛlbiːn"
+  },
+  "etoposide": {
+    "alias": "e-TOH-poh-side",
+    "ipa": "ɪˈtoʊpəsaɪd"
+  },
+  "cyclophosphamide": {
+    "alias": "sy-kloh-FOS-fa-mide",
+    "ipa": "ˌsaɪkloʊˈfɒsfəmaɪd"
+  },
+  "ifosfamide": {
+    "alias": "i-FOS-fa-mide",
+    "ipa": "ɪˈfɒsfəmaɪd"
+  },
+  "methotrexate": {
+    "alias": "meth-oh-TREK-sate",
+    "ipa": "ˌmɛθəˈtɹɛkseɪt"
+  },
+  "pemetrexed": {
+    "alias": "pem-e-TREK-sed",
+    "ipa": "ˌpɛmɪˈtɹɛksɛd"
+  },
+  "gemcitabine": {
+    "alias": "jem-SITE-a-been",
+    "ipa": "dʒɛmˈsaɪtəbiːn"
+  },
+  "fluorouracil": {
+    "alias": "floor-oh-YOO-ra-sil",
+    "ipa": "ˌflʊroʊˈjʊɚəsɪl"
+  },
+  "capecitabine": {
+    "alias": "ka-pe-SITE-a-been",
+    "ipa": "ˌkæpɪˈsaɪtəbiːn"
+  },
+  "cytarabine": {
+    "alias": "sy-TAIR-a-been",
+    "ipa": "saɪˈtɛɚəbiːn"
+  },
+  "adalimumab": {
+    "alias": "a-da-LIM-oo-mab",
+    "ipa": "əˌdælɪˈmuːmæb"
+  },
+  "etanercept": {
+    "alias": "e-TAN-er-sept",
+    "ipa": "ɪˈtænɚsɛpt"
+  },
+  "infliximab": {
+    "alias": "in-FLIK-si-mab",
+    "ipa": "ɪnˈflɪksɪmæb"
+  },
+  "certolizumab": {
+    "alias": "ser-toh-LIZ-oo-mab",
+    "ipa": "ˌsɜːrtoʊˈlɪzjuːmæb"
+  },
+  "golimumab": {
+    "alias": "go-LIM-ue-mab",
+    "ipa": "ɡoʊˈlɪmjʊˌmæb"
+  },
+  "tocilizumab": {
+    "alias": "TOE-sih-LIZ-ue-mab",
+    "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb"
+  },
+  "sarilumab": {
+    "alias": "sar-IL-ue-mab",
+    "ipa": "ˌsærɪˈluːmæb"
+  },
+  "ustekinumab": {
+    "alias": "US-te-KIN-ue-mab",
+    "ipa": "ˌʌstəˈkɪnjʊˌmæb"
+  },
+  "secukinumab": {
+    "alias": "SEK-ue-KIN-ue-mab",
+    "ipa": "ˌsɛkjʊˈkɪnjʊˌmæb"
+  },
+  "ixekizumab": {
+    "alias": "IX-e-KIZ-ue-mab",
+    "ipa": "ˌɪksɛˈkɪzjʊˌmæb"
+  },
+  "brodalumab": {
+    "alias": "broe-DAL-ue-mab",
+    "ipa": "broʊˈdæljʊˌmæb"
+  },
+  "guselkumab": {
+    "alias": "gus-ELK-ue-mab",
+    "ipa": "ˌɡʌsɛlˈkuːmæb"
+  },
+  "risankizumab": {
+    "alias": "RIS-an-KIZ-ue-mab",
+    "ipa": "ˌrɪsæŋˈkɪzjʊˌmæb"
+  },
+  "tildrakizumab": {
+    "alias": "TIL-dra-KIZ-ue-mab",
+    "ipa": "tɪlˈdrækɪzjʊˌmæb"
+  },
+  "abatacept": {
+    "alias": "a-BAT-a-sept",
+    "ipa": "ˌæbəˈtæsɛpt"
+  },
+  "leflunomide": {
+    "alias": "le-FLOO-no-mide",
+    "ipa": "ˌlɛfˈluːnəˌmaɪd"
+  },
+  "sulfasalazine": {
+    "alias": "SUL-fa-SAL-a-zeen",
+    "ipa": "ˌsʌlfəˈsæləˌziːn"
+  },
+  "hydroxychloroquine": {
+    "alias": "hy-DROX-ee-KLOR-oh-kween",
+    "ipa": "haɪˌdrɑksiˈklɔrəˌkwin"
+  },
+  "azathioprine": {
+    "alias": "AY-za-THYE-oh-preen",
+    "ipa": "ˌæzəˈθaɪəˌpriːn"
+  },
+  "mycophenolate": {
+    "alias": "MYE-koe-FEN-oh-late",
+    "ipa": "ˌmaɪkoʊˈfɛnəˌleɪt"
+  },
+  "tacrolimus": {
+    "alias": "ta-KROE-li-mus",
+    "ipa": "təˈkroʊlɪməs"
+  },
+  "cyclosporine": {
+    "alias": "SYE-kloe-SPOR-een",
+    "ipa": "ˌsaɪkloʊˈspɔriːn"
+  },
+  "sirolimus": {
+    "alias": "sir-OH-li-mus",
+    "ipa": "sɪˈroʊlɪməs"
+  },
+  "everolimus": {
+    "alias": "e-VER-oh-LI-mus",
+    "ipa": "ɛˈvɛrəlɪməs"
+  },
+  "levodopa": {
+    "alias": "LEE-voe-DOE-pa",
+    "ipa": "ˌlɛvoʊˈdoʊpə"
+  },
+  "carbidopa": {
+    "alias": "KAR-bi-DOE-pa",
+    "ipa": "ˌkɑrbɪˈdoʊpə"
+  },
+  "pramipexole": {
+    "alias": "PRAM-i-PEX-ole",
+    "ipa": "ˌpræmɪˈpɛksoʊl"
+  },
+  "ropinirole": {
+    "alias": "roe-PIN-i-role",
+    "ipa": "roʊˈpɪnəˌroʊl"
+  },
+  "rotigotine": {
+    "alias": "roe-TIG-oh-teen",
+    "ipa": "roʊˈtɪɡəˌtiːn"
+  },
+  "amantadine": {
+    "alias": "a-MAN-ta-deen",
+    "ipa": "əˈmæntəˌdiːn"
+  },
+  "entacapone": {
+    "alias": "en-TAK-a-pone",
+    "ipa": "ɛnˈtækəˌpoʊn"
+  },
+  "safinamide": {
+    "alias": "sa-FIN-a-mide",
+    "ipa": "səˈfɪnəˌmaɪd"
+  },
+  "apomorphine": {
+    "alias": "AP-oh-MOR-feen",
+    "ipa": "ˌæpəˈmɔrfiːn"
+  },
+  "donepezil": {
+    "alias": "doe-NEP-e-zil",
+    "ipa": "doʊˈnɛpəzɪl"
+  },
+  "rivastigmine": {
+    "alias": "riv-uh-STIG-meen",
+    "ipa": "ˌrɪvəˈstɪɡmiːn"
+  },
+  "galantamine": {
+    "alias": "guh-LAN-tuh-meen",
+    "ipa": "ɡəˈlæntəmiːn"
+  },
+  "memantine": {
+    "alias": "muh-MAN-teen",
+    "ipa": "məˈmæntiːn"
+  },
+  "glatiramer": {
+    "alias": "gluh-TIR-uh-mer",
+    "ipa": "ɡləˈtɪrəmər"
+  },
+  "fingolimod": {
+    "alias": "fin-GOL-ih-mod",
+    "ipa": "fɪŋˈɡɒlɪmɒd"
+  },
+  "dimethyl fumarate": {
+    "alias": "die-METH-ul FYOO-muh-rate",
+    "ipa": "daɪˈmɛθəl ˈfjuməˌreɪt"
+  },
+  "teriflunomide": {
+    "alias": "ter-ih-FLOO-noh-mide",
+    "ipa": "ˌtɛrɪˈflunəmaɪd"
+  },
+  "ozanimod": {
+    "alias": "oh-ZAN-ih-mod",
+    "ipa": "oʊˈzænɪmɒd"
+  },
+  "siponimod": {
+    "alias": "sih-PON-ih-mod",
+    "ipa": "sɪˈpɒnɪmɒd"
+  },
+  "natalizumab": {
+    "alias": "na-tal-IZ-uh-mab",
+    "ipa": "ˌnætəˈlɪzʊmæb"
+  },
+  "ocrelizumab": {
+    "alias": "ok-re-LIZ-uh-mab",
+    "ipa": "ˌɒkrɪˈlɪzʊmæb"
+  },
+  "ofatumumab": {
+    "alias": "oh-fuh-TOO-muh-mab",
+    "ipa": "ˌɒfəˈtumʊmæb"
+  },
+  "fumarate": {
+    "alias": "FYOO-muh-rate",
+    "ipa": "ˈfjuməˌreɪt"
+  },
+  "levothyroxine": {
+    "alias": "lee-voh-thigh-ROX-een",
+    "ipa": "ˌliːvoʊθaɪˈrɒksiːn"
+  },
+  "prednisone": {
+    "alias": "PRED-nih-zone",
+    "ipa": "ˈprɛdnɪsoʊn"
+  },
+  "prednisolone": {
+    "alias": "pred-NIS-oh-lone",
+    "ipa": "prɛdˈnɪsəloʊn"
+  },
+  "methylprednisolone": {
+    "alias": "METH-ul-pred-NIS-oh-lone",
+    "ipa": "ˌmɛθəlprɛdˈnɪsəloʊn"
+  },
+  "hydrocortisone": {
+    "alias": "HIGH-dro-KOR-tih-zone",
+    "ipa": "ˌhaɪdroʊˈkɔːrtɪsoʊn"
+  },
+  "dexamethasone": {
+    "alias": "dex-uh-METH-uh-zone",
+    "ipa": "ˌdɛksəˈmɛθəsoʊn"
+  },
+  "fludrocortisone": {
+    "alias": "floo-dro-KOR-tih-zone",
+    "ipa": "ˌfludroʊˈkɔːrtɪsoʊn"
+  },
+  "alendronate": {
+    "alias": "uh-LEN-dro-nate",
+    "ipa": "əˈlɛndrəneɪt"
+  },
+  "risedronate": {
+    "alias": "rih-SED-ro-nate",
+    "ipa": "rɪˈsɛdrəneɪt"
+  },
+  "ibandronate": {
+    "alias": "ih-BAN-dro-nate",
+    "ipa": "ɪˈbændrəneɪt"
+  },
+  "zoledronic acid": {
+    "alias": "zoh-leh-DRON-ik AS-id",
+    "ipa": "zoʊˈlɛdrɒnɪk ˈæsɪd"
+  },
+  "denosumab": {
+    "alias": "den-OH-suh-mab",
+    "ipa": "dəˈnoʊsʊmæb"
+  },
+  "teriparatide": {
+    "alias": "ter-ih-PAR-uh-tide",
+    "ipa": "ˌtɛrɪˈpærətaɪd"
+  },
+  "raloxifene": {
+    "alias": "ral-OX-ih-feen",
+    "ipa": "ræˈlɒksɪfiːn"
+  },
+  "calcitonin": {
+    "alias": "kal-sih-TONE-in",
+    "ipa": "ˌkælsɪˈtoʊnɪn"
+  },
+  "tadalafil": {
+    "alias": "tuh-DAF-ih-lil",
+    "ipa": "təˈdælɪfɪl"
+  },
+  "sildenafil": {
+    "alias": "sil-DEN-uh-fil",
+    "ipa": "sɪlˈdɛnəfɪl"
+  },
+  "vardenafil": {
+    "alias": "var-DEN-ah-fil",
+    "ipa": "vɑrˈdɛnəfɪl"
+  },
+  "finasteride": {
+    "alias": "fin-AS-ter-ide",
+    "ipa": "fɪˈnæstəˌraɪd"
+  },
+  "dutasteride": {
+    "alias": "doo-TAS-ter-ide",
+    "ipa": "duˈtæstəˌraɪd"
+  },
+  "tamsulosin": {
+    "alias": "tam-SOO-loh-sin",
+    "ipa": "tæmˈsuːləsɪn"
+  },
+  "silodosin": {
+    "alias": "si-LOH-doh-sin",
+    "ipa": "sɪˈloʊdəsɪn"
+  },
+  "alfuzosin": {
+    "alias": "al-FOO-zoh-sin",
+    "ipa": "ælˈfjuːzəsɪn"
+  },
+  "oxybutynin": {
+    "alias": "ok-see-BYOO-ti-nin",
+    "ipa": "ˌɑksɪˈbjuːtɪnɪn"
+  },
+  "tolterodine": {
+    "alias": "tol-TER-oh-deen",
+    "ipa": "tɔlˈtɛrəˌdiːn"
+  },
+  "solifenacin": {
+    "alias": "sol-i-FEN-ah-sin",
+    "ipa": "ˌsoʊlɪˈfɛnəsɪn"
+  },
+  "darifenacin": {
+    "alias": "dar-i-FEN-ah-sin",
+    "ipa": "ˌdærɪˈfɛnəsɪn"
+  },
+  "mirabegron": {
+    "alias": "mir-ah-BEG-ron",
+    "ipa": "mɪˈræbəˌɡrɑn"
+  },
+  "phenazopyridine": {
+    "alias": "fen-az-oh-PYR-i-deen",
+    "ipa": "fəˌnæzoʊˈpɪrɪdiːn"
+  },
+  "hydroxyzine": {
+    "alias": "hy-DROK-si-zeen",
+    "ipa": "haɪˈdrɑksɪˌziːn"
+  },
+  "fexofenadine": {
+    "alias": "fek-soh-FEN-ah-deen",
+    "ipa": "ˌfɛksoʊˈfɛnəˌdiːn"
+  },
+  "loratadine": {
+    "alias": "lor-AT-ah-deen",
+    "ipa": "lɔˈrætəˌdiːn"
+  },
+  "cetirizine": {
+    "alias": "se-TIR-i-zeen",
+    "ipa": "səˈtɪrɪˌziːn"
+  },
+  "diphenhydramine": {
+    "alias": "dy-fen-HY-drah-meen",
+    "ipa": "ˌdaɪfɛnˈhaɪdrəˌmiːn"
+  },
+  "chlorpheniramine": {
+    "alias": "klor-fen-EER-ah-meen",
+    "ipa": "ˌklɔrfɛnˈɪrəˌmiːn"
+  },
+  "azelastine": {
+    "alias": "ah-ZEL-ah-steen",
+    "ipa": "əˈzɛləˌstiːn"
+  },
+  "olopatadine": {
+    "alias": "oh-loh-PAT-ah-deen",
+    "ipa": "ˌoʊloʊˈpætəˌdiːn"
+  },
+  "modafinil": {
+    "alias": "mo-DAF-i-nil",
+    "ipa": "moʊˈdæfɪnɪl"
+  },
+  "armodafinil": {
+    "alias": "ar-mo-DAF-i-nil",
+    "ipa": "ˌɑrmoʊˈdæfɪnɪl"
+  },
+  "sumatriptan": {
+    "alias": "soo-mah-TRIP-tan",
+    "ipa": "ˌsuːməˈtrɪpˌtæn"
+  },
+  "rizatriptan": {
+    "alias": "ry-zah-TRIP-tan",
+    "ipa": "ˌraɪzəˈtrɪpˌtæn"
+  },
+  "zolmitriptan": {
+    "alias": "zohl-mi-TRIP-tan",
+    "ipa": "zoʊlˈmɪtrɪpˌtæn"
+  },
+  "eletriptan": {
+    "alias": "el-e-TRIP-tan",
+    "ipa": "ˌɛləˈtrɪpˌtæn"
+  },
+  "almotriptan": {
+    "alias": "al-moh-TRIP-tan",
+    "ipa": "ˌælmoʊˈtrɪpˌtæn"
+  },
+  "frovatriptan": {
+    "alias": "froh-vah-TRIP-tan",
+    "ipa": "ˌfroʊvəˈtrɪpˌtæn"
+  },
+  "naratriptan": {
+    "alias": "nar-ah-TRIP-tan",
+    "ipa": "ˌnærəˈtrɪpˌtæn"
+  },
+  "ubrogepant": {
+    "alias": "yoo-BROH-jeh-pant",
+    "ipa": "juːˈbroʊdʒəˌpænt"
+  },
+  "rimegepant": {
+    "alias": "rih-MEH-jeh-pant",
+    "ipa": "rɪˈmɛdʒɪpænt"
+  },
+  "erenumab": {
+    "alias": "eh-REH-nyoo-mab",
+    "ipa": "ɛˈrɛnjʊmæb"
+  },
+  "fremanezumab": {
+    "alias": "freh-mah-NEH-zoo-mab",
+    "ipa": "friˈmænɪzʊmæb"
+  },
+  "galcanezumab": {
+    "alias": "gal-kah-NEH-zoo-mab",
+    "ipa": "ɡælˈkænɪzʊmæb"
+  },
+  "eprodual": {
+    "alias": "eh-PROH-dool",
+    "ipa": "ɛˈprɑduəl"
+  },
+  "onabotulinumtoxinA": {
+    "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay",
+    "ipa": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ"
+  },
+  "MI": {
+    "alias": "myocardial infarction",
+    "ipa": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən"
+  },
+  "COPD": {
+    "alias": "chronic obstructive pulmonary disease",
+    "ipa": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz"
+  },
+  "CHF": {
+    "alias": "congestive heart failure",
+    "ipa": "kənˈɡɛstɪv hɑrt ˈfɜːr"
+  },
+  "UTI": {
+    "alias": "urinary tract infection",
+    "ipa": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən"
+  },
+  "MRI": {
+    "alias": "magnetic resonance imaging",
+    "ipa": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ"
+  },
+  "CT": {
+    "alias": "computed tomography",
+    "ipa": "kəmˈpjutɪd təˈmɑɡrəfi"
+  },
+  "EKG": {
+    "alias": "electrocardiogram",
+    "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+  },
+  "ECG": {
+    "alias": "electrocardiogram",
+    "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+  },
+  "EEG": {
+    "alias": "electroencephalogram",
+    "ipa": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm"
+  },
+  "BUN": {
+    "alias": "blood urea nitrogen",
+    "ipa": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən"
+  },
+  "CMP": {
+    "alias": "comprehensive metabolic panel",
+    "ipa": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl"
+  },
+  "CBC": {
+    "alias": "complete blood count",
+    "ipa": "ˌkɑmpliːt ˈblʌd ˈkaʊnt"
+  },
+  "TSH": {
+    "alias": "thyroid stimulating hormone",
+    "ipa": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn"
+  },
+  "HbA1c": {
+    "alias": "hemoglobin A one C",
+    "ipa": "ˌheməɡloʊbɪn eɪ wʌn siː"
+  },
+  "PT": {
+    "alias": "prothrombin time",
+    "ipa": "ˌprɑθrɑmbɪn ˈtaɪm"
+  },
+  "INR": {
+    "alias": "international normalized ratio",
+    "ipa": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ"
+  },
+  "PTT": {
+    "alias": "partial thromboplastin time",
+    "ipa": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm"
+  },
+  "DVT": {
+    "alias": "deep vein thrombosis",
+    "ipa": "ˌdiːp veɪn ˈθrɑmbəˌsɪs"
+  },
+  "PE": {
+    "alias": "pulmonary embolism",
+    "ipa": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm"
+  },
+  "CVA": {
+    "alias": "cerebrovascular accident",
+    "ipa": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt"
+  },
+  "TIA": {
+    "alias": "transient ischemic attack",
+    "ipa": "trænˈzɪənt ɪˈskɛmɪk əˈtæk"
+  },
+  "ICU": {
+    "alias": "intensive care unit",
+    "ipa": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+  },
+  "NICU": {
+    "alias": "neonatal intensive care unit",
+    "ipa": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+  },
+  "ER": {
+    "alias": "emergency room",
+    "ipa": "ɪmˈɜːrdʒənsi ˈruːm"
+  },
+  "ED": {
+    "alias": "emergency department",
+    "ipa": "ˌɛrˈdiː"
+  },
+  "OR": {
+    "alias": "operating room",
+    "ipa": "ˈɔr"
+  },
+  "PACU": {
+    "alias": "post-anesthesia care unit",
+    "ipa": "pəˈkuː"
+  },
+  "CCU": {
+    "alias": "coronary care unit",
+    "ipa": "ˌsiːˌsiːˈjuː"
+  },
+  "SICU": {
+    "alias": "surgical intensive care unit",
+    "ipa": "ˌɛsˌaɪˌsiːˈjuː"
+  },
+  "MICU": {
+    "alias": "medical intensive care unit",
+    "ipa": "ˌɛmˌaɪˌsiːˈjuː"
+  },
+  "BP": {
+    "alias": "blood pressure",
+    "ipa": "ˌbiːˈpiː"
+  },
+  "HR": {
+    "alias": "heart rate",
+    "ipa": "ˌeɪtʃˈɑr"
+  },
+  "RR": {
+    "alias": "respiratory rate",
+    "ipa": "ˌɑrˈɑr"
+  },
+  "SpO2": {
+    "alias": "saturation of peripheral oxygen",
+    "ipa": "ˌɛsˌpiːˈoʊ tuː"
+  },
+  "ETCO2": {
+    "alias": "end-tidal carbon dioxide",
+    "ipa": "ˌiːˌtiːˌsiːˈoʊ tuː"
+  },
+  "IV": {
+    "alias": "intravenous",
+    "ipa": "ˌaɪˈviː"
+  },
+  "IM": {
+    "alias": "intramuscular",
+    "ipa": "ˌaɪˈɛm"
+  },
+  "SC": {
+    "alias": "subcutaneous",
+    "ipa": "ˌɛsˈsiː"
+  },
+  "PO": {
+    "alias": "by mouth",
+    "ipa": "ˌpiːˈoʊ"
+  },
+  "PR": {
+    "alias": "per rectum",
+    "ipa": "ˌpiːˈɑr"
+  },
+  "SL": {
+    "alias": "sublingual",
+    "ipa": "ˌɛsˈɛl"
+  },
+  "OD": {
+    "alias": "right eye",
+    "ipa": "ˌoʊˈdiː"
+  },
+  "OS": {
+    "alias": "left eye",
+    "ipa": "ˌoʊˈɛs"
+  },
+  "OU": {
+    "alias": "both eyes",
+    "ipa": "ˌoʊˈjuː"
+  },
+  "AU": {
+    "alias": "both ears",
+    "ipa": "ˌeɪˈjuː"
+  },
+  "AD": {
+    "alias": "right ear",
+    "ipa": "ˌeɪˈdiː"
+  },
+  "AS": {
+    "alias": "left ear",
+    "ipa": "ˌeɪˈɛs"
+  },
+  "APAP": {
+    "alias": "acetaminophen",
+    "ipa": "ˈeɪpæp"
+  },
+  "NSAID": {
+    "alias": "non-steroidal anti-inflammatory drug",
+    "ipa": "ˈɛnsɛd"
+  },
+  "PPI": {
+    "alias": "proton pump inhibitor",
+    "ipa": "ˌpiːˌpiːˈaɪ"
+  },
+  "ARB": {
+    "alias": "angiotensin receptor blocker",
+    "ipa": "ˌeɪˌɑrˈbiː"
+  },
+  "ACE": {
+    "alias": "angiotensin-converting enzyme",
+    "ipa": "ˈeɪs"
+  },
+  "BB": {
+    "alias": "beta blocker",
+    "ipa": "ˌbiːˈbiː"
+  },
+  "CCB": {
+    "alias": "calcium channel blocker",
+    "ipa": "ˌsiːˌsiːˈbiː"
+  },
+  "SSRI": {
+    "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter",
+    "ipa": "ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər"
+  },
+  "SNRI": {
+    "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter",
+    "ipa": "ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər"
+  },
+  "TCA": {
+    "alias": "tri-SIK-lik an-TI-de-PRE-sant",
+    "ipa": "ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt"
+  },
+  "MAOI": {
+    "alias": "mono-amine OK-si-DASE in-HIB-i-ter",
+    "ipa": "ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər"
+  },
+  "DM": {
+    "alias": "di-a-BE-teez mel-LI-tus",
+    "ipa": "ˌdaɪəˈbiːtɪz ˈmɛlɪtəs"
+  },
+  "HTN": {
+    "alias": "hi-per-TEN-shun",
+    "ipa": "haɪˈpɜːrtənʃən"
+  },
+  "HLD": {
+    "alias": "hi-per-LIP-i-dee-mee-uh",
+    "ipa": "ˌhaɪpərˈlɪpɪˌdiːmɪə"
+  },
+  "CAD": {
+    "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ",
+    "ipa": "ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz"
+  },
+  "PVD": {
+    "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ",
+    "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz"
+  },
+  "CKD": {
+    "alias": "kron-ik KID-nee di-ZEEZ",
+    "ipa": "ˌkrɑnɪk ˈkɪdni ˈdɪziːz"
+  },
+  "ESRD": {
+    "alias": "end-STAGE re-NAL di-ZEEZ",
+    "ipa": "ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz"
+  },
+  "AKI": {
+    "alias": "ak-YOOT KID-nee in-JER-ee",
+    "ipa": "ˈækjʊt kɪdˈni ˈɪndʒəri"
+  },
+  "ASTHMA": {
+    "alias": "AZ-muh",
+    "ipa": "ˈæzmə"
+  },
+  "GERD": {
+    "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ",
+    "ipa": "ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz"
+  },
+  "IBD": {
+    "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ",
+    "ipa": "ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz"
+  },
+  "IBS": {
+    "alias": "i-RI-ta-bul bo-WEL SIN-drom",
+    "ipa": "ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm"
+  },
+  "NASH": {
+    "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis",
+    "ipa": "ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs"
+  },
+  "NAFLD": {
+    "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ",
+    "ipa": "ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz"
+  },
+  "HCC": {
+    "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma",
+    "ipa": "ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə"
+  },
+  "ALL": {
+    "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh",
+    "ipa": "ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+  },
+  "AML": {
+    "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh",
+    "ipa": "ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə"
+  },
+  "CLL": {
+    "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh",
+    "ipa": "ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+  },
+  "CML": {
+    "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh",
+    "ipa": "ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə"
+  },
+  "NHL": {
+    "alias": "non-HOJ-kin lym-FO-ma",
+    "ipa": "ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə"
+  },
+  "Hodgkin": {
+    "alias": "HOJ-kin",
+    "ipa": "ˈhɑdʒkɪn"
+  },
+  "MM": {
+    "alias": "mul-TI-pul my-eh-LO-ma",
+    "ipa": "ˈmʌltɪpl ˈmaɪˈloʊmə"
+  },
+  "SLE": {
+    "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus",
+    "ipa": "ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs"
+  },
+  "RA": {
+    "alias": "rew-ma-TOYD ar-THRI-tis",
+    "ipa": "ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs"
+  },
+  "OA": {
+    "alias": "os-tee-o-ar-THRI-tis",
+    "ipa": "ˈɑːsθrəʊˈaɪtɪs"
+  },
+  "DJD": {
+    "alias": "de-JEN-er-a-tiv jint di-ZEEZ",
+    "ipa": "ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz"
+  },
+  "GOUT": {
+    "alias": "gowt",
+    "ipa": "ɡaʊt"
+  },
+  "MG": {
+    "alias": "myasthenia gravis",
+    "ipa": "maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən"
+  },
+  "MS": {
+    "alias": "multiple sclerosis",
+    "ipa": "ˈmʌltɪpl sklɪˈroʊsɪs"
+  },
+  "ALS": {
+    "alias": "amyotrophic lateral sclerosis",
+    "ipa": "əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs"
+  },
+  "GBS": {
+    "alias": "Guillain-Barré syndrome",
+    "ipa": "ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm"
+  },
+  "TBI": {
+    "alias": "traumatic brain injury",
+    "ipa": "trəˈmætɪk brɛn ɪnˈdʒʊri"
+  },
+  "PD": {
+    "alias": "Parkinson disease",
+    "ipa": "pɑːrkɪnsən ˈdɪziːz"
+  },
+  "HD": {
+    "alias": "Huntington disease",
+    "ipa": "hʌnˈtɪŋtən ˈdɪziːz"
+  },
+  "CJD": {
+    "alias": "Creutzfeldt-Jakob disease",
+    "ipa": "krʊtsfɛlt dʒækəb ˈdɪziːz"
+  },
+  "SCI": {
+    "alias": "spinal cord injury",
+    "ipa": "spaɪnəl kɔːrd ɪnˈdʒʊri"
+  },
+  "CA": {
+    "alias": "cancer",
+    "ipa": "kɑːnsər"
+  },
+  "N/V": {
+    "alias": "nausea and vomiting",
+    "ipa": "nɔːziə ənd voʊmɪtɪŋ"
+  },
+  "SOB": {
+    "alias": "shortness of breath",
+    "ipa": "ʃɔːrtnis əv brɛθ"
+  },
+  "CP": {
+    "alias": "cerebral palsy",
+    "ipa": "sɛrɪbrəl ˈpɔːlsi"
+  },
+  "N/V/D": {
+    "alias": "nausea vomiting and diarrhea",
+    "ipa": "nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə"
+  },
+  "LOC": {
+    "alias": "loss of consciousness",
+    "ipa": "lɑːs əv kɔnˈʃuːʃən"
+  },
+  "GCS": {
+    "alias": "Glasgow Coma Scale",
+    "ipa": "ɡlæsɡoʊ kɔmə skoːr"
+  },
+  "HEENT": {
+    "alias": "head eyes ears nose and throat",
+    "ipa": "hɛd aɪz ɪrz noʊz ənd θroʊt"
+  },
+  "CV": {
+    "alias": "cardiovascular",
+    "ipa": "kɑːrdjoʊˈvæskjələr"
+  },
+  "GI": {
+    "alias": "gastrointestinal",
+    "ipa": "ɡæstroʊɪnˈtɛstənəl"
+  },
+  "GU": {
+    "alias": "genitourinary",
+    "ipa": "dʒɛnɪtoʊˈrɪnəri"
+  },
+  "MSK": {
+    "alias": "musculoskeletal",
+    "ipa": "mʌskjoʊsklɪˈlɛtərəl"
+  },
+  "Neuro": {
+    "alias": "NEU-roh",
+    "ipa": "nʊˈroʊloʊdʒi"
+  },
+  "Psych": {
+    "alias": "SYKE",
+    "ipa": "saɪˈkætri"
+  },
+  "Derm": {
+    "alias": "derm",
+    "ipa": "dɜːrməˈtɑːlədʒi"
+  },
+  "ENT": {
+    "alias": "ear nose and throat",
+    "ipa": "ɪr noʊz ənd θroʊt"
+  },
+  "OB": {
+    "alias": "obstetrics",
+    "ipa": "ɑːbstəˈtrɪks"
+  },
+  "GYN": {
+    "alias": "gynecology",
+    "ipa": "ɡaɪnɪˈkɑːlədʒi"
+  },
+  "LMP": {
+    "alias": "last menstrual period",
+    "ipa": "læst mɛnstrəl ˈpɪriəd"
+  },
+  "EDC": {
+    "alias": "estimated date of confinement",
+    "ipa": "ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment"
+  },
+  "Gest": {
+    "alias": "gest",
+    "ipa": "dʒɛst"
+  },
+  "NS": {
+    "alias": "normal saline",
+    "ipa": "nɔːrməl saʊn"
+  },
+  "LR": {
+    "alias": "lactated Ringer's",
+    "ipa": "lækˈtɛtˌɪd rɪŋɡərz"
+  },
+  "D5W": {
+    "alias": "D-five-W",
+    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər"
+  },
+  "D5NS": {
+    "alias": "D-five-N-S",
+    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn"
+  },
+  "D5LR": {
+    "alias": "D-five-L-R",
+    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz"
+  },
+  "KCl": {
+    "alias": "potassium chloride",
+    "ipa": "pəˈtæsiəm klɔːraɪd"
+  },
+  "MgSO4": {
+    "alias": "mag-NEE-zee-um sul-FATE",
+    "ipa": "mæɡˈniːziəm sʌlˈfeɪt"
+  },
+  "CaCl2": {
+    "alias": "KAL-see-um KLOR-ide",
+    "ipa": "kælsiəm klɔːraɪd"
+  },
+  "NaHCO3": {
+    "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate",
+    "ipa": "soʊdiəm aɪkaɹˈbɒnət"
+  },
+  "ABG": {
+    "alias": "arterial blood gas",
+    "ipa": "ˈɑːtəriəl bluːd ɡæz"
+  },
+  "VBG": {
+    "alias": "venous blood gas",
+    "ipa": "vɛnəs bluːd ɡæz"
+  },
+  "LP": {
+    "alias": "lumbar puncture",
+    "ipa": "ˈlʌmbər ˈpʌŋktʃər"
+  },
+  "BM": {
+    "alias": "bowel movement",
+    "ipa": "baʊəl muːvmənt"
+  },
+  "PEG": {
+    "alias": "PEG",
+    "ipa": "pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi"
+  },
+  "ICD": {
+    "alias": "implantable cardioverter defibrillator",
+    "ipa": "ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+  },
+  "Pacemaker": {
+    "alias": "PACE-may-ker",
+    "ipa": "ˈpeɪsˌmeɪkər"
+  },
+  "AICD": {
+    "alias": "automatic implantable cardioverter defibrillator",
+    "ipa": "ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+  },
+  "CABG": {
+    "alias": "cabbage",
+    "ipa": "ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft"
+  },
+  "PCI": {
+    "alias": "percutaneous coronary intervention",
+    "ipa": "pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən"
+  },
+  "TAVR": {
+    "alias": "TAH-ver",
+    "ipa": "ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt"
+  },
+  "TEVAR": {
+    "alias": "TEV-ar",
+    "ipa": "ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+  },
+  "EVAR": {
+    "alias": "EE-var",
+    "ipa": "ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+  },
+  "PTCA": {
+    "alias": "percutaneous transluminal coronary angioplasty",
+    "ipa": "pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti"
+  },
+  "ETOH": {
+    "alias": "alcohol",
+    "ipa": "ˈɛθənɔːl"
+  },
+  "IVDU": {
+    "alias": "I-V drug use",
+    "ipa": "ˌɪntɹəˈviːnəs dɹʌɡ juːzər"
+  },
+  "ASA": {
+    "alias": "ASPIR-in",
+    "ipa": "ˈæspərɪn"
+  },
+  "NYD": {
+    "alias": "not yet diagnosed",
+    "ipa": "nɑːt jɛt dɪˈtɜːrmɪnd"
+  },
+  "HX": {
+    "alias": "history",
+    "ipa": "hɪˈstɒri"
+  },
+  "Sx": {
+    "alias": "symptoms",
+    "ipa": "ˈsɪmpəmz"
+  },
+  "Tx": {
+    "alias": "treatment",
+    "ipa": "ˌtrɛtmənt"
+  },
+  "Dx": {
+    "alias": "diagnosis",
+    "ipa": "ˌdaɪəɡˈnoʊsɪs"
+  },
+  "Rx": {
+    "alias": "prescription",
+    "ipa": "ˌpɝːskrɪpʃən"
+  },
+  "FHx": {
+    "alias": "family history",
+    "ipa": "ˌfæmɪli hɪˈstɒri"
+  },
+  "SHx": {
+    "alias": "social history",
+    "ipa": "ˌsɝːʒəkəl hɪˈstɒri"
+  },
+  "myocardial infarction": {
+    "alias": "my-oh-KAR-dee-al in-FARK-shun",
+    "ipa": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən"
+  },
+  "angina pectoris": {
+    "alias": "an-JY-nah PEK-tor-is",
+    "ipa": "ænˈdʒaɪnə ˈpɛktərɪs"
+  },
+  "arrhythmia": {
+    "alias": "a-RITH-mee-ah",
+    "ipa": "əˈrɪðmiə"
+  },
+  "atrial fibrillation": {
+    "alias": "AY-tree-al fib-ri-LAY-shun",
+    "ipa": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən"
+  },
+  "ventricular fibrillation": {
+    "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun",
+    "ipa": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən"
+  },
+  "tachycardia": {
+    "alias": "tak-ee-KAR-dee-ah",
+    "ipa": "ˌtækiˈkɑːrdiə"
+  },
+  "bradycardia": {
+    "alias": "brad-ee-KAR-dee-ah",
+    "ipa": "ˌbrædiˈkɑːrdiə"
+  },
+  "hypertension": {
+    "alias": "hy-per-TEN-shun",
+    "ipa": "ˌhaɪpərˈtɛnʃən"
+  },
+  "hypotension": {
+    "alias": "hy-poh-TEN-shun",
+    "ipa": "ˌhaɪpoʊˈtɛnʃən"
+  },
+  "atherosclerosis": {
+    "alias": "ath-er-oh-skleh-ROH-sis",
+    "ipa": "ˌæθəroʊskləˈroʊsɪs"
+  },
+  "endocarditis": {
+    "alias": "en-doh-kar-DY-tis",
+    "ipa": "ˌɛndoʊkɑːrˈdaɪtɪs"
+  },
+  "pericarditis": {
+    "alias": "per-ee-kar-DY-tis",
+    "ipa": "ˌpɛrɪkɑːrˈdaɪtɪs"
+  },
+  "myocarditis": {
+    "alias": "my-oh-kar-DY-tis",
+    "ipa": "ˌmaɪoʊkɑːrˈdaɪtɪs"
+  },
+  "cardiomyopathy": {
+    "alias": "kar-dee-oh-my-OP-ah-thee",
+    "ipa": "ˌkɑːrdioʊmaɪˈɑːpəθi"
+  },
+  "thromboembolism": {
+    "alias": "throm-boh-EM-boh-liz-um",
+    "ipa": "ˌθrɑːmboʊˈɛmbəlɪzəm"
+  },
+  "thrombophlebitis": {
+    "alias": "throm-boh-fleh-BY-tis",
+    "ipa": "ˌθrɑːmboʊflɪˈbaɪtɪs"
+  },
+  "phlebitis": {
+    "alias": "fleh-BY-tis",
+    "ipa": "flɪˈbaɪtɪs"
+  },
+  "embolism": {
+    "alias": "EM-boh-liz-um",
+    "ipa": "ˈɛmbəlɪzəm"
+  },
+  "stenosis": {
+    "alias": "steh-NOH-sis",
+    "ipa": "stɪˈnoʊsɪs"
+  },
+  "regurgitation": {
+    "alias": "ree-gur-ji-TAY-shun",
+    "ipa": "rɪˌɡɝːdʒɪˈteɪʃən"
+  },
+  "prolapse": {
+    "alias": "proh-LAPS",
+    "ipa": "proʊˈlæps"
+  },
+  "aneurysm": {
+    "alias": "AN-yoo-riz-um",
+    "ipa": "ˈænjərɪzəm"
+  },
+  "dissection": {
+    "alias": "dy-SEK-shun",
+    "ipa": "dɪˈsɛkʃən"
+  },
+  "ischemia": {
+    "alias": "is-KEE-mee-ah",
+    "ipa": "ɪˈskimiə"
+  },
+  "infarction": {
+    "alias": "in-FARK-shun",
+    "ipa": "ɪnˈfɑːrkʃən"
+  },
+  "reperfusion": {
+    "alias": "REE-per-FYOO-zhun",
+    "ipa": "ˌriːpərˈfjuːʒən"
+  },
+  "hypercholesterolemia": {
+    "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah",
+    "ipa": "ˌhaɪpərkəˌlɛstərəˈliːmiə"
+  },
+  "hypertriglyceridemia": {
+    "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah",
+    "ipa": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə"
+  },
+  "hypoalbuminemia": {
+    "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah",
+    "ipa": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə"
+  },
+  "pneumonia": {
+    "alias": "noo-MOHN-yah",
+    "ipa": "nuːˈmoʊnjə"
+  },
+  "bronchitis": {
+    "alias": "brong-KY-tis",
+    "ipa": "brɑːŋˈkaɪtɪs"
+  },
+  "bronchiectasis": {
+    "alias": "brong-kee-EK-tah-sis",
+    "ipa": "ˌbrɑːŋkiˈɛktəsɪs"
+  },
+  "emphysema": {
+    "alias": "em-fih-SEE-mah",
+    "ipa": "ˌɛmfɪˈsiːmə"
+  },
+  "pneumothorax": {
+    "alias": "noo-moh-THOR-aks",
+    "ipa": "ˌnuːmoʊˈθɔːræks"
+  },
+  "hemothorax": {
+    "alias": "hee-moh-THOR-aks",
+    "ipa": "ˌhiːmoʊˈθɔːræks"
+  },
+  "pleural effusion": {
+    "alias": "PLOO-ral eh-FYOO-zhun",
+    "ipa": "ˈplʊrəl ɪˈfjuːʒən"
+  },
+  "pleurisy": {
+    "alias": "PLOO-rih-see",
+    "ipa": "ˈplʊrɪsi"
+  },
+  "atelectasis": {
+    "alias": "at-ih-LEK-tah-sis",
+    "ipa": "ˌætəˈlɛktəsɪs"
+  },
+  "pulmonary embolism": {
+    "alias": "PUL-moh-nair-ee EM-bol-izm",
+    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
+  },
+  "pulmonary edema": {
+    "alias": "PUL-moh-nair-ee eh-DEE-mah",
+    "ipa": "ˈpʊlməˌnɛri ɪˈdiːmə"
+  },
+  "pulmonary fibrosis": {
+    "alias": "PUL-moh-nair-ee fy-BROH-sis",
+    "ipa": "ˈpʊlməˌnɛri faɪˈbroʊsɪs"
+  },
+  "sarcoidosis": {
+    "alias": "SAR-koy-DOH-sis",
+    "ipa": "ˌsɑːrkɔɪˈdoʊsɪs"
+  },
+  "tuberculosis": {
+    "alias": "too-BER-kyoo-LOH-sis",
+    "ipa": "tuːˌbɜːrkjəˈloʊsɪs"
+  },
+  "hypoxia": {
+    "alias": "hy-POK-see-ah",
+    "ipa": "haɪˈpɑːksiə"
+  },
+  "hypercapnia": {
+    "alias": "hy-per-KAP-nee-ah",
+    "ipa": "ˌhaɪpərˈkæpniə"
+  },
+  "respiratory failure": {
+    "alias": "RES-pih-rah-tor-ee FAYL-yer",
+    "ipa": "ˈrɛspərəˌtɔːri ˈfeɪljər"
+  },
+  "apnea": {
+    "alias": "AP-nee-ah",
+    "ipa": "æpˈniːə"
+  },
+  "dyspnea": {
+    "alias": "DISP-nee-ah",
+    "ipa": "dɪspˈniːə"
+  },
+  "hemoptysis": {
+    "alias": "hee-MOP-tih-sis",
+    "ipa": "hɪˈmɑːptəsɪs"
+  },
+  "stridor": {
+    "alias": "STRY-dor",
+    "ipa": "ˈstraɪdɔːr"
+  },
+  "wheezing": {
+    "alias": "WEE-zing",
+    "ipa": "ˈwiːzɪŋ"
+  },
+  "coryza": {
+    "alias": "koh-RY-zah",
+    "ipa": "kəˈraɪzə"
+  },
+  "gastroesophageal reflux": {
+    "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks",
+    "ipa": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks"
+  },
+  "esophagitis": {
+    "alias": "ee-sof-ah-JY-tis",
+    "ipa": "ɪˌsɑːfəˈdʒaɪtɪs"
+  },
+  "gastritis": {
+    "alias": "gas-TRY-tis",
+    "ipa": "ɡæˈstraɪtɪs"
+  },
+  "peptic ulcer": {
+    "alias": "PEP-tik UL-ser",
+    "ipa": "ˈpɛptɪk ˈʌlsɚ"
+  },
+  "gastroenteritis": {
+    "alias": "gas-tro-en-ter-EYE-tis",
+    "ipa": "ˌɡæstroʊˌɛntɚˈaɪtɪs"
+  },
+  "colitis": {
+    "alias": "ko-LYE-tis",
+    "ipa": "kəˈlaɪtɪs"
+  },
+  "ulcerative colitis": {
+    "alias": "UL-ser-a-tiv ko-LYE-tis",
+    "ipa": "ˈʌlsɚətɪv kəˈlaɪtɪs"
+  },
+  "Crohn's disease": {
+    "alias": "KROHNZ dih-ZEEZ",
+    "ipa": "kroʊnz dɪˈziz"
+  },
+  "diverticulitis": {
+    "alias": "dye-ver-tik-yoo-LYE-tis",
+    "ipa": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs"
+  },
+  "appendicitis": {
+    "alias": "a-pen-dih-SYE-tis",
+    "ipa": "əˌpɛndɪˈsaɪtɪs"
+  },
+  "cholecystitis": {
+    "alias": "ko-luh-sis-TYE-tis",
+    "ipa": "ˌkoʊləsɪˈstaɪtɪs"
+  },
+  "pancreatitis": {
+    "alias": "pan-kree-a-TYE-tis",
+    "ipa": "ˌpæŋkriəˈtaɪtɪs"
+  },
+  "hepatitis": {
+    "alias": "hep-a-TYE-tis",
+    "ipa": "ˌhɛpəˈtaɪtɪs"
+  },
+  "cirrhosis": {
+    "alias": "sir-OH-sis",
+    "ipa": "sɪˈroʊsɪs"
+  },
+  "cholestasis": {
+    "alias": "ko-luh-STAY-sis",
+    "ipa": "ˌkoʊləˈsteɪsɪs"
+  },
+  "steatosis": {
+    "alias": "stee-a-TOH-sis",
+    "ipa": "ˌstiəˈtoʊsɪs"
+  },
+  "steatohepatitis": {
+    "alias": "stee-a-toh-hep-a-TYE-tis",
+    "ipa": "ˌstiətoʊˌhɛpəˈtaɪtɪs"
+  },
+  "peritonitis": {
+    "alias": "pair-ih-toh-NYE-tis",
+    "ipa": "ˌpɛrɪtəˈnaɪtɪs"
+  },
+  "ileus": {
+    "alias": "IL-ee-us",
+    "ipa": "ˈɪliəs"
+  },
+  "intussusception": {
+    "alias": "in-tuh-suh-SEP-shun",
+    "ipa": "ˌɪntəsəˈsɛpʃən"
+  },
+  "volvulus": {
+    "alias": "VOL-vyoo-lus",
+    "ipa": "ˈvɑlvjələs"
+  },
+  "hematemesis": {
+    "alias": "hee-ma-TEM-eh-sis",
+    "ipa": "ˌhɛməˈtɛməsɪs"
+  },
+  "melena": {
+    "alias": "muh-LEE-na",
+    "ipa": "məˈlinə"
+  },
+  "hematochezia": {
+    "alias": "hee-ma-toh-KEE-zee-a",
+    "ipa": "ˌhɛmətoʊˈkiʒə"
+  },
+  "choledocholithiasis": {
+    "alias": "ko-led-oh-ko-lih-THIGH-a-sis",
+    "ipa": "kəˌlɛdəkoʊˌlɪθaɪəsɪs"
+  },
+  "cholelithiasis": {
+    "alias": "ko-luh-lih-THIGH-a-sis",
+    "ipa": "ˌkoʊləlɪˈθaɪəsɪs"
+  },
+  "nephrolithiasis": {
+    "alias": "nef-ro-lih-THIGH-a-sis",
+    "ipa": "ˌnɛfroʊlɪˈθaɪəsɪs"
+  },
+  "sialadenitis": {
+    "alias": "sigh-al-a-deh-NYE-tis",
+    "ipa": "ˌsaɪəlædəˈnaɪtɪs"
+  },
+  "nephritis": {
+    "alias": "neh-FRY-tis",
+    "ipa": "nəˈfraɪtɪs"
+  },
+  "nephrosis": {
+    "alias": "neh-FROH-sis",
+    "ipa": "nəˈfroʊsɪs"
+  },
+  "glomerulonephritis": {
+    "alias": "gloh-mer-yoo-loh-neh-FRY-tis",
+    "ipa": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs"
+  },
+  "pyelonephritis": {
+    "alias": "pye-eh-loh-neh-FRY-tis",
+    "ipa": "ˌpaɪəloʊnəˈfraɪtɪs"
+  },
+  "cystitis": {
+    "alias": "sis-TYE-tis",
+    "ipa": "sɪˈstaɪtɪs"
+  },
+  "urethritis": {
+    "alias": "yoo-reh-THRY-tis",
+    "ipa": "ˌjʊrɪˈθraɪtɪs"
+  },
+  "ureterolithiasis": {
+    "alias": "yoo-REH-ter-oh-lih-THY-ah-sis",
+    "ipa": "jʊˌrɛtərəlɪˈθaɪəsɪs"
+  },
+  "hydronephrosis": {
+    "alias": "HY-droh-neh-FROH-sis",
+    "ipa": "ˌhaɪdrənɛˈfroʊsɪs"
+  },
+  "oliguria": {
+    "alias": "oh-lih-GYOO-ree-ah",
+    "ipa": "ˌɑlɪˈɡjʊriə"
+  },
+  "anuria": {
+    "alias": "an-YOO-ree-ah",
+    "ipa": "əˈnjʊriə"
+  },
+  "hematuria": {
+    "alias": "HEE-mah-TOO-ree-ah",
+    "ipa": "ˌhɛməˈtʊriə"
+  },
+  "proteinuria": {
+    "alias": "PROH-tee-NYOO-ree-ah",
+    "ipa": "ˌproʊtiˈnʊriə"
+  },
+  "dysuria": {
+    "alias": "dis-YOO-ree-ah",
+    "ipa": "dɪsˈjʊriə"
+  },
+  "incontinence": {
+    "alias": "in-KON-tih-nens",
+    "ipa": "ɪnˈkɑntɪnəns"
+  },
+  "retention": {
+    "alias": "ree-TEN-shun",
+    "ipa": "rɪˈtɛnʃən"
+  },
+  "azoospermia": {
+    "alias": "AY-zoh-oh-SPER-mee-ah",
+    "ipa": "eɪˌzoʊəˈspɜrmiə"
+  },
+  "oligospermia": {
+    "alias": "OH-lih-goh-SPER-mee-ah",
+    "ipa": "ˌɑlɪɡoʊˈspɜrmiə"
+  },
+  "encephalopathy": {
+    "alias": "en-SEH-fah-LOP-ah-thee",
+    "ipa": "ɛnˌsɛfəˈlɑpəθi"
+  },
+  "encephalitis": {
+    "alias": "en-SEH-fah-LY-tis",
+    "ipa": "ɛnˌsɛfəˈlaɪtɪs"
+  },
+  "meningitis": {
+    "alias": "MEH-nin-JY-tis",
+    "ipa": "ˌmɛnɪnˈdʒaɪtɪs"
+  },
+  "myelitis": {
+    "alias": "MY-eh-LY-tis",
+    "ipa": "ˌmaɪəˈlaɪtɪs"
+  },
+  "neuropathy": {
+    "alias": "nyoo-ROP-ah-thee",
+    "ipa": "nʊˈrɑpəθi"
+  },
+  "radiculopathy": {
+    "alias": "rah-DIK-yoo-LOP-ah-thee",
+    "ipa": "rəˌdɪkjəˈlɑpəθi"
+  },
+  "myelopathy": {
+    "alias": "MY-eh-LOP-ah-thee",
+    "ipa": "ˌmaɪəˈlɑpəθi"
+  },
+  "ataxia": {
+    "alias": "ah-TAK-see-ah",
+    "ipa": "əˈtæksiə"
+  },
+  "dysarthria": {
+    "alias": "dis-AR-three-ah",
+    "ipa": "dɪsˈɑrθriə"
+  },
+  "aphasia": {
+    "alias": "ah-FAY-zhah",
+    "ipa": "əˈfeɪʒə"
+  },
+  "apraxia": {
+    "alias": "ah-PRAK-see-ah",
+    "ipa": "əˈpræksiə"
+  },
+  "agnosia": {
+    "alias": "ag-NOH-zhah",
+    "ipa": "æɡˈnoʊʒə"
+  },
+  "anomia": {
+    "alias": "ah-NOH-mee-ah",
+    "ipa": "əˈnoʊmiə"
+  },
+  "dysphagia": {
+    "alias": "dis-FAY-jah",
+    "ipa": "dɪsˈfeɪdʒə"
+  },
+  "dysphonia": {
+    "alias": "dis-FOH-nee-ah",
+    "ipa": "dɪsˈfoʊniə"
+  },
+  "dyskinesia": {
+    "alias": "dis-kih-NEE-zhah",
+    "ipa": "ˌdɪskɪˈniʒə"
+  },
+  "myoclonus": {
+    "alias": "my-OK-loh-nus",
+    "ipa": "maɪˈɑklənəs"
+  },
+  "chorea": {
+    "alias": "koh-REE-ah",
+    "ipa": "kəˈriə"
+  },
+  "athetosis": {
+    "alias": "ATH-eh-TOE-sis",
+    "ipa": "ˌæθəˈtoʊsɪs"
+  },
+  "dystonia": {
+    "alias": "dis-TOE-nee-ah",
+    "ipa": "dɪsˈtoʊniə"
+  },
+  "tremor": {
+    "alias": "TREM-or",
+    "ipa": "ˈtrɛmər"
+  },
+  "fasciculation": {
+    "alias": "fa-SIK-yoo-LAY-shun",
+    "ipa": "fəˌsɪkjəˈleɪʃən"
+  },
+  "clonus": {
+    "alias": "KLOH-nus",
+    "ipa": "ˈkloʊnəs"
+  },
+  "nystagmus": {
+    "alias": "nis-TAG-mus",
+    "ipa": "nɪˈstæɡməs"
+  },
+  "ptosis": {
+    "alias": "TOE-sis",
+    "ipa": "ˈtoʊsɪs"
+  },
+  "miosis": {
+    "alias": "my-OH-sis",
+    "ipa": "maɪˈoʊsɪs"
+  },
+  "mydriasis": {
+    "alias": "mi-DRY-ah-sis",
+    "ipa": "mɪˈdraɪəsɪs"
+  },
+  "anisocoria": {
+    "alias": "an-EYE-so-KOR-ee-ah",
+    "ipa": "ænˌaɪsəˈkɔriə"
+  },
+  "hyperreflexia": {
+    "alias": "HY-per-re-FLEK-see-ah",
+    "ipa": "ˌhaɪpərrɪˈflɛksiə"
+  },
+  "hyporeflexia": {
+    "alias": "HY-po-re-FLEK-see-ah",
+    "ipa": "ˌhaɪpɔrɪˈflɛksiə"
+  },
+  "Babinski": {
+    "alias": "ba-BIN-skee",
+    "ipa": "bəˈbɪnski"
+  },
+  "paresthesia": {
+    "alias": "par-es-THEE-zhah",
+    "ipa": "ˌpærəsˈθiʒə"
+  },
+  "anesthesia": {
+    "alias": "an-es-THEE-zhah",
+    "ipa": "ˌænəsˈθiʒə"
+  },
+  "hyperesthesia": {
+    "alias": "HY-per-es-THEE-zhah",
+    "ipa": "ˌhaɪpərəsˈθiʒə"
+  },
+  "dysesthesia": {
+    "alias": "dis-es-THEE-zhah",
+    "ipa": "ˌdɪsəsˈθiʒə"
+  },
+  "neuralgia": {
+    "alias": "nyoo-RAL-jah",
+    "ipa": "nʊˈrældʒə"
+  },
+  "neuritis": {
+    "alias": "nyoo-RY-tis",
+    "ipa": "nʊˈraɪtɪs"
+  },
+  "sciatica": {
+    "alias": "sy-AT-ik-ah",
+    "ipa": "saɪˈætɪkə"
+  },
+  "trigeminal": {
+    "alias": "try-JEM-in-al",
+    "ipa": "traɪˈdʒɛmɪnəl"
+  },
+  "prosopagnosia": {
+    "alias": "PROS-oh-pag-NOH-zhah",
+    "ipa": "ˌprɑsəpæɡˈnoʊʒə"
+  },
+  "hyperthyroidism": {
+    "alias": "HY-per-THY-roy-dizm",
+    "ipa": "ˌhaɪpərˈθaɪrɔɪdɪzəm"
+  },
+  "hypothyroidism": {
+    "alias": "HY-po-THY-roy-dizm",
+    "ipa": "ˌhaɪpəˈθaɪrɔɪdɪzəm"
+  },
+  "thyrotoxicosis": {
+    "alias": "THY-ro-TOK-sih-KOH-sis",
+    "ipa": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs"
+  },
+  "myxedema": {
+    "alias": "mik-seh-DEE-mah",
+    "ipa": "ˌmɪksəˈdiːmə"
+  },
+  "hyperparathyroidism": {
+    "alias": "HY-per-PAR-ah-THY-roy-dizm",
+    "ipa": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm"
+  },
+  "hypoparathyroidism": {
+    "alias": "HY-po-PAR-ah-THY-roy-dizm",
+    "ipa": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm"
+  },
+  "hypercalcemia": {
+    "alias": "HY-per-kal-SEE-mee-ah",
+    "ipa": "ˌhaɪpərkælˈsiːmiə"
+  },
+  "hypocalcemia": {
+    "alias": "HY-po-kal-SEE-mee-ah",
+    "ipa": "ˌhaɪpəkælˈsiːmiə"
+  },
+  "hyperkalemia": {
+    "alias": "hy-per-kah-LEE-mee-ah",
+    "ipa": "ˌhaɪpərkəˈliːmiə"
+  },
+  "hypokalemia": {
+    "alias": "hy-poh-kah-LEE-mee-ah",
+    "ipa": "ˌhaɪpoʊkəˈliːmiə"
+  },
+  "hypernatremia": {
+    "alias": "hy-per-nah-TREE-mee-ah",
+    "ipa": "ˌhaɪpərnəˈtriːmiə"
+  },
+  "hyponatremia": {
+    "alias": "hy-poh-nah-TREE-mee-ah",
+    "ipa": "ˌhaɪpoʊnəˈtriːmiə"
+  },
+  "hypomagnesemia": {
+    "alias": "hy-poh-mag-neh-SEE-mee-ah",
+    "ipa": "ˌhaɪpoʊmæɡnəˈsiːmiə"
+  },
+  "hypermagnesemia": {
+    "alias": "hy-per-mag-neh-SEE-mee-ah",
+    "ipa": "ˌhaɪpərmæɡnəˈsiːmiə"
+  },
+  "hypophosphatemia": {
+    "alias": "hy-poh-fos-fah-TEE-mee-ah",
+    "ipa": "ˌhaɪpoʊfɑːsfəˈtiːmiə"
+  },
+  "hyperphosphatemia": {
+    "alias": "hy-per-fos-fah-TEE-mee-ah",
+    "ipa": "ˌhaɪpərfɑːsfəˈtiːmiə"
+  },
+  "acidosis": {
+    "alias": "ah-sih-DOH-sis",
+    "ipa": "ˌæsɪˈdoʊsɪs"
+  },
+  "alkalosis": {
+    "alias": "al-kah-LOH-sis",
+    "ipa": "ˌælkəˈloʊsɪs"
+  },
+  "ketoacidosis": {
+    "alias": "kee-toh-ah-sih-DOH-sis",
+    "ipa": "ˌkiːtoʊˌæsɪˈdoʊsɪs"
+  },
+  "hypoglycemia": {
+    "alias": "hy-poh-gly-SEE-mee-ah",
+    "ipa": "ˌhaɪpoʊɡlaɪˈsiːmiə"
+  },
+  "hyperglycemia": {
+    "alias": "hy-per-gly-SEE-mee-ah",
+    "ipa": "ˌhaɪpərɡlaɪˈsiːmiə"
+  },
+  "insulinoma": {
+    "alias": "in-suh-lih-NOH-mah",
+    "ipa": "ˌɪnsəlɪˈnoʊmə"
+  },
+  "pheochromocytoma": {
+    "alias": "fee-oh-kroh-moh-sy-TOH-mah",
+    "ipa": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə"
+  },
+  "anemia": {
+    "alias": "ah-NEE-mee-ah",
+    "ipa": "əˈniːmiə"
+  },
+  "polycythemia": {
+    "alias": "pol-ee-sy-THEE-mee-ah",
+    "ipa": "ˌpɑːlɪsaɪˈθiːmiə"
+  },
+  "thrombocytopenia": {
+    "alias": "throm-boh-sy-toh-PEE-nee-ah",
+    "ipa": "ˌθrɑːmboʊˌsaɪtəˈpiːniə"
+  },
+  "thrombocytosis": {
+    "alias": "throm-boh-sy-TOH-sis",
+    "ipa": "ˌθrɑːmboʊsaɪˈtoʊsɪs"
+  },
+  "leukopenia": {
+    "alias": "loo-koh-PEE-nee-ah",
+    "ipa": "ˌluːkəˈpiːniə"
+  },
+  "leukocytosis": {
+    "alias": "loo-koh-sy-TOH-sis",
+    "ipa": "ˌluːkəsaɪˈtoʊsɪs"
+  },
+  "neutropenia": {
+    "alias": "noo-troh-PEE-nee-ah",
+    "ipa": "ˌnuːtrəˈpiːniə"
+  },
+  "neutrophilia": {
+    "alias": "noo-troh-FIL-ee-ah",
+    "ipa": "ˌnuːtrəˈfɪliə"
+  },
+  "lymphopenia": {
+    "alias": "lim-foh-PEE-nee-ah",
+    "ipa": "ˌlɪmfəˈpiːniə"
+  },
+  "lymphocytosis": {
+    "alias": "lim-foh-sy-TOH-sis",
+    "ipa": "ˌlɪmfəsaɪˈtoʊsɪs"
+  },
+  "monocytosis": {
+    "alias": "mon-oh-sy-TOH-sis",
+    "ipa": "ˌmɑːnəsaɪˈtoʊsɪs"
+  },
+  "eosinophilia": {
+    "alias": "ee-oh-sin-oh-FIL-ee-ah",
+    "ipa": "ˌiːəˌsɪnəˈfɪliə"
+  },
+  "basophilia": {
+    "alias": "bay-soh-FIL-ee-ah",
+    "ipa": "ˌbeɪsəˈfɪliə"
+  },
+  "pancytopenia": {
+    "alias": "pan-sy-toh-PEE-nee-ah",
+    "ipa": "ˌpænsaɪtəˈpiːniə"
+  },
+  "hemophilia": {
+    "alias": "hee-moh-FIL-ee-ah",
+    "ipa": "ˌhiːməˈfɪliə"
+  },
+  "thrombophilia": {
+    "alias": "throm-bo-FIL-ee-ah",
+    "ipa": "ˌθrɒmboʊˈfɪliə"
+  },
+  "purpura": {
+    "alias": "PUR-pur-ah",
+    "ipa": "ˈpɜːrpjʊrə"
+  },
+  "petechiae": {
+    "alias": "pe-TEE-kee-eye",
+    "ipa": "pɪˈtɛkiaɪ"
+  },
+  "ecchymosis": {
+    "alias": "ek-ih-MOH-sis",
+    "ipa": "ˌɛkɪˈmoʊsɪs"
+  },
+  "hematoma": {
+    "alias": "hee-mah-TOH-mah",
+    "ipa": "ˌhɛməˈtoʊmə"
+  },
+  "hemolysis": {
+    "alias": "hee-MOL-ih-sis",
+    "ipa": "hɪˈmɒlɪsɪs"
+  },
+  "cellulitis": {
+    "alias": "sel-yoo-LY-tis",
+    "ipa": "ˌsɛljuˈlaɪtɪs"
+  },
+  "abscess": {
+    "alias": "AB-ses",
+    "ipa": "ˈæbsɛs"
+  },
+  "furuncle": {
+    "alias": "FYOOR-ung-kul",
+    "ipa": "ˈfjʊrʌŋkəl"
+  },
+  "carbuncle": {
+    "alias": "KAR-bung-kul",
+    "ipa": "ˈkɑːrbʌŋkəl"
+  },
+  "impetigo": {
+    "alias": "im-peh-TY-goh",
+    "ipa": "ˌɪmpɪˈtaɪgoʊ"
+  },
+  "erysipelas": {
+    "alias": "er-ih-SIP-eh-las",
+    "ipa": "ˌɛrɪˈsɪpələs"
+  },
+  "necrotizing fasciitis": {
+    "alias": "NEK-roh-ty-zing fash-ee-EYE-tis",
+    "ipa": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs"
+  },
+  "osteomyelitis": {
+    "alias": "os-tee-oh-my-eh-LY-tis",
+    "ipa": "ˌɒstioʊˌmaɪəˈlaɪtɪs"
+  },
+  "septic arthritis": {
+    "alias": "SEP-tik ar-THRY-tis",
+    "ipa": "ˈsɛptɪk ɑːrˈθraɪtɪs"
+  },
+  "sepsis": {
+    "alias": "SEP-sis",
+    "ipa": "ˈsɛpsɪs"
+  },
+  "septicemia": {
+    "alias": "sep-tih-SEE-mee-ah",
+    "ipa": "ˌsɛptɪˈsiːmiə"
+  },
+  "bacteremia": {
+    "alias": "bak-ter-EE-mee-ah",
+    "ipa": "ˌbæktəˈriːmiə"
+  },
+  "viremia": {
+    "alias": "vy-REE-mee-ah",
+    "ipa": "vaɪˈriːmiə"
+  },
+  "fungemia": {
+    "alias": "fun-JEE-mee-ah",
+    "ipa": "fʌnˈdʒiːmiə"
+  },
+  "parasitemia": {
+    "alias": "par-ah-sih-TEE-mee-ah",
+    "ipa": "ˌpærəsaɪˈtiːmiə"
+  },
+  "endotoxemia": {
+    "alias": "en-doh-tok-SEE-mee-ah",
+    "ipa": "ˌɛndoʊtɒkˈsiːmiə"
+  },
+  "erythema": {
+    "alias": "er-ih-THEE-mah",
+    "ipa": "ˌɛrɪˈθiːmə"
+  },
+  "urticaria": {
+    "alias": "ur-tih-KAR-ee-ah",
+    "ipa": "ˌɜːrtɪˈkɛriə"
+  },
+  "pruritus": {
+    "alias": "proo-RY-tus",
+    "ipa": "prʊˈraɪtəs"
+  },
+  "eczema": {
+    "alias": "EK-zeh-mah",
+    "ipa": "ˈɛksɪmə"
+  },
+  "psoriasis": {
+    "alias": "soh-RY-ah-sis",
+    "ipa": "səˈraɪəsɪs"
+  },
+  "lichenification": {
+    "alias": "ly-ken-ih-fih-KAY-shun",
+    "ipa": "lɪˌkɛnɪfɪˈkeɪʃən"
+  },
+  "excoriation": {
+    "alias": "eks-kor-ee-AY-shun",
+    "ipa": "ɪkˌskɔːriˈeɪʃən"
+  },
+  "vesicle": {
+    "alias": "VES-ih-kul",
+    "ipa": "ˈvɛsɪkəl"
+  },
+  "bulla": {
+    "alias": "BULL-ah",
+    "ipa": "ˈbʊlə"
+  },
+  "pustule": {
+    "alias": "PUS-chool",
+    "ipa": "ˈpʌstʃul"
+  },
+  "macule": {
+    "alias": "MAK-yool",
+    "ipa": "ˈmækjuːl"
+  },
+  "papule": {
+    "alias": "PAP-yool",
+    "ipa": "ˈpæpjuːl"
+  },
+  "nodule": {
+    "alias": "NOD-yool",
+    "ipa": "ˈnɑːdjuːl"
+  },
+  "plaque": {
+    "alias": "PLAK",
+    "ipa": "plæk"
+  },
+  "scale": {
+    "alias": "SKAYL",
+    "ipa": "skeɪl"
+  },
+  "crust": {
+    "alias": "KRUST",
+    "ipa": "krʌst"
+  },
+  "erosion": {
+    "alias": "ee-ROH-zhun",
+    "ipa": "ɪˈroʊʒən"
+  },
+  "ulcer": {
+    "alias": "UL-ser",
+    "ipa": "ˈʌlsər"
+  },
+  "fissure": {
+    "alias": "FISH-ur",
+    "ipa": "ˈfɪʃər"
+  },
+  "atrophy": {
+    "alias": "AT-roh-fee",
+    "ipa": "ˈætrəfi"
+  },
+  "sclerosis": {
+    "alias": "skleh-ROH-sis",
+    "ipa": "skləˈroʊsɪs"
+  },
+  "appendectomy": {
+    "alias": "ap-en-DEK-toh-mee",
+    "ipa": "ˌæpənˈdɛktəmi"
+  },
+  "cholecystectomy": {
+    "alias": "koh-leh-sis-TEK-toh-mee",
+    "ipa": "ˌkoʊləsɪˈstɛktəmi"
+  },
+  "herniorrhaphy": {
+    "alias": "her-nee-OR-ah-fee",
+    "ipa": "ˌhɜːrniˈɔːrəfi"
+  },
+  "colostomy": {
+    "alias": "koh-LOS-toh-mee",
+    "ipa": "kəˈlɑːstəmi"
+  },
+  "ileostomy": {
+    "alias": "il-ee-OS-toh-mee",
+    "ipa": "ˌɪliˈɑːstəmi"
+  },
+  "nephrectomy": {
+    "alias": "neh-FREK-toh-mee",
+    "ipa": "nəˈfrɛktəmi"
+  },
+  "hysterectomy": {
+    "alias": "his-teh-REK-toh-mee",
+    "ipa": "ˌhɪstəˈrɛktəmi"
+  },
+  "mastectomy": {
+    "alias": "mas-TEK-toh-mee",
+    "ipa": "mæˈstɛktəmi"
+  },
+  "thyroidectomy": {
+    "alias": "thy-roy-DEK-toh-mee",
+    "ipa": "ˌθaɪrɔɪˈdɛktəmi"
+  },
+  "parathyroidectomy": {
+    "alias": "par-ah-thy-roy-DEK-toh-mee",
+    "ipa": "ˌpærəˌθaɪrɔɪˈdɛktəmi"
+  },
+  "adrenalectomy": {
+    "alias": "ad-reh-nal-EK-toh-mee",
+    "ipa": "əˌdriːnəˈlɛktəmi"
+  },
+  "splenectomy": {
+    "alias": "spleh-NEK-toh-mee",
+    "ipa": "spliˈnɛktəmi"
+  },
+  "pancreatectomy": {
+    "alias": "pan-kree-ah-TEK-toh-mee",
+    "ipa": "ˌpæŋkriəˈtɛktəmi"
+  },
+  "esophagectomy": {
+    "alias": "eh-sof-ah-JEK-toh-mee",
+    "ipa": "iːˌsɑːfəˈdʒɛktəmi"
+  },
+  "gastrectomy": {
+    "alias": "gas-TREK-toh-mee",
+    "ipa": "ɡæˈstrɛktəmi"
+  },
+  "colectomy": {
+    "alias": "koh-LEK-toh-mee",
+    "ipa": "kəˈlɛktəmi"
+  },
+  "proctectomy": {
+    "alias": "prok-TEK-toh-mee",
+    "ipa": "prɑːkˈtɛktəmi"
+  },
+  "cystectomy": {
+    "alias": "sis-TEK-toh-mee",
+    "ipa": "sɪˈstɛktəmi"
+  },
+  "nephrostomy": {
+    "alias": "neh-FROS-toh-mee",
+    "ipa": "nəˈfrɑstəmi"
+  },
+  "ureterostomy": {
+    "alias": "yoo-REE-ter-OS-toh-mee",
+    "ipa": "jʊˌriːtəˈrɑstəmi"
+  },
+  "tracheostomy": {
+    "alias": "TRAY-kee-OS-toh-mee",
+    "ipa": "ˌtreɪkiˈɑstəmi"
+  },
+  "cricothyroidotomy": {
+    "alias": "KRY-koh-thy-ROY-DOT-oh-mee",
+    "ipa": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi"
+  },
+  "thoracotomy": {
+    "alias": "thor-ah-KOT-oh-mee",
+    "ipa": "ˌθɔːrəˈkɑtəmi"
+  },
+  "sternotomy": {
+    "alias": "ster-NOT-oh-mee",
+    "ipa": "stɜːrˈnɑtəmi"
+  },
+  "laparotomy": {
+    "alias": "lap-ah-ROT-oh-mee",
+    "ipa": "ˌlæpəˈrɑtəmi"
+  },
+  "celiotomy": {
+    "alias": "see-lee-OT-oh-mee",
+    "ipa": "ˌsiːliˈɑtəmi"
+  },
+  "arthroscopy": {
+    "alias": "ar-THROS-koh-pee",
+    "ipa": "ɑːrˈθrɑskəpi"
+  },
+  "bronchoscopy": {
+    "alias": "brong-KOS-koh-pee",
+    "ipa": "brɑŋˈkɑskəpi"
+  },
+  "colonoscopy": {
+    "alias": "KOH-lon-OS-koh-pee",
+    "ipa": "ˌkoʊləˈnɑskəpi"
+  },
+  "endoscopy": {
+    "alias": "en-DOS-koh-pee",
+    "ipa": "ɛnˈdɑskəpi"
+  },
+  "gastroscopy": {
+    "alias": "gas-TROS-koh-pee",
+    "ipa": "ɡæˈstrɑskəpi"
+  },
+  "sigmoidoscopy": {
+    "alias": "sig-moy-DOS-koh-pee",
+    "ipa": "ˌsɪɡmɔɪˈdɑskəpi"
+  },
+  "cystoscopy": {
+    "alias": "sis-TOS-koh-pee",
+    "ipa": "sɪˈstɑskəpi"
+  },
+  "colposcopy": {
+    "alias": "kol-POS-koh-pee",
+    "ipa": "kɑlˈpɑskəpi"
+  },
+  "hysteroscopy": {
+    "alias": "his-ter-OS-koh-pee",
+    "ipa": "ˌhɪstəˈrɑskəpi"
+  },
+  "laparoscopy": {
+    "alias": "lap-ah-ROS-koh-pee",
+    "ipa": "ˌlæpəˈrɑskəpi"
+  },
+  "thoracoscopy": {
+    "alias": "thor-ah-KOS-koh-pee",
+    "ipa": "ˌθɔːrəˈkɑskəpi"
+  },
+  "mediastinoscopy": {
+    "alias": "MEE-dee-ah-stih-NOS-koh-pee",
+    "ipa": "ˌmiːdiˌæstəˈnɑskəpi"
+  },
+  "arthroplasty": {
+    "alias": "AR-throh-plas-tee",
+    "ipa": "ˈɑːrθroʊˌplæsti"
+  },
+  "osteotomy": {
+    "alias": "os-tee-OT-oh-mee",
+    "ipa": "ˌɑːstiˈɑtəmi"
+  },
+  "craniotomy": {
+    "alias": "KRAY-nee-OT-oh-mee",
+    "ipa": "ˌkreɪniˈɑtəmi"
+  },
+  "laminectomy": {
+    "alias": "lam-ih-NEK-toh-mee",
+    "ipa": "ˌlæməˈnɛktəmi"
+  },
+  "discectomy": {
+    "alias": "dis-EK-toh-mee",
+    "ipa": "dɪˈskɛktəmi"
+  },
+  "rhizotomy": {
+    "alias": "ry-ZOT-oh-mee",
+    "ipa": "raɪˈzɑtəmi"
+  },
+  "neurectomy": {
+    "alias": "nyoo-REK-toh-mee",
+    "ipa": "nʊˈrɛktəmi"
+  },
+  "sympathectomy": {
+    "alias": "sim-pah-THEK-toh-mee",
+    "ipa": "ˌsɪmpəˈθɛktəmi"
+  },
+  "vagotomy": {
+    "alias": "vay-GOT-oh-mee",
+    "ipa": "veɪˈɡɑtəmi"
+  },
+  "epithelium": {
+    "alias": "eh-pih-THEE-lee-um",
+    "ipa": "ˌɛpəˈθiliəm"
+  },
+  "endothelium": {
+    "alias": "en-doh-THEE-lee-um",
+    "ipa": "ˌɛndoʊˈθiliəm"
+  },
+  "mesothelium": {
+    "alias": "meh-zoh-THEE-lee-um",
+    "ipa": "ˌmɛzoʊˈθiliəm"
+  },
+  "stratum corneum": {
+    "alias": "STRAY-tum KOR-nee-um",
+    "ipa": "ˈstreɪtəm ˈkɔrniəm"
+  },
+  "dermis": {
+    "alias": "DER-mis",
+    "ipa": "ˈdɜrmɪs"
+  },
+  "epidermis": {
+    "alias": "eh-pih-DER-mis",
+    "ipa": "ˌɛpɪˈdɜrmɪs"
+  },
+  "hypodermis": {
+    "alias": "hy-poh-DER-mis",
+    "ipa": "ˌhaɪpoʊˈdɜrmɪs"
+  },
+  "subcutaneous": {
+    "alias": "sub-kyoo-TAY-nee-us",
+    "ipa": "ˌsʌbkjuˈteɪniəs"
+  },
+  "fascia": {
+    "alias": "FAH-shah",
+    "ipa": "ˈfæʃiə"
+  },
+  "ligament": {
+    "alias": "LIH-gah-ment",
+    "ipa": "ˈlɪɡəmənt"
+  },
+  "tendon": {
+    "alias": "TEN-dun",
+    "ipa": "ˈtɛndən"
+  },
+  "aponeurosis": {
+    "alias": "ap-oh-noo-ROH-sis",
+    "ipa": "ˌæpənʊˈroʊsɪs"
+  },
+  "bursa": {
+    "alias": "BER-sah",
+    "ipa": "ˈbɜrsə"
+  },
+  "meniscus": {
+    "alias": "meh-NIS-kus",
+    "ipa": "məˈnɪskəs"
+  },
+  "cartilage": {
+    "alias": "KAR-tih-lij",
+    "ipa": "ˈkɑrtəlɪdʒ"
+  },
+  "periosteum": {
+    "alias": "per-ee-OS-tee-um",
+    "ipa": "ˌpɛriˈɑstiəm"
+  },
+  "endosteum": {
+    "alias": "en-DOS-tee-um",
+    "ipa": "ɛnˈdɑstiəm"
+  },
+  "diaphysis": {
+    "alias": "dy-AF-ih-sis",
+    "ipa": "daɪˈæfəsɪs"
+  },
+  "epiphysis": {
+    "alias": "eh-PIF-ih-sis",
+    "ipa": "ɪˈpɪfəsɪs"
+  },
+  "metaphysis": {
+    "alias": "meh-TAF-ih-sis",
+    "ipa": "məˈtæfəsɪs"
+  },
+  "physis": {
+    "alias": "FY-sis",
+    "ipa": "ˈfɪsɪs"
+  },
+  "symphysis": {
+    "alias": "SIM-fih-sis",
+    "ipa": "ˈsɪmfəsɪs"
+  },
+  "synovium": {
+    "alias": "sih-NOH-vee-um",
+    "ipa": "sɪˈnoʊviəm"
+  },
+  "synovia": {
+    "alias": "sih-NOH-vee-ah",
+    "ipa": "sɪˈnoʊviə"
+  },
+  "sutura": {
+    "alias": "soo-TOO-rah",
+    "ipa": "suˈtʊrə"
+  },
+  "fontanelle": {
+    "alias": "fon-tah-NEL",
+    "ipa": "ˌfɑntəˈnɛl"
+  },
+  "myocardium": {
+    "alias": "my-oh-KAR-dee-um",
+    "ipa": "ˌmaɪoʊˈkɑrdiəm"
+  },
+  "epicardium": {
+    "alias": "eh-pih-KAR-dee-um",
+    "ipa": "ˌɛpɪˈkɑrdiəm"
+  },
+  "pericardium": {
+    "alias": "per-ih-KAR-dee-um",
+    "ipa": "ˌpɛrɪˈkɑrdiəm"
+  },
+  "endocardium": {
+    "alias": "en-doh-KAR-dee-um",
+    "ipa": "ˌɛndoʊˈkɑrdiəm"
+  },
+  "intima": {
+    "alias": "IN-tih-mah",
+    "ipa": "ˈɪntɪmə"
+  },
+  "media": {
+    "alias": "MEH-dee-ah",
+    "ipa": "ˈmiːdiə"
+  },
+  "adventitia": {
+    "alias": "ad-ven-TISH-ah",
+    "ipa": "ˌædvɛnˈtɪʃə"
+  },
+  "tunica": {
+    "alias": "TOO-nih-kah",
+    "ipa": "ˈtuːnɪkə"
+  },
+  "parenchyma": {
+    "alias": "pah-REN-kih-mah",
+    "ipa": "pəˈrɛŋkɪmə"
+  },
+  "stroma": {
+    "alias": "STROH-mah",
+    "ipa": "ˈstroʊmə"
+  },
+  "septum": {
+    "alias": "SEP-tum",
+    "ipa": "ˈsɛptəm"
+  },
+  "septa": {
+    "alias": "SEP-tah",
+    "ipa": "ˈsɛptə"
+  },
+  "trabecula": {
+    "alias": "trah-BEK-yoo-lah",
+    "ipa": "trəˈbɛkjələ"
+  },
+  "hilum": {
+    "alias": "HY-lum",
+    "ipa": "ˈhaɪləm"
+  },
+  "hilus": {
+    "alias": "HY-lus",
+    "ipa": "ˈhaɪləs"
+  },
+  "sulcus": {
+    "alias": "SUL-kus",
+    "ipa": "ˈsʌlkəs"
+  },
+  "gyrus": {
+    "alias": "JY-rus",
+    "ipa": "ˈdʒaɪrəs"
+  },
+  "cortex": {
+    "alias": "KOR-teks",
+    "ipa": "ˈkɔrtɛks"
+  },
+  "medulla": {
+    "alias": "meh-DOOL-ah",
+    "ipa": "məˈdʌlə"
+  },
+  "capsule": {
+    "alias": "KAP-sool",
+    "ipa": "ˈkæpsəl"
+  },
+  "lobe": {
+    "alias": "LOHB",
+    "ipa": "loʊb"
+  },
+  "lobule": {
+    "alias": "LOB-yool",
+    "ipa": "ˈlɑbjul"
+  },
+  "acinus": {
+    "alias": "AS-ih-nus",
+    "ipa": "ˈæsɪnəs"
+  },
+  "alveolus": {
+    "alias": "al-VEE-oh-lus",
+    "ipa": "ælˈviələs"
+  },
+  "glomerulus": {
+    "alias": "gloh-MER-yoo-lus",
+    "ipa": "ɡloʊˈmɛrjələs"
+  },
+  "nephron": {
+    "alias": "NEF-ron",
+    "ipa": "ˈnɛfrɑn"
+  },
+  "tubule": {
+    "alias": "TOOB-yool",
+    "ipa": "ˈtubjul"
+  },
+  "ductule": {
+    "alias": "DUK-tool",
+    "ipa": "ˈdʌktʃul"
+  },
+  "ductus": {
+    "alias": "DUK-tus",
+    "ipa": "ˈdʌktəs"
+  },
+  "vas deferens": {
+    "alias": "vas DEF-er-enz",
+    "ipa": "væs dɛfərɛnz"
+  },
+  "epididymis": {
+    "alias": "ep-ih-DID-ih-mis",
+    "ipa": "ˌɛpɪˈdɪdɪmɪs"
+  },
+  "fimbria": {
+    "alias": "FIM-bree-ah",
+    "ipa": "ˈfɪmbriə"
+  },
+  "fornix": {
+    "alias": "FOR-niks",
+    "ipa": "ˈfɔrnɪks"
+  },
+  "mesentery": {
+    "alias": "MEZ-en-ter-ee",
+    "ipa": "ˈmɛzənˌtɛri"
+  },
+  "omentum": {
+    "alias": "oh-MEN-tum",
+    "ipa": "oʊˈmɛntəm"
+  },
+  "peritoneum": {
+    "alias": "per-ih-toh-NEE-um",
+    "ipa": "ˌpɛrɪtəˈniəm"
+  },
+  "retroperitoneum": {
+    "alias": "REH-troh-per-ih-toh-NEE-um",
+    "ipa": "ˌrɛtroʊˌpɛrɪtəˈniəm"
+  },
+  "mesocolon": {
+    "alias": "MEZ-oh-KOH-lon",
+    "ipa": "ˌmɛzəˈkoʊlən"
+  },
+  "haustra": {
+    "alias": "HAW-strah",
+    "ipa": "ˈhɔstrə"
+  },
+  "plicae": {
+    "alias": "PLY-see",
+    "ipa": "ˈplaɪsi"
+  },
+  "rugae": {
+    "alias": "ROO-jee",
+    "ipa": "ˈrudiʒi"
+  },
+  "villi": {
+    "alias": "VIL-eye",
+    "ipa": "ˈvɪlaɪ"
+  },
+  "microvilli": {
+    "alias": "MY-kroh-VIL-eye",
+    "ipa": "ˌmaɪkroʊˈvɪlaɪ"
+  },
+  "cryptae": {
+    "alias": "KRIP-tee",
+    "ipa": "ˈkrɪpti"
+  },
+  "pylorus": {
+    "alias": "py-LOR-us",
+    "ipa": "paɪˈlɔrəs"
+  },
+  "cardia": {
+    "alias": "KAR-dee-ah",
+    "ipa": "ˈkɑrdiə"
+  },
+  "fundus": {
+    "alias": "FUN-dus",
+    "ipa": "ˈfʌndəs"
+  },
+  "antrum": {
+    "alias": "AN-trum",
+    "ipa": "ˈæntrəm"
+  },
+  "duodenum": {
+    "alias": "doo-oh-DEE-num",
+    "ipa": "ˌduəˈdinəm"
+  },
+  "jejunum": {
+    "alias": "jeh-JOO-num",
+    "ipa": "dʒəˈdʒunəm"
+  },
+  "ileum": {
+    "alias": "IL-ee-um",
+    "ipa": "ˈɪliəm"
+  },
+  "cecum": {
+    "alias": "SEE-kum",
+    "ipa": "ˈsikəm"
+  },
+  "vermiform": {
+    "alias": "VER-mih-form",
+    "ipa": "ˈvɜrmɪfɔrm"
+  },
+  "appendix": {
+    "alias": "ah-PEN-diks",
+    "ipa": "əˈpɛndɪks"
+  },
+  "sigmoid": {
+    "alias": "SIG-moyd",
+    "ipa": "ˈsɪɡmɔɪd"
+  },
+  "rectum": {
+    "alias": "REK-tum",
+    "ipa": "ˈrɛktəm"
+  },
+  "anus": {
+    "alias": "AY-nus",
+    "ipa": "ˈeɪnəs"
+  },
+  "sphincter": {
+    "alias": "SFINK-ter",
+    "ipa": "ˈsfɪŋktər"
+  },
+  "papilla": {
+    "alias": "pah-PIL-ah",
+    "ipa": "pəˈpɪlə"
+  },
+  "ampulla": {
+    "alias": "am-POOL-ah",
+    "ipa": "æmˈpʊlə"
+  },
+  "cholecyst": {
+    "alias": "KOH-leh-sist",
+    "ipa": "ˈkoʊləsɪst"
+  },
+  "choledochus": {
+    "alias": "koh-LED-oh-kus",
+    "ipa": "kəˈlɛdəkəs"
+  },
+  "pancreas": {
+    "alias": "PAN-kree-as",
+    "ipa": "ˈpæŋkriəs"
+  },
+  "islets": {
+    "alias": "EYE-lets",
+    "ipa": "ˈaɪlɪts"
+  },
+  "acini": {
+    "alias": "AS-ih-nye",
+    "ipa": "ˈæsɪnaɪ"
+  },
+  "centrilobular": {
+    "alias": "sen-trih-LOB-yoo-lar",
+    "ipa": "ˌsɛntrɪˈlɑbjələr"
+  },
+  "periportal": {
+    "alias": "per-ih-POR-tal",
+    "ipa": "ˌpɛrɪˈpɔrtəl"
+  },
+  "sinusoids": {
+    "alias": "SIN-yoo-soydz",
+    "ipa": "ˈsɪnjəsɔɪdz"
+  },
+  "Kupffer": {
+    "alias": "KOOP-fer",
+    "ipa": "ˈkʊfər"
+  },
+  "space of Disse": {
+    "alias": "spays of DIS",
+    "ipa": "speɪs əv dɪs"
+  },
+  "canaliculi": {
+    "alias": "kan-ah-LIK-yoo-lye",
+    "ipa": "ˌkænəˈlɪkjəlaɪ"
+  },
+  "falciform": {
+    "alias": "FAL-sih-form",
+    "ipa": "ˈfælsɪfɔrm"
+  },
+  "ligamentum teres": {
+    "alias": "lig-ah-MEN-tum TER-eez",
+    "ipa": "ˌlɪɡəˈmɛntəm ˈtɛriz"
+  },
+  "ligamentum venosum": {
+    "alias": "lig-ah-MEN-tum veh-NOH-sum",
+    "ipa": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm"
+  },
+  "porta hepatis": {
+    "alias": "POR-tah heh-PAT-is",
+    "ipa": "ˈpɔrtə ˈhɛpətɪs"
+  },
+  "coronary": {
+    "alias": "KOR-ah-nair-ee",
+    "ipa": "ˈkɔrənɛri"
+  },
+  "circumflex": {
+    "alias": "SER-kum-fleks",
+    "ipa": "ˈsɜrkəmflɛks"
+  },
+  "interventricular": {
+    "alias": "in-ter-ven-TRIK-yoo-lar",
+    "ipa": "ˌɪntərvɛnˈtrɪkjələr"
+  },
+  "interventricular septum": {
+    "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum",
+    "ipa": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm"
+  },
+  "papillary muscle": {
+    "alias": "PAP-ih-lair-ee MUS-el",
+    "ipa": "ˈpæpɪlɛri ˈmʌsəl"
+  },
+  "chordae tendineae": {
+    "alias": "KOR-dee ten-DIN-ee-ee",
+    "ipa": "ˈkɔrdi tɛnˈdɪnii"
+  },
+  "valve": {
+    "alias": "valv",
+    "ipa": "vælv"
+  },
+  "leaflet": {
+    "alias": "LEEF-let",
+    "ipa": "ˈlifət"
+  },
+  "cusp": {
+    "alias": "kusp",
+    "ipa": "kʌsp"
+  },
+  "semilunar": {
+    "alias": "sem-ee-LOO-nar",
+    "ipa": "ˌsɛmiˈlunər"
+  },
+  "atrioventricular": {
+    "alias": "ay-tree-oh-ven-TRIK-yoo-lar",
+    "ipa": "ˌeɪtrioʊvɛnˈtrɪkjələr"
+  },
+  "ventricular": {
+    "alias": "ven-TRIK-yoo-lar",
+    "ipa": "vɛnˈtrɪkjələr"
+  },
+  "sinoatrial": {
+    "alias": "sigh-noh-AY-tree-al",
+    "ipa": "ˌsaɪnoʊˈeɪtriəl"
+  },
+  "coronary sinus": {
+    "alias": "KOR-ah-nair-ee SIGH-nus",
+    "ipa": "ˈkɔrənɛri ˈsaɪnəs"
+  },
+  "vena cava": {
+    "alias": "VEE-nah KAY-vah",
+    "ipa": "ˈvinə ˈkeɪvə"
+  },
+  "pulmonary trunk": {
+    "alias": "PUL-mah-nair-ee trunk",
+    "ipa": "ˈpʊlmənɛri trʌŋk"
+  },
+  "aorta": {
+    "alias": "ay-OR-tah",
+    "ipa": "eɪˈɔrtə"
+  },
+  "carotid": {
+    "alias": "kah-ROT-id",
+    "ipa": "kəˈrɑtɪd"
+  },
+  "subclavian": {
+    "alias": "sub-KLAY-vee-an",
+    "ipa": "sʌbˈkleɪviən"
+  },
+  "vertebral": {
+    "alias": "VER-teh-bral",
+    "ipa": "ˈvɝːtəbrəl"
+  },
+  "basilar": {
+    "alias": "BAS-ih-lar",
+    "ipa": "ˈbæsɪlɚ"
+  },
+  "circle of Willis": {
+    "alias": "SER-kul of WIL-is",
+    "ipa": "ˈsɝːkəl əv ˈwɪlɪs"
+  },
+  "meninges": {
+    "alias": "men-IN-jeez",
+    "ipa": "məˈnɪndʒiːz"
+  },
+  "dura mater": {
+    "alias": "DUR-ah MAH-ter",
+    "ipa": "ˈdʊrə ˈmeɪtɚ"
+  },
+  "arachnoid": {
+    "alias": "ah-RAK-noyd",
+    "ipa": "əˈræknɔɪd"
+  },
+  "pia mater": {
+    "alias": "PEE-ah MAH-ter",
+    "ipa": "ˈpiːə ˈmeɪtɚ"
+  },
+  "subdural": {
+    "alias": "sub-DUR-al",
+    "ipa": "sʌbˈdʊrəl"
+  },
+  "subarachnoid": {
+    "alias": "sub-ah-RAK-noyd",
+    "ipa": "ˌsʌbəˈræknɔɪd"
+  },
+  "epidural": {
+    "alias": "ep-ih-DUR-al",
+    "ipa": "ˌɛpɪˈdʊrəl"
+  },
+  "ventricles": {
+    "alias": "VEN-trih-kulz",
+    "ipa": "ˈvɛntrɪkəlz"
+  },
+  "foramina": {
+    "alias": "fo-RAM-ih-nah",
+    "ipa": "fəˈræmɪnə"
+  },
+  "aqueduct": {
+    "alias": "AK-weh-dukt",
+    "ipa": "ˈækwɪdʌkt"
+  },
+  "choroid plexus": {
+    "alias": "KOR-oyd PLEK-sus",
+    "ipa": "ˈkɔːrɔɪd ˈplɛksəs"
+  },
+  "cauda equina": {
+    "alias": "KAW-dah eh-KWY-nah",
+    "ipa": "ˈkɔːdə ɪˈkwaɪnə"
+  },
+  "filum terminale": {
+    "alias": "FY-lum ter-mih-NAH-lee",
+    "ipa": "ˈfaɪləm ˌtɝːmɪˈnɑːli"
+  },
+  "conus medullaris": {
+    "alias": "KOH-nus med-yoo-LAR-is",
+    "ipa": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs"
+  },
+  "dorsal root": {
+    "alias": "DOR-sal ROOT",
+    "ipa": "ˈdɔːrsəl ruːt"
+  },
+  "ventral root": {
+    "alias": "VEN-tral ROOT",
+    "ipa": "ˈvɛntrəl ruːt"
+  },
+  "ganglion": {
+    "alias": "GANG-glee-on",
+    "ipa": "ˈɡæŋɡliən"
+  },
+  "plexus": {
+    "alias": "PLEK-sus",
+    "ipa": "ˈplɛksəs"
+  },
+  "phrenic": {
+    "alias": "FREN-ik",
+    "ipa": "ˈfrɛnɪk"
+  },
+  "vagus": {
+    "alias": "VAY-gus",
+    "ipa": "ˈveɪɡəs"
+  },
+  "recurrent laryngeal": {
+    "alias": "ree-KUR-ent lar-IN-jee-al",
+    "ipa": "rɪˈkɝːənt ləˈrɪndʒiəl"
+  },
+  "facial": {
+    "alias": "FAY-shal",
+    "ipa": "ˈfeɪʃəl"
+  },
+  "vestibulocochlear": {
+    "alias": "ves-TIB-yoo-loh-KOK-lee-ar",
+    "ipa": "vɛsˌtɪbjəloʊˈkoʊkliɚ"
+  },
+  "glossopharyngeal": {
+    "alias": "GLOS-oh-fah-RIN-jee-al",
+    "ipa": "ˌɡlɑːsoʊfəˈrɪndʒiəl"
+  },
+  "hypoglossal": {
+    "alias": "HY-poh-GLOS-al",
+    "ipa": "ˌhaɪpəˈɡlɑːsəl"
+  },
+  "accessory": {
+    "alias": "ak-SES-oh-ree",
+    "ipa": "əkˈsɛsəri"
+  },
+  "oculomotor": {
+    "alias": "OK-yoo-loh-MOH-tor",
+    "ipa": "ˌɑːkjəloʊˈmoʊtɚ"
+  },
+  "trochlear": {
+    "alias": "TROK-lee-ar",
+    "ipa": "ˈtroʊkliər"
+  },
+  "abducens": {
+    "alias": "ab-DOO-senz",
+    "ipa": "æbˈdjuːsənz"
+  }
 }

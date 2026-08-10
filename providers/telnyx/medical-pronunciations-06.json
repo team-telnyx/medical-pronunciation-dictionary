@@ -2,504 +2,554 @@
   "name": "Medical Pronunciations 06",
   "items": [
     {
-      "text": "GU",
+      "text": "exemestane",
       "type": "alias",
-      "alias": "genitourinary"
+      "alias": "ex-e-MES-tane"
     },
     {
-      "text": "MSK",
-      "type": "alias",
-      "alias": "musculoskeletal"
+      "text": "exemestane",
+      "type": "phoneme",
+      "phoneme": "ˌɛk.səˈmɛs.teɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "Neuro",
+      "text": "leuprolide",
       "type": "alias",
-      "alias": "NEU-roh"
+      "alias": "loo-PRO-lide"
     },
     {
-      "text": "Psych",
-      "type": "alias",
-      "alias": "SYKE"
+      "text": "leuprolide",
+      "type": "phoneme",
+      "phoneme": "luːˈproʊ.laɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "Derm",
+      "text": "goserelin",
       "type": "alias",
-      "alias": "derm"
+      "alias": "goh-SER-a-lin"
     },
     {
-      "text": "ENT",
-      "type": "alias",
-      "alias": "ear nose and throat"
+      "text": "goserelin",
+      "type": "phoneme",
+      "phoneme": "ɡoʊˈsɛr.ə.lɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "OB",
+      "text": "triptorelin",
       "type": "alias",
-      "alias": "obstetrics"
+      "alias": "trip-toh-REL-in"
     },
     {
-      "text": "GYN",
-      "type": "alias",
-      "alias": "gynecology"
+      "text": "triptorelin",
+      "type": "phoneme",
+      "phoneme": "trɪpˈtɔːr.ə.lɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "LMP",
+      "text": "bicalutamide",
       "type": "alias",
-      "alias": "last menstrual period"
+      "alias": "bye-ka-LOO-ta-mide"
     },
     {
-      "text": "EDC",
-      "type": "alias",
-      "alias": "estimated date of confinement"
+      "text": "bicalutamide",
+      "type": "phoneme",
+      "phoneme": "baɪ.kəˈluː.tə.maɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "Gest",
+      "text": "enzalutamide",
       "type": "alias",
-      "alias": "gest"
+      "alias": "en-za-LOO-ta-mide"
     },
     {
-      "text": "NS",
-      "type": "alias",
-      "alias": "normal saline"
+      "text": "enzalutamide",
+      "type": "phoneme",
+      "phoneme": "ɛn.zəˈluː.tə.maɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "LR",
+      "text": "abiraterone",
       "type": "alias",
-      "alias": "lactated Ringer's"
+      "alias": "a-bir-A-ter-one"
     },
     {
-      "text": "D5W",
-      "type": "alias",
-      "alias": "D-five-W"
+      "text": "abiraterone",
+      "type": "phoneme",
+      "phoneme": "əˈbɪr.ə.tə.roʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "D5NS",
+      "text": "imatinib",
       "type": "alias",
-      "alias": "D-five-N-S"
+      "alias": "i-MAT-in-ib"
     },
     {
-      "text": "D5LR",
-      "type": "alias",
-      "alias": "D-five-L-R"
+      "text": "imatinib",
+      "type": "phoneme",
+      "phoneme": "ɪˈmæ.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "KCl",
+      "text": "dasatinib",
       "type": "alias",
-      "alias": "potassium chloride"
+      "alias": "da-SAT-in-ib"
     },
     {
-      "text": "MgSO4",
-      "type": "alias",
-      "alias": "mag-NEE-zee-um sul-FATE"
+      "text": "dasatinib",
+      "type": "phoneme",
+      "phoneme": "dəˈsæ.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "CaCl2",
+      "text": "nilotinib",
       "type": "alias",
-      "alias": "KAL-see-um KLOR-ide"
+      "alias": "ny-LOH-tin-ib"
     },
     {
-      "text": "NaHCO3",
-      "type": "alias",
-      "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate"
+      "text": "nilotinib",
+      "type": "phoneme",
+      "phoneme": "naɪˈloʊ.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "ABG",
+      "text": "bosutinib",
       "type": "alias",
-      "alias": "arterial blood gas"
+      "alias": "boh-SOO-tin-ib"
     },
     {
-      "text": "VBG",
-      "type": "alias",
-      "alias": "venous blood gas"
+      "text": "bosutinib",
+      "type": "phoneme",
+      "phoneme": "boʊˈsuː.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "LP",
+      "text": "ponatinib",
       "type": "alias",
-      "alias": "lumbar puncture"
+      "alias": "poh-NA-tin-ib"
     },
     {
-      "text": "BM",
-      "type": "alias",
-      "alias": "bowel movement"
+      "text": "ponatinib",
+      "type": "phoneme",
+      "phoneme": "poʊˈnæ.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "PEG",
+      "text": "ibrutinib",
       "type": "alias",
-      "alias": "PEG"
+      "alias": "eye-BROO-tin-ib"
     },
     {
-      "text": "ICD",
-      "type": "alias",
-      "alias": "implantable cardioverter defibrillator"
+      "text": "ibrutinib",
+      "type": "phoneme",
+      "phoneme": "aɪˈbruː.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "Pacemaker",
+      "text": "acalabrutinib",
       "type": "alias",
-      "alias": "PACE-may-ker"
+      "alias": "a-KAL-a-BROO-tin-ib"
     },
     {
-      "text": "AICD",
-      "type": "alias",
-      "alias": "automatic implantable cardioverter defibrillator"
+      "text": "acalabrutinib",
+      "type": "phoneme",
+      "phoneme": "əˌkæl.əˈbruː.tɪ.nɪb",
+      "alphabet": "ipa"
     },
     {
-      "text": "CABG",
+      "text": "venetoclax",
       "type": "alias",
-      "alias": "cabbage"
+      "alias": "ve-NET-oh-klax"
     },
     {
-      "text": "PCI",
-      "type": "alias",
-      "alias": "percutaneous coronary intervention"
+      "text": "venetoclax",
+      "type": "phoneme",
+      "phoneme": "vəˈnɛ.toʊ.klæks",
+      "alphabet": "ipa"
     },
     {
-      "text": "TAVR",
+      "text": "rituximab",
       "type": "alias",
-      "alias": "TAH-ver"
+      "alias": "ri-TUX-i-mab"
     },
     {
-      "text": "TEVAR",
-      "type": "alias",
-      "alias": "TEV-ar"
+      "text": "rituximab",
+      "type": "phoneme",
+      "phoneme": "rɪˈtʊk.sɪ.mæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "EVAR",
+      "text": "trastuzumab",
       "type": "alias",
-      "alias": "EE-var"
+      "alias": "tras-TUZ-oo-mab"
     },
     {
-      "text": "PTCA",
-      "type": "alias",
-      "alias": "percutaneous transluminal coronary angioplasty"
+      "text": "trastuzumab",
+      "type": "phoneme",
+      "phoneme": "træsˈtʊ.zuː.mæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "ETOH",
+      "text": "pertuzumab",
       "type": "alias",
-      "alias": "alcohol"
+      "alias": "per-TUZ-oo-mab"
     },
     {
-      "text": "IVDU",
-      "type": "alias",
-      "alias": "I-V drug use"
+      "text": "pertuzumab",
+      "type": "phoneme",
+      "phoneme": "pərˈtʊ.zuː.mæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "ASA",
+      "text": "bevacizumab",
       "type": "alias",
-      "alias": "ASPIR-in"
+      "alias": "beh-va-KIZ-oo-mab"
     },
     {
-      "text": "NYD",
-      "type": "alias",
-      "alias": "not yet diagnosed"
+      "text": "bevacizumab",
+      "type": "phoneme",
+      "phoneme": "bəˌvæk.sɪˈzuː.mæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "HX",
+      "text": "cetuximab",
       "type": "alias",
-      "alias": "history"
+      "alias": "se-TUX-i-mab"
     },
     {
-      "text": "Sx",
-      "type": "alias",
-      "alias": "symptoms"
+      "text": "cetuximab",
+      "type": "phoneme",
+      "phoneme": "səˈtʊk.sɪ.mæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "Tx",
+      "text": "panitumumab",
       "type": "alias",
-      "alias": "treatment"
+      "alias": "pan-i-TOO-moo-mab"
     },
     {
-      "text": "Dx",
-      "type": "alias",
-      "alias": "diagnosis"
+      "text": "panitumumab",
+      "type": "phoneme",
+      "phoneme": "ˌpænɪˈtjuːməmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "Rx",
+      "text": "pembrolizumab",
       "type": "alias",
-      "alias": "prescription"
+      "alias": "pem-broh-LIZ-oo-mab"
     },
     {
-      "text": "FHx",
-      "type": "alias",
-      "alias": "family history"
+      "text": "pembrolizumab",
+      "type": "phoneme",
+      "phoneme": "ˌpɛmbroʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "SHx",
+      "text": "nivolumab",
       "type": "alias",
-      "alias": "social history"
+      "alias": "niv-OL-oo-mab"
     },
     {
-      "text": "myocardial infarction",
-      "type": "alias",
-      "alias": "my-oh-KAR-dee-al in-FARK-shun"
+      "text": "nivolumab",
+      "type": "phoneme",
+      "phoneme": "nɪˈvɒljʊmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "angina pectoris",
+      "text": "ipilimumab",
       "type": "alias",
-      "alias": "an-JY-nah PEK-tor-is"
+      "alias": "i-pi-LIM-oo-mab"
     },
     {
-      "text": "arrhythmia",
-      "type": "alias",
-      "alias": "a-RITH-mee-ah"
+      "text": "ipilimumab",
+      "type": "phoneme",
+      "phoneme": "ɪˌpɪlɪˈmuːmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "atrial fibrillation",
+      "text": "atezolizumab",
       "type": "alias",
-      "alias": "AY-tree-al fib-ri-LAY-shun"
+      "alias": "a-TEZ-oh-LIZ-oo-mab"
     },
     {
-      "text": "ventricular fibrillation",
-      "type": "alias",
-      "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun"
+      "text": "atezolizumab",
+      "type": "phoneme",
+      "phoneme": "əˌtɛzoʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "tachycardia",
+      "text": "durvalumab",
       "type": "alias",
-      "alias": "tak-ee-KAR-dee-ah"
+      "alias": "dur-VAL-oo-mab"
     },
     {
-      "text": "bradycardia",
-      "type": "alias",
-      "alias": "brad-ee-KAR-dee-ah"
+      "text": "durvalumab",
+      "type": "phoneme",
+      "phoneme": "dɜːrˈvæljʊmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "hypertension",
+      "text": "avelumab",
       "type": "alias",
-      "alias": "hy-per-TEN-shun"
+      "alias": "a-VEL-oo-mab"
     },
     {
-      "text": "hypotension",
-      "type": "alias",
-      "alias": "hy-poh-TEN-shun"
+      "text": "avelumab",
+      "type": "phoneme",
+      "phoneme": "əˈvɛljʊmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "atherosclerosis",
+      "text": "cisplatin",
       "type": "alias",
-      "alias": "ath-er-oh-skleh-ROH-sis"
+      "alias": "sis-PLAT-in"
     },
     {
-      "text": "endocarditis",
-      "type": "alias",
-      "alias": "en-doh-kar-DY-tis"
+      "text": "cisplatin",
+      "type": "phoneme",
+      "phoneme": "sɪsˈpleɪtɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "pericarditis",
+      "text": "carboplatin",
       "type": "alias",
-      "alias": "per-ee-kar-DY-tis"
+      "alias": "kar-boh-PLAT-in"
     },
     {
-      "text": "myocarditis",
-      "type": "alias",
-      "alias": "my-oh-kar-DY-tis"
+      "text": "carboplatin",
+      "type": "phoneme",
+      "phoneme": "kɑːrˈboʊplætɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "cardiomyopathy",
+      "text": "oxaliplatin",
       "type": "alias",
-      "alias": "kar-dee-oh-my-OP-ah-thee"
+      "alias": "ok-SAL-i-plat-in"
     },
     {
-      "text": "thromboembolism",
-      "type": "alias",
-      "alias": "throm-boh-EM-boh-liz-um"
+      "text": "oxaliplatin",
+      "type": "phoneme",
+      "phoneme": "ɒkˈsælɪplætɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "thrombophlebitis",
+      "text": "paclitaxel",
       "type": "alias",
-      "alias": "throm-boh-fleh-BY-tis"
+      "alias": "pak-li-TAKS-el"
     },
     {
-      "text": "phlebitis",
-      "type": "alias",
-      "alias": "fleh-BY-tis"
+      "text": "paclitaxel",
+      "type": "phoneme",
+      "phoneme": "ˌpæklɪˈtæksɛl",
+      "alphabet": "ipa"
     },
     {
-      "text": "embolism",
+      "text": "docetaxel",
       "type": "alias",
-      "alias": "EM-boh-liz-um"
+      "alias": "doh-se-TAKS-el"
     },
     {
-      "text": "stenosis",
-      "type": "alias",
-      "alias": "steh-NOH-sis"
+      "text": "docetaxel",
+      "type": "phoneme",
+      "phoneme": "ˌdoʊsɪˈtæksɛl",
+      "alphabet": "ipa"
     },
     {
-      "text": "regurgitation",
+      "text": "doxorubicin",
       "type": "alias",
-      "alias": "ree-gur-ji-TAY-shun"
+      "alias": "dok-soh-ROO-bi-sin"
     },
     {
-      "text": "prolapse",
-      "type": "alias",
-      "alias": "proh-LAPS"
+      "text": "doxorubicin",
+      "type": "phoneme",
+      "phoneme": "ˌdɒksəˈruːbɪsɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "aneurysm",
+      "text": "daunorubicin",
       "type": "alias",
-      "alias": "AN-yoo-riz-um"
+      "alias": "daw-noh-ROO-bi-sin"
     },
     {
-      "text": "dissection",
-      "type": "alias",
-      "alias": "dy-SEK-shun"
+      "text": "daunorubicin",
+      "type": "phoneme",
+      "phoneme": "ˌdɔːnəˈruːbɪsɪn",
+      "alphabet": "ipa"
     },
     {
-      "text": "ischemia",
+      "text": "vincristine",
       "type": "alias",
-      "alias": "is-KEE-mee-ah"
+      "alias": "vin-KRIS-teen"
     },
     {
-      "text": "infarction",
-      "type": "alias",
-      "alias": "in-FARK-shun"
+      "text": "vincristine",
+      "type": "phoneme",
+      "phoneme": "vɪnˈkrɪstiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "reperfusion",
+      "text": "vinblastine",
       "type": "alias",
-      "alias": "REE-per-FYOO-zhun"
+      "alias": "vin-BLAS-teen"
     },
     {
-      "text": "hypercholesterolemia",
-      "type": "alias",
-      "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah"
+      "text": "vinblastine",
+      "type": "phoneme",
+      "phoneme": "vɪnˈblæstiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "hypertriglyceridemia",
+      "text": "vinorelbine",
       "type": "alias",
-      "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah"
+      "alias": "vi-NOR-el-been"
     },
     {
-      "text": "hypoalbuminemia",
-      "type": "alias",
-      "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah"
+      "text": "vinorelbine",
+      "type": "phoneme",
+      "phoneme": "vɪˈnɔːrɛlbiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "pneumonia",
+      "text": "etoposide",
       "type": "alias",
-      "alias": "noo-MOHN-yah"
+      "alias": "e-TOH-poh-side"
     },
     {
-      "text": "bronchitis",
-      "type": "alias",
-      "alias": "brong-KY-tis"
+      "text": "etoposide",
+      "type": "phoneme",
+      "phoneme": "ɪˈtoʊpəsaɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "bronchiectasis",
+      "text": "cyclophosphamide",
       "type": "alias",
-      "alias": "brong-kee-EK-tah-sis"
+      "alias": "sy-kloh-FOS-fa-mide"
     },
     {
-      "text": "emphysema",
-      "type": "alias",
-      "alias": "em-fih-SEE-mah"
+      "text": "cyclophosphamide",
+      "type": "phoneme",
+      "phoneme": "ˌsaɪkloʊˈfɒsfəmaɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "pneumothorax",
+      "text": "ifosfamide",
       "type": "alias",
-      "alias": "noo-moh-THOR-aks"
+      "alias": "i-FOS-fa-mide"
     },
     {
-      "text": "hemothorax",
-      "type": "alias",
-      "alias": "hee-moh-THOR-aks"
+      "text": "ifosfamide",
+      "type": "phoneme",
+      "phoneme": "ɪˈfɒsfəmaɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "pleural effusion",
+      "text": "methotrexate",
       "type": "alias",
-      "alias": "PLOO-ral eh-FYOO-zhun"
+      "alias": "meth-oh-TREK-sate"
     },
     {
-      "text": "pleurisy",
-      "type": "alias",
-      "alias": "PLOO-rih-see"
+      "text": "methotrexate",
+      "type": "phoneme",
+      "phoneme": "ˌmɛθəˈtɹɛkseɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "atelectasis",
+      "text": "pemetrexed",
       "type": "alias",
-      "alias": "at-ih-LEK-tah-sis"
+      "alias": "pem-e-TREK-sed"
     },
     {
-      "text": "pulmonary embolism",
-      "type": "alias",
-      "alias": "PUL-moh-nair-ee EM-bol-izm"
+      "text": "pemetrexed",
+      "type": "phoneme",
+      "phoneme": "ˌpɛmɪˈtɹɛksɛd",
+      "alphabet": "ipa"
     },
     {
-      "text": "pulmonary edema",
+      "text": "gemcitabine",
       "type": "alias",
-      "alias": "PUL-moh-nair-ee eh-DEE-mah"
+      "alias": "jem-SITE-a-been"
     },
     {
-      "text": "pulmonary fibrosis",
-      "type": "alias",
-      "alias": "PUL-moh-nair-ee fy-BROH-sis"
+      "text": "gemcitabine",
+      "type": "phoneme",
+      "phoneme": "dʒɛmˈsaɪtəbiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "sarcoidosis",
+      "text": "fluorouracil",
       "type": "alias",
-      "alias": "SAR-koy-DOH-sis"
+      "alias": "floor-oh-YOO-ra-sil"
     },
     {
-      "text": "tuberculosis",
-      "type": "alias",
-      "alias": "too-BER-kyoo-LOH-sis"
+      "text": "fluorouracil",
+      "type": "phoneme",
+      "phoneme": "ˌflʊroʊˈjʊɚəsɪl",
+      "alphabet": "ipa"
     },
     {
-      "text": "hypoxia",
+      "text": "capecitabine",
       "type": "alias",
-      "alias": "hy-POK-see-ah"
+      "alias": "ka-pe-SITE-a-been"
     },
     {
-      "text": "hypercapnia",
-      "type": "alias",
-      "alias": "hy-per-KAP-nee-ah"
+      "text": "capecitabine",
+      "type": "phoneme",
+      "phoneme": "ˌkæpɪˈsaɪtəbiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "respiratory failure",
+      "text": "cytarabine",
       "type": "alias",
-      "alias": "RES-pih-rah-tor-ee FAYL-yer"
+      "alias": "sy-TAIR-a-been"
     },
     {
-      "text": "apnea",
-      "type": "alias",
-      "alias": "AP-nee-ah"
+      "text": "cytarabine",
+      "type": "phoneme",
+      "phoneme": "saɪˈtɛɚəbiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "dyspnea",
+      "text": "adalimumab",
       "type": "alias",
-      "alias": "DISP-nee-ah"
+      "alias": "a-da-LIM-oo-mab"
     },
     {
-      "text": "hemoptysis",
-      "type": "alias",
-      "alias": "hee-MOP-tih-sis"
+      "text": "adalimumab",
+      "type": "phoneme",
+      "phoneme": "əˌdælɪˈmuːmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "stridor",
+      "text": "etanercept",
       "type": "alias",
-      "alias": "STRY-dor"
+      "alias": "e-TAN-er-sept"
     },
     {
-      "text": "wheezing",
-      "type": "alias",
-      "alias": "WEE-zing"
+      "text": "etanercept",
+      "type": "phoneme",
+      "phoneme": "ɪˈtænɚsɛpt",
+      "alphabet": "ipa"
     },
     {
-      "text": "coryza",
+      "text": "infliximab",
       "type": "alias",
-      "alias": "koh-RY-zah"
+      "alias": "in-FLIK-si-mab"
     },
     {
-      "text": "gastroesophageal reflux",
-      "type": "alias",
-      "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks"
+      "text": "infliximab",
+      "type": "phoneme",
+      "phoneme": "ɪnˈflɪksɪmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "esophagitis",
+      "text": "certolizumab",
       "type": "alias",
-      "alias": "ee-sof-ah-JY-tis"
+      "alias": "ser-toh-LIZ-oo-mab"
     },
     {
-      "text": "gastritis",
-      "type": "alias",
-      "alias": "gas-TRY-tis"
+      "text": "certolizumab",
+      "type": "phoneme",
+      "phoneme": "ˌsɜːrtoʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
     }
   ]
 }

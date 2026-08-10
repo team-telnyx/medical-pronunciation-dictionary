@@ -1,0 +1,555 @@
+{
+  "name": "Medical Pronunciations 14",
+  "items": [
+    {
+      "text": "dysarthria",
+      "type": "alias",
+      "alias": "dis-AR-three-ah"
+    },
+    {
+      "text": "dysarthria",
+      "type": "phoneme",
+      "phoneme": "dɪsˈɑrθriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aphasia",
+      "type": "alias",
+      "alias": "ah-FAY-zhah"
+    },
+    {
+      "text": "aphasia",
+      "type": "phoneme",
+      "phoneme": "əˈfeɪʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "apraxia",
+      "type": "alias",
+      "alias": "ah-PRAK-see-ah"
+    },
+    {
+      "text": "apraxia",
+      "type": "phoneme",
+      "phoneme": "əˈpræksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "agnosia",
+      "type": "alias",
+      "alias": "ag-NOH-zhah"
+    },
+    {
+      "text": "agnosia",
+      "type": "phoneme",
+      "phoneme": "æɡˈnoʊʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anomia",
+      "type": "alias",
+      "alias": "ah-NOH-mee-ah"
+    },
+    {
+      "text": "anomia",
+      "type": "phoneme",
+      "phoneme": "əˈnoʊmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysphagia",
+      "type": "alias",
+      "alias": "dis-FAY-jah"
+    },
+    {
+      "text": "dysphagia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈfeɪdʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysphonia",
+      "type": "alias",
+      "alias": "dis-FOH-nee-ah"
+    },
+    {
+      "text": "dysphonia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈfoʊniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dyskinesia",
+      "type": "alias",
+      "alias": "dis-kih-NEE-zhah"
+    },
+    {
+      "text": "dyskinesia",
+      "type": "phoneme",
+      "phoneme": "ˌdɪskɪˈniʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myoclonus",
+      "type": "alias",
+      "alias": "my-OK-loh-nus"
+    },
+    {
+      "text": "myoclonus",
+      "type": "phoneme",
+      "phoneme": "maɪˈɑklənəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "chorea",
+      "type": "alias",
+      "alias": "koh-REE-ah"
+    },
+    {
+      "text": "chorea",
+      "type": "phoneme",
+      "phoneme": "kəˈriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "athetosis",
+      "type": "alias",
+      "alias": "ATH-eh-TOE-sis"
+    },
+    {
+      "text": "athetosis",
+      "type": "phoneme",
+      "phoneme": "ˌæθəˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dystonia",
+      "type": "alias",
+      "alias": "dis-TOE-nee-ah"
+    },
+    {
+      "text": "dystonia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈtoʊniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tremor",
+      "type": "alias",
+      "alias": "TREM-or"
+    },
+    {
+      "text": "tremor",
+      "type": "phoneme",
+      "phoneme": "ˈtrɛmər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fasciculation",
+      "type": "alias",
+      "alias": "fa-SIK-yoo-LAY-shun"
+    },
+    {
+      "text": "fasciculation",
+      "type": "phoneme",
+      "phoneme": "fəˌsɪkjəˈleɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "clonus",
+      "type": "alias",
+      "alias": "KLOH-nus"
+    },
+    {
+      "text": "clonus",
+      "type": "phoneme",
+      "phoneme": "ˈkloʊnəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nystagmus",
+      "type": "alias",
+      "alias": "nis-TAG-mus"
+    },
+    {
+      "text": "nystagmus",
+      "type": "phoneme",
+      "phoneme": "nɪˈstæɡməs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ptosis",
+      "type": "alias",
+      "alias": "TOE-sis"
+    },
+    {
+      "text": "ptosis",
+      "type": "phoneme",
+      "phoneme": "ˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "miosis",
+      "type": "alias",
+      "alias": "my-OH-sis"
+    },
+    {
+      "text": "miosis",
+      "type": "phoneme",
+      "phoneme": "maɪˈoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mydriasis",
+      "type": "alias",
+      "alias": "mi-DRY-ah-sis"
+    },
+    {
+      "text": "mydriasis",
+      "type": "phoneme",
+      "phoneme": "mɪˈdraɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anisocoria",
+      "type": "alias",
+      "alias": "an-EYE-so-KOR-ee-ah"
+    },
+    {
+      "text": "anisocoria",
+      "type": "phoneme",
+      "phoneme": "ænˌaɪsəˈkɔriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "alias",
+      "alias": "HY-per-re-FLEK-see-ah"
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərrɪˈflɛksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyporeflexia",
+      "type": "alias",
+      "alias": "HY-po-re-FLEK-see-ah"
+    },
+    {
+      "text": "hyporeflexia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpɔrɪˈflɛksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Babinski",
+      "type": "alias",
+      "alias": "ba-BIN-skee"
+    },
+    {
+      "text": "Babinski",
+      "type": "phoneme",
+      "phoneme": "bəˈbɪnski",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "paresthesia",
+      "type": "alias",
+      "alias": "par-es-THEE-zhah"
+    },
+    {
+      "text": "paresthesia",
+      "type": "phoneme",
+      "phoneme": "ˌpærəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anesthesia",
+      "type": "alias",
+      "alias": "an-es-THEE-zhah"
+    },
+    {
+      "text": "anesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌænəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperesthesia",
+      "type": "alias",
+      "alias": "HY-per-es-THEE-zhah"
+    },
+    {
+      "text": "hyperesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysesthesia",
+      "type": "alias",
+      "alias": "dis-es-THEE-zhah"
+    },
+    {
+      "text": "dysesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌdɪsəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neuralgia",
+      "type": "alias",
+      "alias": "nyoo-RAL-jah"
+    },
+    {
+      "text": "neuralgia",
+      "type": "phoneme",
+      "phoneme": "nʊˈrældʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neuritis",
+      "type": "alias",
+      "alias": "nyoo-RY-tis"
+    },
+    {
+      "text": "neuritis",
+      "type": "phoneme",
+      "phoneme": "nʊˈraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sciatica",
+      "type": "alias",
+      "alias": "sy-AT-ik-ah"
+    },
+    {
+      "text": "sciatica",
+      "type": "phoneme",
+      "phoneme": "saɪˈætɪkə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "trigeminal",
+      "type": "alias",
+      "alias": "try-JEM-in-al"
+    },
+    {
+      "text": "trigeminal",
+      "type": "phoneme",
+      "phoneme": "traɪˈdʒɛmɪnəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "prosopagnosia",
+      "type": "alias",
+      "alias": "PROS-oh-pag-NOH-zhah"
+    },
+    {
+      "text": "prosopagnosia",
+      "type": "phoneme",
+      "phoneme": "ˌprɑsəpæɡˈnoʊʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperthyroidism",
+      "type": "alias",
+      "alias": "HY-per-THY-roy-dizm"
+    },
+    {
+      "text": "hyperthyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "alias",
+      "alias": "HY-po-THY-roy-dizm"
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thyrotoxicosis",
+      "type": "alias",
+      "alias": "THY-ro-TOK-sih-KOH-sis"
+    },
+    {
+      "text": "thyrotoxicosis",
+      "type": "phoneme",
+      "phoneme": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myxedema",
+      "type": "alias",
+      "alias": "mik-seh-DEE-mah"
+    },
+    {
+      "text": "myxedema",
+      "type": "phoneme",
+      "phoneme": "ˌmɪksəˈdiːmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperparathyroidism",
+      "type": "alias",
+      "alias": "HY-per-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hyperparathyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoparathyroidism",
+      "type": "alias",
+      "alias": "HY-po-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hypoparathyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypercalcemia",
+      "type": "alias",
+      "alias": "HY-per-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hypercalcemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərkælˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypocalcemia",
+      "type": "alias",
+      "alias": "HY-po-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hypocalcemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəkælˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperkalemia",
+      "type": "alias",
+      "alias": "hy-per-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hyperkalemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərkəˈliːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypokalemia",
+      "type": "alias",
+      "alias": "hy-poh-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hypokalemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊkəˈliːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypernatremia",
+      "type": "alias",
+      "alias": "hy-per-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hypernatremia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərnəˈtriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyponatremia",
+      "type": "alias",
+      "alias": "hy-poh-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hyponatremia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊnəˈtriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypomagnesemia",
+      "type": "alias",
+      "alias": "hy-poh-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypomagnesemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊmæɡnəˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypermagnesemia",
+      "type": "alias",
+      "alias": "hy-per-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypermagnesemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərmæɡnəˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypophosphatemia",
+      "type": "alias",
+      "alias": "hy-poh-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "hypophosphatemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊfɑːsfəˈtiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperphosphatemia",
+      "type": "alias",
+      "alias": "hy-per-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "hyperphosphatemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərfɑːsfəˈtiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "acidosis",
+      "type": "alias",
+      "alias": "ah-sih-DOH-sis"
+    },
+    {
+      "text": "acidosis",
+      "type": "phoneme",
+      "phoneme": "ˌæsɪˈdoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "alkalosis",
+      "type": "alias",
+      "alias": "al-kah-LOH-sis"
+    },
+    {
+      "text": "alkalosis",
+      "type": "phoneme",
+      "phoneme": "ˌælkəˈloʊsɪs",
+      "alphabet": "ipa"
+    }
+  ]
+}
