@@ -1,7 +1,7 @@
 text,alias,ipa,category
 atorvastatin,a-TOR-va-STAT-in,əˌtɔr.vəˈstæ.tɪn,drug
 Lipitor,LIP-i-tor,lɪˈpɪ.tɔr,drug
-lisinopril,ly-SIN-oh-pril,laɪˈsɪ.nə.prɪl,drug
+lisinopril,ly-SIN-oh-pril,laɪˈsɪnoʊprɪl,drug
 metoprolol,me-TOE-pro-lol,məˈtoʊ.prə.lɔl,drug
 amlodipine,am-LOE-di-peen,æmˈloʊ.dɪˌpin,drug
 losartan,loe-SAR-tan,loʊˈsɑr.tæn,drug
@@ -18,7 +18,7 @@ nitroglycerin,ny-tro-GLIS-er-in,ˌnaɪ.trəˈɡlɪ.sə.rɪn,drug
 hydralazine,hy-DRAL-a-zeen,haɪˈdræ.ləˌzin,drug
 clonidine,KLON-i-deen,ˈkloʊ.nɪˌdin,drug
 spironolactone,spir-oh-no-LAK-tone,ˌspaɪ.rə.noʊˈlæk.toʊn,drug
-furosemide,fur-OH-se-mide,fjʊˈroʊ.səˌmaɪd,drug
+furosemide,fur-OH-se-mide,fʊˈroʊsəmaɪd,drug
 hydrochlorothiazide,hy-dro-KLOR-oh-THY-a-zide,ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd,drug
 triamterene,try-AM-ter-een,traɪˈæm.tərˌin,drug
 bumetanide,byoo-MET-a-nide,bjuˈmɛ.təˌnaɪd,drug
@@ -93,7 +93,7 @@ metronidazole,me-tro-NI-da-zole,ˌmɛtrəˈnaɪdəzoʊl,drug
 sulfamethoxazole trimethoprim,sul-fa-meth-OX-a-zole try-METH-oh-prim,ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm,drug
 nitrofurantoin,ny-tro-fyoor-an-TOYN,ˌnaɪtroʊfjʊˈræntoʊɪn,drug
 penicillin,pen-i-SIL-in,ˌpɛnɪˈsɪlɪn,drug
-vancomycin,van-ko-MY-sin,væŋˈkoʊmaɪsɪn,drug
+vancomycin,van-ko-MY-sin,væŋkoʊˈmaɪsɪn,drug
 levofloxacin,lee-vo-FLOX-a-sin,ˌlɛvoʊˈflɑksəsɪn,drug
 moxifloxacin,mox-i-FLOX-a-sin,ˌmɑksɪˈflɑksəsɪn,drug
 cefdinir,SEF-di-ner,ˈsɛfdɪnɪr,drug
@@ -166,7 +166,7 @@ nizatidine,ny-ZAT-ih-deen,naɪˈzætɪdiːn,drug
 aluminum hydroxide,ah-LOO-min-um hy-DROK-side,əˈluːmɪnəm haɪˈdrɒksaɪd,drug
 simethicone,sy-METH-ih-kone,saɪˈmɛθɪkoʊn,drug
 ondansetron,on-DAN-seh-tron,ɒnˈdænsətrɒn,drug
-granisetron,gran-IS-eh-tron,grəˈnɪsətrɒn,drug
+granisetron,gran-IS-eh-tron,ɡrəˈnɪsətrɒn,drug
 palonosetron,pal-oh-NOH-seh-tron,pəˌloʊnəˈsɛtrɒn,drug
 metoclopramide,met-oh-KLOH-prah-mide,məˌtoʊkloʊˈpræmaɪd,drug
 promethazine,proh-METH-ah-zeen,proʊˈmɛθəziːn,drug
@@ -289,8 +289,8 @@ vinorelbine,vi-NOR-el-been,vɪˈnɔːrɛlbiːn,drug
 etoposide,e-TOH-poh-side,ɪˈtoʊpəsaɪd,drug
 cyclophosphamide,sy-kloh-FOS-fa-mide,ˌsaɪkloʊˈfɒsfəmaɪd,drug
 ifosfamide,i-FOS-fa-mide,ɪˈfɒsfəmaɪd,drug
-methotrexate,meth-oh-TREK-sate,ˌmɛθəˈtɹɛkseɪt,drug
-pemetrexed,pem-e-TREK-sed,ˌpɛmɪˈtɹɛksɛd,drug
+methotrexate,meth-oh-TREK-sate,ˌmɛθəˈtrɛkseɪt,drug
+pemetrexed,pem-e-TREK-sed,ˌpɛmɪˈtrɛksɛd,drug
 gemcitabine,jem-SITE-a-been,dʒɛmˈsaɪtəbiːn,drug
 fluorouracil,floor-oh-YOO-ra-sil,ˌflʊroʊˈjʊɚəsɪl,drug
 capecitabine,ka-pe-SITE-a-been,ˌkæpɪˈsaɪtəbiːn,drug
@@ -395,155 +395,155 @@ fremanezumab,freh-mah-NEH-zoo-mab,friˈmænɪzʊmæb,drug
 galcanezumab,gal-kah-NEH-zoo-mab,ɡælˈkænɪzʊmæb,drug
 eprodual,eh-PROH-dool,ɛˈprɑduəl,drug
 onabotulinumtoxinA,on-ah-BOT-yoo-ly-num-TOX-in ay,ɑnəbəˌtulɪnəmˈtɑksɪn eɪ,drug
-MI,myocardial infarction,ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən,acronym
-COPD,chronic obstructive pulmonary disease,ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz,acronym
-CHF,congestive heart failure,kənˈɡɛstɪv hɑrt ˈfɜːr,acronym
-UTI,urinary tract infection,ˌjuːriˈnɛri træk ˈɪnfɛkʃən,acronym
+MI,myocardial infarction,ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən,acronym
+COPD,chronic obstructive pulmonary disease,ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz,acronym
+CHF,congestive heart failure,kənˈdʒɛstɪv hɑrt ˈfeljɚ,acronym
+UTI,urinary tract infection,ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən,acronym
 MRI,magnetic resonance imaging,mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ,acronym
 CT,computed tomography,kəmˈpjutɪd təˈmɑɡrəfi,acronym
 EKG,electrocardiogram,ɪˌlɛktroʊkɑrdiˈɑɡrəm,acronym
-ECG,electrocardiogram,ɪˌlɛktroʊkɑrdiˈɑɡrəm,acronym
-EEG,electroencephalogram,ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm,acronym
-BUN,blood urea nitrogen,ˈblʌd ˌjuːriəˈnaɪtroʊdʒən,acronym
-CMP,comprehensive metabolic panel,ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl,acronym
-CBC,complete blood count,ˌkɑmpliːt ˈblʌd ˈkaʊnt,acronym
-TSH,thyroid stimulating hormone,ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn,acronym
-HbA1c,hemoglobin A one C,ˌheməɡloʊbɪn eɪ wʌn siː,acronym
-PT,prothrombin time,ˌprɑθrɑmbɪn ˈtaɪm,acronym
-INR,international normalized ratio,ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ,acronym
-PTT,partial thromboplastin time,ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm,acronym
-DVT,deep vein thrombosis,ˌdiːp veɪn ˈθrɑmbəˌsɪs,acronym
-PE,pulmonary embolism,ˌpʊlməˈnɛri ɛmˈboʊlɪzəm,acronym
-CVA,cerebrovascular accident,ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt,acronym
-TIA,transient ischemic attack,trænˈzɪənt ɪˈskɛmɪk əˈtæk,acronym
-ICU,intensive care unit,ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt,acronym
-NICU,neonatal intensive care unit,ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt,acronym
-ER,emergency room,ɪmˈɜːrdʒənsi ˈruːm,acronym
-ED,emergency department,ˌɛrˈdiː,acronym
-OR,operating room,ˈɔr,acronym
-PACU,post-anesthesia care unit,pəˈkuː,acronym
-CCU,coronary care unit,ˌsiːˌsiːˈjuː,acronym
-SICU,surgical intensive care unit,ˌɛsˌaɪˌsiːˈjuː,acronym
-MICU,medical intensive care unit,ˌɛmˌaɪˌsiːˈjuː,acronym
-BP,blood pressure,ˌbiːˈpiː,acronym
-HR,heart rate,ˌeɪtʃˈɑr,acronym
-RR,respiratory rate,ˌɑrˈɑr,acronym
-SpO2,saturation of peripheral oxygen,ˌɛsˌpiːˈoʊ tuː,acronym
-ETCO2,end-tidal carbon dioxide,ˌiːˌtiːˌsiːˈoʊ tuː,acronym
-IV,intravenous,ˌaɪˈviː,acronym
-IM,intramuscular,ˌaɪˈɛm,acronym
-SC,subcutaneous,ˌɛsˈsiː,acronym
-PO,by mouth,ˌpiːˈoʊ,acronym
-PR,per rectum,ˌpiːˈɑr,acronym
-SL,sublingual,ˌɛsˈɛl,acronym
-OD,right eye,ˌoʊˈdiː,acronym
-OS,left eye,ˌoʊˈɛs,acronym
-OU,both eyes,ˌoʊˈjuː,acronym
-AU,both ears,ˌeɪˈjuː,acronym
-AD,right ear,ˌeɪˈdiː,acronym
-AS,left ear,ˌeɪˈɛs,acronym
-APAP,acetaminophen,ˈeɪpæp,acronym
-NSAID,non-steroidal anti-inflammatory drug,ˈɛnsɛd,acronym
-PPI,proton pump inhibitor,ˌpiːˌpiːˈaɪ,acronym
-ARB,angiotensin receptor blocker,ˌeɪˌɑrˈbiː,acronym
-ACE,angiotensin-converting enzyme,ˈeɪs,acronym
-BB,beta blocker,ˌbiːˈbiː,acronym
-CCB,calcium channel blocker,ˌsiːˌsiːˈbiː,acronym
-SSRI,se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter,ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər,acronym
-SNRI,se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter,ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər,acronym
-TCA,tri-SIK-lik an-TI-de-PRE-sant,ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt,acronym
-MAOI,mono-amine OK-si-DASE in-HIB-i-ter,ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər,acronym
-DM,di-a-BE-teez mel-LI-tus,ˌdaɪəˈbiːtɪz ˈmɛlɪtəs,acronym
-HTN,hi-per-TEN-shun,haɪˈpɜːrtənʃən,acronym
-HLD,hi-per-LIP-i-dee-mee-uh,ˌhaɪpərˈlɪpɪˌdiːmɪə,acronym
-CAD,co-ROH-ner-ee AR-ter-ee di-ZEEZ,ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz,acronym
-PVD,per-i-FER-ul vas-KYOO-ler di-ZEEZ,ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz,acronym
-CKD,kron-ik KID-nee di-ZEEZ,ˌkrɑnɪk ˈkɪdni ˈdɪziːz,acronym
-ESRD,end-STAGE re-NAL di-ZEEZ,ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz,acronym
-AKI,ak-YOOT KID-nee in-JER-ee,ˈækjʊt kɪdˈni ˈɪndʒəri,acronym
+ECG,electrocardiogram,ɪˌlɛktroʊˈkɑrdiəˌɡræm,acronym
+EEG,electroencephalogram,ɪˌlɛktroʊɛnˈsɛfələˌɡræm,acronym
+BUN,blood urea nitrogen,blʌd jʊˈriə ˈnaɪtrədʒən,acronym
+CMP,comprehensive metabolic panel,ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl,acronym
+CBC,complete blood count,kəmˈplit blʌd kaʊnt,acronym
+TSH,thyroid stimulating hormone,ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn,acronym
+HbA1c,hemoglobin A one C,ˌhimoʊˈɡloʊbɪn eɪ wʌn si,acronym
+PT,prothrombin time,proʊˈθrɑmbɪn taɪm,acronym
+INR,international normalized ratio,ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ,acronym
+PTT,partial thromboplastin time,ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm,acronym
+DVT,deep vein thrombosis,dip ven θrɑmˈboʊsɪs,acronym
+PE,pulmonary embolism,ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm,acronym
+CVA,cerebrovascular accident,ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt,acronym
+TIA,transient ischemic attack,ˈtrænziənt ɪsˈkimɪk əˈtæk,acronym
+ICU,intensive care unit,ɪnˈtɛnsɪv kɛr ˈjunɪt,acronym
+NICU,neonatal intensive care unit,ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt,acronym
+ER,emergency room,ɪˈmɜrdʒənsi rum,acronym
+ED,emergency department,ɪˈmɜrdʒənsi dɪˈpɑrtmənt,acronym
+OR,operating room,ˈɑpəˌretɪŋ rum,acronym
+PACU,post-anesthesia care unit,poʊst ˌænəsˈθiʒə kɛr ˈjunɪt,acronym
+CCU,coronary care unit,ˈkɔrəˌnɛri kɛr ˈjunɪt,acronym
+SICU,surgical intensive care unit,ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt,acronym
+MICU,medical intensive care unit,ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt,acronym
+BP,blood pressure,ˈblʌd ˈprɛʃɚ,acronym
+HR,heart rate,ˈhɑrt ˈreɪt,acronym
+RR,respiratory rate,ˈrɛspɚəˌtɔri ˈreɪt,acronym
+SpO2,saturation of peripheral oxygen,ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən,acronym
+ETCO2,end-tidal carbon dioxide,ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd,acronym
+IV,intravenous,ˌɪntrəˈvinəs,acronym
+IM,intramuscular,ˌɪntrəˈmʌskjəlɚ,acronym
+SC,subcutaneous,ˌsʌbkjuˈteɪniəs,acronym
+PO,by mouth,baɪ ˈmaʊθ,acronym
+PR,per rectum,pɚ ˈrɛktəm,acronym
+SL,sublingual,sʌbˈlɪŋɡwəl,acronym
+OD,right eye,ˈraɪt ˈaɪ,acronym
+OS,left eye,ˈlɛft ˈaɪ,acronym
+OU,both eyes,ˈboʊθ ˈaɪz,acronym
+AU,both ears,ˈboʊθ ˈɪrz,acronym
+AD,right ear,ˈraɪt ˈɪr,acronym
+AS,left ear,ˈlɛft ˈɪr,acronym
+APAP,acetaminophen,əˌsitəˈmɪnəfən,acronym
+NSAID,non-steroidal anti-inflammatory drug,ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ,acronym
+PPI,proton pump inhibitor,ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ,acronym
+ARB,angiotensin receptor blocker,ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ,acronym
+ACE,angiotensin-converting enzyme,ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm,acronym
+BB,beta blocker,ˈbeɪtə ˈblɑkɚ,acronym
+CCB,calcium channel blocker,ˈkælsiəm ˈtʃænəl ˈblɑkɚ,acronym
+SSRI,se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter,sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ,acronym
+SNRI,se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter,sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ,acronym
+TCA,tri-SIK-lik an-TI-de-PRE-sant,traɪˈsɪklɪk ˌæntidɪˈprɛsənt,acronym
+MAOI,mono-amine OK-si-DASE in-HIB-i-ter,ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ,acronym
+DM,di-a-BE-teez mel-LI-tus,ˌdaɪəˈbitiz məˈlaɪtəs,acronym
+HTN,hi-per-TEN-shun,ˌhaɪpɚˈtɛnʃən,acronym
+HLD,hi-per-LIP-i-dee-mee-uh,ˌhaɪpɚˈlɪpɪˌdimiə,acronym
+CAD,co-ROH-ner-ee AR-ter-ee di-ZEEZ,kəˈroʊnɚi ˈɑrtɚi dɪˈziz,acronym
+PVD,per-i-FER-ul vas-KYOO-ler di-ZEEZ,ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz,acronym
+CKD,kron-ik KID-nee di-ZEEZ,ˈkrɑnɪk ˈkɪdni dɪˈziz,acronym
+ESRD,end-STAGE re-NAL di-ZEEZ,ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz,acronym
+AKI,ak-YOOT KID-nee in-JER-ee,əˈkjut ˈkɪdni ˈɪndʒɚi,acronym
 ASTHMA,AZ-muh,ˈæzmə,acronym
-GERD,gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ,ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz,acronym
-IBD,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz,acronym
-IBS,i-RI-ta-bul bo-WEL SIN-drom,ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm,acronym
-NASH,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs,acronym
-NAFLD,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz,acronym
-HCC,he-PAT-o-sel-YOO-ler kar-si-NO-ma,ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə,acronym
-ALL,ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh,ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə,acronym
-AML,ak-YOOT my-eh-LOYD le-KEE-mee-uh,ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə,acronym
-CLL,kron-ik lym-fo-SIT-ik le-KEE-mee-uh,ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə,acronym
-CML,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə,acronym
-NHL,non-HOJ-kin lym-FO-ma,ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə,acronym
+GERD,gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ,ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz,acronym
+IBD,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz,acronym
+IBS,i-RI-ta-bul bo-WEL SIN-drom,ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm,acronym
+NASH,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs,acronym
+NAFLD,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz,acronym
+HCC,he-PAT-o-sel-YOO-ler kar-si-NO-ma,həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə,acronym
+ALL,ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh,əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə,acronym
+AML,ak-YOOT my-eh-LOYD le-KEE-mee-uh,əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə,acronym
+CLL,kron-ik lym-fo-SIT-ik le-KEE-mee-uh,ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə,acronym
+CML,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə,acronym
+NHL,non-HOJ-kin lym-FO-ma,ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə,acronym
 Hodgkin,HOJ-kin,ˈhɑdʒkɪn,acronym
-MM,mul-TI-pul my-eh-LO-ma,ˈmʌltɪpl ˈmaɪˈloʊmə,acronym
-SLE,sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus,ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs,acronym
-RA,rew-ma-TOYD ar-THRI-tis,ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs,acronym
-OA,os-tee-o-ar-THRI-tis,ˈɑːsθrəʊˈaɪtɪs,acronym
-DJD,de-JEN-er-a-tiv jint di-ZEEZ,ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz,acronym
-GOUT,gowt,ɡaʊt,acronym
-MG,myasthenia gravis,maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən,acronym
-MS,multiple sclerosis,ˈmʌltɪpl sklɪˈroʊsɪs,acronym
-ALS,amyotrophic lateral sclerosis,əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs,acronym
-GBS,Guillain-Barré syndrome,ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm,acronym
-TBI,traumatic brain injury,trəˈmætɪk brɛn ɪnˈdʒʊri,acronym
-PD,Parkinson disease,pɑːrkɪnsən ˈdɪziːz,acronym
-HD,Huntington disease,hʌnˈtɪŋtən ˈdɪziːz,acronym
-CJD,Creutzfeldt-Jakob disease,krʊtsfɛlt dʒækəb ˈdɪziːz,acronym
-SCI,spinal cord injury,spaɪnəl kɔːrd ɪnˈdʒʊri,acronym
-CA,cancer,kɑːnsər,acronym
-N/V,nausea and vomiting,nɔːziə ənd voʊmɪtɪŋ,acronym
-SOB,shortness of breath,ʃɔːrtnis əv brɛθ,acronym
-CP,cerebral palsy,sɛrɪbrəl ˈpɔːlsi,acronym
-N/V/D,nausea vomiting and diarrhea,nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə,acronym
-LOC,loss of consciousness,lɑːs əv kɔnˈʃuːʃən,acronym
-GCS,Glasgow Coma Scale,ɡlæsɡoʊ kɔmə skoːr,acronym
-HEENT,head eyes ears nose and throat,hɛd aɪz ɪrz noʊz ənd θroʊt,acronym
-CV,cardiovascular,kɑːrdjoʊˈvæskjələr,acronym
-GI,gastrointestinal,ɡæstroʊɪnˈtɛstənəl,acronym
-GU,genitourinary,dʒɛnɪtoʊˈrɪnəri,acronym
-MSK,musculoskeletal,mʌskjoʊsklɪˈlɛtərəl,acronym
-Neuro,NEU-roh,nʊˈroʊloʊdʒi,acronym
-Psych,SYKE,saɪˈkætri,acronym
-Derm,derm,dɜːrməˈtɑːlədʒi,acronym
-ENT,ear nose and throat,ɪr noʊz ənd θroʊt,acronym
-OB,obstetrics,ɑːbstəˈtrɪks,acronym
-GYN,gynecology,ɡaɪnɪˈkɑːlədʒi,acronym
-LMP,last menstrual period,læst mɛnstrəl ˈpɪriəd,acronym
-EDC,estimated date of confinement,ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment,acronym
-Gest,gest,dʒɛst,acronym
-NS,normal saline,nɔːrməl saʊn,acronym
-LR,lactated Ringer's,lækˈtɛtˌɪd rɪŋɡərz,acronym
-D5W,D-five-W,faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər,acronym
-D5NS,D-five-N-S,faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn,acronym
-D5LR,D-five-L-R,faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz,acronym
-KCl,potassium chloride,pəˈtæsiəm klɔːraɪd,acronym
+MM,mul-TI-pul my-eh-LO-ma,ˈmʌltɪpəl ˌmaɪəˈloʊmə,acronym
+SLE,sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus,sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs,acronym
+RA,rew-ma-TOYD ar-THRI-tis,ˌruməˈtɔɪd ɑrˈθraɪtɪs,acronym
+OA,os-tee-o-ar-THRI-tis,ˌɑstioʊɑrˈθraɪtɪs,acronym
+DJD,de-JEN-er-a-tiv jint di-ZEEZ,dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz,acronym
+GOUT,gowt,ɡˈaʊt,acronym
+MG,myasthenia gravis,ˌmaɪəsˈθiniə ˈɡrævɪs,acronym
+MS,multiple sclerosis,ˈmʌltɪpəl skləˈroʊsɪs,acronym
+ALS,amyotrophic lateral sclerosis,əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs,acronym
+GBS,Guillain-Barré syndrome,ɡiˈjæn bəˈreɪ ˈsɪndroʊm,acronym
+TBI,traumatic brain injury,trəˈmætɪk ˈbreɪn ˈɪndʒɚi,acronym
+PD,Parkinson disease,ˈpɑrkɪnsən dɪˌziːz,acronym
+HD,Huntington disease,ˈhʌntɪŋtən dɪˌziːz,acronym
+CJD,Creutzfeldt-Jakob disease,ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz,acronym
+SCI,spinal cord injury,ˈspaɪnəl kɔrd ˈɪndʒəri,acronym
+CA,cancer,ˈkænsɚ,acronym
+N/V,nausea and vomiting,ˈnɔziə ənd ˈvɑmɪtɪŋ,acronym
+SOB,shortness of breath,ˈʃɔrtnəs əv brɛθ,acronym
+CP,cerebral palsy,səˈribrəl ˈpɔlzi,acronym
+N/V/D,nausea vomiting and diarrhea,ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə,acronym
+LOC,loss of consciousness,ˈlɔs əv ˈkɑnʃəsnəs,acronym
+GCS,Glasgow Coma Scale,ˈɡlæsɡoʊ ˈkoʊmə skeɪl,acronym
+HEENT,head eyes ears nose and throat,hˈɛd aɪz ɪrz noʊz ən θroʊt,acronym
+CV,cardiovascular,ˌkɑrdioʊˈvæskjəlɚ,acronym
+GI,gastrointestinal,ˌɡæstroʊɪnˈtɛstənəl,acronym
+GU,genitourinary,ˌdʒɛnɪtoʊˈjʊrɪnɛri,acronym
+MSK,musculoskeletal,ˌmʌskjəloʊˈskɛlətəl,acronym
+Neuro,NEU-roh,ˈnʊroʊ,acronym
+Psych,SYKE,sˈaɪk,acronym
+Derm,derm,ˈdɝm,acronym
+ENT,ear nose and throat,ˈɪr noʊz ən θroʊt,acronym
+OB,obstetrics,əbˈstɛtrɪks,acronym
+GYN,gynecology,ˌɡaɪnəˈkɑlədʒi,acronym
+LMP,last menstrual period,læst ˈmɛnstruəl ˈpɪriəd,acronym
+EDC,estimated date of confinement,ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt,acronym
+Gest,gest,dʒˈɛst,acronym
+NS,normal saline,ˈnɔrməl səˈliːn,acronym
+LR,lactated Ringer's,ˈlækteɪtɪd ˈrɪŋɚz,acronym
+D5W,D-five-W,dˈiː faɪv dʌbəlju,acronym
+D5NS,D-five-N-S,dˈiː faɪv ɛn ɛs,acronym
+D5LR,D-five-L-R,dˈiː faɪv ɛl ɑr,acronym
+KCl,potassium chloride,pəˈtæsiəm ˈklɔraɪd,acronym
 MgSO4,mag-NEE-zee-um sul-FATE,mæɡˈniːziəm sʌlˈfeɪt,acronym
-CaCl2,KAL-see-um KLOR-ide,kælsiəm klɔːraɪd,acronym
-NaHCO3,SOD-ee-um hye-DROK-sah-dye KAR-bo-nate,soʊdiəm aɪkaɹˈbɒnət,acronym
-ABG,arterial blood gas,ˈɑːtəriəl bluːd ɡæz,acronym
-VBG,venous blood gas,vɛnəs bluːd ɡæz,acronym
-LP,lumbar puncture,ˈlʌmbər ˈpʌŋktʃər,acronym
-BM,bowel movement,baʊəl muːvmənt,acronym
-PEG,PEG,pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi,acronym
-ICD,implantable cardioverter defibrillator,ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər,acronym
-Pacemaker,PACE-may-ker,ˈpeɪsˌmeɪkər,acronym
-AICD,automatic implantable cardioverter defibrillator,ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər,acronym
-CABG,cabbage,ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft,acronym
-PCI,percutaneous coronary intervention,pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən,acronym
-TAVR,TAH-ver,ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt,acronym
-TEVAR,TEV-ar,ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər,acronym
-EVAR,EE-var,ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər,acronym
-PTCA,percutaneous transluminal coronary angioplasty,pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti,acronym
-ETOH,alcohol,ˈɛθənɔːl,acronym
-IVDU,I-V drug use,ˌɪntɹəˈviːnəs dɹʌɡ juːzər,acronym
-ASA,ASPIR-in,ˈæspərɪn,acronym
-NYD,not yet diagnosed,nɑːt jɛt dɪˈtɜːrmɪnd,acronym
-HX,history,hɪˈstɒri,acronym
-Sx,symptoms,ˈsɪmpəmz,acronym
-Tx,treatment,ˌtrɛtmənt,acronym
+CaCl2,KAL-see-um KLOR-ide,ˈkælsiəm ˈklɔraɪd,acronym
+NaHCO3,SOD-ee-um hye-DROK-sah-dye KAR-bo-nate,ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt,acronym
+ABG,arterial blood gas,ɑrˈtɪriəl blʌd ɡæs,acronym
+VBG,venous blood gas,ˈviːnəs blʌd ɡæs,acronym
+LP,lumbar puncture,ˈlʌmbɚ ˈpʌŋktʃɚ,acronym
+BM,bowel movement,ˈbaʊəl ˈmuːvmənt,acronym
+PEG,PEG,pˈɛɡ,acronym
+ICD,implantable cardioverter defibrillator,ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ,acronym
+Pacemaker,PACE-may-ker,ˈpeɪsmeɪkɚ,acronym
+AICD,automatic implantable cardioverter defibrillator,ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ,acronym
+CABG,cabbage,ˈkæbɪdʒ,acronym
+PCI,percutaneous coronary intervention,ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən,acronym
+TAVR,TAH-ver,ˈtɑvɚ,acronym
+TEVAR,TEV-ar,ˈtɛvɚ,acronym
+EVAR,EE-var,ˈivɚ,acronym
+PTCA,percutaneous transluminal coronary angioplasty,ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti,acronym
+ETOH,alcohol,ˈælkəˌhɔl,acronym
+IVDU,I-V drug use,ˌaɪˈvi drʌɡ ˈjuːs,acronym
+ASA,ASPIR-in,ˈæspɚɪn,acronym
+NYD,not yet diagnosed,nɑt jɛt ˌdaɪəɡˈnoʊzd,acronym
+HX,history,ˈhɪstɚi,acronym
+Sx,symptoms,ˈsɪmptəmz,acronym
+Tx,treatment,ˈtriːtmənt,acronym
 Dx,diagnosis,ˌdaɪəɡˈnoʊsɪs,acronym
-Rx,prescription,ˌpɝːskrɪpʃən,acronym
-FHx,family history,ˌfæmɪli hɪˈstɒri,acronym
-SHx,social history,ˌsɝːʒəkəl hɪˈstɒri,acronym
+Rx,prescription,prɪˈskrɪpʃən,acronym
+FHx,family history,ˈfæməli ˈhɪstɚi,acronym
+SHx,social history,ˈsoʊʃəl ˈhɪstɚi,acronym
 myocardial infarction,my-oh-KAR-dee-al in-FARK-shun,ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən,clinical
 angina pectoris,an-JY-nah PEK-tor-is,ænˈdʒaɪnə ˈpɛktərɪs,clinical
 arrhythmia,a-RITH-mee-ah,əˈrɪðmiə,clinical
@@ -591,7 +591,7 @@ hypoxia,hy-POK-see-ah,haɪˈpɑːksiə,clinical
 hypercapnia,hy-per-KAP-nee-ah,ˌhaɪpərˈkæpniə,clinical
 respiratory failure,RES-pih-rah-tor-ee FAYL-yer,ˈrɛspərəˌtɔːri ˈfeɪljər,clinical
 apnea,AP-nee-ah,æpˈniːə,clinical
-dyspnea,DISP-nee-ah,dɪspˈniːə,clinical
+dyspnea,DISP-nee-ah,ˈdɪspniə,clinical
 hemoptysis,hee-MOP-tih-sis,hɪˈmɑːptəsɪs,clinical
 stridor,STRY-dor,ˈstraɪdɔːr,clinical
 wheezing,WEE-zing,ˈwiːzɪŋ,clinical
@@ -729,7 +729,7 @@ cellulitis,sel-yoo-LY-tis,ˌsɛljuˈlaɪtɪs,clinical
 abscess,AB-ses,ˈæbsɛs,clinical
 furuncle,FYOOR-ung-kul,ˈfjʊrʌŋkəl,clinical
 carbuncle,KAR-bung-kul,ˈkɑːrbʌŋkəl,clinical
-impetigo,im-peh-TY-goh,ˌɪmpɪˈtaɪgoʊ,clinical
+impetigo,im-peh-TY-goh,ˌɪmpɪˈtaɪɡoʊ,clinical
 erysipelas,er-ih-SIP-eh-las,ˌɛrɪˈsɪpələs,clinical
 necrotizing fasciitis,NEK-roh-ty-zing fash-ee-EYE-tis,ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs,clinical
 osteomyelitis,os-tee-oh-my-eh-LY-tis,ˌɒstioʊˌmaɪəˈlaɪtɪs,clinical
@@ -754,9 +754,9 @@ pustule,PUS-chool,ˈpʌstʃul,clinical
 macule,MAK-yool,ˈmækjuːl,clinical
 papule,PAP-yool,ˈpæpjuːl,clinical
 nodule,NOD-yool,ˈnɑːdjuːl,clinical
-plaque,PLAK,plæk,clinical
-scale,SKAYL,skeɪl,clinical
-crust,KRUST,krʌst,clinical
+plaque,PLAK,plˈæk,clinical
+scale,SKAYL,skˈeɪl,clinical
+crust,KRUST,krˈʌst,clinical
 erosion,ee-ROH-zhun,ɪˈroʊʒən,clinical
 ulcer,UL-ser,ˈʌlsər,clinical
 fissure,FISH-ur,ˈfɪʃər,clinical
@@ -855,7 +855,7 @@ gyrus,JY-rus,ˈdʒaɪrəs,anatomical
 cortex,KOR-teks,ˈkɔrtɛks,anatomical
 medulla,meh-DOOL-ah,məˈdʌlə,anatomical
 capsule,KAP-sool,ˈkæpsəl,anatomical
-lobe,LOHB,loʊb,anatomical
+lobe,LOHB,lˈoʊb,anatomical
 lobule,LOB-yool,ˈlɑbjul,anatomical
 acinus,AS-ih-nus,ˈæsɪnəs,anatomical
 alveolus,al-VEE-oh-lus,ælˈviələs,anatomical
@@ -864,7 +864,7 @@ nephron,NEF-ron,ˈnɛfrɑn,anatomical
 tubule,TOOB-yool,ˈtubjul,anatomical
 ductule,DUK-tool,ˈdʌktʃul,anatomical
 ductus,DUK-tus,ˈdʌktəs,anatomical
-vas deferens,vas DEF-er-enz,væs dɛfərɛnz,anatomical
+vas deferens,vas DEF-er-enz,vˈæs dɛfərɛnz,anatomical
 epididymis,ep-ih-DID-ih-mis,ˌɛpɪˈdɪdɪmɪs,anatomical
 fimbria,FIM-bree-ah,ˈfɪmbriə,anatomical
 fornix,FOR-niks,ˈfɔrnɪks,anatomical
@@ -904,7 +904,7 @@ centrilobular,sen-trih-LOB-yoo-lar,ˌsɛntrɪˈlɑbjələr,anatomical
 periportal,per-ih-POR-tal,ˌpɛrɪˈpɔrtəl,anatomical
 sinusoids,SIN-yoo-soydz,ˈsɪnjəsɔɪdz,anatomical
 Kupffer,KOOP-fer,ˈkʊfər,anatomical
-space of Disse,spays of DIS,speɪs əv dɪs,anatomical
+space of Disse,spays of DIS,spˈeɪs əv dɪs,anatomical
 canaliculi,kan-ah-LIK-yoo-lye,ˌkænəˈlɪkjəlaɪ,anatomical
 falciform,FAL-sih-form,ˈfælsɪfɔrm,anatomical
 ligamentum teres,lig-ah-MEN-tum TER-eez,ˌlɪɡəˈmɛntəm ˈtɛriz,anatomical
@@ -916,9 +916,7 @@ interventricular,in-ter-ven-TRIK-yoo-lar,ˌɪntərvɛnˈtrɪkjələr,anatomical
 interventricular septum,in-ter-ven-TRIK-yoo-lar SEP-tum,ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm,anatomical
 papillary muscle,PAP-ih-lair-ee MUS-el,ˈpæpɪlɛri ˈmʌsəl,anatomical
 chordae tendineae,KOR-dee ten-DIN-ee-ee,ˈkɔrdi tɛnˈdɪnii,anatomical
-valve,valv,vælv,anatomical
 leaflet,LEEF-let,ˈlifət,anatomical
-cusp,kusp,kʌsp,anatomical
 semilunar,sem-ee-LOO-nar,ˌsɛmiˈlunər,anatomical
 atrioventricular,ay-tree-oh-ven-TRIK-yoo-lar,ˌeɪtrioʊvɛnˈtrɪkjələr,anatomical
 ventricular,ven-TRIK-yoo-lar,vɛnˈtrɪkjələr,anatomical
@@ -961,3 +959,9 @@ accessory,ak-SES-oh-ree,əkˈsɛsəri,anatomical
 oculomotor,OK-yoo-loh-MOH-tor,ˌɑːkjəloʊˈmoʊtɚ,anatomical
 trochlear,TROK-lee-ar,ˈtroʊkliər,anatomical
 abducens,ab-DOO-senz,æbˈdjuːsənz,anatomical
+angina,angina,ænˈdʒaɪnə,clinical
+epinephrine,epinephrine,ˌɛpɪˈnɛfrɪn,drug
+naloxone,naloxone,nəˈlɑksoʊn,drug
+hyperlipidemia,hyperlipidemia,ˌhaɪpərlɪˈpɪmiə,clinical
+osteoarthritis,osteoarthritis,ˌɑstioʊɑrˈθraɪtɪs,clinical
+diabetes mellitus,diabetes mellitus,ˌdaɪəˈbitɪz ˈmɛlɪtəs,clinical

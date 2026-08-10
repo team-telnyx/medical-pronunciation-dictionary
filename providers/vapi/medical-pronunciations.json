@@ -3,15 +3,7 @@
   "items": [
     {
       "text": "atorvastatin",
-      "alias": "a-TOR-va-STAT-in"
-    },
-    {
-      "text": "atorvastatin",
       "alias": "<<əˌtɔr.vəˈstæ.tɪn>>"
-    },
-    {
-      "text": "Lipitor",
-      "alias": "LIP-i-tor"
     },
     {
       "text": "Lipitor",
@@ -19,15 +11,7 @@
     },
     {
       "text": "lisinopril",
-      "alias": "ly-SIN-oh-pril"
-    },
-    {
-      "text": "lisinopril",
-      "alias": "<<laɪˈsɪ.nə.prɪl>>"
-    },
-    {
-      "text": "metoprolol",
-      "alias": "me-TOE-pro-lol"
+      "alias": "<<laɪˈsɪnoʊprɪl>>"
     },
     {
       "text": "metoprolol",
@@ -35,15 +19,7 @@
     },
     {
       "text": "amlodipine",
-      "alias": "am-LOE-di-peen"
-    },
-    {
-      "text": "amlodipine",
       "alias": "<<æmˈloʊ.dɪˌpin>>"
-    },
-    {
-      "text": "losartan",
-      "alias": "loe-SAR-tan"
     },
     {
       "text": "losartan",
@@ -51,15 +27,7 @@
     },
     {
       "text": "metoprolol succinate",
-      "alias": "me-TOE-pro-lol SUK-si-nate"
-    },
-    {
-      "text": "metoprolol succinate",
       "alias": "<<məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt>>"
-    },
-    {
-      "text": "metoprolol tartrate",
-      "alias": "me-TOE-pro-lol TAR-trate"
     },
     {
       "text": "metoprolol tartrate",
@@ -67,15 +35,7 @@
     },
     {
       "text": "carvedilol",
-      "alias": "kar-VE-di-lol"
-    },
-    {
-      "text": "carvedilol",
       "alias": "<<kɑrˈvɛ.dɪ.lɔl>>"
-    },
-    {
-      "text": "valsartan",
-      "alias": "val-SAR-tan"
     },
     {
       "text": "valsartan",
@@ -83,15 +43,7 @@
     },
     {
       "text": "enalapril",
-      "alias": "e-NAL-a-pril"
-    },
-    {
-      "text": "enalapril",
       "alias": "<<ɪˈnæ.lə.prɪl>>"
-    },
-    {
-      "text": "ramipril",
-      "alias": "ra-MI-pril"
     },
     {
       "text": "ramipril",
@@ -99,15 +51,7 @@
     },
     {
       "text": "felodipine",
-      "alias": "fe-LOE-di-peen"
-    },
-    {
-      "text": "felodipine",
       "alias": "<<fɪˈloʊ.dɪˌpin>>"
-    },
-    {
-      "text": "nimodipine",
-      "alias": "ny-MOE-di-peen"
     },
     {
       "text": "nimodipine",
@@ -115,15 +59,7 @@
     },
     {
       "text": "nicardipine",
-      "alias": "ny-KAR-di-peen"
-    },
-    {
-      "text": "nicardipine",
       "alias": "<<naɪˈkɑr.dɪˌpin>>"
-    },
-    {
-      "text": "nitroglycerin",
-      "alias": "ny-tro-GLIS-er-in"
     },
     {
       "text": "nitroglycerin",
@@ -131,15 +67,7 @@
     },
     {
       "text": "hydralazine",
-      "alias": "hy-DRAL-a-zeen"
-    },
-    {
-      "text": "hydralazine",
       "alias": "<<haɪˈdræ.ləˌzin>>"
-    },
-    {
-      "text": "clonidine",
-      "alias": "KLON-i-deen"
     },
     {
       "text": "clonidine",
@@ -147,23 +75,11 @@
     },
     {
       "text": "spironolactone",
-      "alias": "spir-oh-no-LAK-tone"
-    },
-    {
-      "text": "spironolactone",
       "alias": "<<ˌspaɪ.rə.noʊˈlæk.toʊn>>"
     },
     {
       "text": "furosemide",
-      "alias": "fur-OH-se-mide"
-    },
-    {
-      "text": "furosemide",
-      "alias": "<<fjʊˈroʊ.səˌmaɪd>>"
-    },
-    {
-      "text": "hydrochlorothiazide",
-      "alias": "hy-dro-KLOR-oh-THY-a-zide"
+      "alias": "<<fʊˈroʊsəmaɪd>>"
     },
     {
       "text": "hydrochlorothiazide",
@@ -171,15 +87,7 @@
     },
     {
       "text": "triamterene",
-      "alias": "try-AM-ter-een"
-    },
-    {
-      "text": "triamterene",
       "alias": "<<traɪˈæm.tərˌin>>"
-    },
-    {
-      "text": "bumetanide",
-      "alias": "byoo-MET-a-nide"
     },
     {
       "text": "bumetanide",
@@ -187,15 +95,7 @@
     },
     {
       "text": "torsemide",
-      "alias": "TOR-se-mide"
-    },
-    {
-      "text": "torsemide",
       "alias": "<<ˈtɔr.səˌmaɪd>>"
-    },
-    {
-      "text": "eplerenone",
-      "alias": "e-PLER-e-none"
     },
     {
       "text": "eplerenone",
@@ -203,15 +103,7 @@
     },
     {
       "text": "diltiazem",
-      "alias": "dil-TY-a-zem"
-    },
-    {
-      "text": "diltiazem",
       "alias": "<<dɪlˈtaɪ.ə.zəm>>"
-    },
-    {
-      "text": "verapamil",
-      "alias": "ver-AP-a-mil"
     },
     {
       "text": "verapamil",
@@ -219,15 +111,7 @@
     },
     {
       "text": "nifedipine",
-      "alias": "ny-FED-i-peen"
-    },
-    {
-      "text": "nifedipine",
       "alias": "<<naɪˈfɛ.dɪˌpin>>"
-    },
-    {
-      "text": "doxazosin",
-      "alias": "dok-SAZ-oh-sin"
     },
     {
       "text": "doxazosin",
@@ -235,15 +119,7 @@
     },
     {
       "text": "terazosin",
-      "alias": "ter-AZ-oh-sin"
-    },
-    {
-      "text": "terazosin",
       "alias": "<<təˈræ.zə.sɪn>>"
-    },
-    {
-      "text": "prazosin",
-      "alias": "PRAZ-oh-sin"
     },
     {
       "text": "prazosin",
@@ -251,15 +127,7 @@
     },
     {
       "text": "amiodarone",
-      "alias": "am-ee-OH-da-rone"
-    },
-    {
-      "text": "amiodarone",
       "alias": "<<əˈmiːoʊdəroʊn>>"
-    },
-    {
-      "text": "dronedarone",
-      "alias": "droe-NEH-da-rone"
     },
     {
       "text": "dronedarone",
@@ -267,15 +135,7 @@
     },
     {
       "text": "sotalol",
-      "alias": "SOH-ta-lol"
-    },
-    {
-      "text": "sotalol",
       "alias": "<<ˈsoʊtəlɔːl>>"
-    },
-    {
-      "text": "propafenone",
-      "alias": "pro-PAF-eh-none"
     },
     {
       "text": "propafenone",
@@ -283,15 +143,7 @@
     },
     {
       "text": "flecainide",
-      "alias": "FLEH-ka-nide"
-    },
-    {
-      "text": "flecainide",
       "alias": "<<ˈflɛkənaɪd>>"
-    },
-    {
-      "text": "mexiletine",
-      "alias": "mex-IL-eh-teen"
     },
     {
       "text": "mexiletine",
@@ -299,15 +151,7 @@
     },
     {
       "text": "isosorbide dinitrate",
-      "alias": "eye-so-SOR-bide dye-NYE-trate"
-    },
-    {
-      "text": "isosorbide dinitrate",
       "alias": "<<aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt>>"
-    },
-    {
-      "text": "isosorbide mononitrate",
-      "alias": "eye-so-SOR-bide mon-oh-NYE-trate"
     },
     {
       "text": "isosorbide mononitrate",
@@ -315,15 +159,7 @@
     },
     {
       "text": "warfarin",
-      "alias": "war-FAR-in"
-    },
-    {
-      "text": "warfarin",
       "alias": "<<ˈwɔːrfərɪn>>"
-    },
-    {
-      "text": "rivaroxaban",
-      "alias": "riv-a-ROX-a-ban"
     },
     {
       "text": "rivaroxaban",
@@ -331,15 +167,7 @@
     },
     {
       "text": "apixaban",
-      "alias": "a-PIX-a-ban"
-    },
-    {
-      "text": "apixaban",
       "alias": "<<əˈpɪksəbæn>>"
-    },
-    {
-      "text": "dabigatran",
-      "alias": "da-big-a-TRAN"
     },
     {
       "text": "dabigatran",
@@ -347,15 +175,7 @@
     },
     {
       "text": "clopidogrel",
-      "alias": "kloh-PID-oh-grel"
-    },
-    {
-      "text": "clopidogrel",
       "alias": "<<kloʊˈpɪdəɡrɛl>>"
-    },
-    {
-      "text": "prasugrel",
-      "alias": "PRA-soo-grel"
     },
     {
       "text": "prasugrel",
@@ -363,15 +183,7 @@
     },
     {
       "text": "ticagrelor",
-      "alias": "tye-ka-GREL-or"
-    },
-    {
-      "text": "ticagrelor",
       "alias": "<<taɪˈkæɡrəlɔːr>>"
-    },
-    {
-      "text": "ezetimibe",
-      "alias": "eh-ZET-i-mibe"
     },
     {
       "text": "ezetimibe",
@@ -379,15 +191,7 @@
     },
     {
       "text": "fenofibrate",
-      "alias": "fen-oh-FYE-brate"
-    },
-    {
-      "text": "fenofibrate",
       "alias": "<<ˌfɛnoʊˈfaɪbreɪt>>"
-    },
-    {
-      "text": "gemfibrozil",
-      "alias": "jem-FYE-broh-zil"
     },
     {
       "text": "gemfibrozil",
@@ -395,15 +199,7 @@
     },
     {
       "text": "niacin",
-      "alias": "NYE-a-sin"
-    },
-    {
-      "text": "niacin",
       "alias": "<<ˈnaɪəsɪn>>"
-    },
-    {
-      "text": "colesevelam",
-      "alias": "koh-leh-SEV-eh-lam"
     },
     {
       "text": "colesevelam",
@@ -411,15 +207,7 @@
     },
     {
       "text": "simvastatin",
-      "alias": "sim-va-STAT-in"
-    },
-    {
-      "text": "simvastatin",
       "alias": "<<ˌsɪmvəˈstætɪn>>"
-    },
-    {
-      "text": "rosuvastatin",
-      "alias": "roh-soo-va-STAT-in"
     },
     {
       "text": "rosuvastatin",
@@ -427,15 +215,7 @@
     },
     {
       "text": "pravastatin",
-      "alias": "PRAV-va-STAT-in"
-    },
-    {
-      "text": "pravastatin",
       "alias": "<<ˈprævəstætɪn>>"
-    },
-    {
-      "text": "fluvastatin",
-      "alias": "FLOO-va-STAT-in"
     },
     {
       "text": "fluvastatin",
@@ -443,15 +223,7 @@
     },
     {
       "text": "pitavastatin",
-      "alias": "pit-a-va-STAT-in"
-    },
-    {
-      "text": "pitavastatin",
       "alias": "<<ˌpɪtəˈvæstətɪn>>"
-    },
-    {
-      "text": "alirocumab",
-      "alias": "a-LIR-oh-kyoo-mab"
     },
     {
       "text": "alirocumab",
@@ -459,15 +231,7 @@
     },
     {
       "text": "evolocumab",
-      "alias": "e-VOL-oh-kyoo-mab"
-    },
-    {
-      "text": "evolocumab",
       "alias": "<<ɪˈvoʊloʊkuːmæb>>"
-    },
-    {
-      "text": "metformin",
-      "alias": "met-FOR-min"
     },
     {
       "text": "metformin",
@@ -475,15 +239,7 @@
     },
     {
       "text": "glipizide",
-      "alias": "GLIP-i-zide"
-    },
-    {
-      "text": "glipizide",
       "alias": "<<ˈɡlɪpəzaɪd>>"
-    },
-    {
-      "text": "glyburide",
-      "alias": "GLY-bur-ide"
     },
     {
       "text": "glyburide",
@@ -491,15 +247,7 @@
     },
     {
       "text": "pioglitazone",
-      "alias": "py-oh-GLIT-ah-zone"
-    },
-    {
-      "text": "pioglitazone",
       "alias": "<<ˌpaɪoʊɡlɪˈtæzoʊn>>"
-    },
-    {
-      "text": "sitagliptin",
-      "alias": "sit-ah-GLIP-tin"
     },
     {
       "text": "sitagliptin",
@@ -507,15 +255,7 @@
     },
     {
       "text": "linagliptin",
-      "alias": "lin-ah-GLIP-tin"
-    },
-    {
-      "text": "linagliptin",
       "alias": "<<ˌlɪnəˈɡlɪptɪn>>"
-    },
-    {
-      "text": "saxagliptin",
-      "alias": "sax-ah-GLIP-tin"
     },
     {
       "text": "saxagliptin",
@@ -523,15 +263,7 @@
     },
     {
       "text": "alogliptin",
-      "alias": "al-oh-GLIP-tin"
-    },
-    {
-      "text": "alogliptin",
       "alias": "<<ˌæloʊˈɡlɪptɪn>>"
-    },
-    {
-      "text": "empagliflozin",
-      "alias": "em-pah-gli-FLOH-zin"
     },
     {
       "text": "empagliflozin",
@@ -539,15 +271,7 @@
     },
     {
       "text": "canagliflozin",
-      "alias": "kan-ah-gli-FLOH-zin"
-    },
-    {
-      "text": "canagliflozin",
       "alias": "<<ˌkænəɡlɪˈfloʊzɪn>>"
-    },
-    {
-      "text": "dapagliflozin",
-      "alias": "dap-ah-gli-FLOH-zin"
     },
     {
       "text": "dapagliflozin",
@@ -555,15 +279,7 @@
     },
     {
       "text": "semaglutide",
-      "alias": "sem-ah-GLOO-tide"
-    },
-    {
-      "text": "semaglutide",
       "alias": "<<ˌsɛməˈɡluːtaɪd>>"
-    },
-    {
-      "text": "liraglutide",
-      "alias": "lir-ah-GLOO-tide"
     },
     {
       "text": "liraglutide",
@@ -571,15 +287,7 @@
     },
     {
       "text": "exenatide",
-      "alias": "ex-EN-ah-tide"
-    },
-    {
-      "text": "exenatide",
       "alias": "<<ɛɡˈzɛnətaɪd>>"
-    },
-    {
-      "text": "dulaglutide",
-      "alias": "doo-lah-GLOO-tide"
     },
     {
       "text": "dulaglutide",
@@ -587,15 +295,7 @@
     },
     {
       "text": "tirzepatide",
-      "alias": "teer-ZEP-ah-tide"
-    },
-    {
-      "text": "tirzepatide",
       "alias": "<<tɪrˈzɛpətaɪd>>"
-    },
-    {
-      "text": "insulin glargine",
-      "alias": "IN-suh-lin GLAR-jeen"
     },
     {
       "text": "insulin glargine",
@@ -603,15 +303,7 @@
     },
     {
       "text": "insulin lispro",
-      "alias": "IN-suh-lin LIS-proh"
-    },
-    {
-      "text": "insulin lispro",
       "alias": "<<ˈɪnsəlɪn ˈlɪsproʊ>>"
-    },
-    {
-      "text": "insulin aspart",
-      "alias": "IN-suh-lin AS-part"
     },
     {
       "text": "insulin aspart",
@@ -619,15 +311,7 @@
     },
     {
       "text": "insulin detemir",
-      "alias": "IN-suh-lin DET-uh-meer"
-    },
-    {
-      "text": "insulin detemir",
       "alias": "<<ˈɪnsəlɪn dəˈtiːmɪr>>"
-    },
-    {
-      "text": "insulin degludec",
-      "alias": "IN-suh-lin deh-GLOO-dek"
     },
     {
       "text": "insulin degludec",
@@ -635,15 +319,7 @@
     },
     {
       "text": "acarbose",
-      "alias": "AY-kar-bose"
-    },
-    {
-      "text": "acarbose",
       "alias": "<<ˈækɑːrboʊs>>"
-    },
-    {
-      "text": "miglitol",
-      "alias": "MIG-li-tol"
     },
     {
       "text": "miglitol",
@@ -651,15 +327,7 @@
     },
     {
       "text": "repaglinide",
-      "alias": "reh-PAG-li-nide"
-    },
-    {
-      "text": "repaglinide",
       "alias": "<<ˌrɛpəˈɡlaɪnaɪd>>"
-    },
-    {
-      "text": "nateglinide",
-      "alias": "nah-TEG-li-nide"
     },
     {
       "text": "nateglinide",
@@ -667,15 +335,7 @@
     },
     {
       "text": "amoxicillin",
-      "alias": "ah-MOX-i-sil-in"
-    },
-    {
-      "text": "amoxicillin",
       "alias": "<<əˌmɑːksɪˈsɪlɪn>>"
-    },
-    {
-      "text": "amoxicillin clavulanate",
-      "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate"
     },
     {
       "text": "amoxicillin clavulanate",
@@ -683,15 +343,7 @@
     },
     {
       "text": "azithromycin",
-      "alias": "ah-ZITH-roh-my-sin"
-    },
-    {
-      "text": "azithromycin",
       "alias": "<<æˌzɪθroʊˈmaɪsɪn>>"
-    },
-    {
-      "text": "cephalexin",
-      "alias": "sef-ah-LEX-in"
     },
     {
       "text": "cephalexin",
@@ -699,15 +351,7 @@
     },
     {
       "text": "ciprofloxacin",
-      "alias": "sip-roh-FLOX-ah-sin"
-    },
-    {
-      "text": "ciprofloxacin",
       "alias": "<<ˌsaɪproʊˈflɑːksəsɪn>>"
-    },
-    {
-      "text": "clindamycin",
-      "alias": "klin-dah-MY-sin"
     },
     {
       "text": "clindamycin",
@@ -715,15 +359,7 @@
     },
     {
       "text": "doxycycline",
-      "alias": "dok-see-SY-kleen"
-    },
-    {
-      "text": "doxycycline",
       "alias": "<<ˌdɑːksiˈsaɪkliːn>>"
-    },
-    {
-      "text": "metronidazole",
-      "alias": "me-tro-NI-da-zole"
     },
     {
       "text": "metronidazole",
@@ -731,15 +367,7 @@
     },
     {
       "text": "sulfamethoxazole trimethoprim",
-      "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim"
-    },
-    {
-      "text": "sulfamethoxazole trimethoprim",
       "alias": "<<ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm>>"
-    },
-    {
-      "text": "nitrofurantoin",
-      "alias": "ny-tro-fyoor-an-TOYN"
     },
     {
       "text": "nitrofurantoin",
@@ -747,23 +375,11 @@
     },
     {
       "text": "penicillin",
-      "alias": "pen-i-SIL-in"
-    },
-    {
-      "text": "penicillin",
       "alias": "<<ˌpɛnɪˈsɪlɪn>>"
     },
     {
       "text": "vancomycin",
-      "alias": "van-ko-MY-sin"
-    },
-    {
-      "text": "vancomycin",
-      "alias": "<<væŋˈkoʊmaɪsɪn>>"
-    },
-    {
-      "text": "levofloxacin",
-      "alias": "lee-vo-FLOX-a-sin"
+      "alias": "<<væŋkoʊˈmaɪsɪn>>"
     },
     {
       "text": "levofloxacin",
@@ -771,15 +387,7 @@
     },
     {
       "text": "moxifloxacin",
-      "alias": "mox-i-FLOX-a-sin"
-    },
-    {
-      "text": "moxifloxacin",
       "alias": "<<ˌmɑksɪˈflɑksəsɪn>>"
-    },
-    {
-      "text": "cefdinir",
-      "alias": "SEF-di-ner"
     },
     {
       "text": "cefdinir",
@@ -787,15 +395,7 @@
     },
     {
       "text": "cefaclor",
-      "alias": "SEF-a-klor"
-    },
-    {
-      "text": "cefaclor",
       "alias": "<<ˈsɛfəklɔr>>"
-    },
-    {
-      "text": "cefuroxime",
-      "alias": "se-fyoor-OX-eem"
     },
     {
       "text": "cefuroxime",
@@ -803,15 +403,7 @@
     },
     {
       "text": "ceftriaxone",
-      "alias": "sef-try-AX-one"
-    },
-    {
-      "text": "ceftriaxone",
       "alias": "<<ˌsɛftraɪˈæksoʊn>>"
-    },
-    {
-      "text": "cefepime",
-      "alias": "SEF-e-peem"
     },
     {
       "text": "cefepime",
@@ -819,15 +411,7 @@
     },
     {
       "text": "meropenem",
-      "alias": "mer-oh-PEN-em"
-    },
-    {
-      "text": "meropenem",
       "alias": "<<məˈrɑpənɛm>>"
-    },
-    {
-      "text": "ertapenem",
-      "alias": "er-ta-PEN-em"
     },
     {
       "text": "ertapenem",
@@ -835,15 +419,7 @@
     },
     {
       "text": "imipenem",
-      "alias": "i-mi-PEN-em"
-    },
-    {
-      "text": "imipenem",
       "alias": "<<ˌɪmɪˈpiːnɛm>>"
-    },
-    {
-      "text": "piperacillin tazobactam",
-      "alias": "pi-PER-a-sil-in ta-zo-BAK-tam"
     },
     {
       "text": "piperacillin tazobactam",
@@ -851,15 +427,7 @@
     },
     {
       "text": "gentamicin",
-      "alias": "jen-ta-MY-sin"
-    },
-    {
-      "text": "gentamicin",
       "alias": "<<ˌdʒɛntəˈmaɪsɪn>>"
-    },
-    {
-      "text": "tobramycin",
-      "alias": "toe-bra-MY-sin"
     },
     {
       "text": "tobramycin",
@@ -867,15 +435,7 @@
     },
     {
       "text": "amikacin",
-      "alias": "am-i-KAY-sin"
-    },
-    {
-      "text": "amikacin",
       "alias": "<<ˌæmɪˈkeɪsɪn>>"
-    },
-    {
-      "text": "linezolid",
-      "alias": "li-NEZ-o-lid"
     },
     {
       "text": "linezolid",
@@ -883,15 +443,7 @@
     },
     {
       "text": "daptomycin",
-      "alias": "dap-toe-MY-sin"
-    },
-    {
-      "text": "daptomycin",
       "alias": "<<ˌdæptoʊˈmaɪsɪn>>"
-    },
-    {
-      "text": "tigecycline",
-      "alias": "tye-ge-SY-kleen"
     },
     {
       "text": "tigecycline",
@@ -899,15 +451,7 @@
     },
     {
       "text": "minocycline",
-      "alias": "mi-no-SY-kleen"
-    },
-    {
-      "text": "minocycline",
       "alias": "<<ˌmɪnoʊˈsaɪkliːn>>"
-    },
-    {
-      "text": "rifampin",
-      "alias": "ri-FAM-pin"
     },
     {
       "text": "rifampin",
@@ -915,15 +459,7 @@
     },
     {
       "text": "isoniazid",
-      "alias": "eye-so-NY-a-zid"
-    },
-    {
-      "text": "isoniazid",
       "alias": "<<ˌaɪsoʊˈnaɪəzɪd>>"
-    },
-    {
-      "text": "pyrazinamide",
-      "alias": "py-ra-ZIN-a-mide"
     },
     {
       "text": "pyrazinamide",
@@ -931,15 +467,7 @@
     },
     {
       "text": "ethambutol",
-      "alias": "e-THAM-byoo-tol"
-    },
-    {
-      "text": "ethambutol",
       "alias": "<<ɛˈθæmbjətɔl>>"
-    },
-    {
-      "text": "fluconazole",
-      "alias": "floo-KON-a-zole"
     },
     {
       "text": "fluconazole",
@@ -947,15 +475,7 @@
     },
     {
       "text": "ketoconazole",
-      "alias": "kee-toe-KON-a-zole"
-    },
-    {
-      "text": "ketoconazole",
       "alias": "<<ˌkiːtoʊˈkɑnəzoʊl>>"
-    },
-    {
-      "text": "itraconazole",
-      "alias": "i-tra-KON-a-zole"
     },
     {
       "text": "itraconazole",
@@ -963,15 +483,7 @@
     },
     {
       "text": "voriconazole",
-      "alias": "vor-ih-KON-uh-zole"
-    },
-    {
-      "text": "voriconazole",
       "alias": "<<ˌvɔrɪˈkɑnəzoʊl>>"
-    },
-    {
-      "text": "posaconazole",
-      "alias": "poh-sah-KON-uh-zole"
     },
     {
       "text": "posaconazole",
@@ -979,15 +491,7 @@
     },
     {
       "text": "acyclovir",
-      "alias": "ay-SY-kloh-veer"
-    },
-    {
-      "text": "acyclovir",
       "alias": "<<eɪˈsaɪkləvɪr>>"
-    },
-    {
-      "text": "valacyclovir",
-      "alias": "val-ay-SY-kloh-veer"
     },
     {
       "text": "valacyclovir",
@@ -995,15 +499,7 @@
     },
     {
       "text": "famciclovir",
-      "alias": "fam-SY-kloh-veer"
-    },
-    {
-      "text": "famciclovir",
       "alias": "<<fæmˈsaɪkləvɪr>>"
-    },
-    {
-      "text": "oseltamivir",
-      "alias": "oh-sel-TAM-ih-veer"
     },
     {
       "text": "oseltamivir",
@@ -1011,15 +507,7 @@
     },
     {
       "text": "aciklovir",
-      "alias": "ah-SEE-kloh-veer"
-    },
-    {
-      "text": "aciklovir",
       "alias": "<<eɪˈsaɪkləvɪr>>"
-    },
-    {
-      "text": "ibuprofen",
-      "alias": "eye-byoo-PROH-fen"
     },
     {
       "text": "ibuprofen",
@@ -1027,15 +515,7 @@
     },
     {
       "text": "naproxen",
-      "alias": "nah-PROK-sen"
-    },
-    {
-      "text": "naproxen",
       "alias": "<<nəˈprɑksən>>"
-    },
-    {
-      "text": "celecoxib",
-      "alias": "sel-eh-KOK-sib"
     },
     {
       "text": "celecoxib",
@@ -1043,15 +523,7 @@
     },
     {
       "text": "meloxicam",
-      "alias": "mel-OK-sih-kam"
-    },
-    {
-      "text": "meloxicam",
       "alias": "<<məˈlɑksɪkæm>>"
-    },
-    {
-      "text": "diclofenac",
-      "alias": "dye-KLOH-fen-ak"
     },
     {
       "text": "diclofenac",
@@ -1059,15 +531,7 @@
     },
     {
       "text": "ketorolac",
-      "alias": "kee-TOR-oh-lak"
-    },
-    {
-      "text": "ketorolac",
       "alias": "<<kiˈtɔrəlæk>>"
-    },
-    {
-      "text": "indomethacin",
-      "alias": "in-doh-METH-ah-sin"
     },
     {
       "text": "indomethacin",
@@ -1075,15 +539,7 @@
     },
     {
       "text": "nabumetone",
-      "alias": "na-BYOO-meh-tone"
-    },
-    {
-      "text": "nabumetone",
       "alias": "<<nəˈbjumətoʊn>>"
-    },
-    {
-      "text": "etodolac",
-      "alias": "ee-TOH-doh-lak"
     },
     {
       "text": "etodolac",
@@ -1091,15 +547,7 @@
     },
     {
       "text": "oxaprozin",
-      "alias": "ok-sah-PROH-zin"
-    },
-    {
-      "text": "oxaprozin",
       "alias": "<<ˌɑksəˈproʊzɪn>>"
-    },
-    {
-      "text": "acetaminophen",
-      "alias": "ah-SEE-tah-MIN-oh-fen"
     },
     {
       "text": "acetaminophen",
@@ -1107,15 +555,7 @@
     },
     {
       "text": "tramadol",
-      "alias": "TRAM-ah-dol"
-    },
-    {
-      "text": "tramadol",
       "alias": "<<ˈtræmədɔl>>"
-    },
-    {
-      "text": "gabapentin",
-      "alias": "gab-ah-PEN-tin"
     },
     {
       "text": "gabapentin",
@@ -1123,15 +563,7 @@
     },
     {
       "text": "pregabalin",
-      "alias": "pree-GAB-ah-lin"
-    },
-    {
-      "text": "pregabalin",
       "alias": "<<priˈɡæbəlɪn>>"
-    },
-    {
-      "text": "duloxetine",
-      "alias": "doo-LOK-seh-teen"
     },
     {
       "text": "duloxetine",
@@ -1139,15 +571,7 @@
     },
     {
       "text": "amitriptyline",
-      "alias": "am-ee-TRIP-tih-leen"
-    },
-    {
-      "text": "amitriptyline",
       "alias": "<<ˌæmɪˈtrɪptəliːn>>"
-    },
-    {
-      "text": "nortriptyline",
-      "alias": "nor-TRIP-tih-leen"
     },
     {
       "text": "nortriptyline",
@@ -1155,15 +579,7 @@
     },
     {
       "text": "topiramate",
-      "alias": "toh-PIHR-ah-mayt"
-    },
-    {
-      "text": "topiramate",
       "alias": "<<toʊˈpɪrəmeɪt>>"
-    },
-    {
-      "text": "carbamazepine",
-      "alias": "kar-bah-MAZ-eh-peen"
     },
     {
       "text": "carbamazepine",
@@ -1171,15 +587,7 @@
     },
     {
       "text": "oxcarbazepine",
-      "alias": "oks-kar-BAZ-eh-peen"
-    },
-    {
-      "text": "oxcarbazepine",
       "alias": "<<ˌɑkskɑrˈbæzəpiːn>>"
-    },
-    {
-      "text": "lamotrigine",
-      "alias": "lah-MOH-trih-jeen"
     },
     {
       "text": "lamotrigine",
@@ -1187,15 +595,7 @@
     },
     {
       "text": "levetiracetam",
-      "alias": "lev-eh-TIHR-ah-seh-tam"
-    },
-    {
-      "text": "levetiracetam",
       "alias": "<<ləˌvɛtɪˈræsɪtæm>>"
-    },
-    {
-      "text": "phenytoin",
-      "alias": "FEN-ih-toh-in"
     },
     {
       "text": "phenytoin",
@@ -1203,15 +603,7 @@
     },
     {
       "text": "valproic acid",
-      "alias": "val-PROH-ik AS-id"
-    },
-    {
-      "text": "valproic acid",
       "alias": "<<vælˈproʊɪk ˈæsɪd>>"
-    },
-    {
-      "text": "zonisamide",
-      "alias": "zoh-NIS-ah-mide"
     },
     {
       "text": "zonisamide",
@@ -1219,15 +611,7 @@
     },
     {
       "text": "lacosamide",
-      "alias": "lah-KOH-sah-mide"
-    },
-    {
-      "text": "lacosamide",
       "alias": "<<ləˈkoʊsəmaɪd>>"
-    },
-    {
-      "text": "rufinamide",
-      "alias": "roo-FIN-ah-mide"
     },
     {
       "text": "rufinamide",
@@ -1235,15 +619,7 @@
     },
     {
       "text": "omeprazole",
-      "alias": "oh-MEP-rah-zole"
-    },
-    {
-      "text": "omeprazole",
       "alias": "<<oʊˈmɛprəzoʊl>>"
-    },
-    {
-      "text": "pantoprazole",
-      "alias": "pan-TOH-prah-zole"
     },
     {
       "text": "pantoprazole",
@@ -1251,15 +627,7 @@
     },
     {
       "text": "esomeprazole",
-      "alias": "es-oh-MEP-rah-zole"
-    },
-    {
-      "text": "esomeprazole",
       "alias": "<<ɛˈsoʊmɛprəzoʊl>>"
-    },
-    {
-      "text": "lansoprazole",
-      "alias": "lan-SOH-prah-zole"
     },
     {
       "text": "lansoprazole",
@@ -1267,15 +635,7 @@
     },
     {
       "text": "rabeprazole",
-      "alias": "rah-BEP-rah-zole"
-    },
-    {
-      "text": "rabeprazole",
       "alias": "<<rəˈbɛprəzoʊl>>"
-    },
-    {
-      "text": "dexlansoprazole",
-      "alias": "deks-lan-SOH-prah-zole"
     },
     {
       "text": "dexlansoprazole",
@@ -1283,15 +643,7 @@
     },
     {
       "text": "famotidine",
-      "alias": "fam-OH-tih-deen"
-    },
-    {
-      "text": "famotidine",
       "alias": "<<fəˈmoʊtɪdiːn>>"
-    },
-    {
-      "text": "ranitidine",
-      "alias": "ran-IH-tih-deen"
     },
     {
       "text": "ranitidine",
@@ -1299,15 +651,7 @@
     },
     {
       "text": "cimetidine",
-      "alias": "sy-MET-ih-deen"
-    },
-    {
-      "text": "cimetidine",
       "alias": "<<saɪˈmɛtɪdiːn>>"
-    },
-    {
-      "text": "nizatidine",
-      "alias": "ny-ZAT-ih-deen"
     },
     {
       "text": "nizatidine",
@@ -1315,15 +659,7 @@
     },
     {
       "text": "aluminum hydroxide",
-      "alias": "ah-LOO-min-um hy-DROK-side"
-    },
-    {
-      "text": "aluminum hydroxide",
       "alias": "<<əˈluːmɪnəm haɪˈdrɒksaɪd>>"
-    },
-    {
-      "text": "simethicone",
-      "alias": "sy-METH-ih-kone"
     },
     {
       "text": "simethicone",
@@ -1331,23 +667,11 @@
     },
     {
       "text": "ondansetron",
-      "alias": "on-DAN-seh-tron"
-    },
-    {
-      "text": "ondansetron",
       "alias": "<<ɒnˈdænsətrɒn>>"
     },
     {
       "text": "granisetron",
-      "alias": "gran-IS-eh-tron"
-    },
-    {
-      "text": "granisetron",
-      "alias": "<<grəˈnɪsətrɒn>>"
-    },
-    {
-      "text": "palonosetron",
-      "alias": "pal-oh-NOH-seh-tron"
+      "alias": "<<ɡrəˈnɪsətrɒn>>"
     },
     {
       "text": "palonosetron",
@@ -1355,15 +679,7 @@
     },
     {
       "text": "metoclopramide",
-      "alias": "met-oh-KLOH-prah-mide"
-    },
-    {
-      "text": "metoclopramide",
       "alias": "<<məˌtoʊkloʊˈpræmaɪd>>"
-    },
-    {
-      "text": "promethazine",
-      "alias": "proh-METH-ah-zeen"
     },
     {
       "text": "promethazine",
@@ -1371,15 +687,7 @@
     },
     {
       "text": "prochlorperazine",
-      "alias": "proh-klor-PER-ah-zeen"
-    },
-    {
-      "text": "prochlorperazine",
       "alias": "<<proʊˌklɔːrˈpɛrəziːn>>"
-    },
-    {
-      "text": "loperamide",
-      "alias": "loh-PER-ah-mide"
     },
     {
       "text": "loperamide",
@@ -1387,15 +695,7 @@
     },
     {
       "text": "docusate",
-      "alias": "DOK-yoo-sate"
-    },
-    {
-      "text": "docusate",
       "alias": "<<ˈdɒkjuseɪt>>"
-    },
-    {
-      "text": "polyethylene glycol",
-      "alias": "pol-ee-ETH-ih-leen GLY-kol"
     },
     {
       "text": "polyethylene glycol",
@@ -1403,15 +703,7 @@
     },
     {
       "text": "bisacodyl",
-      "alias": "bis-AK-oh-dil"
-    },
-    {
-      "text": "bisacodyl",
       "alias": "<<baɪˈsækədɪl>>"
-    },
-    {
-      "text": "senna",
-      "alias": "SEN-ah"
     },
     {
       "text": "senna",
@@ -1419,15 +711,7 @@
     },
     {
       "text": "lactulose",
-      "alias": "LAK-tyoo-lose"
-    },
-    {
-      "text": "lactulose",
       "alias": "<<ˈlæktjuːloʊs>>"
-    },
-    {
-      "text": "albuterol",
-      "alias": "al-BOO-ter-ol"
     },
     {
       "text": "albuterol",
@@ -1435,15 +719,7 @@
     },
     {
       "text": "levalbuterol",
-      "alias": "lev-al-BOO-ter-ol"
-    },
-    {
-      "text": "levalbuterol",
       "alias": "<<ˌlɛvælˈbjuːtərɒl>>"
-    },
-    {
-      "text": "ipratropium",
-      "alias": "ip-ra-TROH-pee-um"
     },
     {
       "text": "ipratropium",
@@ -1451,15 +727,7 @@
     },
     {
       "text": "tiotropium",
-      "alias": "ty-oh-TROH-pee-um"
-    },
-    {
-      "text": "tiotropium",
       "alias": "<<ˌtaɪəˈtroʊpiəm>>"
-    },
-    {
-      "text": "umeclidinium",
-      "alias": "yoo-meh-kli-DIN-ee-um"
     },
     {
       "text": "umeclidinium",
@@ -1467,15 +735,7 @@
     },
     {
       "text": "glycopyrrolate",
-      "alias": "gly-koh-PIR-oh-late"
-    },
-    {
-      "text": "glycopyrrolate",
       "alias": "<<ˌɡlaɪkoʊˈpɪroʊleɪt>>"
-    },
-    {
-      "text": "formoterol",
-      "alias": "for-MOH-ter-ol"
     },
     {
       "text": "formoterol",
@@ -1483,15 +743,7 @@
     },
     {
       "text": "salmeterol",
-      "alias": "sal-MEH-ter-ol"
-    },
-    {
-      "text": "salmeterol",
       "alias": "<<sælˈmiːtərɔːl>>"
-    },
-    {
-      "text": "indacaterol",
-      "alias": "in-da-KA-ter-ol"
     },
     {
       "text": "indacaterol",
@@ -1499,15 +751,7 @@
     },
     {
       "text": "olodaterol",
-      "alias": "oh-loh-DA-ter-ol"
-    },
-    {
-      "text": "olodaterol",
       "alias": "<<ˌoʊloʊˈdætərɔːl>>"
-    },
-    {
-      "text": "fluticasone",
-      "alias": "floo-TIK-a-sone"
     },
     {
       "text": "fluticasone",
@@ -1515,15 +759,7 @@
     },
     {
       "text": "budesonide",
-      "alias": "byoo-DEH-soh-nide"
-    },
-    {
-      "text": "budesonide",
       "alias": "<<bjuːˈdɛsənaɪd>>"
-    },
-    {
-      "text": "mometasone",
-      "alias": "moh-MEH-ta-sone"
     },
     {
       "text": "mometasone",
@@ -1531,15 +767,7 @@
     },
     {
       "text": "ciclesonide",
-      "alias": "sik-LEH-soh-nide"
-    },
-    {
-      "text": "ciclesonide",
       "alias": "<<sɪˈklɛsənaɪd>>"
-    },
-    {
-      "text": "beclomethasone",
-      "alias": "beh-kloh-MEH-tha-sone"
     },
     {
       "text": "beclomethasone",
@@ -1547,15 +775,7 @@
     },
     {
       "text": "montelukast",
-      "alias": "mon-teh-LOO-kast"
-    },
-    {
-      "text": "montelukast",
       "alias": "<<ˌmɑːntəˈluːkæst>>"
-    },
-    {
-      "text": "zafirlukast",
-      "alias": "za-FIR-loo-kast"
     },
     {
       "text": "zafirlukast",
@@ -1563,15 +783,7 @@
     },
     {
       "text": "zileuton",
-      "alias": "zy-LOO-ton"
-    },
-    {
-      "text": "zileuton",
       "alias": "<<zaɪˈluːtɑːn>>"
-    },
-    {
-      "text": "theophylline",
-      "alias": "thee-OFF-i-lin"
     },
     {
       "text": "theophylline",
@@ -1579,15 +791,7 @@
     },
     {
       "text": "roflumilast",
-      "alias": "roh-FLOO-mi-last"
-    },
-    {
-      "text": "roflumilast",
       "alias": "<<roʊˈfluːmɪlæst>>"
-    },
-    {
-      "text": "benralizumab",
-      "alias": "ben-ra-LIZ-oo-mab"
     },
     {
       "text": "benralizumab",
@@ -1595,15 +799,7 @@
     },
     {
       "text": "mepolizumab",
-      "alias": "meh-poh-LIZ-oo-mab"
-    },
-    {
-      "text": "mepolizumab",
       "alias": "<<məˈpɑːlɪzʊmæb>>"
-    },
-    {
-      "text": "reslizumab",
-      "alias": "rez-LIZ-oo-mab"
     },
     {
       "text": "reslizumab",
@@ -1611,15 +807,7 @@
     },
     {
       "text": "dupilumab",
-      "alias": "doo-PIL-oo-mab"
-    },
-    {
-      "text": "dupilumab",
       "alias": "<<duːˈpɪljuːmæb>>"
-    },
-    {
-      "text": "omalizumab",
-      "alias": "oh-ma-LIZ-oo-mab"
     },
     {
       "text": "omalizumab",
@@ -1627,15 +815,7 @@
     },
     {
       "text": "sertraline",
-      "alias": "SER-tra-leen"
-    },
-    {
-      "text": "sertraline",
       "alias": "<<ˈsɜːrtrəliːn>>"
-    },
-    {
-      "text": "fluoxetine",
-      "alias": "floo-OK-seh-teen"
     },
     {
       "text": "fluoxetine",
@@ -1643,15 +823,7 @@
     },
     {
       "text": "escitalopram",
-      "alias": "es-sit-AL-oh-pram"
-    },
-    {
-      "text": "escitalopram",
       "alias": "<<ˌɛsɪˈtæləpræm>>"
-    },
-    {
-      "text": "citalopram",
-      "alias": "sit-AL-oh-pram"
     },
     {
       "text": "citalopram",
@@ -1659,15 +831,7 @@
     },
     {
       "text": "paroxetine",
-      "alias": "pa-ROK-seh-teen"
-    },
-    {
-      "text": "paroxetine",
       "alias": "<<pəˈrɑːksətiːn>>"
-    },
-    {
-      "text": "venlafaxine",
-      "alias": "ven-la-FAK-seen"
     },
     {
       "text": "venlafaxine",
@@ -1675,15 +839,7 @@
     },
     {
       "text": "desvenlafaxine",
-      "alias": "des-ven-la-FAK-seen"
-    },
-    {
-      "text": "desvenlafaxine",
       "alias": "<<dɛzˈvɛnələˌfæksiːn>>"
-    },
-    {
-      "text": "milnacipran",
-      "alias": "mil-NA-si-pran"
     },
     {
       "text": "milnacipran",
@@ -1691,15 +847,7 @@
     },
     {
       "text": "bupropion",
-      "alias": "byoo-PRO-pee-on"
-    },
-    {
-      "text": "bupropion",
       "alias": "<<bjuˈproʊpiɑn>>"
-    },
-    {
-      "text": "mirtazapine",
-      "alias": "mir-TAZ-a-peen"
     },
     {
       "text": "mirtazapine",
@@ -1707,15 +855,7 @@
     },
     {
       "text": "trazodone",
-      "alias": "TRAZ-oh-done"
-    },
-    {
-      "text": "trazodone",
       "alias": "<<ˈtræzədoʊn>>"
-    },
-    {
-      "text": "nefazodone",
-      "alias": "ne-FAZ-oh-done"
     },
     {
       "text": "nefazodone",
@@ -1723,15 +863,7 @@
     },
     {
       "text": "vortioxetine",
-      "alias": "vor-tee-OK-seh-teen"
-    },
-    {
-      "text": "vortioxetine",
       "alias": "<<vɔrtiˈɑksətin>>"
-    },
-    {
-      "text": "vilazodone",
-      "alias": "vil-AZ-oh-done"
     },
     {
       "text": "vilazodone",
@@ -1739,15 +871,7 @@
     },
     {
       "text": "fluvoxamine",
-      "alias": "floo-VOK-sah-meen"
-    },
-    {
-      "text": "fluvoxamine",
       "alias": "<<fluˈvɑksəmin>>"
-    },
-    {
-      "text": "clomipramine",
-      "alias": "klo-MIP-rah-meen"
     },
     {
       "text": "clomipramine",
@@ -1755,15 +879,7 @@
     },
     {
       "text": "desipramine",
-      "alias": "des-IP-rah-meen"
-    },
-    {
-      "text": "desipramine",
       "alias": "<<dəˈsɪprəmin>>"
-    },
-    {
-      "text": "imipramine",
-      "alias": "im-IP-rah-meen"
     },
     {
       "text": "imipramine",
@@ -1771,15 +887,7 @@
     },
     {
       "text": "protriptyline",
-      "alias": "pro-TRIP-tih-leen"
-    },
-    {
-      "text": "protriptyline",
       "alias": "<<proʊˈtrɪptəlin>>"
-    },
-    {
-      "text": "phenelzine",
-      "alias": "FEN-el-zeen"
     },
     {
       "text": "phenelzine",
@@ -1787,15 +895,7 @@
     },
     {
       "text": "tranylcypromine",
-      "alias": "tran-il-SIP-roh-meen"
-    },
-    {
-      "text": "tranylcypromine",
       "alias": "<<trænɪlˈsɪprəmin>>"
-    },
-    {
-      "text": "isocarboxazid",
-      "alias": "eye-so-kar-BOK-sah-zid"
     },
     {
       "text": "isocarboxazid",
@@ -1803,15 +903,7 @@
     },
     {
       "text": "selegiline",
-      "alias": "se-LEJ-ih-leen"
-    },
-    {
-      "text": "selegiline",
       "alias": "<<səˈlɛdʒəlin>>"
-    },
-    {
-      "text": "rasagiline",
-      "alias": "ra-SAJ-ih-leen"
     },
     {
       "text": "rasagiline",
@@ -1819,15 +911,7 @@
     },
     {
       "text": "aripiprazole",
-      "alias": "a-RIP-ip-ra-zole"
-    },
-    {
-      "text": "aripiprazole",
       "alias": "<<əˈrɪpɪprəzoʊl>>"
-    },
-    {
-      "text": "olanzapine",
-      "alias": "oh-LAN-zah-peen"
     },
     {
       "text": "olanzapine",
@@ -1835,15 +919,7 @@
     },
     {
       "text": "quetiapine",
-      "alias": "kwe-TIE-ah-peen"
-    },
-    {
-      "text": "quetiapine",
       "alias": "<<kwɛˈtaɪəpin>>"
-    },
-    {
-      "text": "risperidone",
-      "alias": "ris-PER-ih-done"
     },
     {
       "text": "risperidone",
@@ -1851,15 +927,7 @@
     },
     {
       "text": "paliperidone",
-      "alias": "pal-ee-PER-ih-done"
-    },
-    {
-      "text": "paliperidone",
       "alias": "<<pəˈlɪpərɪdoʊn>>"
-    },
-    {
-      "text": "ziprasidone",
-      "alias": "zip-RAS-ih-done"
     },
     {
       "text": "ziprasidone",
@@ -1867,15 +935,7 @@
     },
     {
       "text": "lurasidone",
-      "alias": "loo-RAS-ih-done"
-    },
-    {
-      "text": "lurasidone",
       "alias": "<<lʊˈræsɪdoʊn>>"
-    },
-    {
-      "text": "brexpiprazole",
-      "alias": "brek-SIP-ra-zole"
     },
     {
       "text": "brexpiprazole",
@@ -1883,15 +943,7 @@
     },
     {
       "text": "cariprazine",
-      "alias": "ka-RIP-ra-zeen"
-    },
-    {
-      "text": "cariprazine",
       "alias": "<<kəˈrɪprəzin>>"
-    },
-    {
-      "text": "clozapine",
-      "alias": "KLOZ-ah-peen"
     },
     {
       "text": "clozapine",
@@ -1899,15 +951,7 @@
     },
     {
       "text": "haloperidol",
-      "alias": "hal-oh-PER-ih-dol"
-    },
-    {
-      "text": "haloperidol",
       "alias": "<<ˌhæloʊˈpɛrɪdɔl>>"
-    },
-    {
-      "text": "chlorpromazine",
-      "alias": "klor-PROH-mah-zeen"
     },
     {
       "text": "chlorpromazine",
@@ -1915,15 +959,7 @@
     },
     {
       "text": "lithium",
-      "alias": "LITH-ee-um"
-    },
-    {
-      "text": "lithium",
       "alias": "<<ˈlɪθiəm>>"
-    },
-    {
-      "text": "valproate",
-      "alias": "val-PRO-ate"
     },
     {
       "text": "valproate",
@@ -1931,15 +967,7 @@
     },
     {
       "text": "asenapine",
-      "alias": "a-SEN-a-peen"
-    },
-    {
-      "text": "asenapine",
       "alias": "<<əˈsɛn.ə.piːn>>"
-    },
-    {
-      "text": "dexmethylphenidate",
-      "alias": "dex-METH-il-FEN-i-date"
     },
     {
       "text": "dexmethylphenidate",
@@ -1947,15 +975,7 @@
     },
     {
       "text": "lisdexamfetamine",
-      "alias": "lis-dex-am-FET-a-meen"
-    },
-    {
-      "text": "lisdexamfetamine",
       "alias": "<<lɪsˌdɛks.æmˈfɛt.ə.miːn>>"
-    },
-    {
-      "text": "methylphenidate",
-      "alias": "METH-il-FEN-i-date"
     },
     {
       "text": "methylphenidate",
@@ -1963,15 +983,7 @@
     },
     {
       "text": "amfetamine",
-      "alias": "am-FET-a-meen"
-    },
-    {
-      "text": "amfetamine",
       "alias": "<<æmˈfɛt.ə.miːn>>"
-    },
-    {
-      "text": "guanfacine",
-      "alias": "GWAHN-fa-seen"
     },
     {
       "text": "guanfacine",
@@ -1979,15 +991,7 @@
     },
     {
       "text": "tamoxifen",
-      "alias": "ta-MOX-i-fen"
-    },
-    {
-      "text": "tamoxifen",
       "alias": "<<təˈmɑːk.sə.fən>>"
-    },
-    {
-      "text": "anastrozole",
-      "alias": "an-AS-troh-zole"
     },
     {
       "text": "anastrozole",
@@ -1995,15 +999,7 @@
     },
     {
       "text": "letrozole",
-      "alias": "LET-roh-zole"
-    },
-    {
-      "text": "letrozole",
       "alias": "<<ˈlɛ.trə.zɔːl>>"
-    },
-    {
-      "text": "exemestane",
-      "alias": "ex-e-MES-tane"
     },
     {
       "text": "exemestane",
@@ -2011,15 +1007,7 @@
     },
     {
       "text": "leuprolide",
-      "alias": "loo-PRO-lide"
-    },
-    {
-      "text": "leuprolide",
       "alias": "<<luːˈproʊ.laɪd>>"
-    },
-    {
-      "text": "goserelin",
-      "alias": "goh-SER-a-lin"
     },
     {
       "text": "goserelin",
@@ -2027,15 +1015,7 @@
     },
     {
       "text": "triptorelin",
-      "alias": "trip-toh-REL-in"
-    },
-    {
-      "text": "triptorelin",
       "alias": "<<trɪpˈtɔːr.ə.lɪn>>"
-    },
-    {
-      "text": "bicalutamide",
-      "alias": "bye-ka-LOO-ta-mide"
     },
     {
       "text": "bicalutamide",
@@ -2043,15 +1023,7 @@
     },
     {
       "text": "enzalutamide",
-      "alias": "en-za-LOO-ta-mide"
-    },
-    {
-      "text": "enzalutamide",
       "alias": "<<ɛn.zəˈluː.tə.maɪd>>"
-    },
-    {
-      "text": "abiraterone",
-      "alias": "a-bir-A-ter-one"
     },
     {
       "text": "abiraterone",
@@ -2059,15 +1031,7 @@
     },
     {
       "text": "imatinib",
-      "alias": "i-MAT-in-ib"
-    },
-    {
-      "text": "imatinib",
       "alias": "<<ɪˈmæ.tɪ.nɪb>>"
-    },
-    {
-      "text": "dasatinib",
-      "alias": "da-SAT-in-ib"
     },
     {
       "text": "dasatinib",
@@ -2075,15 +1039,7 @@
     },
     {
       "text": "nilotinib",
-      "alias": "ny-LOH-tin-ib"
-    },
-    {
-      "text": "nilotinib",
       "alias": "<<naɪˈloʊ.tɪ.nɪb>>"
-    },
-    {
-      "text": "bosutinib",
-      "alias": "boh-SOO-tin-ib"
     },
     {
       "text": "bosutinib",
@@ -2091,15 +1047,7 @@
     },
     {
       "text": "ponatinib",
-      "alias": "poh-NA-tin-ib"
-    },
-    {
-      "text": "ponatinib",
       "alias": "<<poʊˈnæ.tɪ.nɪb>>"
-    },
-    {
-      "text": "ibrutinib",
-      "alias": "eye-BROO-tin-ib"
     },
     {
       "text": "ibrutinib",
@@ -2107,15 +1055,7 @@
     },
     {
       "text": "acalabrutinib",
-      "alias": "a-KAL-a-BROO-tin-ib"
-    },
-    {
-      "text": "acalabrutinib",
       "alias": "<<əˌkæl.əˈbruː.tɪ.nɪb>>"
-    },
-    {
-      "text": "venetoclax",
-      "alias": "ve-NET-oh-klax"
     },
     {
       "text": "venetoclax",
@@ -2123,15 +1063,7 @@
     },
     {
       "text": "rituximab",
-      "alias": "ri-TUX-i-mab"
-    },
-    {
-      "text": "rituximab",
       "alias": "<<rɪˈtʊk.sɪ.mæb>>"
-    },
-    {
-      "text": "trastuzumab",
-      "alias": "tras-TUZ-oo-mab"
     },
     {
       "text": "trastuzumab",
@@ -2139,15 +1071,7 @@
     },
     {
       "text": "pertuzumab",
-      "alias": "per-TUZ-oo-mab"
-    },
-    {
-      "text": "pertuzumab",
       "alias": "<<pərˈtʊ.zuː.mæb>>"
-    },
-    {
-      "text": "bevacizumab",
-      "alias": "beh-va-KIZ-oo-mab"
     },
     {
       "text": "bevacizumab",
@@ -2155,15 +1079,7 @@
     },
     {
       "text": "cetuximab",
-      "alias": "se-TUX-i-mab"
-    },
-    {
-      "text": "cetuximab",
       "alias": "<<səˈtʊk.sɪ.mæb>>"
-    },
-    {
-      "text": "panitumumab",
-      "alias": "pan-i-TOO-moo-mab"
     },
     {
       "text": "panitumumab",
@@ -2171,15 +1087,7 @@
     },
     {
       "text": "pembrolizumab",
-      "alias": "pem-broh-LIZ-oo-mab"
-    },
-    {
-      "text": "pembrolizumab",
       "alias": "<<ˌpɛmbroʊˈlɪzjuːmæb>>"
-    },
-    {
-      "text": "nivolumab",
-      "alias": "niv-OL-oo-mab"
     },
     {
       "text": "nivolumab",
@@ -2187,15 +1095,7 @@
     },
     {
       "text": "ipilimumab",
-      "alias": "i-pi-LIM-oo-mab"
-    },
-    {
-      "text": "ipilimumab",
       "alias": "<<ɪˌpɪlɪˈmuːmæb>>"
-    },
-    {
-      "text": "atezolizumab",
-      "alias": "a-TEZ-oh-LIZ-oo-mab"
     },
     {
       "text": "atezolizumab",
@@ -2203,15 +1103,7 @@
     },
     {
       "text": "durvalumab",
-      "alias": "dur-VAL-oo-mab"
-    },
-    {
-      "text": "durvalumab",
       "alias": "<<dɜːrˈvæljʊmæb>>"
-    },
-    {
-      "text": "avelumab",
-      "alias": "a-VEL-oo-mab"
     },
     {
       "text": "avelumab",
@@ -2219,15 +1111,7 @@
     },
     {
       "text": "cisplatin",
-      "alias": "sis-PLAT-in"
-    },
-    {
-      "text": "cisplatin",
       "alias": "<<sɪsˈpleɪtɪn>>"
-    },
-    {
-      "text": "carboplatin",
-      "alias": "kar-boh-PLAT-in"
     },
     {
       "text": "carboplatin",
@@ -2235,15 +1119,7 @@
     },
     {
       "text": "oxaliplatin",
-      "alias": "ok-SAL-i-plat-in"
-    },
-    {
-      "text": "oxaliplatin",
       "alias": "<<ɒkˈsælɪplætɪn>>"
-    },
-    {
-      "text": "paclitaxel",
-      "alias": "pak-li-TAKS-el"
     },
     {
       "text": "paclitaxel",
@@ -2251,15 +1127,7 @@
     },
     {
       "text": "docetaxel",
-      "alias": "doh-se-TAKS-el"
-    },
-    {
-      "text": "docetaxel",
       "alias": "<<ˌdoʊsɪˈtæksɛl>>"
-    },
-    {
-      "text": "doxorubicin",
-      "alias": "dok-soh-ROO-bi-sin"
     },
     {
       "text": "doxorubicin",
@@ -2267,15 +1135,7 @@
     },
     {
       "text": "daunorubicin",
-      "alias": "daw-noh-ROO-bi-sin"
-    },
-    {
-      "text": "daunorubicin",
       "alias": "<<ˌdɔːnəˈruːbɪsɪn>>"
-    },
-    {
-      "text": "vincristine",
-      "alias": "vin-KRIS-teen"
     },
     {
       "text": "vincristine",
@@ -2283,15 +1143,7 @@
     },
     {
       "text": "vinblastine",
-      "alias": "vin-BLAS-teen"
-    },
-    {
-      "text": "vinblastine",
       "alias": "<<vɪnˈblæstiːn>>"
-    },
-    {
-      "text": "vinorelbine",
-      "alias": "vi-NOR-el-been"
     },
     {
       "text": "vinorelbine",
@@ -2299,15 +1151,7 @@
     },
     {
       "text": "etoposide",
-      "alias": "e-TOH-poh-side"
-    },
-    {
-      "text": "etoposide",
       "alias": "<<ɪˈtoʊpəsaɪd>>"
-    },
-    {
-      "text": "cyclophosphamide",
-      "alias": "sy-kloh-FOS-fa-mide"
     },
     {
       "text": "cyclophosphamide",
@@ -2315,31 +1159,15 @@
     },
     {
       "text": "ifosfamide",
-      "alias": "i-FOS-fa-mide"
-    },
-    {
-      "text": "ifosfamide",
       "alias": "<<ɪˈfɒsfəmaɪd>>"
     },
     {
       "text": "methotrexate",
-      "alias": "meth-oh-TREK-sate"
-    },
-    {
-      "text": "methotrexate",
-      "alias": "<<ˌmɛθəˈtɹɛkseɪt>>"
+      "alias": "<<ˌmɛθəˈtrɛkseɪt>>"
     },
     {
       "text": "pemetrexed",
-      "alias": "pem-e-TREK-sed"
-    },
-    {
-      "text": "pemetrexed",
-      "alias": "<<ˌpɛmɪˈtɹɛksɛd>>"
-    },
-    {
-      "text": "gemcitabine",
-      "alias": "jem-SITE-a-been"
+      "alias": "<<ˌpɛmɪˈtrɛksɛd>>"
     },
     {
       "text": "gemcitabine",
@@ -2347,15 +1175,7 @@
     },
     {
       "text": "fluorouracil",
-      "alias": "floor-oh-YOO-ra-sil"
-    },
-    {
-      "text": "fluorouracil",
       "alias": "<<ˌflʊroʊˈjʊɚəsɪl>>"
-    },
-    {
-      "text": "capecitabine",
-      "alias": "ka-pe-SITE-a-been"
     },
     {
       "text": "capecitabine",
@@ -2363,15 +1183,7 @@
     },
     {
       "text": "cytarabine",
-      "alias": "sy-TAIR-a-been"
-    },
-    {
-      "text": "cytarabine",
       "alias": "<<saɪˈtɛɚəbiːn>>"
-    },
-    {
-      "text": "adalimumab",
-      "alias": "a-da-LIM-oo-mab"
     },
     {
       "text": "adalimumab",
@@ -2379,15 +1191,7 @@
     },
     {
       "text": "etanercept",
-      "alias": "e-TAN-er-sept"
-    },
-    {
-      "text": "etanercept",
       "alias": "<<ɪˈtænɚsɛpt>>"
-    },
-    {
-      "text": "infliximab",
-      "alias": "in-FLIK-si-mab"
     },
     {
       "text": "infliximab",
@@ -2395,15 +1199,7 @@
     },
     {
       "text": "certolizumab",
-      "alias": "ser-toh-LIZ-oo-mab"
-    },
-    {
-      "text": "certolizumab",
       "alias": "<<ˌsɜːrtoʊˈlɪzjuːmæb>>"
-    },
-    {
-      "text": "golimumab",
-      "alias": "go-LIM-ue-mab"
     },
     {
       "text": "golimumab",
@@ -2411,15 +1207,7 @@
     },
     {
       "text": "tocilizumab",
-      "alias": "TOE-sih-LIZ-ue-mab"
-    },
-    {
-      "text": "tocilizumab",
       "alias": "<<ˌtoʊsɪˈlɪzjʊˌmæb>>"
-    },
-    {
-      "text": "sarilumab",
-      "alias": "sar-IL-ue-mab"
     },
     {
       "text": "sarilumab",
@@ -2427,15 +1215,7 @@
     },
     {
       "text": "ustekinumab",
-      "alias": "US-te-KIN-ue-mab"
-    },
-    {
-      "text": "ustekinumab",
       "alias": "<<ˌʌstəˈkɪnjʊˌmæb>>"
-    },
-    {
-      "text": "secukinumab",
-      "alias": "SEK-ue-KIN-ue-mab"
     },
     {
       "text": "secukinumab",
@@ -2443,15 +1223,7 @@
     },
     {
       "text": "ixekizumab",
-      "alias": "IX-e-KIZ-ue-mab"
-    },
-    {
-      "text": "ixekizumab",
       "alias": "<<ˌɪksɛˈkɪzjʊˌmæb>>"
-    },
-    {
-      "text": "brodalumab",
-      "alias": "broe-DAL-ue-mab"
     },
     {
       "text": "brodalumab",
@@ -2459,15 +1231,7 @@
     },
     {
       "text": "guselkumab",
-      "alias": "gus-ELK-ue-mab"
-    },
-    {
-      "text": "guselkumab",
       "alias": "<<ˌɡʌsɛlˈkuːmæb>>"
-    },
-    {
-      "text": "risankizumab",
-      "alias": "RIS-an-KIZ-ue-mab"
     },
     {
       "text": "risankizumab",
@@ -2475,15 +1239,7 @@
     },
     {
       "text": "tildrakizumab",
-      "alias": "TIL-dra-KIZ-ue-mab"
-    },
-    {
-      "text": "tildrakizumab",
       "alias": "<<tɪlˈdrækɪzjʊˌmæb>>"
-    },
-    {
-      "text": "abatacept",
-      "alias": "a-BAT-a-sept"
     },
     {
       "text": "abatacept",
@@ -2491,15 +1247,7 @@
     },
     {
       "text": "leflunomide",
-      "alias": "le-FLOO-no-mide"
-    },
-    {
-      "text": "leflunomide",
       "alias": "<<ˌlɛfˈluːnəˌmaɪd>>"
-    },
-    {
-      "text": "sulfasalazine",
-      "alias": "SUL-fa-SAL-a-zeen"
     },
     {
       "text": "sulfasalazine",
@@ -2507,15 +1255,7 @@
     },
     {
       "text": "hydroxychloroquine",
-      "alias": "hy-DROX-ee-KLOR-oh-kween"
-    },
-    {
-      "text": "hydroxychloroquine",
       "alias": "<<haɪˌdrɑksiˈklɔrəˌkwin>>"
-    },
-    {
-      "text": "azathioprine",
-      "alias": "AY-za-THYE-oh-preen"
     },
     {
       "text": "azathioprine",
@@ -2523,15 +1263,7 @@
     },
     {
       "text": "mycophenolate",
-      "alias": "MYE-koe-FEN-oh-late"
-    },
-    {
-      "text": "mycophenolate",
       "alias": "<<ˌmaɪkoʊˈfɛnəˌleɪt>>"
-    },
-    {
-      "text": "tacrolimus",
-      "alias": "ta-KROE-li-mus"
     },
     {
       "text": "tacrolimus",
@@ -2539,15 +1271,7 @@
     },
     {
       "text": "cyclosporine",
-      "alias": "SYE-kloe-SPOR-een"
-    },
-    {
-      "text": "cyclosporine",
       "alias": "<<ˌsaɪkloʊˈspɔriːn>>"
-    },
-    {
-      "text": "sirolimus",
-      "alias": "sir-OH-li-mus"
     },
     {
       "text": "sirolimus",
@@ -2555,15 +1279,7 @@
     },
     {
       "text": "everolimus",
-      "alias": "e-VER-oh-LI-mus"
-    },
-    {
-      "text": "everolimus",
       "alias": "<<ɛˈvɛrəlɪməs>>"
-    },
-    {
-      "text": "levodopa",
-      "alias": "LEE-voe-DOE-pa"
     },
     {
       "text": "levodopa",
@@ -2571,15 +1287,7 @@
     },
     {
       "text": "carbidopa",
-      "alias": "KAR-bi-DOE-pa"
-    },
-    {
-      "text": "carbidopa",
       "alias": "<<ˌkɑrbɪˈdoʊpə>>"
-    },
-    {
-      "text": "pramipexole",
-      "alias": "PRAM-i-PEX-ole"
     },
     {
       "text": "pramipexole",
@@ -2587,15 +1295,7 @@
     },
     {
       "text": "ropinirole",
-      "alias": "roe-PIN-i-role"
-    },
-    {
-      "text": "ropinirole",
       "alias": "<<roʊˈpɪnəˌroʊl>>"
-    },
-    {
-      "text": "rotigotine",
-      "alias": "roe-TIG-oh-teen"
     },
     {
       "text": "rotigotine",
@@ -2603,15 +1303,7 @@
     },
     {
       "text": "amantadine",
-      "alias": "a-MAN-ta-deen"
-    },
-    {
-      "text": "amantadine",
       "alias": "<<əˈmæntəˌdiːn>>"
-    },
-    {
-      "text": "entacapone",
-      "alias": "en-TAK-a-pone"
     },
     {
       "text": "entacapone",
@@ -2619,15 +1311,7 @@
     },
     {
       "text": "safinamide",
-      "alias": "sa-FIN-a-mide"
-    },
-    {
-      "text": "safinamide",
       "alias": "<<səˈfɪnəˌmaɪd>>"
-    },
-    {
-      "text": "apomorphine",
-      "alias": "AP-oh-MOR-feen"
     },
     {
       "text": "apomorphine",
@@ -2635,15 +1319,7 @@
     },
     {
       "text": "donepezil",
-      "alias": "doe-NEP-e-zil"
-    },
-    {
-      "text": "donepezil",
       "alias": "<<doʊˈnɛpəzɪl>>"
-    },
-    {
-      "text": "rivastigmine",
-      "alias": "riv-uh-STIG-meen"
     },
     {
       "text": "rivastigmine",
@@ -2651,15 +1327,7 @@
     },
     {
       "text": "galantamine",
-      "alias": "guh-LAN-tuh-meen"
-    },
-    {
-      "text": "galantamine",
       "alias": "<<ɡəˈlæntəmiːn>>"
-    },
-    {
-      "text": "memantine",
-      "alias": "muh-MAN-teen"
     },
     {
       "text": "memantine",
@@ -2667,15 +1335,7 @@
     },
     {
       "text": "glatiramer",
-      "alias": "gluh-TIR-uh-mer"
-    },
-    {
-      "text": "glatiramer",
       "alias": "<<ɡləˈtɪrəmər>>"
-    },
-    {
-      "text": "fingolimod",
-      "alias": "fin-GOL-ih-mod"
     },
     {
       "text": "fingolimod",
@@ -2683,15 +1343,7 @@
     },
     {
       "text": "dimethyl fumarate",
-      "alias": "die-METH-ul FYOO-muh-rate"
-    },
-    {
-      "text": "dimethyl fumarate",
       "alias": "<<daɪˈmɛθəl ˈfjuməˌreɪt>>"
-    },
-    {
-      "text": "teriflunomide",
-      "alias": "ter-ih-FLOO-noh-mide"
     },
     {
       "text": "teriflunomide",
@@ -2699,15 +1351,7 @@
     },
     {
       "text": "ozanimod",
-      "alias": "oh-ZAN-ih-mod"
-    },
-    {
-      "text": "ozanimod",
       "alias": "<<oʊˈzænɪmɒd>>"
-    },
-    {
-      "text": "siponimod",
-      "alias": "sih-PON-ih-mod"
     },
     {
       "text": "siponimod",
@@ -2715,15 +1359,7 @@
     },
     {
       "text": "natalizumab",
-      "alias": "na-tal-IZ-uh-mab"
-    },
-    {
-      "text": "natalizumab",
       "alias": "<<ˌnætəˈlɪzʊmæb>>"
-    },
-    {
-      "text": "ocrelizumab",
-      "alias": "ok-re-LIZ-uh-mab"
     },
     {
       "text": "ocrelizumab",
@@ -2731,15 +1367,7 @@
     },
     {
       "text": "ofatumumab",
-      "alias": "oh-fuh-TOO-muh-mab"
-    },
-    {
-      "text": "ofatumumab",
       "alias": "<<ˌɒfəˈtumʊmæb>>"
-    },
-    {
-      "text": "fumarate",
-      "alias": "FYOO-muh-rate"
     },
     {
       "text": "fumarate",
@@ -2747,15 +1375,7 @@
     },
     {
       "text": "levothyroxine",
-      "alias": "lee-voh-thigh-ROX-een"
-    },
-    {
-      "text": "levothyroxine",
       "alias": "<<ˌliːvoʊθaɪˈrɒksiːn>>"
-    },
-    {
-      "text": "prednisone",
-      "alias": "PRED-nih-zone"
     },
     {
       "text": "prednisone",
@@ -2763,15 +1383,7 @@
     },
     {
       "text": "prednisolone",
-      "alias": "pred-NIS-oh-lone"
-    },
-    {
-      "text": "prednisolone",
       "alias": "<<prɛdˈnɪsəloʊn>>"
-    },
-    {
-      "text": "methylprednisolone",
-      "alias": "METH-ul-pred-NIS-oh-lone"
     },
     {
       "text": "methylprednisolone",
@@ -2779,15 +1391,7 @@
     },
     {
       "text": "hydrocortisone",
-      "alias": "HIGH-dro-KOR-tih-zone"
-    },
-    {
-      "text": "hydrocortisone",
       "alias": "<<ˌhaɪdroʊˈkɔːrtɪsoʊn>>"
-    },
-    {
-      "text": "dexamethasone",
-      "alias": "dex-uh-METH-uh-zone"
     },
     {
       "text": "dexamethasone",
@@ -2795,15 +1399,7 @@
     },
     {
       "text": "fludrocortisone",
-      "alias": "floo-dro-KOR-tih-zone"
-    },
-    {
-      "text": "fludrocortisone",
       "alias": "<<ˌfludroʊˈkɔːrtɪsoʊn>>"
-    },
-    {
-      "text": "alendronate",
-      "alias": "uh-LEN-dro-nate"
     },
     {
       "text": "alendronate",
@@ -2811,15 +1407,7 @@
     },
     {
       "text": "risedronate",
-      "alias": "rih-SED-ro-nate"
-    },
-    {
-      "text": "risedronate",
       "alias": "<<rɪˈsɛdrəneɪt>>"
-    },
-    {
-      "text": "ibandronate",
-      "alias": "ih-BAN-dro-nate"
     },
     {
       "text": "ibandronate",
@@ -2827,15 +1415,7 @@
     },
     {
       "text": "zoledronic acid",
-      "alias": "zoh-leh-DRON-ik AS-id"
-    },
-    {
-      "text": "zoledronic acid",
       "alias": "<<zoʊˈlɛdrɒnɪk ˈæsɪd>>"
-    },
-    {
-      "text": "denosumab",
-      "alias": "den-OH-suh-mab"
     },
     {
       "text": "denosumab",
@@ -2843,15 +1423,7 @@
     },
     {
       "text": "teriparatide",
-      "alias": "ter-ih-PAR-uh-tide"
-    },
-    {
-      "text": "teriparatide",
       "alias": "<<ˌtɛrɪˈpærətaɪd>>"
-    },
-    {
-      "text": "raloxifene",
-      "alias": "ral-OX-ih-feen"
     },
     {
       "text": "raloxifene",
@@ -2859,15 +1431,7 @@
     },
     {
       "text": "calcitonin",
-      "alias": "kal-sih-TONE-in"
-    },
-    {
-      "text": "calcitonin",
       "alias": "<<ˌkælsɪˈtoʊnɪn>>"
-    },
-    {
-      "text": "tadalafil",
-      "alias": "tuh-DAF-ih-lil"
     },
     {
       "text": "tadalafil",
@@ -2875,15 +1439,7 @@
     },
     {
       "text": "sildenafil",
-      "alias": "sil-DEN-uh-fil"
-    },
-    {
-      "text": "sildenafil",
       "alias": "<<sɪlˈdɛnəfɪl>>"
-    },
-    {
-      "text": "vardenafil",
-      "alias": "var-DEN-ah-fil"
     },
     {
       "text": "vardenafil",
@@ -2891,15 +1447,7 @@
     },
     {
       "text": "finasteride",
-      "alias": "fin-AS-ter-ide"
-    },
-    {
-      "text": "finasteride",
       "alias": "<<fɪˈnæstəˌraɪd>>"
-    },
-    {
-      "text": "dutasteride",
-      "alias": "doo-TAS-ter-ide"
     },
     {
       "text": "dutasteride",
@@ -2907,15 +1455,7 @@
     },
     {
       "text": "tamsulosin",
-      "alias": "tam-SOO-loh-sin"
-    },
-    {
-      "text": "tamsulosin",
       "alias": "<<tæmˈsuːləsɪn>>"
-    },
-    {
-      "text": "silodosin",
-      "alias": "si-LOH-doh-sin"
     },
     {
       "text": "silodosin",
@@ -2923,15 +1463,7 @@
     },
     {
       "text": "alfuzosin",
-      "alias": "al-FOO-zoh-sin"
-    },
-    {
-      "text": "alfuzosin",
       "alias": "<<ælˈfjuːzəsɪn>>"
-    },
-    {
-      "text": "oxybutynin",
-      "alias": "ok-see-BYOO-ti-nin"
     },
     {
       "text": "oxybutynin",
@@ -2939,15 +1471,7 @@
     },
     {
       "text": "tolterodine",
-      "alias": "tol-TER-oh-deen"
-    },
-    {
-      "text": "tolterodine",
       "alias": "<<tɔlˈtɛrəˌdiːn>>"
-    },
-    {
-      "text": "solifenacin",
-      "alias": "sol-i-FEN-ah-sin"
     },
     {
       "text": "solifenacin",
@@ -2955,15 +1479,7 @@
     },
     {
       "text": "darifenacin",
-      "alias": "dar-i-FEN-ah-sin"
-    },
-    {
-      "text": "darifenacin",
       "alias": "<<ˌdærɪˈfɛnəsɪn>>"
-    },
-    {
-      "text": "mirabegron",
-      "alias": "mir-ah-BEG-ron"
     },
     {
       "text": "mirabegron",
@@ -2971,15 +1487,7 @@
     },
     {
       "text": "phenazopyridine",
-      "alias": "fen-az-oh-PYR-i-deen"
-    },
-    {
-      "text": "phenazopyridine",
       "alias": "<<fəˌnæzoʊˈpɪrɪdiːn>>"
-    },
-    {
-      "text": "hydroxyzine",
-      "alias": "hy-DROK-si-zeen"
     },
     {
       "text": "hydroxyzine",
@@ -2987,15 +1495,7 @@
     },
     {
       "text": "fexofenadine",
-      "alias": "fek-soh-FEN-ah-deen"
-    },
-    {
-      "text": "fexofenadine",
       "alias": "<<ˌfɛksoʊˈfɛnəˌdiːn>>"
-    },
-    {
-      "text": "loratadine",
-      "alias": "lor-AT-ah-deen"
     },
     {
       "text": "loratadine",
@@ -3003,15 +1503,7 @@
     },
     {
       "text": "cetirizine",
-      "alias": "se-TIR-i-zeen"
-    },
-    {
-      "text": "cetirizine",
       "alias": "<<səˈtɪrɪˌziːn>>"
-    },
-    {
-      "text": "diphenhydramine",
-      "alias": "dy-fen-HY-drah-meen"
     },
     {
       "text": "diphenhydramine",
@@ -3019,15 +1511,7 @@
     },
     {
       "text": "chlorpheniramine",
-      "alias": "klor-fen-EER-ah-meen"
-    },
-    {
-      "text": "chlorpheniramine",
       "alias": "<<ˌklɔrfɛnˈɪrəˌmiːn>>"
-    },
-    {
-      "text": "azelastine",
-      "alias": "ah-ZEL-ah-steen"
     },
     {
       "text": "azelastine",
@@ -3035,15 +1519,7 @@
     },
     {
       "text": "olopatadine",
-      "alias": "oh-loh-PAT-ah-deen"
-    },
-    {
-      "text": "olopatadine",
       "alias": "<<ˌoʊloʊˈpætəˌdiːn>>"
-    },
-    {
-      "text": "modafinil",
-      "alias": "mo-DAF-i-nil"
     },
     {
       "text": "modafinil",
@@ -3051,15 +1527,7 @@
     },
     {
       "text": "armodafinil",
-      "alias": "ar-mo-DAF-i-nil"
-    },
-    {
-      "text": "armodafinil",
       "alias": "<<ˌɑrmoʊˈdæfɪnɪl>>"
-    },
-    {
-      "text": "sumatriptan",
-      "alias": "soo-mah-TRIP-tan"
     },
     {
       "text": "sumatriptan",
@@ -3067,15 +1535,7 @@
     },
     {
       "text": "rizatriptan",
-      "alias": "ry-zah-TRIP-tan"
-    },
-    {
-      "text": "rizatriptan",
       "alias": "<<ˌraɪzəˈtrɪpˌtæn>>"
-    },
-    {
-      "text": "zolmitriptan",
-      "alias": "zohl-mi-TRIP-tan"
     },
     {
       "text": "zolmitriptan",
@@ -3083,15 +1543,7 @@
     },
     {
       "text": "eletriptan",
-      "alias": "el-e-TRIP-tan"
-    },
-    {
-      "text": "eletriptan",
       "alias": "<<ˌɛləˈtrɪpˌtæn>>"
-    },
-    {
-      "text": "almotriptan",
-      "alias": "al-moh-TRIP-tan"
     },
     {
       "text": "almotriptan",
@@ -3099,15 +1551,7 @@
     },
     {
       "text": "frovatriptan",
-      "alias": "froh-vah-TRIP-tan"
-    },
-    {
-      "text": "frovatriptan",
       "alias": "<<ˌfroʊvəˈtrɪpˌtæn>>"
-    },
-    {
-      "text": "naratriptan",
-      "alias": "nar-ah-TRIP-tan"
     },
     {
       "text": "naratriptan",
@@ -3115,15 +1559,7 @@
     },
     {
       "text": "ubrogepant",
-      "alias": "yoo-BROH-jeh-pant"
-    },
-    {
-      "text": "ubrogepant",
       "alias": "<<juːˈbroʊdʒəˌpænt>>"
-    },
-    {
-      "text": "rimegepant",
-      "alias": "rih-MEH-jeh-pant"
     },
     {
       "text": "rimegepant",
@@ -3131,15 +1567,7 @@
     },
     {
       "text": "erenumab",
-      "alias": "eh-REH-nyoo-mab"
-    },
-    {
-      "text": "erenumab",
       "alias": "<<ɛˈrɛnjʊmæb>>"
-    },
-    {
-      "text": "fremanezumab",
-      "alias": "freh-mah-NEH-zoo-mab"
     },
     {
       "text": "fremanezumab",
@@ -3147,15 +1575,7 @@
     },
     {
       "text": "galcanezumab",
-      "alias": "gal-kah-NEH-zoo-mab"
-    },
-    {
-      "text": "galcanezumab",
       "alias": "<<ɡælˈkænɪzʊmæb>>"
-    },
-    {
-      "text": "eprodual",
-      "alias": "eh-PROH-dool"
     },
     {
       "text": "eprodual",
@@ -3163,47 +1583,23 @@
     },
     {
       "text": "onabotulinumtoxinA",
-      "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay"
-    },
-    {
-      "text": "onabotulinumtoxinA",
       "alias": "<<ɑnəbəˌtulɪnəmˈtɑksɪn eɪ>>"
     },
     {
       "text": "MI",
-      "alias": "myocardial infarction"
-    },
-    {
-      "text": "MI",
-      "alias": "<<ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən>>"
+      "alias": "<<ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən>>"
     },
     {
       "text": "COPD",
-      "alias": "chronic obstructive pulmonary disease"
-    },
-    {
-      "text": "COPD",
-      "alias": "<<ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz>>"
+      "alias": "<<ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz>>"
     },
     {
       "text": "CHF",
-      "alias": "congestive heart failure"
-    },
-    {
-      "text": "CHF",
-      "alias": "<<kənˈɡɛstɪv hɑrt ˈfɜːr>>"
+      "alias": "<<kənˈdʒɛstɪv hɑrt ˈfeljɚ>>"
     },
     {
       "text": "UTI",
-      "alias": "urinary tract infection"
-    },
-    {
-      "text": "UTI",
-      "alias": "<<ˌjuːriˈnɛri træk ˈɪnfɛkʃən>>"
-    },
-    {
-      "text": "MRI",
-      "alias": "magnetic resonance imaging"
+      "alias": "<<ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən>>"
     },
     {
       "text": "MRI",
@@ -3211,495 +1607,247 @@
     },
     {
       "text": "CT",
-      "alias": "computed tomography"
-    },
-    {
-      "text": "CT",
       "alias": "<<kəmˈpjutɪd təˈmɑɡrəfi>>"
     },
     {
       "text": "EKG",
-      "alias": "electrocardiogram"
-    },
-    {
-      "text": "EKG",
       "alias": "<<ɪˌlɛktroʊkɑrdiˈɑɡrəm>>"
     },
     {
       "text": "ECG",
-      "alias": "electrocardiogram"
-    },
-    {
-      "text": "ECG",
-      "alias": "<<ɪˌlɛktroʊkɑrdiˈɑɡrəm>>"
+      "alias": "<<ɪˌlɛktroʊˈkɑrdiəˌɡræm>>"
     },
     {
       "text": "EEG",
-      "alias": "electroencephalogram"
-    },
-    {
-      "text": "EEG",
-      "alias": "<<ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm>>"
+      "alias": "<<ɪˌlɛktroʊɛnˈsɛfələˌɡræm>>"
     },
     {
       "text": "BUN",
-      "alias": "blood urea nitrogen"
-    },
-    {
-      "text": "BUN",
-      "alias": "<<ˈblʌd ˌjuːriəˈnaɪtroʊdʒən>>"
+      "alias": "<<blʌd jʊˈriə ˈnaɪtrədʒən>>"
     },
     {
       "text": "CMP",
-      "alias": "comprehensive metabolic panel"
-    },
-    {
-      "text": "CMP",
-      "alias": "<<ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl>>"
+      "alias": "<<ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl>>"
     },
     {
       "text": "CBC",
-      "alias": "complete blood count"
-    },
-    {
-      "text": "CBC",
-      "alias": "<<ˌkɑmpliːt ˈblʌd ˈkaʊnt>>"
+      "alias": "<<kəmˈplit blʌd kaʊnt>>"
     },
     {
       "text": "TSH",
-      "alias": "thyroid stimulating hormone"
-    },
-    {
-      "text": "TSH",
-      "alias": "<<ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn>>"
+      "alias": "<<ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn>>"
     },
     {
       "text": "HbA1c",
-      "alias": "hemoglobin A one C"
-    },
-    {
-      "text": "HbA1c",
-      "alias": "<<ˌheməɡloʊbɪn eɪ wʌn siː>>"
+      "alias": "<<ˌhimoʊˈɡloʊbɪn eɪ wʌn si>>"
     },
     {
       "text": "PT",
-      "alias": "prothrombin time"
-    },
-    {
-      "text": "PT",
-      "alias": "<<ˌprɑθrɑmbɪn ˈtaɪm>>"
+      "alias": "<<proʊˈθrɑmbɪn taɪm>>"
     },
     {
       "text": "INR",
-      "alias": "international normalized ratio"
-    },
-    {
-      "text": "INR",
-      "alias": "<<ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ>>"
+      "alias": "<<ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ>>"
     },
     {
       "text": "PTT",
-      "alias": "partial thromboplastin time"
-    },
-    {
-      "text": "PTT",
-      "alias": "<<ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm>>"
+      "alias": "<<ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm>>"
     },
     {
       "text": "DVT",
-      "alias": "deep vein thrombosis"
-    },
-    {
-      "text": "DVT",
-      "alias": "<<ˌdiːp veɪn ˈθrɑmbəˌsɪs>>"
+      "alias": "<<dip ven θrɑmˈboʊsɪs>>"
     },
     {
       "text": "PE",
-      "alias": "pulmonary embolism"
-    },
-    {
-      "text": "PE",
-      "alias": "<<ˌpʊlməˈnɛri ɛmˈboʊlɪzəm>>"
+      "alias": "<<ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm>>"
     },
     {
       "text": "CVA",
-      "alias": "cerebrovascular accident"
-    },
-    {
-      "text": "CVA",
-      "alias": "<<ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt>>"
+      "alias": "<<ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt>>"
     },
     {
       "text": "TIA",
-      "alias": "transient ischemic attack"
-    },
-    {
-      "text": "TIA",
-      "alias": "<<trænˈzɪənt ɪˈskɛmɪk əˈtæk>>"
+      "alias": "<<ˈtrænziənt ɪsˈkimɪk əˈtæk>>"
     },
     {
       "text": "ICU",
-      "alias": "intensive care unit"
-    },
-    {
-      "text": "ICU",
-      "alias": "<<ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt>>"
+      "alias": "<<ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
     },
     {
       "text": "NICU",
-      "alias": "neonatal intensive care unit"
-    },
-    {
-      "text": "NICU",
-      "alias": "<<ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt>>"
+      "alias": "<<ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
     },
     {
       "text": "ER",
-      "alias": "emergency room"
-    },
-    {
-      "text": "ER",
-      "alias": "<<ɪmˈɜːrdʒənsi ˈruːm>>"
+      "alias": "<<ɪˈmɜrdʒənsi rum>>"
     },
     {
       "text": "ED",
-      "alias": "emergency department"
-    },
-    {
-      "text": "ED",
-      "alias": "<<ˌɛrˈdiː>>"
+      "alias": "<<ɪˈmɜrdʒənsi dɪˈpɑrtmənt>>"
     },
     {
       "text": "OR",
-      "alias": "operating room"
-    },
-    {
-      "text": "OR",
-      "alias": "<<ˈɔr>>"
+      "alias": "<<ˈɑpəˌretɪŋ rum>>"
     },
     {
       "text": "PACU",
-      "alias": "post-anesthesia care unit"
-    },
-    {
-      "text": "PACU",
-      "alias": "<<pəˈkuː>>"
+      "alias": "<<poʊst ˌænəsˈθiʒə kɛr ˈjunɪt>>"
     },
     {
       "text": "CCU",
-      "alias": "coronary care unit"
-    },
-    {
-      "text": "CCU",
-      "alias": "<<ˌsiːˌsiːˈjuː>>"
+      "alias": "<<ˈkɔrəˌnɛri kɛr ˈjunɪt>>"
     },
     {
       "text": "SICU",
-      "alias": "surgical intensive care unit"
-    },
-    {
-      "text": "SICU",
-      "alias": "<<ˌɛsˌaɪˌsiːˈjuː>>"
+      "alias": "<<ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
     },
     {
       "text": "MICU",
-      "alias": "medical intensive care unit"
-    },
-    {
-      "text": "MICU",
-      "alias": "<<ˌɛmˌaɪˌsiːˈjuː>>"
+      "alias": "<<ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
     },
     {
       "text": "BP",
-      "alias": "blood pressure"
-    },
-    {
-      "text": "BP",
-      "alias": "<<ˌbiːˈpiː>>"
+      "alias": "<<ˈblʌd ˈprɛʃɚ>>"
     },
     {
       "text": "HR",
-      "alias": "heart rate"
-    },
-    {
-      "text": "HR",
-      "alias": "<<ˌeɪtʃˈɑr>>"
+      "alias": "<<ˈhɑrt ˈreɪt>>"
     },
     {
       "text": "RR",
-      "alias": "respiratory rate"
-    },
-    {
-      "text": "RR",
-      "alias": "<<ˌɑrˈɑr>>"
+      "alias": "<<ˈrɛspɚəˌtɔri ˈreɪt>>"
     },
     {
       "text": "SpO2",
-      "alias": "saturation of peripheral oxygen"
-    },
-    {
-      "text": "SpO2",
-      "alias": "<<ˌɛsˌpiːˈoʊ tuː>>"
+      "alias": "<<ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən>>"
     },
     {
       "text": "ETCO2",
-      "alias": "end-tidal carbon dioxide"
-    },
-    {
-      "text": "ETCO2",
-      "alias": "<<ˌiːˌtiːˌsiːˈoʊ tuː>>"
+      "alias": "<<ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd>>"
     },
     {
       "text": "IV",
-      "alias": "intravenous"
-    },
-    {
-      "text": "IV",
-      "alias": "<<ˌaɪˈviː>>"
+      "alias": "<<ˌɪntrəˈvinəs>>"
     },
     {
       "text": "IM",
-      "alias": "intramuscular"
-    },
-    {
-      "text": "IM",
-      "alias": "<<ˌaɪˈɛm>>"
+      "alias": "<<ˌɪntrəˈmʌskjəlɚ>>"
     },
     {
       "text": "SC",
-      "alias": "subcutaneous"
-    },
-    {
-      "text": "SC",
-      "alias": "<<ˌɛsˈsiː>>"
+      "alias": "<<ˌsʌbkjuˈteɪniəs>>"
     },
     {
       "text": "PO",
-      "alias": "by mouth"
-    },
-    {
-      "text": "PO",
-      "alias": "<<ˌpiːˈoʊ>>"
+      "alias": "<<baɪ ˈmaʊθ>>"
     },
     {
       "text": "PR",
-      "alias": "per rectum"
-    },
-    {
-      "text": "PR",
-      "alias": "<<ˌpiːˈɑr>>"
+      "alias": "<<pɚ ˈrɛktəm>>"
     },
     {
       "text": "SL",
-      "alias": "sublingual"
-    },
-    {
-      "text": "SL",
-      "alias": "<<ˌɛsˈɛl>>"
+      "alias": "<<sʌbˈlɪŋɡwəl>>"
     },
     {
       "text": "OD",
-      "alias": "right eye"
-    },
-    {
-      "text": "OD",
-      "alias": "<<ˌoʊˈdiː>>"
+      "alias": "<<ˈraɪt ˈaɪ>>"
     },
     {
       "text": "OS",
-      "alias": "left eye"
-    },
-    {
-      "text": "OS",
-      "alias": "<<ˌoʊˈɛs>>"
+      "alias": "<<ˈlɛft ˈaɪ>>"
     },
     {
       "text": "OU",
-      "alias": "both eyes"
-    },
-    {
-      "text": "OU",
-      "alias": "<<ˌoʊˈjuː>>"
+      "alias": "<<ˈboʊθ ˈaɪz>>"
     },
     {
       "text": "AU",
-      "alias": "both ears"
-    },
-    {
-      "text": "AU",
-      "alias": "<<ˌeɪˈjuː>>"
+      "alias": "<<ˈboʊθ ˈɪrz>>"
     },
     {
       "text": "AD",
-      "alias": "right ear"
-    },
-    {
-      "text": "AD",
-      "alias": "<<ˌeɪˈdiː>>"
+      "alias": "<<ˈraɪt ˈɪr>>"
     },
     {
       "text": "AS",
-      "alias": "left ear"
-    },
-    {
-      "text": "AS",
-      "alias": "<<ˌeɪˈɛs>>"
+      "alias": "<<ˈlɛft ˈɪr>>"
     },
     {
       "text": "APAP",
-      "alias": "acetaminophen"
-    },
-    {
-      "text": "APAP",
-      "alias": "<<ˈeɪpæp>>"
+      "alias": "<<əˌsitəˈmɪnəfən>>"
     },
     {
       "text": "NSAID",
-      "alias": "non-steroidal anti-inflammatory drug"
-    },
-    {
-      "text": "NSAID",
-      "alias": "<<ˈɛnsɛd>>"
+      "alias": "<<ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ>>"
     },
     {
       "text": "PPI",
-      "alias": "proton pump inhibitor"
-    },
-    {
-      "text": "PPI",
-      "alias": "<<ˌpiːˌpiːˈaɪ>>"
+      "alias": "<<ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ>>"
     },
     {
       "text": "ARB",
-      "alias": "angiotensin receptor blocker"
-    },
-    {
-      "text": "ARB",
-      "alias": "<<ˌeɪˌɑrˈbiː>>"
+      "alias": "<<ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ>>"
     },
     {
       "text": "ACE",
-      "alias": "angiotensin-converting enzyme"
-    },
-    {
-      "text": "ACE",
-      "alias": "<<ˈeɪs>>"
+      "alias": "<<ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm>>"
     },
     {
       "text": "BB",
-      "alias": "beta blocker"
-    },
-    {
-      "text": "BB",
-      "alias": "<<ˌbiːˈbiː>>"
+      "alias": "<<ˈbeɪtə ˈblɑkɚ>>"
     },
     {
       "text": "CCB",
-      "alias": "calcium channel blocker"
-    },
-    {
-      "text": "CCB",
-      "alias": "<<ˌsiːˌsiːˈbiː>>"
+      "alias": "<<ˈkælsiəm ˈtʃænəl ˈblɑkɚ>>"
     },
     {
       "text": "SSRI",
-      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
-    },
-    {
-      "text": "SSRI",
-      "alias": "<<ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər>>"
+      "alias": "<<sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ>>"
     },
     {
       "text": "SNRI",
-      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
-    },
-    {
-      "text": "SNRI",
-      "alias": "<<ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər>>"
+      "alias": "<<sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ>>"
     },
     {
       "text": "TCA",
-      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
-    },
-    {
-      "text": "TCA",
-      "alias": "<<ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt>>"
+      "alias": "<<traɪˈsɪklɪk ˌæntidɪˈprɛsənt>>"
     },
     {
       "text": "MAOI",
-      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
-    },
-    {
-      "text": "MAOI",
-      "alias": "<<ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər>>"
+      "alias": "<<ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ>>"
     },
     {
       "text": "DM",
-      "alias": "di-a-BE-teez mel-LI-tus"
-    },
-    {
-      "text": "DM",
-      "alias": "<<ˌdaɪəˈbiːtɪz ˈmɛlɪtəs>>"
+      "alias": "<<ˌdaɪəˈbitiz məˈlaɪtəs>>"
     },
     {
       "text": "HTN",
-      "alias": "hi-per-TEN-shun"
-    },
-    {
-      "text": "HTN",
-      "alias": "<<haɪˈpɜːrtənʃən>>"
+      "alias": "<<ˌhaɪpɚˈtɛnʃən>>"
     },
     {
       "text": "HLD",
-      "alias": "hi-per-LIP-i-dee-mee-uh"
-    },
-    {
-      "text": "HLD",
-      "alias": "<<ˌhaɪpərˈlɪpɪˌdiːmɪə>>"
+      "alias": "<<ˌhaɪpɚˈlɪpɪˌdimiə>>"
     },
     {
       "text": "CAD",
-      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
-    },
-    {
-      "text": "CAD",
-      "alias": "<<ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz>>"
+      "alias": "<<kəˈroʊnɚi ˈɑrtɚi dɪˈziz>>"
     },
     {
       "text": "PVD",
-      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
-    },
-    {
-      "text": "PVD",
-      "alias": "<<ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz>>"
+      "alias": "<<ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz>>"
     },
     {
       "text": "CKD",
-      "alias": "kron-ik KID-nee di-ZEEZ"
-    },
-    {
-      "text": "CKD",
-      "alias": "<<ˌkrɑnɪk ˈkɪdni ˈdɪziːz>>"
+      "alias": "<<ˈkrɑnɪk ˈkɪdni dɪˈziz>>"
     },
     {
       "text": "ESRD",
-      "alias": "end-STAGE re-NAL di-ZEEZ"
-    },
-    {
-      "text": "ESRD",
-      "alias": "<<ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz>>"
+      "alias": "<<ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz>>"
     },
     {
       "text": "AKI",
-      "alias": "ak-YOOT KID-nee in-JER-ee"
-    },
-    {
-      "text": "AKI",
-      "alias": "<<ˈækjʊt kɪdˈni ˈɪndʒəri>>"
-    },
-    {
-      "text": "ASTHMA",
-      "alias": "AZ-muh"
+      "alias": "<<əˈkjut ˈkɪdni ˈɪndʒɚi>>"
     },
     {
       "text": "ASTHMA",
@@ -3707,95 +1855,47 @@
     },
     {
       "text": "GERD",
-      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
-    },
-    {
-      "text": "GERD",
-      "alias": "<<ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz>>"
+      "alias": "<<ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz>>"
     },
     {
       "text": "IBD",
-      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
-    },
-    {
-      "text": "IBD",
-      "alias": "<<ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz>>"
+      "alias": "<<ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz>>"
     },
     {
       "text": "IBS",
-      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
-    },
-    {
-      "text": "IBS",
-      "alias": "<<ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm>>"
+      "alias": "<<ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm>>"
     },
     {
       "text": "NASH",
-      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
-    },
-    {
-      "text": "NASH",
-      "alias": "<<ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs>>"
+      "alias": "<<ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs>>"
     },
     {
       "text": "NAFLD",
-      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
-    },
-    {
-      "text": "NAFLD",
-      "alias": "<<ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz>>"
+      "alias": "<<ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz>>"
     },
     {
       "text": "HCC",
-      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
-    },
-    {
-      "text": "HCC",
-      "alias": "<<ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə>>"
+      "alias": "<<həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə>>"
     },
     {
       "text": "ALL",
-      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
-    },
-    {
-      "text": "ALL",
-      "alias": "<<ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə>>"
+      "alias": "<<əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə>>"
     },
     {
       "text": "AML",
-      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
-    },
-    {
-      "text": "AML",
-      "alias": "<<ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə>>"
+      "alias": "<<əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə>>"
     },
     {
       "text": "CLL",
-      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
-    },
-    {
-      "text": "CLL",
-      "alias": "<<ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə>>"
+      "alias": "<<ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə>>"
     },
     {
       "text": "CML",
-      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
-    },
-    {
-      "text": "CML",
-      "alias": "<<ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə>>"
+      "alias": "<<ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə>>"
     },
     {
       "text": "NHL",
-      "alias": "non-HOJ-kin lym-FO-ma"
-    },
-    {
-      "text": "NHL",
-      "alias": "<<ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə>>"
-    },
-    {
-      "text": "Hodgkin",
-      "alias": "HOJ-kin"
+      "alias": "<<ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə>>"
     },
     {
       "text": "Hodgkin",
@@ -3803,343 +1903,171 @@
     },
     {
       "text": "MM",
-      "alias": "mul-TI-pul my-eh-LO-ma"
-    },
-    {
-      "text": "MM",
-      "alias": "<<ˈmʌltɪpl ˈmaɪˈloʊmə>>"
+      "alias": "<<ˈmʌltɪpəl ˌmaɪəˈloʊmə>>"
     },
     {
       "text": "SLE",
-      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
-    },
-    {
-      "text": "SLE",
-      "alias": "<<ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs>>"
+      "alias": "<<sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs>>"
     },
     {
       "text": "RA",
-      "alias": "rew-ma-TOYD ar-THRI-tis"
-    },
-    {
-      "text": "RA",
-      "alias": "<<ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs>>"
+      "alias": "<<ˌruməˈtɔɪd ɑrˈθraɪtɪs>>"
     },
     {
       "text": "OA",
-      "alias": "os-tee-o-ar-THRI-tis"
-    },
-    {
-      "text": "OA",
-      "alias": "<<ˈɑːsθrəʊˈaɪtɪs>>"
+      "alias": "<<ˌɑstioʊɑrˈθraɪtɪs>>"
     },
     {
       "text": "DJD",
-      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
-    },
-    {
-      "text": "DJD",
-      "alias": "<<ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz>>"
+      "alias": "<<dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz>>"
     },
     {
       "text": "GOUT",
-      "alias": "gowt"
-    },
-    {
-      "text": "GOUT",
-      "alias": "<<ɡaʊt>>"
+      "alias": "<<ɡˈaʊt>>"
     },
     {
       "text": "MG",
-      "alias": "myasthenia gravis"
-    },
-    {
-      "text": "MG",
-      "alias": "<<maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən>>"
+      "alias": "<<ˌmaɪəsˈθiniə ˈɡrævɪs>>"
     },
     {
       "text": "MS",
-      "alias": "multiple sclerosis"
-    },
-    {
-      "text": "MS",
-      "alias": "<<ˈmʌltɪpl sklɪˈroʊsɪs>>"
+      "alias": "<<ˈmʌltɪpəl skləˈroʊsɪs>>"
     },
     {
       "text": "ALS",
-      "alias": "amyotrophic lateral sclerosis"
-    },
-    {
-      "text": "ALS",
-      "alias": "<<əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs>>"
+      "alias": "<<əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs>>"
     },
     {
       "text": "GBS",
-      "alias": "Guillain-Barré syndrome"
-    },
-    {
-      "text": "GBS",
-      "alias": "<<ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm>>"
+      "alias": "<<ɡiˈjæn bəˈreɪ ˈsɪndroʊm>>"
     },
     {
       "text": "TBI",
-      "alias": "traumatic brain injury"
-    },
-    {
-      "text": "TBI",
-      "alias": "<<trəˈmætɪk brɛn ɪnˈdʒʊri>>"
+      "alias": "<<trəˈmætɪk ˈbreɪn ˈɪndʒɚi>>"
     },
     {
       "text": "PD",
-      "alias": "Parkinson disease"
-    },
-    {
-      "text": "PD",
-      "alias": "<<pɑːrkɪnsən ˈdɪziːz>>"
+      "alias": "<<ˈpɑrkɪnsən dɪˌziːz>>"
     },
     {
       "text": "HD",
-      "alias": "Huntington disease"
-    },
-    {
-      "text": "HD",
-      "alias": "<<hʌnˈtɪŋtən ˈdɪziːz>>"
+      "alias": "<<ˈhʌntɪŋtən dɪˌziːz>>"
     },
     {
       "text": "CJD",
-      "alias": "Creutzfeldt-Jakob disease"
-    },
-    {
-      "text": "CJD",
-      "alias": "<<krʊtsfɛlt dʒækəb ˈdɪziːz>>"
+      "alias": "<<ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz>>"
     },
     {
       "text": "SCI",
-      "alias": "spinal cord injury"
-    },
-    {
-      "text": "SCI",
-      "alias": "<<spaɪnəl kɔːrd ɪnˈdʒʊri>>"
+      "alias": "<<ˈspaɪnəl kɔrd ˈɪndʒəri>>"
     },
     {
       "text": "CA",
-      "alias": "cancer"
-    },
-    {
-      "text": "CA",
-      "alias": "<<kɑːnsər>>"
+      "alias": "<<ˈkænsɚ>>"
     },
     {
       "text": "N/V",
-      "alias": "nausea and vomiting"
-    },
-    {
-      "text": "N/V",
-      "alias": "<<nɔːziə ənd voʊmɪtɪŋ>>"
+      "alias": "<<ˈnɔziə ənd ˈvɑmɪtɪŋ>>"
     },
     {
       "text": "SOB",
-      "alias": "shortness of breath"
-    },
-    {
-      "text": "SOB",
-      "alias": "<<ʃɔːrtnis əv brɛθ>>"
+      "alias": "<<ˈʃɔrtnəs əv brɛθ>>"
     },
     {
       "text": "CP",
-      "alias": "cerebral palsy"
-    },
-    {
-      "text": "CP",
-      "alias": "<<sɛrɪbrəl ˈpɔːlsi>>"
+      "alias": "<<səˈribrəl ˈpɔlzi>>"
     },
     {
       "text": "N/V/D",
-      "alias": "nausea vomiting and diarrhea"
-    },
-    {
-      "text": "N/V/D",
-      "alias": "<<nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə>>"
+      "alias": "<<ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə>>"
     },
     {
       "text": "LOC",
-      "alias": "loss of consciousness"
-    },
-    {
-      "text": "LOC",
-      "alias": "<<lɑːs əv kɔnˈʃuːʃən>>"
+      "alias": "<<ˈlɔs əv ˈkɑnʃəsnəs>>"
     },
     {
       "text": "GCS",
-      "alias": "Glasgow Coma Scale"
-    },
-    {
-      "text": "GCS",
-      "alias": "<<ɡlæsɡoʊ kɔmə skoːr>>"
+      "alias": "<<ˈɡlæsɡoʊ ˈkoʊmə skeɪl>>"
     },
     {
       "text": "HEENT",
-      "alias": "head eyes ears nose and throat"
-    },
-    {
-      "text": "HEENT",
-      "alias": "<<hɛd aɪz ɪrz noʊz ənd θroʊt>>"
+      "alias": "<<hˈɛd aɪz ɪrz noʊz ən θroʊt>>"
     },
     {
       "text": "CV",
-      "alias": "cardiovascular"
-    },
-    {
-      "text": "CV",
-      "alias": "<<kɑːrdjoʊˈvæskjələr>>"
+      "alias": "<<ˌkɑrdioʊˈvæskjəlɚ>>"
     },
     {
       "text": "GI",
-      "alias": "gastrointestinal"
-    },
-    {
-      "text": "GI",
-      "alias": "<<ɡæstroʊɪnˈtɛstənəl>>"
+      "alias": "<<ˌɡæstroʊɪnˈtɛstənəl>>"
     },
     {
       "text": "GU",
-      "alias": "genitourinary"
-    },
-    {
-      "text": "GU",
-      "alias": "<<dʒɛnɪtoʊˈrɪnəri>>"
+      "alias": "<<ˌdʒɛnɪtoʊˈjʊrɪnɛri>>"
     },
     {
       "text": "MSK",
-      "alias": "musculoskeletal"
-    },
-    {
-      "text": "MSK",
-      "alias": "<<mʌskjoʊsklɪˈlɛtərəl>>"
+      "alias": "<<ˌmʌskjəloʊˈskɛlətəl>>"
     },
     {
       "text": "Neuro",
-      "alias": "NEU-roh"
-    },
-    {
-      "text": "Neuro",
-      "alias": "<<nʊˈroʊloʊdʒi>>"
+      "alias": "<<ˈnʊroʊ>>"
     },
     {
       "text": "Psych",
-      "alias": "SYKE"
-    },
-    {
-      "text": "Psych",
-      "alias": "<<saɪˈkætri>>"
+      "alias": "<<sˈaɪk>>"
     },
     {
       "text": "Derm",
-      "alias": "derm"
-    },
-    {
-      "text": "Derm",
-      "alias": "<<dɜːrməˈtɑːlədʒi>>"
+      "alias": "<<ˈdɝm>>"
     },
     {
       "text": "ENT",
-      "alias": "ear nose and throat"
-    },
-    {
-      "text": "ENT",
-      "alias": "<<ɪr noʊz ənd θroʊt>>"
+      "alias": "<<ˈɪr noʊz ən θroʊt>>"
     },
     {
       "text": "OB",
-      "alias": "obstetrics"
-    },
-    {
-      "text": "OB",
-      "alias": "<<ɑːbstəˈtrɪks>>"
+      "alias": "<<əbˈstɛtrɪks>>"
     },
     {
       "text": "GYN",
-      "alias": "gynecology"
-    },
-    {
-      "text": "GYN",
-      "alias": "<<ɡaɪnɪˈkɑːlədʒi>>"
+      "alias": "<<ˌɡaɪnəˈkɑlədʒi>>"
     },
     {
       "text": "LMP",
-      "alias": "last menstrual period"
-    },
-    {
-      "text": "LMP",
-      "alias": "<<læst mɛnstrəl ˈpɪriəd>>"
+      "alias": "<<læst ˈmɛnstruəl ˈpɪriəd>>"
     },
     {
       "text": "EDC",
-      "alias": "estimated date of confinement"
-    },
-    {
-      "text": "EDC",
-      "alias": "<<ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment>>"
+      "alias": "<<ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt>>"
     },
     {
       "text": "Gest",
-      "alias": "gest"
-    },
-    {
-      "text": "Gest",
-      "alias": "<<dʒɛst>>"
+      "alias": "<<dʒˈɛst>>"
     },
     {
       "text": "NS",
-      "alias": "normal saline"
-    },
-    {
-      "text": "NS",
-      "alias": "<<nɔːrməl saʊn>>"
+      "alias": "<<ˈnɔrməl səˈliːn>>"
     },
     {
       "text": "LR",
-      "alias": "lactated Ringer's"
-    },
-    {
-      "text": "LR",
-      "alias": "<<lækˈtɛtˌɪd rɪŋɡərz>>"
+      "alias": "<<ˈlækteɪtɪd ˈrɪŋɚz>>"
     },
     {
       "text": "D5W",
-      "alias": "D-five-W"
-    },
-    {
-      "text": "D5W",
-      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər>>"
+      "alias": "<<dˈiː faɪv dʌbəlju>>"
     },
     {
       "text": "D5NS",
-      "alias": "D-five-N-S"
-    },
-    {
-      "text": "D5NS",
-      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn>>"
+      "alias": "<<dˈiː faɪv ɛn ɛs>>"
     },
     {
       "text": "D5LR",
-      "alias": "D-five-L-R"
-    },
-    {
-      "text": "D5LR",
-      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz>>"
+      "alias": "<<dˈiː faɪv ɛl ɑr>>"
     },
     {
       "text": "KCl",
-      "alias": "potassium chloride"
-    },
-    {
-      "text": "KCl",
-      "alias": "<<pəˈtæsiəm klɔːraɪd>>"
-    },
-    {
-      "text": "MgSO4",
-      "alias": "mag-NEE-zee-um sul-FATE"
+      "alias": "<<pəˈtæsiəm ˈklɔraɪd>>"
     },
     {
       "text": "MgSO4",
@@ -4147,191 +2075,95 @@
     },
     {
       "text": "CaCl2",
-      "alias": "KAL-see-um KLOR-ide"
-    },
-    {
-      "text": "CaCl2",
-      "alias": "<<kælsiəm klɔːraɪd>>"
+      "alias": "<<ˈkælsiəm ˈklɔraɪd>>"
     },
     {
       "text": "NaHCO3",
-      "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate"
-    },
-    {
-      "text": "NaHCO3",
-      "alias": "<<soʊdiəm aɪkaɹˈbɒnət>>"
+      "alias": "<<ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt>>"
     },
     {
       "text": "ABG",
-      "alias": "arterial blood gas"
-    },
-    {
-      "text": "ABG",
-      "alias": "<<ˈɑːtəriəl bluːd ɡæz>>"
+      "alias": "<<ɑrˈtɪriəl blʌd ɡæs>>"
     },
     {
       "text": "VBG",
-      "alias": "venous blood gas"
-    },
-    {
-      "text": "VBG",
-      "alias": "<<vɛnəs bluːd ɡæz>>"
+      "alias": "<<ˈviːnəs blʌd ɡæs>>"
     },
     {
       "text": "LP",
-      "alias": "lumbar puncture"
-    },
-    {
-      "text": "LP",
-      "alias": "<<ˈlʌmbər ˈpʌŋktʃər>>"
+      "alias": "<<ˈlʌmbɚ ˈpʌŋktʃɚ>>"
     },
     {
       "text": "BM",
-      "alias": "bowel movement"
-    },
-    {
-      "text": "BM",
-      "alias": "<<baʊəl muːvmənt>>"
+      "alias": "<<ˈbaʊəl ˈmuːvmənt>>"
     },
     {
       "text": "PEG",
-      "alias": "PEG"
-    },
-    {
-      "text": "PEG",
-      "alias": "<<pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi>>"
+      "alias": "<<pˈɛɡ>>"
     },
     {
       "text": "ICD",
-      "alias": "implantable cardioverter defibrillator"
-    },
-    {
-      "text": "ICD",
-      "alias": "<<ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər>>"
+      "alias": "<<ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ>>"
     },
     {
       "text": "Pacemaker",
-      "alias": "PACE-may-ker"
-    },
-    {
-      "text": "Pacemaker",
-      "alias": "<<ˈpeɪsˌmeɪkər>>"
+      "alias": "<<ˈpeɪsmeɪkɚ>>"
     },
     {
       "text": "AICD",
-      "alias": "automatic implantable cardioverter defibrillator"
-    },
-    {
-      "text": "AICD",
-      "alias": "<<ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər>>"
+      "alias": "<<ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ>>"
     },
     {
       "text": "CABG",
-      "alias": "cabbage"
-    },
-    {
-      "text": "CABG",
-      "alias": "<<ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft>>"
+      "alias": "<<ˈkæbɪdʒ>>"
     },
     {
       "text": "PCI",
-      "alias": "percutaneous coronary intervention"
-    },
-    {
-      "text": "PCI",
-      "alias": "<<pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən>>"
+      "alias": "<<ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən>>"
     },
     {
       "text": "TAVR",
-      "alias": "TAH-ver"
-    },
-    {
-      "text": "TAVR",
-      "alias": "<<ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt>>"
+      "alias": "<<ˈtɑvɚ>>"
     },
     {
       "text": "TEVAR",
-      "alias": "TEV-ar"
-    },
-    {
-      "text": "TEVAR",
-      "alias": "<<ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər>>"
+      "alias": "<<ˈtɛvɚ>>"
     },
     {
       "text": "EVAR",
-      "alias": "EE-var"
-    },
-    {
-      "text": "EVAR",
-      "alias": "<<ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər>>"
+      "alias": "<<ˈivɚ>>"
     },
     {
       "text": "PTCA",
-      "alias": "percutaneous transluminal coronary angioplasty"
-    },
-    {
-      "text": "PTCA",
-      "alias": "<<pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti>>"
+      "alias": "<<ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti>>"
     },
     {
       "text": "ETOH",
-      "alias": "alcohol"
-    },
-    {
-      "text": "ETOH",
-      "alias": "<<ˈɛθənɔːl>>"
+      "alias": "<<ˈælkəˌhɔl>>"
     },
     {
       "text": "IVDU",
-      "alias": "I-V drug use"
-    },
-    {
-      "text": "IVDU",
-      "alias": "<<ˌɪntɹəˈviːnəs dɹʌɡ juːzər>>"
+      "alias": "<<ˌaɪˈvi drʌɡ ˈjuːs>>"
     },
     {
       "text": "ASA",
-      "alias": "ASPIR-in"
-    },
-    {
-      "text": "ASA",
-      "alias": "<<ˈæspərɪn>>"
+      "alias": "<<ˈæspɚɪn>>"
     },
     {
       "text": "NYD",
-      "alias": "not yet diagnosed"
-    },
-    {
-      "text": "NYD",
-      "alias": "<<nɑːt jɛt dɪˈtɜːrmɪnd>>"
+      "alias": "<<nɑt jɛt ˌdaɪəɡˈnoʊzd>>"
     },
     {
       "text": "HX",
-      "alias": "history"
-    },
-    {
-      "text": "HX",
-      "alias": "<<hɪˈstɒri>>"
+      "alias": "<<ˈhɪstɚi>>"
     },
     {
       "text": "Sx",
-      "alias": "symptoms"
-    },
-    {
-      "text": "Sx",
-      "alias": "<<ˈsɪmpəmz>>"
+      "alias": "<<ˈsɪmptəmz>>"
     },
     {
       "text": "Tx",
-      "alias": "treatment"
-    },
-    {
-      "text": "Tx",
-      "alias": "<<ˌtrɛtmənt>>"
-    },
-    {
-      "text": "Dx",
-      "alias": "diagnosis"
+      "alias": "<<ˈtriːtmənt>>"
     },
     {
       "text": "Dx",
@@ -4339,31 +2171,15 @@
     },
     {
       "text": "Rx",
-      "alias": "prescription"
-    },
-    {
-      "text": "Rx",
-      "alias": "<<ˌpɝːskrɪpʃən>>"
+      "alias": "<<prɪˈskrɪpʃən>>"
     },
     {
       "text": "FHx",
-      "alias": "family history"
-    },
-    {
-      "text": "FHx",
-      "alias": "<<ˌfæmɪli hɪˈstɒri>>"
+      "alias": "<<ˈfæməli ˈhɪstɚi>>"
     },
     {
       "text": "SHx",
-      "alias": "social history"
-    },
-    {
-      "text": "SHx",
-      "alias": "<<ˌsɝːʒəkəl hɪˈstɒri>>"
-    },
-    {
-      "text": "myocardial infarction",
-      "alias": "my-oh-KAR-dee-al in-FARK-shun"
+      "alias": "<<ˈsoʊʃəl ˈhɪstɚi>>"
     },
     {
       "text": "myocardial infarction",
@@ -4371,15 +2187,7 @@
     },
     {
       "text": "angina pectoris",
-      "alias": "an-JY-nah PEK-tor-is"
-    },
-    {
-      "text": "angina pectoris",
       "alias": "<<ænˈdʒaɪnə ˈpɛktərɪs>>"
-    },
-    {
-      "text": "arrhythmia",
-      "alias": "a-RITH-mee-ah"
     },
     {
       "text": "arrhythmia",
@@ -4387,15 +2195,7 @@
     },
     {
       "text": "atrial fibrillation",
-      "alias": "AY-tree-al fib-ri-LAY-shun"
-    },
-    {
-      "text": "atrial fibrillation",
       "alias": "<<ˈeɪtriəl ˌfɪbrɪˈleɪʃən>>"
-    },
-    {
-      "text": "ventricular fibrillation",
-      "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun"
     },
     {
       "text": "ventricular fibrillation",
@@ -4403,15 +2203,7 @@
     },
     {
       "text": "tachycardia",
-      "alias": "tak-ee-KAR-dee-ah"
-    },
-    {
-      "text": "tachycardia",
       "alias": "<<ˌtækiˈkɑːrdiə>>"
-    },
-    {
-      "text": "bradycardia",
-      "alias": "brad-ee-KAR-dee-ah"
     },
     {
       "text": "bradycardia",
@@ -4419,15 +2211,7 @@
     },
     {
       "text": "hypertension",
-      "alias": "hy-per-TEN-shun"
-    },
-    {
-      "text": "hypertension",
       "alias": "<<ˌhaɪpərˈtɛnʃən>>"
-    },
-    {
-      "text": "hypotension",
-      "alias": "hy-poh-TEN-shun"
     },
     {
       "text": "hypotension",
@@ -4435,15 +2219,7 @@
     },
     {
       "text": "atherosclerosis",
-      "alias": "ath-er-oh-skleh-ROH-sis"
-    },
-    {
-      "text": "atherosclerosis",
       "alias": "<<ˌæθəroʊskləˈroʊsɪs>>"
-    },
-    {
-      "text": "endocarditis",
-      "alias": "en-doh-kar-DY-tis"
     },
     {
       "text": "endocarditis",
@@ -4451,15 +2227,7 @@
     },
     {
       "text": "pericarditis",
-      "alias": "per-ee-kar-DY-tis"
-    },
-    {
-      "text": "pericarditis",
       "alias": "<<ˌpɛrɪkɑːrˈdaɪtɪs>>"
-    },
-    {
-      "text": "myocarditis",
-      "alias": "my-oh-kar-DY-tis"
     },
     {
       "text": "myocarditis",
@@ -4467,15 +2235,7 @@
     },
     {
       "text": "cardiomyopathy",
-      "alias": "kar-dee-oh-my-OP-ah-thee"
-    },
-    {
-      "text": "cardiomyopathy",
       "alias": "<<ˌkɑːrdioʊmaɪˈɑːpəθi>>"
-    },
-    {
-      "text": "thromboembolism",
-      "alias": "throm-boh-EM-boh-liz-um"
     },
     {
       "text": "thromboembolism",
@@ -4483,15 +2243,7 @@
     },
     {
       "text": "thrombophlebitis",
-      "alias": "throm-boh-fleh-BY-tis"
-    },
-    {
-      "text": "thrombophlebitis",
       "alias": "<<ˌθrɑːmboʊflɪˈbaɪtɪs>>"
-    },
-    {
-      "text": "phlebitis",
-      "alias": "fleh-BY-tis"
     },
     {
       "text": "phlebitis",
@@ -4499,15 +2251,7 @@
     },
     {
       "text": "embolism",
-      "alias": "EM-boh-liz-um"
-    },
-    {
-      "text": "embolism",
       "alias": "<<ˈɛmbəlɪzəm>>"
-    },
-    {
-      "text": "stenosis",
-      "alias": "steh-NOH-sis"
     },
     {
       "text": "stenosis",
@@ -4515,15 +2259,7 @@
     },
     {
       "text": "regurgitation",
-      "alias": "ree-gur-ji-TAY-shun"
-    },
-    {
-      "text": "regurgitation",
       "alias": "<<rɪˌɡɝːdʒɪˈteɪʃən>>"
-    },
-    {
-      "text": "prolapse",
-      "alias": "proh-LAPS"
     },
     {
       "text": "prolapse",
@@ -4531,15 +2267,7 @@
     },
     {
       "text": "aneurysm",
-      "alias": "AN-yoo-riz-um"
-    },
-    {
-      "text": "aneurysm",
       "alias": "<<ˈænjərɪzəm>>"
-    },
-    {
-      "text": "dissection",
-      "alias": "dy-SEK-shun"
     },
     {
       "text": "dissection",
@@ -4547,15 +2275,7 @@
     },
     {
       "text": "ischemia",
-      "alias": "is-KEE-mee-ah"
-    },
-    {
-      "text": "ischemia",
       "alias": "<<ɪˈskimiə>>"
-    },
-    {
-      "text": "infarction",
-      "alias": "in-FARK-shun"
     },
     {
       "text": "infarction",
@@ -4563,15 +2283,7 @@
     },
     {
       "text": "reperfusion",
-      "alias": "REE-per-FYOO-zhun"
-    },
-    {
-      "text": "reperfusion",
       "alias": "<<ˌriːpərˈfjuːʒən>>"
-    },
-    {
-      "text": "hypercholesterolemia",
-      "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah"
     },
     {
       "text": "hypercholesterolemia",
@@ -4579,15 +2291,7 @@
     },
     {
       "text": "hypertriglyceridemia",
-      "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah"
-    },
-    {
-      "text": "hypertriglyceridemia",
       "alias": "<<ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə>>"
-    },
-    {
-      "text": "hypoalbuminemia",
-      "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah"
     },
     {
       "text": "hypoalbuminemia",
@@ -4595,15 +2299,7 @@
     },
     {
       "text": "pneumonia",
-      "alias": "noo-MOHN-yah"
-    },
-    {
-      "text": "pneumonia",
       "alias": "<<nuːˈmoʊnjə>>"
-    },
-    {
-      "text": "bronchitis",
-      "alias": "brong-KY-tis"
     },
     {
       "text": "bronchitis",
@@ -4611,15 +2307,7 @@
     },
     {
       "text": "bronchiectasis",
-      "alias": "brong-kee-EK-tah-sis"
-    },
-    {
-      "text": "bronchiectasis",
       "alias": "<<ˌbrɑːŋkiˈɛktəsɪs>>"
-    },
-    {
-      "text": "emphysema",
-      "alias": "em-fih-SEE-mah"
     },
     {
       "text": "emphysema",
@@ -4627,15 +2315,7 @@
     },
     {
       "text": "pneumothorax",
-      "alias": "noo-moh-THOR-aks"
-    },
-    {
-      "text": "pneumothorax",
       "alias": "<<ˌnuːmoʊˈθɔːræks>>"
-    },
-    {
-      "text": "hemothorax",
-      "alias": "hee-moh-THOR-aks"
     },
     {
       "text": "hemothorax",
@@ -4643,15 +2323,7 @@
     },
     {
       "text": "pleural effusion",
-      "alias": "PLOO-ral eh-FYOO-zhun"
-    },
-    {
-      "text": "pleural effusion",
       "alias": "<<ˈplʊrəl ɪˈfjuːʒən>>"
-    },
-    {
-      "text": "pleurisy",
-      "alias": "PLOO-rih-see"
     },
     {
       "text": "pleurisy",
@@ -4659,15 +2331,7 @@
     },
     {
       "text": "atelectasis",
-      "alias": "at-ih-LEK-tah-sis"
-    },
-    {
-      "text": "atelectasis",
       "alias": "<<ˌætəˈlɛktəsɪs>>"
-    },
-    {
-      "text": "pulmonary embolism",
-      "alias": "PUL-moh-nair-ee EM-bol-izm"
     },
     {
       "text": "pulmonary embolism",
@@ -4675,15 +2339,7 @@
     },
     {
       "text": "pulmonary edema",
-      "alias": "PUL-moh-nair-ee eh-DEE-mah"
-    },
-    {
-      "text": "pulmonary edema",
       "alias": "<<ˈpʊlməˌnɛri ɪˈdiːmə>>"
-    },
-    {
-      "text": "pulmonary fibrosis",
-      "alias": "PUL-moh-nair-ee fy-BROH-sis"
     },
     {
       "text": "pulmonary fibrosis",
@@ -4691,15 +2347,7 @@
     },
     {
       "text": "sarcoidosis",
-      "alias": "SAR-koy-DOH-sis"
-    },
-    {
-      "text": "sarcoidosis",
       "alias": "<<ˌsɑːrkɔɪˈdoʊsɪs>>"
-    },
-    {
-      "text": "tuberculosis",
-      "alias": "too-BER-kyoo-LOH-sis"
     },
     {
       "text": "tuberculosis",
@@ -4707,15 +2355,7 @@
     },
     {
       "text": "hypoxia",
-      "alias": "hy-POK-see-ah"
-    },
-    {
-      "text": "hypoxia",
       "alias": "<<haɪˈpɑːksiə>>"
-    },
-    {
-      "text": "hypercapnia",
-      "alias": "hy-per-KAP-nee-ah"
     },
     {
       "text": "hypercapnia",
@@ -4723,15 +2363,7 @@
     },
     {
       "text": "respiratory failure",
-      "alias": "RES-pih-rah-tor-ee FAYL-yer"
-    },
-    {
-      "text": "respiratory failure",
       "alias": "<<ˈrɛspərəˌtɔːri ˈfeɪljər>>"
-    },
-    {
-      "text": "apnea",
-      "alias": "AP-nee-ah"
     },
     {
       "text": "apnea",
@@ -4739,15 +2371,7 @@
     },
     {
       "text": "dyspnea",
-      "alias": "DISP-nee-ah"
-    },
-    {
-      "text": "dyspnea",
-      "alias": "<<dɪspˈniːə>>"
-    },
-    {
-      "text": "hemoptysis",
-      "alias": "hee-MOP-tih-sis"
+      "alias": "<<ˈdɪspniə>>"
     },
     {
       "text": "hemoptysis",
@@ -4755,15 +2379,7 @@
     },
     {
       "text": "stridor",
-      "alias": "STRY-dor"
-    },
-    {
-      "text": "stridor",
       "alias": "<<ˈstraɪdɔːr>>"
-    },
-    {
-      "text": "wheezing",
-      "alias": "WEE-zing"
     },
     {
       "text": "wheezing",
@@ -4771,15 +2387,7 @@
     },
     {
       "text": "coryza",
-      "alias": "koh-RY-zah"
-    },
-    {
-      "text": "coryza",
       "alias": "<<kəˈraɪzə>>"
-    },
-    {
-      "text": "gastroesophageal reflux",
-      "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks"
     },
     {
       "text": "gastroesophageal reflux",
@@ -4787,15 +2395,7 @@
     },
     {
       "text": "esophagitis",
-      "alias": "ee-sof-ah-JY-tis"
-    },
-    {
-      "text": "esophagitis",
       "alias": "<<ɪˌsɑːfəˈdʒaɪtɪs>>"
-    },
-    {
-      "text": "gastritis",
-      "alias": "gas-TRY-tis"
     },
     {
       "text": "gastritis",
@@ -4803,15 +2403,7 @@
     },
     {
       "text": "peptic ulcer",
-      "alias": "PEP-tik UL-ser"
-    },
-    {
-      "text": "peptic ulcer",
       "alias": "<<ˈpɛptɪk ˈʌlsɚ>>"
-    },
-    {
-      "text": "gastroenteritis",
-      "alias": "gas-tro-en-ter-EYE-tis"
     },
     {
       "text": "gastroenteritis",
@@ -4819,15 +2411,7 @@
     },
     {
       "text": "colitis",
-      "alias": "ko-LYE-tis"
-    },
-    {
-      "text": "colitis",
       "alias": "<<kəˈlaɪtɪs>>"
-    },
-    {
-      "text": "ulcerative colitis",
-      "alias": "UL-ser-a-tiv ko-LYE-tis"
     },
     {
       "text": "ulcerative colitis",
@@ -4835,15 +2419,7 @@
     },
     {
       "text": "Crohn's disease",
-      "alias": "KROHNZ dih-ZEEZ"
-    },
-    {
-      "text": "Crohn's disease",
       "alias": "<<kroʊnz dɪˈziz>>"
-    },
-    {
-      "text": "diverticulitis",
-      "alias": "dye-ver-tik-yoo-LYE-tis"
     },
     {
       "text": "diverticulitis",
@@ -4851,15 +2427,7 @@
     },
     {
       "text": "appendicitis",
-      "alias": "a-pen-dih-SYE-tis"
-    },
-    {
-      "text": "appendicitis",
       "alias": "<<əˌpɛndɪˈsaɪtɪs>>"
-    },
-    {
-      "text": "cholecystitis",
-      "alias": "ko-luh-sis-TYE-tis"
     },
     {
       "text": "cholecystitis",
@@ -4867,15 +2435,7 @@
     },
     {
       "text": "pancreatitis",
-      "alias": "pan-kree-a-TYE-tis"
-    },
-    {
-      "text": "pancreatitis",
       "alias": "<<ˌpæŋkriəˈtaɪtɪs>>"
-    },
-    {
-      "text": "hepatitis",
-      "alias": "hep-a-TYE-tis"
     },
     {
       "text": "hepatitis",
@@ -4883,15 +2443,7 @@
     },
     {
       "text": "cirrhosis",
-      "alias": "sir-OH-sis"
-    },
-    {
-      "text": "cirrhosis",
       "alias": "<<sɪˈroʊsɪs>>"
-    },
-    {
-      "text": "cholestasis",
-      "alias": "ko-luh-STAY-sis"
     },
     {
       "text": "cholestasis",
@@ -4899,15 +2451,7 @@
     },
     {
       "text": "steatosis",
-      "alias": "stee-a-TOH-sis"
-    },
-    {
-      "text": "steatosis",
       "alias": "<<ˌstiəˈtoʊsɪs>>"
-    },
-    {
-      "text": "steatohepatitis",
-      "alias": "stee-a-toh-hep-a-TYE-tis"
     },
     {
       "text": "steatohepatitis",
@@ -4915,15 +2459,7 @@
     },
     {
       "text": "peritonitis",
-      "alias": "pair-ih-toh-NYE-tis"
-    },
-    {
-      "text": "peritonitis",
       "alias": "<<ˌpɛrɪtəˈnaɪtɪs>>"
-    },
-    {
-      "text": "ileus",
-      "alias": "IL-ee-us"
     },
     {
       "text": "ileus",
@@ -4931,15 +2467,7 @@
     },
     {
       "text": "intussusception",
-      "alias": "in-tuh-suh-SEP-shun"
-    },
-    {
-      "text": "intussusception",
       "alias": "<<ˌɪntəsəˈsɛpʃən>>"
-    },
-    {
-      "text": "volvulus",
-      "alias": "VOL-vyoo-lus"
     },
     {
       "text": "volvulus",
@@ -4947,15 +2475,7 @@
     },
     {
       "text": "hematemesis",
-      "alias": "hee-ma-TEM-eh-sis"
-    },
-    {
-      "text": "hematemesis",
       "alias": "<<ˌhɛməˈtɛməsɪs>>"
-    },
-    {
-      "text": "melena",
-      "alias": "muh-LEE-na"
     },
     {
       "text": "melena",
@@ -4963,15 +2483,7 @@
     },
     {
       "text": "hematochezia",
-      "alias": "hee-ma-toh-KEE-zee-a"
-    },
-    {
-      "text": "hematochezia",
       "alias": "<<ˌhɛmətoʊˈkiʒə>>"
-    },
-    {
-      "text": "choledocholithiasis",
-      "alias": "ko-led-oh-ko-lih-THIGH-a-sis"
     },
     {
       "text": "choledocholithiasis",
@@ -4979,15 +2491,7 @@
     },
     {
       "text": "cholelithiasis",
-      "alias": "ko-luh-lih-THIGH-a-sis"
-    },
-    {
-      "text": "cholelithiasis",
       "alias": "<<ˌkoʊləlɪˈθaɪəsɪs>>"
-    },
-    {
-      "text": "nephrolithiasis",
-      "alias": "nef-ro-lih-THIGH-a-sis"
     },
     {
       "text": "nephrolithiasis",
@@ -4995,15 +2499,7 @@
     },
     {
       "text": "sialadenitis",
-      "alias": "sigh-al-a-deh-NYE-tis"
-    },
-    {
-      "text": "sialadenitis",
       "alias": "<<ˌsaɪəlædəˈnaɪtɪs>>"
-    },
-    {
-      "text": "nephritis",
-      "alias": "neh-FRY-tis"
     },
     {
       "text": "nephritis",
@@ -5011,15 +2507,7 @@
     },
     {
       "text": "nephrosis",
-      "alias": "neh-FROH-sis"
-    },
-    {
-      "text": "nephrosis",
       "alias": "<<nəˈfroʊsɪs>>"
-    },
-    {
-      "text": "glomerulonephritis",
-      "alias": "gloh-mer-yoo-loh-neh-FRY-tis"
     },
     {
       "text": "glomerulonephritis",
@@ -5027,15 +2515,7 @@
     },
     {
       "text": "pyelonephritis",
-      "alias": "pye-eh-loh-neh-FRY-tis"
-    },
-    {
-      "text": "pyelonephritis",
       "alias": "<<ˌpaɪəloʊnəˈfraɪtɪs>>"
-    },
-    {
-      "text": "cystitis",
-      "alias": "sis-TYE-tis"
     },
     {
       "text": "cystitis",
@@ -5043,15 +2523,7 @@
     },
     {
       "text": "urethritis",
-      "alias": "yoo-reh-THRY-tis"
-    },
-    {
-      "text": "urethritis",
       "alias": "<<ˌjʊrɪˈθraɪtɪs>>"
-    },
-    {
-      "text": "ureterolithiasis",
-      "alias": "yoo-REH-ter-oh-lih-THY-ah-sis"
     },
     {
       "text": "ureterolithiasis",
@@ -5059,15 +2531,7 @@
     },
     {
       "text": "hydronephrosis",
-      "alias": "HY-droh-neh-FROH-sis"
-    },
-    {
-      "text": "hydronephrosis",
       "alias": "<<ˌhaɪdrənɛˈfroʊsɪs>>"
-    },
-    {
-      "text": "oliguria",
-      "alias": "oh-lih-GYOO-ree-ah"
     },
     {
       "text": "oliguria",
@@ -5075,15 +2539,7 @@
     },
     {
       "text": "anuria",
-      "alias": "an-YOO-ree-ah"
-    },
-    {
-      "text": "anuria",
       "alias": "<<əˈnjʊriə>>"
-    },
-    {
-      "text": "hematuria",
-      "alias": "HEE-mah-TOO-ree-ah"
     },
     {
       "text": "hematuria",
@@ -5091,15 +2547,7 @@
     },
     {
       "text": "proteinuria",
-      "alias": "PROH-tee-NYOO-ree-ah"
-    },
-    {
-      "text": "proteinuria",
       "alias": "<<ˌproʊtiˈnʊriə>>"
-    },
-    {
-      "text": "dysuria",
-      "alias": "dis-YOO-ree-ah"
     },
     {
       "text": "dysuria",
@@ -5107,15 +2555,7 @@
     },
     {
       "text": "incontinence",
-      "alias": "in-KON-tih-nens"
-    },
-    {
-      "text": "incontinence",
       "alias": "<<ɪnˈkɑntɪnəns>>"
-    },
-    {
-      "text": "retention",
-      "alias": "ree-TEN-shun"
     },
     {
       "text": "retention",
@@ -5123,15 +2563,7 @@
     },
     {
       "text": "azoospermia",
-      "alias": "AY-zoh-oh-SPER-mee-ah"
-    },
-    {
-      "text": "azoospermia",
       "alias": "<<eɪˌzoʊəˈspɜrmiə>>"
-    },
-    {
-      "text": "oligospermia",
-      "alias": "OH-lih-goh-SPER-mee-ah"
     },
     {
       "text": "oligospermia",
@@ -5139,15 +2571,7 @@
     },
     {
       "text": "encephalopathy",
-      "alias": "en-SEH-fah-LOP-ah-thee"
-    },
-    {
-      "text": "encephalopathy",
       "alias": "<<ɛnˌsɛfəˈlɑpəθi>>"
-    },
-    {
-      "text": "encephalitis",
-      "alias": "en-SEH-fah-LY-tis"
     },
     {
       "text": "encephalitis",
@@ -5155,15 +2579,7 @@
     },
     {
       "text": "meningitis",
-      "alias": "MEH-nin-JY-tis"
-    },
-    {
-      "text": "meningitis",
       "alias": "<<ˌmɛnɪnˈdʒaɪtɪs>>"
-    },
-    {
-      "text": "myelitis",
-      "alias": "MY-eh-LY-tis"
     },
     {
       "text": "myelitis",
@@ -5171,15 +2587,7 @@
     },
     {
       "text": "neuropathy",
-      "alias": "nyoo-ROP-ah-thee"
-    },
-    {
-      "text": "neuropathy",
       "alias": "<<nʊˈrɑpəθi>>"
-    },
-    {
-      "text": "radiculopathy",
-      "alias": "rah-DIK-yoo-LOP-ah-thee"
     },
     {
       "text": "radiculopathy",
@@ -5187,15 +2595,7 @@
     },
     {
       "text": "myelopathy",
-      "alias": "MY-eh-LOP-ah-thee"
-    },
-    {
-      "text": "myelopathy",
       "alias": "<<ˌmaɪəˈlɑpəθi>>"
-    },
-    {
-      "text": "ataxia",
-      "alias": "ah-TAK-see-ah"
     },
     {
       "text": "ataxia",
@@ -5203,15 +2603,7 @@
     },
     {
       "text": "dysarthria",
-      "alias": "dis-AR-three-ah"
-    },
-    {
-      "text": "dysarthria",
       "alias": "<<dɪsˈɑrθriə>>"
-    },
-    {
-      "text": "aphasia",
-      "alias": "ah-FAY-zhah"
     },
     {
       "text": "aphasia",
@@ -5219,15 +2611,7 @@
     },
     {
       "text": "apraxia",
-      "alias": "ah-PRAK-see-ah"
-    },
-    {
-      "text": "apraxia",
       "alias": "<<əˈpræksiə>>"
-    },
-    {
-      "text": "agnosia",
-      "alias": "ag-NOH-zhah"
     },
     {
       "text": "agnosia",
@@ -5235,15 +2619,7 @@
     },
     {
       "text": "anomia",
-      "alias": "ah-NOH-mee-ah"
-    },
-    {
-      "text": "anomia",
       "alias": "<<əˈnoʊmiə>>"
-    },
-    {
-      "text": "dysphagia",
-      "alias": "dis-FAY-jah"
     },
     {
       "text": "dysphagia",
@@ -5251,15 +2627,7 @@
     },
     {
       "text": "dysphonia",
-      "alias": "dis-FOH-nee-ah"
-    },
-    {
-      "text": "dysphonia",
       "alias": "<<dɪsˈfoʊniə>>"
-    },
-    {
-      "text": "dyskinesia",
-      "alias": "dis-kih-NEE-zhah"
     },
     {
       "text": "dyskinesia",
@@ -5267,15 +2635,7 @@
     },
     {
       "text": "myoclonus",
-      "alias": "my-OK-loh-nus"
-    },
-    {
-      "text": "myoclonus",
       "alias": "<<maɪˈɑklənəs>>"
-    },
-    {
-      "text": "chorea",
-      "alias": "koh-REE-ah"
     },
     {
       "text": "chorea",
@@ -5283,15 +2643,7 @@
     },
     {
       "text": "athetosis",
-      "alias": "ATH-eh-TOE-sis"
-    },
-    {
-      "text": "athetosis",
       "alias": "<<ˌæθəˈtoʊsɪs>>"
-    },
-    {
-      "text": "dystonia",
-      "alias": "dis-TOE-nee-ah"
     },
     {
       "text": "dystonia",
@@ -5299,15 +2651,7 @@
     },
     {
       "text": "tremor",
-      "alias": "TREM-or"
-    },
-    {
-      "text": "tremor",
       "alias": "<<ˈtrɛmər>>"
-    },
-    {
-      "text": "fasciculation",
-      "alias": "fa-SIK-yoo-LAY-shun"
     },
     {
       "text": "fasciculation",
@@ -5315,15 +2659,7 @@
     },
     {
       "text": "clonus",
-      "alias": "KLOH-nus"
-    },
-    {
-      "text": "clonus",
       "alias": "<<ˈkloʊnəs>>"
-    },
-    {
-      "text": "nystagmus",
-      "alias": "nis-TAG-mus"
     },
     {
       "text": "nystagmus",
@@ -5331,15 +2667,7 @@
     },
     {
       "text": "ptosis",
-      "alias": "TOE-sis"
-    },
-    {
-      "text": "ptosis",
       "alias": "<<ˈtoʊsɪs>>"
-    },
-    {
-      "text": "miosis",
-      "alias": "my-OH-sis"
     },
     {
       "text": "miosis",
@@ -5347,15 +2675,7 @@
     },
     {
       "text": "mydriasis",
-      "alias": "mi-DRY-ah-sis"
-    },
-    {
-      "text": "mydriasis",
       "alias": "<<mɪˈdraɪəsɪs>>"
-    },
-    {
-      "text": "anisocoria",
-      "alias": "an-EYE-so-KOR-ee-ah"
     },
     {
       "text": "anisocoria",
@@ -5363,15 +2683,7 @@
     },
     {
       "text": "hyperreflexia",
-      "alias": "HY-per-re-FLEK-see-ah"
-    },
-    {
-      "text": "hyperreflexia",
       "alias": "<<ˌhaɪpərrɪˈflɛksiə>>"
-    },
-    {
-      "text": "hyporeflexia",
-      "alias": "HY-po-re-FLEK-see-ah"
     },
     {
       "text": "hyporeflexia",
@@ -5379,15 +2691,7 @@
     },
     {
       "text": "Babinski",
-      "alias": "ba-BIN-skee"
-    },
-    {
-      "text": "Babinski",
       "alias": "<<bəˈbɪnski>>"
-    },
-    {
-      "text": "paresthesia",
-      "alias": "par-es-THEE-zhah"
     },
     {
       "text": "paresthesia",
@@ -5395,15 +2699,7 @@
     },
     {
       "text": "anesthesia",
-      "alias": "an-es-THEE-zhah"
-    },
-    {
-      "text": "anesthesia",
       "alias": "<<ˌænəsˈθiʒə>>"
-    },
-    {
-      "text": "hyperesthesia",
-      "alias": "HY-per-es-THEE-zhah"
     },
     {
       "text": "hyperesthesia",
@@ -5411,15 +2707,7 @@
     },
     {
       "text": "dysesthesia",
-      "alias": "dis-es-THEE-zhah"
-    },
-    {
-      "text": "dysesthesia",
       "alias": "<<ˌdɪsəsˈθiʒə>>"
-    },
-    {
-      "text": "neuralgia",
-      "alias": "nyoo-RAL-jah"
     },
     {
       "text": "neuralgia",
@@ -5427,15 +2715,7 @@
     },
     {
       "text": "neuritis",
-      "alias": "nyoo-RY-tis"
-    },
-    {
-      "text": "neuritis",
       "alias": "<<nʊˈraɪtɪs>>"
-    },
-    {
-      "text": "sciatica",
-      "alias": "sy-AT-ik-ah"
     },
     {
       "text": "sciatica",
@@ -5443,15 +2723,7 @@
     },
     {
       "text": "trigeminal",
-      "alias": "try-JEM-in-al"
-    },
-    {
-      "text": "trigeminal",
       "alias": "<<traɪˈdʒɛmɪnəl>>"
-    },
-    {
-      "text": "prosopagnosia",
-      "alias": "PROS-oh-pag-NOH-zhah"
     },
     {
       "text": "prosopagnosia",
@@ -5459,15 +2731,7 @@
     },
     {
       "text": "hyperthyroidism",
-      "alias": "HY-per-THY-roy-dizm"
-    },
-    {
-      "text": "hyperthyroidism",
       "alias": "<<ˌhaɪpərˈθaɪrɔɪdɪzəm>>"
-    },
-    {
-      "text": "hypothyroidism",
-      "alias": "HY-po-THY-roy-dizm"
     },
     {
       "text": "hypothyroidism",
@@ -5475,15 +2739,7 @@
     },
     {
       "text": "thyrotoxicosis",
-      "alias": "THY-ro-TOK-sih-KOH-sis"
-    },
-    {
-      "text": "thyrotoxicosis",
       "alias": "<<ˌθaɪroʊˌtɑksɪˈkoʊsɪs>>"
-    },
-    {
-      "text": "myxedema",
-      "alias": "mik-seh-DEE-mah"
     },
     {
       "text": "myxedema",
@@ -5491,15 +2747,7 @@
     },
     {
       "text": "hyperparathyroidism",
-      "alias": "HY-per-PAR-ah-THY-roy-dizm"
-    },
-    {
-      "text": "hyperparathyroidism",
       "alias": "<<ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm>>"
-    },
-    {
-      "text": "hypoparathyroidism",
-      "alias": "HY-po-PAR-ah-THY-roy-dizm"
     },
     {
       "text": "hypoparathyroidism",
@@ -5507,15 +2755,7 @@
     },
     {
       "text": "hypercalcemia",
-      "alias": "HY-per-kal-SEE-mee-ah"
-    },
-    {
-      "text": "hypercalcemia",
       "alias": "<<ˌhaɪpərkælˈsiːmiə>>"
-    },
-    {
-      "text": "hypocalcemia",
-      "alias": "HY-po-kal-SEE-mee-ah"
     },
     {
       "text": "hypocalcemia",
@@ -5523,15 +2763,7 @@
     },
     {
       "text": "hyperkalemia",
-      "alias": "hy-per-kah-LEE-mee-ah"
-    },
-    {
-      "text": "hyperkalemia",
       "alias": "<<ˌhaɪpərkəˈliːmiə>>"
-    },
-    {
-      "text": "hypokalemia",
-      "alias": "hy-poh-kah-LEE-mee-ah"
     },
     {
       "text": "hypokalemia",
@@ -5539,15 +2771,7 @@
     },
     {
       "text": "hypernatremia",
-      "alias": "hy-per-nah-TREE-mee-ah"
-    },
-    {
-      "text": "hypernatremia",
       "alias": "<<ˌhaɪpərnəˈtriːmiə>>"
-    },
-    {
-      "text": "hyponatremia",
-      "alias": "hy-poh-nah-TREE-mee-ah"
     },
     {
       "text": "hyponatremia",
@@ -5555,15 +2779,7 @@
     },
     {
       "text": "hypomagnesemia",
-      "alias": "hy-poh-mag-neh-SEE-mee-ah"
-    },
-    {
-      "text": "hypomagnesemia",
       "alias": "<<ˌhaɪpoʊmæɡnəˈsiːmiə>>"
-    },
-    {
-      "text": "hypermagnesemia",
-      "alias": "hy-per-mag-neh-SEE-mee-ah"
     },
     {
       "text": "hypermagnesemia",
@@ -5571,15 +2787,7 @@
     },
     {
       "text": "hypophosphatemia",
-      "alias": "hy-poh-fos-fah-TEE-mee-ah"
-    },
-    {
-      "text": "hypophosphatemia",
       "alias": "<<ˌhaɪpoʊfɑːsfəˈtiːmiə>>"
-    },
-    {
-      "text": "hyperphosphatemia",
-      "alias": "hy-per-fos-fah-TEE-mee-ah"
     },
     {
       "text": "hyperphosphatemia",
@@ -5587,15 +2795,7 @@
     },
     {
       "text": "acidosis",
-      "alias": "ah-sih-DOH-sis"
-    },
-    {
-      "text": "acidosis",
       "alias": "<<ˌæsɪˈdoʊsɪs>>"
-    },
-    {
-      "text": "alkalosis",
-      "alias": "al-kah-LOH-sis"
     },
     {
       "text": "alkalosis",
@@ -5603,15 +2803,7 @@
     },
     {
       "text": "ketoacidosis",
-      "alias": "kee-toh-ah-sih-DOH-sis"
-    },
-    {
-      "text": "ketoacidosis",
       "alias": "<<ˌkiːtoʊˌæsɪˈdoʊsɪs>>"
-    },
-    {
-      "text": "hypoglycemia",
-      "alias": "hy-poh-gly-SEE-mee-ah"
     },
     {
       "text": "hypoglycemia",
@@ -5619,15 +2811,7 @@
     },
     {
       "text": "hyperglycemia",
-      "alias": "hy-per-gly-SEE-mee-ah"
-    },
-    {
-      "text": "hyperglycemia",
       "alias": "<<ˌhaɪpərɡlaɪˈsiːmiə>>"
-    },
-    {
-      "text": "insulinoma",
-      "alias": "in-suh-lih-NOH-mah"
     },
     {
       "text": "insulinoma",
@@ -5635,15 +2819,7 @@
     },
     {
       "text": "pheochromocytoma",
-      "alias": "fee-oh-kroh-moh-sy-TOH-mah"
-    },
-    {
-      "text": "pheochromocytoma",
       "alias": "<<ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə>>"
-    },
-    {
-      "text": "anemia",
-      "alias": "ah-NEE-mee-ah"
     },
     {
       "text": "anemia",
@@ -5651,15 +2827,7 @@
     },
     {
       "text": "polycythemia",
-      "alias": "pol-ee-sy-THEE-mee-ah"
-    },
-    {
-      "text": "polycythemia",
       "alias": "<<ˌpɑːlɪsaɪˈθiːmiə>>"
-    },
-    {
-      "text": "thrombocytopenia",
-      "alias": "throm-boh-sy-toh-PEE-nee-ah"
     },
     {
       "text": "thrombocytopenia",
@@ -5667,15 +2835,7 @@
     },
     {
       "text": "thrombocytosis",
-      "alias": "throm-boh-sy-TOH-sis"
-    },
-    {
-      "text": "thrombocytosis",
       "alias": "<<ˌθrɑːmboʊsaɪˈtoʊsɪs>>"
-    },
-    {
-      "text": "leukopenia",
-      "alias": "loo-koh-PEE-nee-ah"
     },
     {
       "text": "leukopenia",
@@ -5683,15 +2843,7 @@
     },
     {
       "text": "leukocytosis",
-      "alias": "loo-koh-sy-TOH-sis"
-    },
-    {
-      "text": "leukocytosis",
       "alias": "<<ˌluːkəsaɪˈtoʊsɪs>>"
-    },
-    {
-      "text": "neutropenia",
-      "alias": "noo-troh-PEE-nee-ah"
     },
     {
       "text": "neutropenia",
@@ -5699,15 +2851,7 @@
     },
     {
       "text": "neutrophilia",
-      "alias": "noo-troh-FIL-ee-ah"
-    },
-    {
-      "text": "neutrophilia",
       "alias": "<<ˌnuːtrəˈfɪliə>>"
-    },
-    {
-      "text": "lymphopenia",
-      "alias": "lim-foh-PEE-nee-ah"
     },
     {
       "text": "lymphopenia",
@@ -5715,15 +2859,7 @@
     },
     {
       "text": "lymphocytosis",
-      "alias": "lim-foh-sy-TOH-sis"
-    },
-    {
-      "text": "lymphocytosis",
       "alias": "<<ˌlɪmfəsaɪˈtoʊsɪs>>"
-    },
-    {
-      "text": "monocytosis",
-      "alias": "mon-oh-sy-TOH-sis"
     },
     {
       "text": "monocytosis",
@@ -5731,15 +2867,7 @@
     },
     {
       "text": "eosinophilia",
-      "alias": "ee-oh-sin-oh-FIL-ee-ah"
-    },
-    {
-      "text": "eosinophilia",
       "alias": "<<ˌiːəˌsɪnəˈfɪliə>>"
-    },
-    {
-      "text": "basophilia",
-      "alias": "bay-soh-FIL-ee-ah"
     },
     {
       "text": "basophilia",
@@ -5747,15 +2875,7 @@
     },
     {
       "text": "pancytopenia",
-      "alias": "pan-sy-toh-PEE-nee-ah"
-    },
-    {
-      "text": "pancytopenia",
       "alias": "<<ˌpænsaɪtəˈpiːniə>>"
-    },
-    {
-      "text": "hemophilia",
-      "alias": "hee-moh-FIL-ee-ah"
     },
     {
       "text": "hemophilia",
@@ -5763,15 +2883,7 @@
     },
     {
       "text": "thrombophilia",
-      "alias": "throm-bo-FIL-ee-ah"
-    },
-    {
-      "text": "thrombophilia",
       "alias": "<<ˌθrɒmboʊˈfɪliə>>"
-    },
-    {
-      "text": "purpura",
-      "alias": "PUR-pur-ah"
     },
     {
       "text": "purpura",
@@ -5779,15 +2891,7 @@
     },
     {
       "text": "petechiae",
-      "alias": "pe-TEE-kee-eye"
-    },
-    {
-      "text": "petechiae",
       "alias": "<<pɪˈtɛkiaɪ>>"
-    },
-    {
-      "text": "ecchymosis",
-      "alias": "ek-ih-MOH-sis"
     },
     {
       "text": "ecchymosis",
@@ -5795,15 +2899,7 @@
     },
     {
       "text": "hematoma",
-      "alias": "hee-mah-TOH-mah"
-    },
-    {
-      "text": "hematoma",
       "alias": "<<ˌhɛməˈtoʊmə>>"
-    },
-    {
-      "text": "hemolysis",
-      "alias": "hee-MOL-ih-sis"
     },
     {
       "text": "hemolysis",
@@ -5811,15 +2907,7 @@
     },
     {
       "text": "cellulitis",
-      "alias": "sel-yoo-LY-tis"
-    },
-    {
-      "text": "cellulitis",
       "alias": "<<ˌsɛljuˈlaɪtɪs>>"
-    },
-    {
-      "text": "abscess",
-      "alias": "AB-ses"
     },
     {
       "text": "abscess",
@@ -5827,15 +2915,7 @@
     },
     {
       "text": "furuncle",
-      "alias": "FYOOR-ung-kul"
-    },
-    {
-      "text": "furuncle",
       "alias": "<<ˈfjʊrʌŋkəl>>"
-    },
-    {
-      "text": "carbuncle",
-      "alias": "KAR-bung-kul"
     },
     {
       "text": "carbuncle",
@@ -5843,15 +2923,7 @@
     },
     {
       "text": "impetigo",
-      "alias": "im-peh-TY-goh"
-    },
-    {
-      "text": "impetigo",
-      "alias": "<<ˌɪmpɪˈtaɪgoʊ>>"
-    },
-    {
-      "text": "erysipelas",
-      "alias": "er-ih-SIP-eh-las"
+      "alias": "<<ˌɪmpɪˈtaɪɡoʊ>>"
     },
     {
       "text": "erysipelas",
@@ -5859,15 +2931,7 @@
     },
     {
       "text": "necrotizing fasciitis",
-      "alias": "NEK-roh-ty-zing fash-ee-EYE-tis"
-    },
-    {
-      "text": "necrotizing fasciitis",
       "alias": "<<ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs>>"
-    },
-    {
-      "text": "osteomyelitis",
-      "alias": "os-tee-oh-my-eh-LY-tis"
     },
     {
       "text": "osteomyelitis",
@@ -5875,15 +2939,7 @@
     },
     {
       "text": "septic arthritis",
-      "alias": "SEP-tik ar-THRY-tis"
-    },
-    {
-      "text": "septic arthritis",
       "alias": "<<ˈsɛptɪk ɑːrˈθraɪtɪs>>"
-    },
-    {
-      "text": "sepsis",
-      "alias": "SEP-sis"
     },
     {
       "text": "sepsis",
@@ -5891,15 +2947,7 @@
     },
     {
       "text": "septicemia",
-      "alias": "sep-tih-SEE-mee-ah"
-    },
-    {
-      "text": "septicemia",
       "alias": "<<ˌsɛptɪˈsiːmiə>>"
-    },
-    {
-      "text": "bacteremia",
-      "alias": "bak-ter-EE-mee-ah"
     },
     {
       "text": "bacteremia",
@@ -5907,15 +2955,7 @@
     },
     {
       "text": "viremia",
-      "alias": "vy-REE-mee-ah"
-    },
-    {
-      "text": "viremia",
       "alias": "<<vaɪˈriːmiə>>"
-    },
-    {
-      "text": "fungemia",
-      "alias": "fun-JEE-mee-ah"
     },
     {
       "text": "fungemia",
@@ -5923,15 +2963,7 @@
     },
     {
       "text": "parasitemia",
-      "alias": "par-ah-sih-TEE-mee-ah"
-    },
-    {
-      "text": "parasitemia",
       "alias": "<<ˌpærəsaɪˈtiːmiə>>"
-    },
-    {
-      "text": "endotoxemia",
-      "alias": "en-doh-tok-SEE-mee-ah"
     },
     {
       "text": "endotoxemia",
@@ -5939,15 +2971,7 @@
     },
     {
       "text": "erythema",
-      "alias": "er-ih-THEE-mah"
-    },
-    {
-      "text": "erythema",
       "alias": "<<ˌɛrɪˈθiːmə>>"
-    },
-    {
-      "text": "urticaria",
-      "alias": "ur-tih-KAR-ee-ah"
     },
     {
       "text": "urticaria",
@@ -5955,15 +2979,7 @@
     },
     {
       "text": "pruritus",
-      "alias": "proo-RY-tus"
-    },
-    {
-      "text": "pruritus",
       "alias": "<<prʊˈraɪtəs>>"
-    },
-    {
-      "text": "eczema",
-      "alias": "EK-zeh-mah"
     },
     {
       "text": "eczema",
@@ -5971,15 +2987,7 @@
     },
     {
       "text": "psoriasis",
-      "alias": "soh-RY-ah-sis"
-    },
-    {
-      "text": "psoriasis",
       "alias": "<<səˈraɪəsɪs>>"
-    },
-    {
-      "text": "lichenification",
-      "alias": "ly-ken-ih-fih-KAY-shun"
     },
     {
       "text": "lichenification",
@@ -5987,15 +2995,7 @@
     },
     {
       "text": "excoriation",
-      "alias": "eks-kor-ee-AY-shun"
-    },
-    {
-      "text": "excoriation",
       "alias": "<<ɪkˌskɔːriˈeɪʃən>>"
-    },
-    {
-      "text": "vesicle",
-      "alias": "VES-ih-kul"
     },
     {
       "text": "vesicle",
@@ -6003,15 +3003,7 @@
     },
     {
       "text": "bulla",
-      "alias": "BULL-ah"
-    },
-    {
-      "text": "bulla",
       "alias": "<<ˈbʊlə>>"
-    },
-    {
-      "text": "pustule",
-      "alias": "PUS-chool"
     },
     {
       "text": "pustule",
@@ -6019,15 +3011,7 @@
     },
     {
       "text": "macule",
-      "alias": "MAK-yool"
-    },
-    {
-      "text": "macule",
       "alias": "<<ˈmækjuːl>>"
-    },
-    {
-      "text": "papule",
-      "alias": "PAP-yool"
     },
     {
       "text": "papule",
@@ -6035,39 +3019,19 @@
     },
     {
       "text": "nodule",
-      "alias": "NOD-yool"
-    },
-    {
-      "text": "nodule",
       "alias": "<<ˈnɑːdjuːl>>"
     },
     {
       "text": "plaque",
-      "alias": "PLAK"
-    },
-    {
-      "text": "plaque",
-      "alias": "<<plæk>>"
+      "alias": "<<plˈæk>>"
     },
     {
       "text": "scale",
-      "alias": "SKAYL"
-    },
-    {
-      "text": "scale",
-      "alias": "<<skeɪl>>"
+      "alias": "<<skˈeɪl>>"
     },
     {
       "text": "crust",
-      "alias": "KRUST"
-    },
-    {
-      "text": "crust",
-      "alias": "<<krʌst>>"
-    },
-    {
-      "text": "erosion",
-      "alias": "ee-ROH-zhun"
+      "alias": "<<krˈʌst>>"
     },
     {
       "text": "erosion",
@@ -6075,15 +3039,7 @@
     },
     {
       "text": "ulcer",
-      "alias": "UL-ser"
-    },
-    {
-      "text": "ulcer",
       "alias": "<<ˈʌlsər>>"
-    },
-    {
-      "text": "fissure",
-      "alias": "FISH-ur"
     },
     {
       "text": "fissure",
@@ -6091,15 +3047,7 @@
     },
     {
       "text": "atrophy",
-      "alias": "AT-roh-fee"
-    },
-    {
-      "text": "atrophy",
       "alias": "<<ˈætrəfi>>"
-    },
-    {
-      "text": "sclerosis",
-      "alias": "skleh-ROH-sis"
     },
     {
       "text": "sclerosis",
@@ -6107,15 +3055,7 @@
     },
     {
       "text": "appendectomy",
-      "alias": "ap-en-DEK-toh-mee"
-    },
-    {
-      "text": "appendectomy",
       "alias": "<<ˌæpənˈdɛktəmi>>"
-    },
-    {
-      "text": "cholecystectomy",
-      "alias": "koh-leh-sis-TEK-toh-mee"
     },
     {
       "text": "cholecystectomy",
@@ -6123,15 +3063,7 @@
     },
     {
       "text": "herniorrhaphy",
-      "alias": "her-nee-OR-ah-fee"
-    },
-    {
-      "text": "herniorrhaphy",
       "alias": "<<ˌhɜːrniˈɔːrəfi>>"
-    },
-    {
-      "text": "colostomy",
-      "alias": "koh-LOS-toh-mee"
     },
     {
       "text": "colostomy",
@@ -6139,15 +3071,7 @@
     },
     {
       "text": "ileostomy",
-      "alias": "il-ee-OS-toh-mee"
-    },
-    {
-      "text": "ileostomy",
       "alias": "<<ˌɪliˈɑːstəmi>>"
-    },
-    {
-      "text": "nephrectomy",
-      "alias": "neh-FREK-toh-mee"
     },
     {
       "text": "nephrectomy",
@@ -6155,15 +3079,7 @@
     },
     {
       "text": "hysterectomy",
-      "alias": "his-teh-REK-toh-mee"
-    },
-    {
-      "text": "hysterectomy",
       "alias": "<<ˌhɪstəˈrɛktəmi>>"
-    },
-    {
-      "text": "mastectomy",
-      "alias": "mas-TEK-toh-mee"
     },
     {
       "text": "mastectomy",
@@ -6171,15 +3087,7 @@
     },
     {
       "text": "thyroidectomy",
-      "alias": "thy-roy-DEK-toh-mee"
-    },
-    {
-      "text": "thyroidectomy",
       "alias": "<<ˌθaɪrɔɪˈdɛktəmi>>"
-    },
-    {
-      "text": "parathyroidectomy",
-      "alias": "par-ah-thy-roy-DEK-toh-mee"
     },
     {
       "text": "parathyroidectomy",
@@ -6187,15 +3095,7 @@
     },
     {
       "text": "adrenalectomy",
-      "alias": "ad-reh-nal-EK-toh-mee"
-    },
-    {
-      "text": "adrenalectomy",
       "alias": "<<əˌdriːnəˈlɛktəmi>>"
-    },
-    {
-      "text": "splenectomy",
-      "alias": "spleh-NEK-toh-mee"
     },
     {
       "text": "splenectomy",
@@ -6203,15 +3103,7 @@
     },
     {
       "text": "pancreatectomy",
-      "alias": "pan-kree-ah-TEK-toh-mee"
-    },
-    {
-      "text": "pancreatectomy",
       "alias": "<<ˌpæŋkriəˈtɛktəmi>>"
-    },
-    {
-      "text": "esophagectomy",
-      "alias": "eh-sof-ah-JEK-toh-mee"
     },
     {
       "text": "esophagectomy",
@@ -6219,15 +3111,7 @@
     },
     {
       "text": "gastrectomy",
-      "alias": "gas-TREK-toh-mee"
-    },
-    {
-      "text": "gastrectomy",
       "alias": "<<ɡæˈstrɛktəmi>>"
-    },
-    {
-      "text": "colectomy",
-      "alias": "koh-LEK-toh-mee"
     },
     {
       "text": "colectomy",
@@ -6235,15 +3119,7 @@
     },
     {
       "text": "proctectomy",
-      "alias": "prok-TEK-toh-mee"
-    },
-    {
-      "text": "proctectomy",
       "alias": "<<prɑːkˈtɛktəmi>>"
-    },
-    {
-      "text": "cystectomy",
-      "alias": "sis-TEK-toh-mee"
     },
     {
       "text": "cystectomy",
@@ -6251,15 +3127,7 @@
     },
     {
       "text": "nephrostomy",
-      "alias": "neh-FROS-toh-mee"
-    },
-    {
-      "text": "nephrostomy",
       "alias": "<<nəˈfrɑstəmi>>"
-    },
-    {
-      "text": "ureterostomy",
-      "alias": "yoo-REE-ter-OS-toh-mee"
     },
     {
       "text": "ureterostomy",
@@ -6267,15 +3135,7 @@
     },
     {
       "text": "tracheostomy",
-      "alias": "TRAY-kee-OS-toh-mee"
-    },
-    {
-      "text": "tracheostomy",
       "alias": "<<ˌtreɪkiˈɑstəmi>>"
-    },
-    {
-      "text": "cricothyroidotomy",
-      "alias": "KRY-koh-thy-ROY-DOT-oh-mee"
     },
     {
       "text": "cricothyroidotomy",
@@ -6283,15 +3143,7 @@
     },
     {
       "text": "thoracotomy",
-      "alias": "thor-ah-KOT-oh-mee"
-    },
-    {
-      "text": "thoracotomy",
       "alias": "<<ˌθɔːrəˈkɑtəmi>>"
-    },
-    {
-      "text": "sternotomy",
-      "alias": "ster-NOT-oh-mee"
     },
     {
       "text": "sternotomy",
@@ -6299,15 +3151,7 @@
     },
     {
       "text": "laparotomy",
-      "alias": "lap-ah-ROT-oh-mee"
-    },
-    {
-      "text": "laparotomy",
       "alias": "<<ˌlæpəˈrɑtəmi>>"
-    },
-    {
-      "text": "celiotomy",
-      "alias": "see-lee-OT-oh-mee"
     },
     {
       "text": "celiotomy",
@@ -6315,15 +3159,7 @@
     },
     {
       "text": "arthroscopy",
-      "alias": "ar-THROS-koh-pee"
-    },
-    {
-      "text": "arthroscopy",
       "alias": "<<ɑːrˈθrɑskəpi>>"
-    },
-    {
-      "text": "bronchoscopy",
-      "alias": "brong-KOS-koh-pee"
     },
     {
       "text": "bronchoscopy",
@@ -6331,15 +3167,7 @@
     },
     {
       "text": "colonoscopy",
-      "alias": "KOH-lon-OS-koh-pee"
-    },
-    {
-      "text": "colonoscopy",
       "alias": "<<ˌkoʊləˈnɑskəpi>>"
-    },
-    {
-      "text": "endoscopy",
-      "alias": "en-DOS-koh-pee"
     },
     {
       "text": "endoscopy",
@@ -6347,15 +3175,7 @@
     },
     {
       "text": "gastroscopy",
-      "alias": "gas-TROS-koh-pee"
-    },
-    {
-      "text": "gastroscopy",
       "alias": "<<ɡæˈstrɑskəpi>>"
-    },
-    {
-      "text": "sigmoidoscopy",
-      "alias": "sig-moy-DOS-koh-pee"
     },
     {
       "text": "sigmoidoscopy",
@@ -6363,15 +3183,7 @@
     },
     {
       "text": "cystoscopy",
-      "alias": "sis-TOS-koh-pee"
-    },
-    {
-      "text": "cystoscopy",
       "alias": "<<sɪˈstɑskəpi>>"
-    },
-    {
-      "text": "colposcopy",
-      "alias": "kol-POS-koh-pee"
     },
     {
       "text": "colposcopy",
@@ -6379,15 +3191,7 @@
     },
     {
       "text": "hysteroscopy",
-      "alias": "his-ter-OS-koh-pee"
-    },
-    {
-      "text": "hysteroscopy",
       "alias": "<<ˌhɪstəˈrɑskəpi>>"
-    },
-    {
-      "text": "laparoscopy",
-      "alias": "lap-ah-ROS-koh-pee"
     },
     {
       "text": "laparoscopy",
@@ -6395,15 +3199,7 @@
     },
     {
       "text": "thoracoscopy",
-      "alias": "thor-ah-KOS-koh-pee"
-    },
-    {
-      "text": "thoracoscopy",
       "alias": "<<ˌθɔːrəˈkɑskəpi>>"
-    },
-    {
-      "text": "mediastinoscopy",
-      "alias": "MEE-dee-ah-stih-NOS-koh-pee"
     },
     {
       "text": "mediastinoscopy",
@@ -6411,15 +3207,7 @@
     },
     {
       "text": "arthroplasty",
-      "alias": "AR-throh-plas-tee"
-    },
-    {
-      "text": "arthroplasty",
       "alias": "<<ˈɑːrθroʊˌplæsti>>"
-    },
-    {
-      "text": "osteotomy",
-      "alias": "os-tee-OT-oh-mee"
     },
     {
       "text": "osteotomy",
@@ -6427,15 +3215,7 @@
     },
     {
       "text": "craniotomy",
-      "alias": "KRAY-nee-OT-oh-mee"
-    },
-    {
-      "text": "craniotomy",
       "alias": "<<ˌkreɪniˈɑtəmi>>"
-    },
-    {
-      "text": "laminectomy",
-      "alias": "lam-ih-NEK-toh-mee"
     },
     {
       "text": "laminectomy",
@@ -6443,15 +3223,7 @@
     },
     {
       "text": "discectomy",
-      "alias": "dis-EK-toh-mee"
-    },
-    {
-      "text": "discectomy",
       "alias": "<<dɪˈskɛktəmi>>"
-    },
-    {
-      "text": "rhizotomy",
-      "alias": "ry-ZOT-oh-mee"
     },
     {
       "text": "rhizotomy",
@@ -6459,15 +3231,7 @@
     },
     {
       "text": "neurectomy",
-      "alias": "nyoo-REK-toh-mee"
-    },
-    {
-      "text": "neurectomy",
       "alias": "<<nʊˈrɛktəmi>>"
-    },
-    {
-      "text": "sympathectomy",
-      "alias": "sim-pah-THEK-toh-mee"
     },
     {
       "text": "sympathectomy",
@@ -6475,15 +3239,7 @@
     },
     {
       "text": "vagotomy",
-      "alias": "vay-GOT-oh-mee"
-    },
-    {
-      "text": "vagotomy",
       "alias": "<<veɪˈɡɑtəmi>>"
-    },
-    {
-      "text": "epithelium",
-      "alias": "eh-pih-THEE-lee-um"
     },
     {
       "text": "epithelium",
@@ -6491,15 +3247,7 @@
     },
     {
       "text": "endothelium",
-      "alias": "en-doh-THEE-lee-um"
-    },
-    {
-      "text": "endothelium",
       "alias": "<<ˌɛndoʊˈθiliəm>>"
-    },
-    {
-      "text": "mesothelium",
-      "alias": "meh-zoh-THEE-lee-um"
     },
     {
       "text": "mesothelium",
@@ -6507,15 +3255,7 @@
     },
     {
       "text": "stratum corneum",
-      "alias": "STRAY-tum KOR-nee-um"
-    },
-    {
-      "text": "stratum corneum",
       "alias": "<<ˈstreɪtəm ˈkɔrniəm>>"
-    },
-    {
-      "text": "dermis",
-      "alias": "DER-mis"
     },
     {
       "text": "dermis",
@@ -6523,15 +3263,7 @@
     },
     {
       "text": "epidermis",
-      "alias": "eh-pih-DER-mis"
-    },
-    {
-      "text": "epidermis",
       "alias": "<<ˌɛpɪˈdɜrmɪs>>"
-    },
-    {
-      "text": "hypodermis",
-      "alias": "hy-poh-DER-mis"
     },
     {
       "text": "hypodermis",
@@ -6539,15 +3271,7 @@
     },
     {
       "text": "subcutaneous",
-      "alias": "sub-kyoo-TAY-nee-us"
-    },
-    {
-      "text": "subcutaneous",
       "alias": "<<ˌsʌbkjuˈteɪniəs>>"
-    },
-    {
-      "text": "fascia",
-      "alias": "FAH-shah"
     },
     {
       "text": "fascia",
@@ -6555,15 +3279,7 @@
     },
     {
       "text": "ligament",
-      "alias": "LIH-gah-ment"
-    },
-    {
-      "text": "ligament",
       "alias": "<<ˈlɪɡəmənt>>"
-    },
-    {
-      "text": "tendon",
-      "alias": "TEN-dun"
     },
     {
       "text": "tendon",
@@ -6571,15 +3287,7 @@
     },
     {
       "text": "aponeurosis",
-      "alias": "ap-oh-noo-ROH-sis"
-    },
-    {
-      "text": "aponeurosis",
       "alias": "<<ˌæpənʊˈroʊsɪs>>"
-    },
-    {
-      "text": "bursa",
-      "alias": "BER-sah"
     },
     {
       "text": "bursa",
@@ -6587,15 +3295,7 @@
     },
     {
       "text": "meniscus",
-      "alias": "meh-NIS-kus"
-    },
-    {
-      "text": "meniscus",
       "alias": "<<məˈnɪskəs>>"
-    },
-    {
-      "text": "cartilage",
-      "alias": "KAR-tih-lij"
     },
     {
       "text": "cartilage",
@@ -6603,15 +3303,7 @@
     },
     {
       "text": "periosteum",
-      "alias": "per-ee-OS-tee-um"
-    },
-    {
-      "text": "periosteum",
       "alias": "<<ˌpɛriˈɑstiəm>>"
-    },
-    {
-      "text": "endosteum",
-      "alias": "en-DOS-tee-um"
     },
     {
       "text": "endosteum",
@@ -6619,15 +3311,7 @@
     },
     {
       "text": "diaphysis",
-      "alias": "dy-AF-ih-sis"
-    },
-    {
-      "text": "diaphysis",
       "alias": "<<daɪˈæfəsɪs>>"
-    },
-    {
-      "text": "epiphysis",
-      "alias": "eh-PIF-ih-sis"
     },
     {
       "text": "epiphysis",
@@ -6635,15 +3319,7 @@
     },
     {
       "text": "metaphysis",
-      "alias": "meh-TAF-ih-sis"
-    },
-    {
-      "text": "metaphysis",
       "alias": "<<məˈtæfəsɪs>>"
-    },
-    {
-      "text": "physis",
-      "alias": "FY-sis"
     },
     {
       "text": "physis",
@@ -6651,15 +3327,7 @@
     },
     {
       "text": "symphysis",
-      "alias": "SIM-fih-sis"
-    },
-    {
-      "text": "symphysis",
       "alias": "<<ˈsɪmfəsɪs>>"
-    },
-    {
-      "text": "synovium",
-      "alias": "sih-NOH-vee-um"
     },
     {
       "text": "synovium",
@@ -6667,15 +3335,7 @@
     },
     {
       "text": "synovia",
-      "alias": "sih-NOH-vee-ah"
-    },
-    {
-      "text": "synovia",
       "alias": "<<sɪˈnoʊviə>>"
-    },
-    {
-      "text": "sutura",
-      "alias": "soo-TOO-rah"
     },
     {
       "text": "sutura",
@@ -6683,15 +3343,7 @@
     },
     {
       "text": "fontanelle",
-      "alias": "fon-tah-NEL"
-    },
-    {
-      "text": "fontanelle",
       "alias": "<<ˌfɑntəˈnɛl>>"
-    },
-    {
-      "text": "myocardium",
-      "alias": "my-oh-KAR-dee-um"
     },
     {
       "text": "myocardium",
@@ -6699,15 +3351,7 @@
     },
     {
       "text": "epicardium",
-      "alias": "eh-pih-KAR-dee-um"
-    },
-    {
-      "text": "epicardium",
       "alias": "<<ˌɛpɪˈkɑrdiəm>>"
-    },
-    {
-      "text": "pericardium",
-      "alias": "per-ih-KAR-dee-um"
     },
     {
       "text": "pericardium",
@@ -6715,15 +3359,7 @@
     },
     {
       "text": "endocardium",
-      "alias": "en-doh-KAR-dee-um"
-    },
-    {
-      "text": "endocardium",
       "alias": "<<ˌɛndoʊˈkɑrdiəm>>"
-    },
-    {
-      "text": "intima",
-      "alias": "IN-tih-mah"
     },
     {
       "text": "intima",
@@ -6731,15 +3367,7 @@
     },
     {
       "text": "media",
-      "alias": "MEH-dee-ah"
-    },
-    {
-      "text": "media",
       "alias": "<<ˈmiːdiə>>"
-    },
-    {
-      "text": "adventitia",
-      "alias": "ad-ven-TISH-ah"
     },
     {
       "text": "adventitia",
@@ -6747,15 +3375,7 @@
     },
     {
       "text": "tunica",
-      "alias": "TOO-nih-kah"
-    },
-    {
-      "text": "tunica",
       "alias": "<<ˈtuːnɪkə>>"
-    },
-    {
-      "text": "parenchyma",
-      "alias": "pah-REN-kih-mah"
     },
     {
       "text": "parenchyma",
@@ -6763,15 +3383,7 @@
     },
     {
       "text": "stroma",
-      "alias": "STROH-mah"
-    },
-    {
-      "text": "stroma",
       "alias": "<<ˈstroʊmə>>"
-    },
-    {
-      "text": "septum",
-      "alias": "SEP-tum"
     },
     {
       "text": "septum",
@@ -6779,15 +3391,7 @@
     },
     {
       "text": "septa",
-      "alias": "SEP-tah"
-    },
-    {
-      "text": "septa",
       "alias": "<<ˈsɛptə>>"
-    },
-    {
-      "text": "trabecula",
-      "alias": "trah-BEK-yoo-lah"
     },
     {
       "text": "trabecula",
@@ -6795,15 +3399,7 @@
     },
     {
       "text": "hilum",
-      "alias": "HY-lum"
-    },
-    {
-      "text": "hilum",
       "alias": "<<ˈhaɪləm>>"
-    },
-    {
-      "text": "hilus",
-      "alias": "HY-lus"
     },
     {
       "text": "hilus",
@@ -6811,15 +3407,7 @@
     },
     {
       "text": "sulcus",
-      "alias": "SUL-kus"
-    },
-    {
-      "text": "sulcus",
       "alias": "<<ˈsʌlkəs>>"
-    },
-    {
-      "text": "gyrus",
-      "alias": "JY-rus"
     },
     {
       "text": "gyrus",
@@ -6827,15 +3415,7 @@
     },
     {
       "text": "cortex",
-      "alias": "KOR-teks"
-    },
-    {
-      "text": "cortex",
       "alias": "<<ˈkɔrtɛks>>"
-    },
-    {
-      "text": "medulla",
-      "alias": "meh-DOOL-ah"
     },
     {
       "text": "medulla",
@@ -6843,23 +3423,11 @@
     },
     {
       "text": "capsule",
-      "alias": "KAP-sool"
-    },
-    {
-      "text": "capsule",
       "alias": "<<ˈkæpsəl>>"
     },
     {
       "text": "lobe",
-      "alias": "LOHB"
-    },
-    {
-      "text": "lobe",
-      "alias": "<<loʊb>>"
-    },
-    {
-      "text": "lobule",
-      "alias": "LOB-yool"
+      "alias": "<<lˈoʊb>>"
     },
     {
       "text": "lobule",
@@ -6867,15 +3435,7 @@
     },
     {
       "text": "acinus",
-      "alias": "AS-ih-nus"
-    },
-    {
-      "text": "acinus",
       "alias": "<<ˈæsɪnəs>>"
-    },
-    {
-      "text": "alveolus",
-      "alias": "al-VEE-oh-lus"
     },
     {
       "text": "alveolus",
@@ -6883,15 +3443,7 @@
     },
     {
       "text": "glomerulus",
-      "alias": "gloh-MER-yoo-lus"
-    },
-    {
-      "text": "glomerulus",
       "alias": "<<ɡloʊˈmɛrjələs>>"
-    },
-    {
-      "text": "nephron",
-      "alias": "NEF-ron"
     },
     {
       "text": "nephron",
@@ -6899,15 +3451,7 @@
     },
     {
       "text": "tubule",
-      "alias": "TOOB-yool"
-    },
-    {
-      "text": "tubule",
       "alias": "<<ˈtubjul>>"
-    },
-    {
-      "text": "ductule",
-      "alias": "DUK-tool"
     },
     {
       "text": "ductule",
@@ -6915,23 +3459,11 @@
     },
     {
       "text": "ductus",
-      "alias": "DUK-tus"
-    },
-    {
-      "text": "ductus",
       "alias": "<<ˈdʌktəs>>"
     },
     {
       "text": "vas deferens",
-      "alias": "vas DEF-er-enz"
-    },
-    {
-      "text": "vas deferens",
-      "alias": "<<væs dɛfərɛnz>>"
-    },
-    {
-      "text": "epididymis",
-      "alias": "ep-ih-DID-ih-mis"
+      "alias": "<<vˈæs dɛfərɛnz>>"
     },
     {
       "text": "epididymis",
@@ -6939,15 +3471,7 @@
     },
     {
       "text": "fimbria",
-      "alias": "FIM-bree-ah"
-    },
-    {
-      "text": "fimbria",
       "alias": "<<ˈfɪmbriə>>"
-    },
-    {
-      "text": "fornix",
-      "alias": "FOR-niks"
     },
     {
       "text": "fornix",
@@ -6955,15 +3479,7 @@
     },
     {
       "text": "mesentery",
-      "alias": "MEZ-en-ter-ee"
-    },
-    {
-      "text": "mesentery",
       "alias": "<<ˈmɛzənˌtɛri>>"
-    },
-    {
-      "text": "omentum",
-      "alias": "oh-MEN-tum"
     },
     {
       "text": "omentum",
@@ -6971,15 +3487,7 @@
     },
     {
       "text": "peritoneum",
-      "alias": "per-ih-toh-NEE-um"
-    },
-    {
-      "text": "peritoneum",
       "alias": "<<ˌpɛrɪtəˈniəm>>"
-    },
-    {
-      "text": "retroperitoneum",
-      "alias": "REH-troh-per-ih-toh-NEE-um"
     },
     {
       "text": "retroperitoneum",
@@ -6987,15 +3495,7 @@
     },
     {
       "text": "mesocolon",
-      "alias": "MEZ-oh-KOH-lon"
-    },
-    {
-      "text": "mesocolon",
       "alias": "<<ˌmɛzəˈkoʊlən>>"
-    },
-    {
-      "text": "haustra",
-      "alias": "HAW-strah"
     },
     {
       "text": "haustra",
@@ -7003,15 +3503,7 @@
     },
     {
       "text": "plicae",
-      "alias": "PLY-see"
-    },
-    {
-      "text": "plicae",
       "alias": "<<ˈplaɪsi>>"
-    },
-    {
-      "text": "rugae",
-      "alias": "ROO-jee"
     },
     {
       "text": "rugae",
@@ -7019,15 +3511,7 @@
     },
     {
       "text": "villi",
-      "alias": "VIL-eye"
-    },
-    {
-      "text": "villi",
       "alias": "<<ˈvɪlaɪ>>"
-    },
-    {
-      "text": "microvilli",
-      "alias": "MY-kroh-VIL-eye"
     },
     {
       "text": "microvilli",
@@ -7035,15 +3519,7 @@
     },
     {
       "text": "cryptae",
-      "alias": "KRIP-tee"
-    },
-    {
-      "text": "cryptae",
       "alias": "<<ˈkrɪpti>>"
-    },
-    {
-      "text": "pylorus",
-      "alias": "py-LOR-us"
     },
     {
       "text": "pylorus",
@@ -7051,15 +3527,7 @@
     },
     {
       "text": "cardia",
-      "alias": "KAR-dee-ah"
-    },
-    {
-      "text": "cardia",
       "alias": "<<ˈkɑrdiə>>"
-    },
-    {
-      "text": "fundus",
-      "alias": "FUN-dus"
     },
     {
       "text": "fundus",
@@ -7067,15 +3535,7 @@
     },
     {
       "text": "antrum",
-      "alias": "AN-trum"
-    },
-    {
-      "text": "antrum",
       "alias": "<<ˈæntrəm>>"
-    },
-    {
-      "text": "duodenum",
-      "alias": "doo-oh-DEE-num"
     },
     {
       "text": "duodenum",
@@ -7083,15 +3543,7 @@
     },
     {
       "text": "jejunum",
-      "alias": "jeh-JOO-num"
-    },
-    {
-      "text": "jejunum",
       "alias": "<<dʒəˈdʒunəm>>"
-    },
-    {
-      "text": "ileum",
-      "alias": "IL-ee-um"
     },
     {
       "text": "ileum",
@@ -7099,15 +3551,7 @@
     },
     {
       "text": "cecum",
-      "alias": "SEE-kum"
-    },
-    {
-      "text": "cecum",
       "alias": "<<ˈsikəm>>"
-    },
-    {
-      "text": "vermiform",
-      "alias": "VER-mih-form"
     },
     {
       "text": "vermiform",
@@ -7115,15 +3559,7 @@
     },
     {
       "text": "appendix",
-      "alias": "ah-PEN-diks"
-    },
-    {
-      "text": "appendix",
       "alias": "<<əˈpɛndɪks>>"
-    },
-    {
-      "text": "sigmoid",
-      "alias": "SIG-moyd"
     },
     {
       "text": "sigmoid",
@@ -7131,15 +3567,7 @@
     },
     {
       "text": "rectum",
-      "alias": "REK-tum"
-    },
-    {
-      "text": "rectum",
       "alias": "<<ˈrɛktəm>>"
-    },
-    {
-      "text": "anus",
-      "alias": "AY-nus"
     },
     {
       "text": "anus",
@@ -7147,15 +3575,7 @@
     },
     {
       "text": "sphincter",
-      "alias": "SFINK-ter"
-    },
-    {
-      "text": "sphincter",
       "alias": "<<ˈsfɪŋktər>>"
-    },
-    {
-      "text": "papilla",
-      "alias": "pah-PIL-ah"
     },
     {
       "text": "papilla",
@@ -7163,15 +3583,7 @@
     },
     {
       "text": "ampulla",
-      "alias": "am-POOL-ah"
-    },
-    {
-      "text": "ampulla",
       "alias": "<<æmˈpʊlə>>"
-    },
-    {
-      "text": "cholecyst",
-      "alias": "KOH-leh-sist"
     },
     {
       "text": "cholecyst",
@@ -7179,15 +3591,7 @@
     },
     {
       "text": "choledochus",
-      "alias": "koh-LED-oh-kus"
-    },
-    {
-      "text": "choledochus",
       "alias": "<<kəˈlɛdəkəs>>"
-    },
-    {
-      "text": "pancreas",
-      "alias": "PAN-kree-as"
     },
     {
       "text": "pancreas",
@@ -7195,15 +3599,7 @@
     },
     {
       "text": "islets",
-      "alias": "EYE-lets"
-    },
-    {
-      "text": "islets",
       "alias": "<<ˈaɪlɪts>>"
-    },
-    {
-      "text": "acini",
-      "alias": "AS-ih-nye"
     },
     {
       "text": "acini",
@@ -7211,15 +3607,7 @@
     },
     {
       "text": "centrilobular",
-      "alias": "sen-trih-LOB-yoo-lar"
-    },
-    {
-      "text": "centrilobular",
       "alias": "<<ˌsɛntrɪˈlɑbjələr>>"
-    },
-    {
-      "text": "periportal",
-      "alias": "per-ih-POR-tal"
     },
     {
       "text": "periportal",
@@ -7227,15 +3615,7 @@
     },
     {
       "text": "sinusoids",
-      "alias": "SIN-yoo-soydz"
-    },
-    {
-      "text": "sinusoids",
       "alias": "<<ˈsɪnjəsɔɪdz>>"
-    },
-    {
-      "text": "Kupffer",
-      "alias": "KOOP-fer"
     },
     {
       "text": "Kupffer",
@@ -7243,15 +3623,7 @@
     },
     {
       "text": "space of Disse",
-      "alias": "spays of DIS"
-    },
-    {
-      "text": "space of Disse",
-      "alias": "<<speɪs əv dɪs>>"
-    },
-    {
-      "text": "canaliculi",
-      "alias": "kan-ah-LIK-yoo-lye"
+      "alias": "<<spˈeɪs əv dɪs>>"
     },
     {
       "text": "canaliculi",
@@ -7259,15 +3631,7 @@
     },
     {
       "text": "falciform",
-      "alias": "FAL-sih-form"
-    },
-    {
-      "text": "falciform",
       "alias": "<<ˈfælsɪfɔrm>>"
-    },
-    {
-      "text": "ligamentum teres",
-      "alias": "lig-ah-MEN-tum TER-eez"
     },
     {
       "text": "ligamentum teres",
@@ -7275,15 +3639,7 @@
     },
     {
       "text": "ligamentum venosum",
-      "alias": "lig-ah-MEN-tum veh-NOH-sum"
-    },
-    {
-      "text": "ligamentum venosum",
       "alias": "<<ˌlɪɡəˈmɛntəm vɪˈnoʊsəm>>"
-    },
-    {
-      "text": "porta hepatis",
-      "alias": "POR-tah heh-PAT-is"
     },
     {
       "text": "porta hepatis",
@@ -7291,15 +3647,7 @@
     },
     {
       "text": "coronary",
-      "alias": "KOR-ah-nair-ee"
-    },
-    {
-      "text": "coronary",
       "alias": "<<ˈkɔrənɛri>>"
-    },
-    {
-      "text": "circumflex",
-      "alias": "SER-kum-fleks"
     },
     {
       "text": "circumflex",
@@ -7307,15 +3655,7 @@
     },
     {
       "text": "interventricular",
-      "alias": "in-ter-ven-TRIK-yoo-lar"
-    },
-    {
-      "text": "interventricular",
       "alias": "<<ˌɪntərvɛnˈtrɪkjələr>>"
-    },
-    {
-      "text": "interventricular septum",
-      "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
     },
     {
       "text": "interventricular septum",
@@ -7323,47 +3663,15 @@
     },
     {
       "text": "papillary muscle",
-      "alias": "PAP-ih-lair-ee MUS-el"
-    },
-    {
-      "text": "papillary muscle",
       "alias": "<<ˈpæpɪlɛri ˈmʌsəl>>"
-    },
-    {
-      "text": "chordae tendineae",
-      "alias": "KOR-dee ten-DIN-ee-ee"
     },
     {
       "text": "chordae tendineae",
       "alias": "<<ˈkɔrdi tɛnˈdɪnii>>"
     },
     {
-      "text": "valve",
-      "alias": "valv"
-    },
-    {
-      "text": "valve",
-      "alias": "<<vælv>>"
-    },
-    {
-      "text": "leaflet",
-      "alias": "LEEF-let"
-    },
-    {
       "text": "leaflet",
       "alias": "<<ˈlifət>>"
-    },
-    {
-      "text": "cusp",
-      "alias": "kusp"
-    },
-    {
-      "text": "cusp",
-      "alias": "<<kʌsp>>"
-    },
-    {
-      "text": "semilunar",
-      "alias": "sem-ee-LOO-nar"
     },
     {
       "text": "semilunar",
@@ -7371,15 +3679,7 @@
     },
     {
       "text": "atrioventricular",
-      "alias": "ay-tree-oh-ven-TRIK-yoo-lar"
-    },
-    {
-      "text": "atrioventricular",
       "alias": "<<ˌeɪtrioʊvɛnˈtrɪkjələr>>"
-    },
-    {
-      "text": "ventricular",
-      "alias": "ven-TRIK-yoo-lar"
     },
     {
       "text": "ventricular",
@@ -7387,15 +3687,7 @@
     },
     {
       "text": "sinoatrial",
-      "alias": "sigh-noh-AY-tree-al"
-    },
-    {
-      "text": "sinoatrial",
       "alias": "<<ˌsaɪnoʊˈeɪtriəl>>"
-    },
-    {
-      "text": "coronary sinus",
-      "alias": "KOR-ah-nair-ee SIGH-nus"
     },
     {
       "text": "coronary sinus",
@@ -7403,15 +3695,7 @@
     },
     {
       "text": "vena cava",
-      "alias": "VEE-nah KAY-vah"
-    },
-    {
-      "text": "vena cava",
       "alias": "<<ˈvinə ˈkeɪvə>>"
-    },
-    {
-      "text": "pulmonary trunk",
-      "alias": "PUL-mah-nair-ee trunk"
     },
     {
       "text": "pulmonary trunk",
@@ -7419,15 +3703,7 @@
     },
     {
       "text": "aorta",
-      "alias": "ay-OR-tah"
-    },
-    {
-      "text": "aorta",
       "alias": "<<eɪˈɔrtə>>"
-    },
-    {
-      "text": "carotid",
-      "alias": "kah-ROT-id"
     },
     {
       "text": "carotid",
@@ -7435,15 +3711,7 @@
     },
     {
       "text": "subclavian",
-      "alias": "sub-KLAY-vee-an"
-    },
-    {
-      "text": "subclavian",
       "alias": "<<sʌbˈkleɪviən>>"
-    },
-    {
-      "text": "vertebral",
-      "alias": "VER-teh-bral"
     },
     {
       "text": "vertebral",
@@ -7451,15 +3719,7 @@
     },
     {
       "text": "basilar",
-      "alias": "BAS-ih-lar"
-    },
-    {
-      "text": "basilar",
       "alias": "<<ˈbæsɪlɚ>>"
-    },
-    {
-      "text": "circle of Willis",
-      "alias": "SER-kul of WIL-is"
     },
     {
       "text": "circle of Willis",
@@ -7467,15 +3727,7 @@
     },
     {
       "text": "meninges",
-      "alias": "men-IN-jeez"
-    },
-    {
-      "text": "meninges",
       "alias": "<<məˈnɪndʒiːz>>"
-    },
-    {
-      "text": "dura mater",
-      "alias": "DUR-ah MAH-ter"
     },
     {
       "text": "dura mater",
@@ -7483,15 +3735,7 @@
     },
     {
       "text": "arachnoid",
-      "alias": "ah-RAK-noyd"
-    },
-    {
-      "text": "arachnoid",
       "alias": "<<əˈræknɔɪd>>"
-    },
-    {
-      "text": "pia mater",
-      "alias": "PEE-ah MAH-ter"
     },
     {
       "text": "pia mater",
@@ -7499,15 +3743,7 @@
     },
     {
       "text": "subdural",
-      "alias": "sub-DUR-al"
-    },
-    {
-      "text": "subdural",
       "alias": "<<sʌbˈdʊrəl>>"
-    },
-    {
-      "text": "subarachnoid",
-      "alias": "sub-ah-RAK-noyd"
     },
     {
       "text": "subarachnoid",
@@ -7515,15 +3751,7 @@
     },
     {
       "text": "epidural",
-      "alias": "ep-ih-DUR-al"
-    },
-    {
-      "text": "epidural",
       "alias": "<<ˌɛpɪˈdʊrəl>>"
-    },
-    {
-      "text": "ventricles",
-      "alias": "VEN-trih-kulz"
     },
     {
       "text": "ventricles",
@@ -7531,15 +3759,7 @@
     },
     {
       "text": "foramina",
-      "alias": "fo-RAM-ih-nah"
-    },
-    {
-      "text": "foramina",
       "alias": "<<fəˈræmɪnə>>"
-    },
-    {
-      "text": "aqueduct",
-      "alias": "AK-weh-dukt"
     },
     {
       "text": "aqueduct",
@@ -7547,15 +3767,7 @@
     },
     {
       "text": "choroid plexus",
-      "alias": "KOR-oyd PLEK-sus"
-    },
-    {
-      "text": "choroid plexus",
       "alias": "<<ˈkɔːrɔɪd ˈplɛksəs>>"
-    },
-    {
-      "text": "cauda equina",
-      "alias": "KAW-dah eh-KWY-nah"
     },
     {
       "text": "cauda equina",
@@ -7563,15 +3775,7 @@
     },
     {
       "text": "filum terminale",
-      "alias": "FY-lum ter-mih-NAH-lee"
-    },
-    {
-      "text": "filum terminale",
       "alias": "<<ˈfaɪləm ˌtɝːmɪˈnɑːli>>"
-    },
-    {
-      "text": "conus medullaris",
-      "alias": "KOH-nus med-yoo-LAR-is"
     },
     {
       "text": "conus medullaris",
@@ -7579,15 +3783,7 @@
     },
     {
       "text": "dorsal root",
-      "alias": "DOR-sal ROOT"
-    },
-    {
-      "text": "dorsal root",
       "alias": "<<ˈdɔːrsəl ruːt>>"
-    },
-    {
-      "text": "ventral root",
-      "alias": "VEN-tral ROOT"
     },
     {
       "text": "ventral root",
@@ -7595,15 +3791,7 @@
     },
     {
       "text": "ganglion",
-      "alias": "GANG-glee-on"
-    },
-    {
-      "text": "ganglion",
       "alias": "<<ˈɡæŋɡliən>>"
-    },
-    {
-      "text": "plexus",
-      "alias": "PLEK-sus"
     },
     {
       "text": "plexus",
@@ -7611,15 +3799,7 @@
     },
     {
       "text": "phrenic",
-      "alias": "FREN-ik"
-    },
-    {
-      "text": "phrenic",
       "alias": "<<ˈfrɛnɪk>>"
-    },
-    {
-      "text": "vagus",
-      "alias": "VAY-gus"
     },
     {
       "text": "vagus",
@@ -7627,15 +3807,7 @@
     },
     {
       "text": "recurrent laryngeal",
-      "alias": "ree-KUR-ent lar-IN-jee-al"
-    },
-    {
-      "text": "recurrent laryngeal",
       "alias": "<<rɪˈkɝːənt ləˈrɪndʒiəl>>"
-    },
-    {
-      "text": "facial",
-      "alias": "FAY-shal"
     },
     {
       "text": "facial",
@@ -7643,15 +3815,7 @@
     },
     {
       "text": "vestibulocochlear",
-      "alias": "ves-TIB-yoo-loh-KOK-lee-ar"
-    },
-    {
-      "text": "vestibulocochlear",
       "alias": "<<vɛsˌtɪbjəloʊˈkoʊkliɚ>>"
-    },
-    {
-      "text": "glossopharyngeal",
-      "alias": "GLOS-oh-fah-RIN-jee-al"
     },
     {
       "text": "glossopharyngeal",
@@ -7659,15 +3823,7 @@
     },
     {
       "text": "hypoglossal",
-      "alias": "HY-poh-GLOS-al"
-    },
-    {
-      "text": "hypoglossal",
       "alias": "<<ˌhaɪpəˈɡlɑːsəl>>"
-    },
-    {
-      "text": "accessory",
-      "alias": "ak-SES-oh-ree"
     },
     {
       "text": "accessory",
@@ -7675,15 +3831,7 @@
     },
     {
       "text": "oculomotor",
-      "alias": "OK-yoo-loh-MOH-tor"
-    },
-    {
-      "text": "oculomotor",
       "alias": "<<ˌɑːkjəloʊˈmoʊtɚ>>"
-    },
-    {
-      "text": "trochlear",
-      "alias": "TROK-lee-ar"
     },
     {
       "text": "trochlear",
@@ -7691,11 +3839,31 @@
     },
     {
       "text": "abducens",
-      "alias": "ab-DOO-senz"
+      "alias": "<<æbˈdjuːsənz>>"
     },
     {
-      "text": "abducens",
-      "alias": "<<æbˈdjuːsənz>>"
+      "text": "angina",
+      "alias": "<<ænˈdʒaɪnə>>"
+    },
+    {
+      "text": "epinephrine",
+      "alias": "<<ˌɛpɪˈnɛfrɪn>>"
+    },
+    {
+      "text": "naloxone",
+      "alias": "<<nəˈlɑksoʊn>>"
+    },
+    {
+      "text": "hyperlipidemia",
+      "alias": "<<ˌhaɪpərlɪˈpɪmiə>>"
+    },
+    {
+      "text": "osteoarthritis",
+      "alias": "<<ˌɑstioʊɑrˈθraɪtɪs>>"
+    },
+    {
+      "text": "diabetes mellitus",
+      "alias": "<<ˌdaɪəˈbitɪz ˈmɛlɪtəs>>"
     }
   ]
 }

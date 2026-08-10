@@ -14,7 +14,7 @@
     {
       "word": "lisinopril",
       "alphabet": "ipa",
-      "phoneme": "laɪˈsɪ.nə.prɪl"
+      "phoneme": "laɪˈsɪnoʊprɪl"
     },
     {
       "word": "metoprolol",
@@ -30,16 +30,6 @@
       "word": "losartan",
       "alphabet": "ipa",
       "phoneme": "loʊˈsɑr.tæn"
-    },
-    {
-      "word": "metoprolol succinate",
-      "alphabet": "ipa",
-      "phoneme": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt"
-    },
-    {
-      "word": "metoprolol tartrate",
-      "alphabet": "ipa",
-      "phoneme": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt"
     },
     {
       "word": "carvedilol",
@@ -99,7 +89,7 @@
     {
       "word": "furosemide",
       "alphabet": "ipa",
-      "phoneme": "fjʊˈroʊ.səˌmaɪd"
+      "phoneme": "fʊˈroʊsəmaɪd"
     },
     {
       "word": "hydrochlorothiazide",
@@ -185,16 +175,6 @@
       "word": "mexiletine",
       "alphabet": "ipa",
       "phoneme": "mɛkˈsɪlətiːn"
-    },
-    {
-      "word": "isosorbide dinitrate",
-      "alphabet": "ipa",
-      "phoneme": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt"
-    },
-    {
-      "word": "isosorbide mononitrate",
-      "alphabet": "ipa",
-      "phoneme": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt"
     },
     {
       "word": "warfarin",
@@ -372,31 +352,6 @@
       "phoneme": "tɪrˈzɛpətaɪd"
     },
     {
-      "word": "insulin glargine",
-      "alphabet": "ipa",
-      "phoneme": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn"
-    },
-    {
-      "word": "insulin lispro",
-      "alphabet": "ipa",
-      "phoneme": "ˈɪnsəlɪn ˈlɪsproʊ"
-    },
-    {
-      "word": "insulin aspart",
-      "alphabet": "ipa",
-      "phoneme": "ˈɪnsəlɪn ˈæspɑːrt"
-    },
-    {
-      "word": "insulin detemir",
-      "alphabet": "ipa",
-      "phoneme": "ˈɪnsəlɪn dəˈtiːmɪr"
-    },
-    {
-      "word": "insulin degludec",
-      "alphabet": "ipa",
-      "phoneme": "ˈɪnsəlɪn dɛˈɡluːdɛk"
-    },
-    {
       "word": "acarbose",
       "alphabet": "ipa",
       "phoneme": "ˈækɑːrboʊs"
@@ -420,11 +375,6 @@
       "word": "amoxicillin",
       "alphabet": "ipa",
       "phoneme": "əˌmɑːksɪˈsɪlɪn"
-    },
-    {
-      "word": "amoxicillin clavulanate",
-      "alphabet": "ipa",
-      "phoneme": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt"
     },
     {
       "word": "azithromycin",
@@ -457,11 +407,6 @@
       "phoneme": "ˌmɛtrəˈnaɪdəzoʊl"
     },
     {
-      "word": "sulfamethoxazole trimethoprim",
-      "alphabet": "ipa",
-      "phoneme": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm"
-    },
-    {
       "word": "nitrofurantoin",
       "alphabet": "ipa",
       "phoneme": "ˌnaɪtroʊfjʊˈræntoʊɪn"
@@ -474,7 +419,7 @@
     {
       "word": "vancomycin",
       "alphabet": "ipa",
-      "phoneme": "væŋˈkoʊmaɪsɪn"
+      "phoneme": "væŋkoʊˈmaɪsɪn"
     },
     {
       "word": "levofloxacin",
@@ -525,11 +470,6 @@
       "word": "imipenem",
       "alphabet": "ipa",
       "phoneme": "ˌɪmɪˈpiːnɛm"
-    },
-    {
-      "word": "piperacillin tazobactam",
-      "alphabet": "ipa",
-      "phoneme": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm"
     },
     {
       "word": "gentamicin",
@@ -752,11 +692,6 @@
       "phoneme": "fəˈnɪtoʊɪn"
     },
     {
-      "word": "valproic acid",
-      "alphabet": "ipa",
-      "phoneme": "vælˈproʊɪk ˈæsɪd"
-    },
-    {
       "word": "zonisamide",
       "alphabet": "ipa",
       "phoneme": "zoʊˈnɪsəmaɪd"
@@ -822,11 +757,6 @@
       "phoneme": "naɪˈzætɪdiːn"
     },
     {
-      "word": "aluminum hydroxide",
-      "alphabet": "ipa",
-      "phoneme": "əˈluːmɪnəm haɪˈdrɒksaɪd"
-    },
-    {
       "word": "simethicone",
       "alphabet": "ipa",
       "phoneme": "saɪˈmɛθɪkoʊn"
@@ -839,7 +769,7 @@
     {
       "word": "granisetron",
       "alphabet": "ipa",
-      "phoneme": "grəˈnɪsətrɒn"
+      "phoneme": "ɡrəˈnɪsətrɒn"
     },
     {
       "word": "palonosetron",
@@ -870,11 +800,6 @@
       "word": "docusate",
       "alphabet": "ipa",
       "phoneme": "ˈdɒkjuseɪt"
-    },
-    {
-      "word": "polyethylene glycol",
-      "alphabet": "ipa",
-      "phoneme": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl"
     },
     {
       "word": "bisacodyl",
@@ -1454,12 +1379,12 @@
     {
       "word": "methotrexate",
       "alphabet": "ipa",
-      "phoneme": "ˌmɛθəˈtɹɛkseɪt"
+      "phoneme": "ˌmɛθəˈtrɛkseɪt"
     },
     {
       "word": "pemetrexed",
       "alphabet": "ipa",
-      "phoneme": "ˌpɛmɪˈtɹɛksɛd"
+      "phoneme": "ˌpɛmɪˈtrɛksɛd"
     },
     {
       "word": "gemcitabine",
@@ -1677,11 +1602,6 @@
       "phoneme": "fɪŋˈɡɒlɪmɒd"
     },
     {
-      "word": "dimethyl fumarate",
-      "alphabet": "ipa",
-      "phoneme": "daɪˈmɛθəl ˈfjuməˌreɪt"
-    },
-    {
       "word": "teriflunomide",
       "alphabet": "ipa",
       "phoneme": "ˌtɛrɪˈflunəmaɪd"
@@ -1765,11 +1685,6 @@
       "word": "ibandronate",
       "alphabet": "ipa",
       "phoneme": "ɪˈbændrəneɪt"
-    },
-    {
-      "word": "zoledronic acid",
-      "alphabet": "ipa",
-      "phoneme": "zoʊˈlɛdrɒnɪk ˈæsɪd"
     },
     {
       "word": "denosumab",
@@ -1984,22 +1899,22 @@
     {
       "word": "MI",
       "alphabet": "ipa",
-      "phoneme": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən"
+      "phoneme": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən"
     },
     {
       "word": "COPD",
       "alphabet": "ipa",
-      "phoneme": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz"
+      "phoneme": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz"
     },
     {
       "word": "CHF",
       "alphabet": "ipa",
-      "phoneme": "kənˈɡɛstɪv hɑrt ˈfɜːr"
+      "phoneme": "kənˈdʒɛstɪv hɑrt ˈfeljɚ"
     },
     {
       "word": "UTI",
       "alphabet": "ipa",
-      "phoneme": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən"
+      "phoneme": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən"
     },
     {
       "word": "MRI",
@@ -2019,297 +1934,297 @@
     {
       "word": "ECG",
       "alphabet": "ipa",
-      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+      "phoneme": "ɪˌlɛktroʊˈkɑrdiəˌɡræm"
     },
     {
       "word": "EEG",
       "alphabet": "ipa",
-      "phoneme": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm"
+      "phoneme": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm"
     },
     {
       "word": "BUN",
       "alphabet": "ipa",
-      "phoneme": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən"
+      "phoneme": "blʌd jʊˈriə ˈnaɪtrədʒən"
     },
     {
       "word": "CMP",
       "alphabet": "ipa",
-      "phoneme": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl"
+      "phoneme": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl"
     },
     {
       "word": "CBC",
       "alphabet": "ipa",
-      "phoneme": "ˌkɑmpliːt ˈblʌd ˈkaʊnt"
+      "phoneme": "kəmˈplit blʌd kaʊnt"
     },
     {
       "word": "TSH",
       "alphabet": "ipa",
-      "phoneme": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn"
+      "phoneme": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn"
     },
     {
       "word": "HbA1c",
       "alphabet": "ipa",
-      "phoneme": "ˌheməɡloʊbɪn eɪ wʌn siː"
+      "phoneme": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si"
     },
     {
       "word": "PT",
       "alphabet": "ipa",
-      "phoneme": "ˌprɑθrɑmbɪn ˈtaɪm"
+      "phoneme": "proʊˈθrɑmbɪn taɪm"
     },
     {
       "word": "INR",
       "alphabet": "ipa",
-      "phoneme": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ"
+      "phoneme": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ"
     },
     {
       "word": "PTT",
       "alphabet": "ipa",
-      "phoneme": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm"
+      "phoneme": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm"
     },
     {
       "word": "DVT",
       "alphabet": "ipa",
-      "phoneme": "ˌdiːp veɪn ˈθrɑmbəˌsɪs"
+      "phoneme": "dip ven θrɑmˈboʊsɪs"
     },
     {
       "word": "PE",
       "alphabet": "ipa",
-      "phoneme": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm"
+      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
     },
     {
       "word": "CVA",
       "alphabet": "ipa",
-      "phoneme": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt"
+      "phoneme": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt"
     },
     {
       "word": "TIA",
       "alphabet": "ipa",
-      "phoneme": "trænˈzɪənt ɪˈskɛmɪk əˈtæk"
+      "phoneme": "ˈtrænziənt ɪsˈkimɪk əˈtæk"
     },
     {
       "word": "ICU",
       "alphabet": "ipa",
-      "phoneme": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+      "phoneme": "ɪnˈtɛnsɪv kɛr ˈjunɪt"
     },
     {
       "word": "NICU",
       "alphabet": "ipa",
-      "phoneme": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+      "phoneme": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
     },
     {
       "word": "ER",
       "alphabet": "ipa",
-      "phoneme": "ɪmˈɜːrdʒənsi ˈruːm"
+      "phoneme": "ɪˈmɜrdʒənsi rum"
     },
     {
       "word": "ED",
       "alphabet": "ipa",
-      "phoneme": "ˌɛrˈdiː"
+      "phoneme": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt"
     },
     {
       "word": "OR",
       "alphabet": "ipa",
-      "phoneme": "ˈɔr"
+      "phoneme": "ˈɑpəˌretɪŋ rum"
     },
     {
       "word": "PACU",
       "alphabet": "ipa",
-      "phoneme": "pəˈkuː"
+      "phoneme": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt"
     },
     {
       "word": "CCU",
       "alphabet": "ipa",
-      "phoneme": "ˌsiːˌsiːˈjuː"
+      "phoneme": "ˈkɔrəˌnɛri kɛr ˈjunɪt"
     },
     {
       "word": "SICU",
       "alphabet": "ipa",
-      "phoneme": "ˌɛsˌaɪˌsiːˈjuː"
+      "phoneme": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
     },
     {
       "word": "MICU",
       "alphabet": "ipa",
-      "phoneme": "ˌɛmˌaɪˌsiːˈjuː"
+      "phoneme": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
     },
     {
       "word": "BP",
       "alphabet": "ipa",
-      "phoneme": "ˌbiːˈpiː"
+      "phoneme": "ˈblʌd ˈprɛʃɚ"
     },
     {
       "word": "HR",
       "alphabet": "ipa",
-      "phoneme": "ˌeɪtʃˈɑr"
+      "phoneme": "ˈhɑrt ˈreɪt"
     },
     {
       "word": "RR",
       "alphabet": "ipa",
-      "phoneme": "ˌɑrˈɑr"
+      "phoneme": "ˈrɛspɚəˌtɔri ˈreɪt"
     },
     {
       "word": "SpO2",
       "alphabet": "ipa",
-      "phoneme": "ˌɛsˌpiːˈoʊ tuː"
+      "phoneme": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən"
     },
     {
       "word": "ETCO2",
       "alphabet": "ipa",
-      "phoneme": "ˌiːˌtiːˌsiːˈoʊ tuː"
+      "phoneme": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd"
     },
     {
       "word": "IV",
       "alphabet": "ipa",
-      "phoneme": "ˌaɪˈviː"
+      "phoneme": "ˌɪntrəˈvinəs"
     },
     {
       "word": "IM",
       "alphabet": "ipa",
-      "phoneme": "ˌaɪˈɛm"
+      "phoneme": "ˌɪntrəˈmʌskjəlɚ"
     },
     {
       "word": "SC",
       "alphabet": "ipa",
-      "phoneme": "ˌɛsˈsiː"
+      "phoneme": "ˌsʌbkjuˈteɪniəs"
     },
     {
       "word": "PO",
       "alphabet": "ipa",
-      "phoneme": "ˌpiːˈoʊ"
+      "phoneme": "baɪ ˈmaʊθ"
     },
     {
       "word": "PR",
       "alphabet": "ipa",
-      "phoneme": "ˌpiːˈɑr"
+      "phoneme": "pɚ ˈrɛktəm"
     },
     {
       "word": "SL",
       "alphabet": "ipa",
-      "phoneme": "ˌɛsˈɛl"
+      "phoneme": "sʌbˈlɪŋɡwəl"
     },
     {
       "word": "OD",
       "alphabet": "ipa",
-      "phoneme": "ˌoʊˈdiː"
+      "phoneme": "ˈraɪt ˈaɪ"
     },
     {
       "word": "OS",
       "alphabet": "ipa",
-      "phoneme": "ˌoʊˈɛs"
+      "phoneme": "ˈlɛft ˈaɪ"
     },
     {
       "word": "OU",
       "alphabet": "ipa",
-      "phoneme": "ˌoʊˈjuː"
+      "phoneme": "ˈboʊθ ˈaɪz"
     },
     {
       "word": "AU",
       "alphabet": "ipa",
-      "phoneme": "ˌeɪˈjuː"
+      "phoneme": "ˈboʊθ ˈɪrz"
     },
     {
       "word": "AD",
       "alphabet": "ipa",
-      "phoneme": "ˌeɪˈdiː"
+      "phoneme": "ˈraɪt ˈɪr"
     },
     {
       "word": "AS",
       "alphabet": "ipa",
-      "phoneme": "ˌeɪˈɛs"
+      "phoneme": "ˈlɛft ˈɪr"
     },
     {
       "word": "APAP",
       "alphabet": "ipa",
-      "phoneme": "ˈeɪpæp"
+      "phoneme": "əˌsitəˈmɪnəfən"
     },
     {
       "word": "NSAID",
       "alphabet": "ipa",
-      "phoneme": "ˈɛnsɛd"
+      "phoneme": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ"
     },
     {
       "word": "PPI",
       "alphabet": "ipa",
-      "phoneme": "ˌpiːˌpiːˈaɪ"
+      "phoneme": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ"
     },
     {
       "word": "ARB",
       "alphabet": "ipa",
-      "phoneme": "ˌeɪˌɑrˈbiː"
+      "phoneme": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ"
     },
     {
       "word": "ACE",
       "alphabet": "ipa",
-      "phoneme": "ˈeɪs"
+      "phoneme": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm"
     },
     {
       "word": "BB",
       "alphabet": "ipa",
-      "phoneme": "ˌbiːˈbiː"
+      "phoneme": "ˈbeɪtə ˈblɑkɚ"
     },
     {
       "word": "CCB",
       "alphabet": "ipa",
-      "phoneme": "ˌsiːˌsiːˈbiː"
+      "phoneme": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ"
     },
     {
       "word": "SSRI",
       "alphabet": "ipa",
-      "phoneme": "ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər"
+      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
     },
     {
       "word": "SNRI",
       "alphabet": "ipa",
-      "phoneme": "ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər"
+      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
     },
     {
       "word": "TCA",
       "alphabet": "ipa",
-      "phoneme": "ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt"
+      "phoneme": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt"
     },
     {
       "word": "MAOI",
       "alphabet": "ipa",
-      "phoneme": "ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər"
+      "phoneme": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ"
     },
     {
       "word": "DM",
       "alphabet": "ipa",
-      "phoneme": "ˌdaɪəˈbiːtɪz ˈmɛlɪtəs"
+      "phoneme": "ˌdaɪəˈbitiz məˈlaɪtəs"
     },
     {
       "word": "HTN",
       "alphabet": "ipa",
-      "phoneme": "haɪˈpɜːrtənʃən"
+      "phoneme": "ˌhaɪpɚˈtɛnʃən"
     },
     {
       "word": "HLD",
       "alphabet": "ipa",
-      "phoneme": "ˌhaɪpərˈlɪpɪˌdiːmɪə"
+      "phoneme": "ˌhaɪpɚˈlɪpɪˌdimiə"
     },
     {
       "word": "CAD",
       "alphabet": "ipa",
-      "phoneme": "ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz"
+      "phoneme": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz"
     },
     {
       "word": "PVD",
       "alphabet": "ipa",
-      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz"
+      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz"
     },
     {
       "word": "CKD",
       "alphabet": "ipa",
-      "phoneme": "ˌkrɑnɪk ˈkɪdni ˈdɪziːz"
+      "phoneme": "ˈkrɑnɪk ˈkɪdni dɪˈziz"
     },
     {
       "word": "ESRD",
       "alphabet": "ipa",
-      "phoneme": "ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz"
+      "phoneme": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz"
     },
     {
       "word": "AKI",
       "alphabet": "ipa",
-      "phoneme": "ˈækjʊt kɪdˈni ˈɪndʒəri"
+      "phoneme": "əˈkjut ˈkɪdni ˈɪndʒɚi"
     },
     {
       "word": "ASTHMA",
@@ -2319,57 +2234,57 @@
     {
       "word": "GERD",
       "alphabet": "ipa",
-      "phoneme": "ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz"
+      "phoneme": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz"
     },
     {
       "word": "IBD",
       "alphabet": "ipa",
-      "phoneme": "ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz"
+      "phoneme": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz"
     },
     {
       "word": "IBS",
       "alphabet": "ipa",
-      "phoneme": "ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm"
+      "phoneme": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm"
     },
     {
       "word": "NASH",
       "alphabet": "ipa",
-      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs"
+      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs"
     },
     {
       "word": "NAFLD",
       "alphabet": "ipa",
-      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz"
+      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz"
     },
     {
       "word": "HCC",
       "alphabet": "ipa",
-      "phoneme": "ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə"
+      "phoneme": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə"
     },
     {
       "word": "ALL",
       "alphabet": "ipa",
-      "phoneme": "ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+      "phoneme": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə"
     },
     {
       "word": "AML",
       "alphabet": "ipa",
-      "phoneme": "ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə"
+      "phoneme": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə"
     },
     {
       "word": "CLL",
       "alphabet": "ipa",
-      "phoneme": "ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+      "phoneme": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə"
     },
     {
       "word": "CML",
       "alphabet": "ipa",
-      "phoneme": "ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə"
+      "phoneme": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə"
     },
     {
       "word": "NHL",
       "alphabet": "ipa",
-      "phoneme": "ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə"
+      "phoneme": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə"
     },
     {
       "word": "Hodgkin",
@@ -2379,212 +2294,212 @@
     {
       "word": "MM",
       "alphabet": "ipa",
-      "phoneme": "ˈmʌltɪpl ˈmaɪˈloʊmə"
+      "phoneme": "ˈmʌltɪpəl ˌmaɪəˈloʊmə"
     },
     {
       "word": "SLE",
       "alphabet": "ipa",
-      "phoneme": "ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs"
+      "phoneme": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs"
     },
     {
       "word": "RA",
       "alphabet": "ipa",
-      "phoneme": "ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs"
+      "phoneme": "ˌruməˈtɔɪd ɑrˈθraɪtɪs"
     },
     {
       "word": "OA",
       "alphabet": "ipa",
-      "phoneme": "ˈɑːsθrəʊˈaɪtɪs"
+      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs"
     },
     {
       "word": "DJD",
       "alphabet": "ipa",
-      "phoneme": "ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz"
+      "phoneme": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz"
     },
     {
       "word": "GOUT",
       "alphabet": "ipa",
-      "phoneme": "ɡaʊt"
+      "phoneme": "ɡˈaʊt"
     },
     {
       "word": "MG",
       "alphabet": "ipa",
-      "phoneme": "maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən"
+      "phoneme": "ˌmaɪəsˈθiniə ˈɡrævɪs"
     },
     {
       "word": "MS",
       "alphabet": "ipa",
-      "phoneme": "ˈmʌltɪpl sklɪˈroʊsɪs"
+      "phoneme": "ˈmʌltɪpəl skləˈroʊsɪs"
     },
     {
       "word": "ALS",
       "alphabet": "ipa",
-      "phoneme": "əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs"
+      "phoneme": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs"
     },
     {
       "word": "GBS",
       "alphabet": "ipa",
-      "phoneme": "ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm"
+      "phoneme": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm"
     },
     {
       "word": "TBI",
       "alphabet": "ipa",
-      "phoneme": "trəˈmætɪk brɛn ɪnˈdʒʊri"
+      "phoneme": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi"
     },
     {
       "word": "PD",
       "alphabet": "ipa",
-      "phoneme": "pɑːrkɪnsən ˈdɪziːz"
+      "phoneme": "ˈpɑrkɪnsən dɪˌziːz"
     },
     {
       "word": "HD",
       "alphabet": "ipa",
-      "phoneme": "hʌnˈtɪŋtən ˈdɪziːz"
+      "phoneme": "ˈhʌntɪŋtən dɪˌziːz"
     },
     {
       "word": "CJD",
       "alphabet": "ipa",
-      "phoneme": "krʊtsfɛlt dʒækəb ˈdɪziːz"
+      "phoneme": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz"
     },
     {
       "word": "SCI",
       "alphabet": "ipa",
-      "phoneme": "spaɪnəl kɔːrd ɪnˈdʒʊri"
+      "phoneme": "ˈspaɪnəl kɔrd ˈɪndʒəri"
     },
     {
       "word": "CA",
       "alphabet": "ipa",
-      "phoneme": "kɑːnsər"
+      "phoneme": "ˈkænsɚ"
     },
     {
       "word": "N/V",
       "alphabet": "ipa",
-      "phoneme": "nɔːziə ənd voʊmɪtɪŋ"
+      "phoneme": "ˈnɔziə ənd ˈvɑmɪtɪŋ"
     },
     {
       "word": "SOB",
       "alphabet": "ipa",
-      "phoneme": "ʃɔːrtnis əv brɛθ"
+      "phoneme": "ˈʃɔrtnəs əv brɛθ"
     },
     {
       "word": "CP",
       "alphabet": "ipa",
-      "phoneme": "sɛrɪbrəl ˈpɔːlsi"
+      "phoneme": "səˈribrəl ˈpɔlzi"
     },
     {
       "word": "N/V/D",
       "alphabet": "ipa",
-      "phoneme": "nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə"
+      "phoneme": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə"
     },
     {
       "word": "LOC",
       "alphabet": "ipa",
-      "phoneme": "lɑːs əv kɔnˈʃuːʃən"
+      "phoneme": "ˈlɔs əv ˈkɑnʃəsnəs"
     },
     {
       "word": "GCS",
       "alphabet": "ipa",
-      "phoneme": "ɡlæsɡoʊ kɔmə skoːr"
+      "phoneme": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl"
     },
     {
       "word": "HEENT",
       "alphabet": "ipa",
-      "phoneme": "hɛd aɪz ɪrz noʊz ənd θroʊt"
+      "phoneme": "hˈɛd aɪz ɪrz noʊz ən θroʊt"
     },
     {
       "word": "CV",
       "alphabet": "ipa",
-      "phoneme": "kɑːrdjoʊˈvæskjələr"
+      "phoneme": "ˌkɑrdioʊˈvæskjəlɚ"
     },
     {
       "word": "GI",
       "alphabet": "ipa",
-      "phoneme": "ɡæstroʊɪnˈtɛstənəl"
+      "phoneme": "ˌɡæstroʊɪnˈtɛstənəl"
     },
     {
       "word": "GU",
       "alphabet": "ipa",
-      "phoneme": "dʒɛnɪtoʊˈrɪnəri"
+      "phoneme": "ˌdʒɛnɪtoʊˈjʊrɪnɛri"
     },
     {
       "word": "MSK",
       "alphabet": "ipa",
-      "phoneme": "mʌskjoʊsklɪˈlɛtərəl"
+      "phoneme": "ˌmʌskjəloʊˈskɛlətəl"
     },
     {
       "word": "Neuro",
       "alphabet": "ipa",
-      "phoneme": "nʊˈroʊloʊdʒi"
+      "phoneme": "ˈnʊroʊ"
     },
     {
       "word": "Psych",
       "alphabet": "ipa",
-      "phoneme": "saɪˈkætri"
+      "phoneme": "sˈaɪk"
     },
     {
       "word": "Derm",
       "alphabet": "ipa",
-      "phoneme": "dɜːrməˈtɑːlədʒi"
+      "phoneme": "ˈdɝm"
     },
     {
       "word": "ENT",
       "alphabet": "ipa",
-      "phoneme": "ɪr noʊz ənd θroʊt"
+      "phoneme": "ˈɪr noʊz ən θroʊt"
     },
     {
       "word": "OB",
       "alphabet": "ipa",
-      "phoneme": "ɑːbstəˈtrɪks"
+      "phoneme": "əbˈstɛtrɪks"
     },
     {
       "word": "GYN",
       "alphabet": "ipa",
-      "phoneme": "ɡaɪnɪˈkɑːlədʒi"
+      "phoneme": "ˌɡaɪnəˈkɑlədʒi"
     },
     {
       "word": "LMP",
       "alphabet": "ipa",
-      "phoneme": "læst mɛnstrəl ˈpɪriəd"
+      "phoneme": "læst ˈmɛnstruəl ˈpɪriəd"
     },
     {
       "word": "EDC",
       "alphabet": "ipa",
-      "phoneme": "ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment"
+      "phoneme": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt"
     },
     {
       "word": "Gest",
       "alphabet": "ipa",
-      "phoneme": "dʒɛst"
+      "phoneme": "dʒˈɛst"
     },
     {
       "word": "NS",
       "alphabet": "ipa",
-      "phoneme": "nɔːrməl saʊn"
+      "phoneme": "ˈnɔrməl səˈliːn"
     },
     {
       "word": "LR",
       "alphabet": "ipa",
-      "phoneme": "lækˈtɛtˌɪd rɪŋɡərz"
+      "phoneme": "ˈlækteɪtɪd ˈrɪŋɚz"
     },
     {
       "word": "D5W",
       "alphabet": "ipa",
-      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər"
+      "phoneme": "dˈiː faɪv dʌbəlju"
     },
     {
       "word": "D5NS",
       "alphabet": "ipa",
-      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn"
+      "phoneme": "dˈiː faɪv ɛn ɛs"
     },
     {
       "word": "D5LR",
       "alphabet": "ipa",
-      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz"
+      "phoneme": "dˈiː faɪv ɛl ɑr"
     },
     {
       "word": "KCl",
       "alphabet": "ipa",
-      "phoneme": "pəˈtæsiəm klɔːraɪd"
+      "phoneme": "pəˈtæsiəm ˈklɔraɪd"
     },
     {
       "word": "MgSO4",
@@ -2594,117 +2509,117 @@
     {
       "word": "CaCl2",
       "alphabet": "ipa",
-      "phoneme": "kælsiəm klɔːraɪd"
+      "phoneme": "ˈkælsiəm ˈklɔraɪd"
     },
     {
       "word": "NaHCO3",
       "alphabet": "ipa",
-      "phoneme": "soʊdiəm aɪkaɹˈbɒnət"
+      "phoneme": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt"
     },
     {
       "word": "ABG",
       "alphabet": "ipa",
-      "phoneme": "ˈɑːtəriəl bluːd ɡæz"
+      "phoneme": "ɑrˈtɪriəl blʌd ɡæs"
     },
     {
       "word": "VBG",
       "alphabet": "ipa",
-      "phoneme": "vɛnəs bluːd ɡæz"
+      "phoneme": "ˈviːnəs blʌd ɡæs"
     },
     {
       "word": "LP",
       "alphabet": "ipa",
-      "phoneme": "ˈlʌmbər ˈpʌŋktʃər"
+      "phoneme": "ˈlʌmbɚ ˈpʌŋktʃɚ"
     },
     {
       "word": "BM",
       "alphabet": "ipa",
-      "phoneme": "baʊəl muːvmənt"
+      "phoneme": "ˈbaʊəl ˈmuːvmənt"
     },
     {
       "word": "PEG",
       "alphabet": "ipa",
-      "phoneme": "pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi"
+      "phoneme": "pˈɛɡ"
     },
     {
       "word": "ICD",
       "alphabet": "ipa",
-      "phoneme": "ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+      "phoneme": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
     },
     {
       "word": "Pacemaker",
       "alphabet": "ipa",
-      "phoneme": "ˈpeɪsˌmeɪkər"
+      "phoneme": "ˈpeɪsmeɪkɚ"
     },
     {
       "word": "AICD",
       "alphabet": "ipa",
-      "phoneme": "ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+      "phoneme": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
     },
     {
       "word": "CABG",
       "alphabet": "ipa",
-      "phoneme": "ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft"
+      "phoneme": "ˈkæbɪdʒ"
     },
     {
       "word": "PCI",
       "alphabet": "ipa",
-      "phoneme": "pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən"
+      "phoneme": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən"
     },
     {
       "word": "TAVR",
       "alphabet": "ipa",
-      "phoneme": "ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt"
+      "phoneme": "ˈtɑvɚ"
     },
     {
       "word": "TEVAR",
       "alphabet": "ipa",
-      "phoneme": "ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+      "phoneme": "ˈtɛvɚ"
     },
     {
       "word": "EVAR",
       "alphabet": "ipa",
-      "phoneme": "ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+      "phoneme": "ˈivɚ"
     },
     {
       "word": "PTCA",
       "alphabet": "ipa",
-      "phoneme": "pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti"
+      "phoneme": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti"
     },
     {
       "word": "ETOH",
       "alphabet": "ipa",
-      "phoneme": "ˈɛθənɔːl"
+      "phoneme": "ˈælkəˌhɔl"
     },
     {
       "word": "IVDU",
       "alphabet": "ipa",
-      "phoneme": "ˌɪntɹəˈviːnəs dɹʌɡ juːzər"
+      "phoneme": "ˌaɪˈvi drʌɡ ˈjuːs"
     },
     {
       "word": "ASA",
       "alphabet": "ipa",
-      "phoneme": "ˈæspərɪn"
+      "phoneme": "ˈæspɚɪn"
     },
     {
       "word": "NYD",
       "alphabet": "ipa",
-      "phoneme": "nɑːt jɛt dɪˈtɜːrmɪnd"
+      "phoneme": "nɑt jɛt ˌdaɪəɡˈnoʊzd"
     },
     {
       "word": "HX",
       "alphabet": "ipa",
-      "phoneme": "hɪˈstɒri"
+      "phoneme": "ˈhɪstɚi"
     },
     {
       "word": "Sx",
       "alphabet": "ipa",
-      "phoneme": "ˈsɪmpəmz"
+      "phoneme": "ˈsɪmptəmz"
     },
     {
       "word": "Tx",
       "alphabet": "ipa",
-      "phoneme": "ˌtrɛtmənt"
+      "phoneme": "ˈtriːtmənt"
     },
     {
       "word": "Dx",
@@ -2714,42 +2629,22 @@
     {
       "word": "Rx",
       "alphabet": "ipa",
-      "phoneme": "ˌpɝːskrɪpʃən"
+      "phoneme": "prɪˈskrɪpʃən"
     },
     {
       "word": "FHx",
       "alphabet": "ipa",
-      "phoneme": "ˌfæmɪli hɪˈstɒri"
+      "phoneme": "ˈfæməli ˈhɪstɚi"
     },
     {
       "word": "SHx",
       "alphabet": "ipa",
-      "phoneme": "ˌsɝːʒəkəl hɪˈstɒri"
-    },
-    {
-      "word": "myocardial infarction",
-      "alphabet": "ipa",
-      "phoneme": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən"
-    },
-    {
-      "word": "angina pectoris",
-      "alphabet": "ipa",
-      "phoneme": "ænˈdʒaɪnə ˈpɛktərɪs"
+      "phoneme": "ˈsoʊʃəl ˈhɪstɚi"
     },
     {
       "word": "arrhythmia",
       "alphabet": "ipa",
       "phoneme": "əˈrɪðmiə"
-    },
-    {
-      "word": "atrial fibrillation",
-      "alphabet": "ipa",
-      "phoneme": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən"
-    },
-    {
-      "word": "ventricular fibrillation",
-      "alphabet": "ipa",
-      "phoneme": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən"
     },
     {
       "word": "tachycardia",
@@ -2902,11 +2797,6 @@
       "phoneme": "ˌhiːmoʊˈθɔːræks"
     },
     {
-      "word": "pleural effusion",
-      "alphabet": "ipa",
-      "phoneme": "ˈplʊrəl ɪˈfjuːʒən"
-    },
-    {
       "word": "pleurisy",
       "alphabet": "ipa",
       "phoneme": "ˈplʊrɪsi"
@@ -2915,21 +2805,6 @@
       "word": "atelectasis",
       "alphabet": "ipa",
       "phoneme": "ˌætəˈlɛktəsɪs"
-    },
-    {
-      "word": "pulmonary embolism",
-      "alphabet": "ipa",
-      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
-    },
-    {
-      "word": "pulmonary edema",
-      "alphabet": "ipa",
-      "phoneme": "ˈpʊlməˌnɛri ɪˈdiːmə"
-    },
-    {
-      "word": "pulmonary fibrosis",
-      "alphabet": "ipa",
-      "phoneme": "ˈpʊlməˌnɛri faɪˈbroʊsɪs"
     },
     {
       "word": "sarcoidosis",
@@ -2952,11 +2827,6 @@
       "phoneme": "ˌhaɪpərˈkæpniə"
     },
     {
-      "word": "respiratory failure",
-      "alphabet": "ipa",
-      "phoneme": "ˈrɛspərəˌtɔːri ˈfeɪljər"
-    },
-    {
       "word": "apnea",
       "alphabet": "ipa",
       "phoneme": "æpˈniːə"
@@ -2964,7 +2834,7 @@
     {
       "word": "dyspnea",
       "alphabet": "ipa",
-      "phoneme": "dɪspˈniːə"
+      "phoneme": "ˈdɪspniə"
     },
     {
       "word": "hemoptysis",
@@ -2987,11 +2857,6 @@
       "phoneme": "kəˈraɪzə"
     },
     {
-      "word": "gastroesophageal reflux",
-      "alphabet": "ipa",
-      "phoneme": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks"
-    },
-    {
       "word": "esophagitis",
       "alphabet": "ipa",
       "phoneme": "ɪˌsɑːfəˈdʒaɪtɪs"
@@ -3002,11 +2867,6 @@
       "phoneme": "ɡæˈstraɪtɪs"
     },
     {
-      "word": "peptic ulcer",
-      "alphabet": "ipa",
-      "phoneme": "ˈpɛptɪk ˈʌlsɚ"
-    },
-    {
       "word": "gastroenteritis",
       "alphabet": "ipa",
       "phoneme": "ˌɡæstroʊˌɛntɚˈaɪtɪs"
@@ -3015,16 +2875,6 @@
       "word": "colitis",
       "alphabet": "ipa",
       "phoneme": "kəˈlaɪtɪs"
-    },
-    {
-      "word": "ulcerative colitis",
-      "alphabet": "ipa",
-      "phoneme": "ˈʌlsɚətɪv kəˈlaɪtɪs"
-    },
-    {
-      "word": "Crohn's disease",
-      "alphabet": "ipa",
-      "phoneme": "kroʊnz dɪˈziz"
     },
     {
       "word": "diverticulitis",
@@ -3654,7 +3504,7 @@
     {
       "word": "impetigo",
       "alphabet": "ipa",
-      "phoneme": "ˌɪmpɪˈtaɪgoʊ"
+      "phoneme": "ˌɪmpɪˈtaɪɡoʊ"
     },
     {
       "word": "erysipelas",
@@ -3662,19 +3512,9 @@
       "phoneme": "ˌɛrɪˈsɪpələs"
     },
     {
-      "word": "necrotizing fasciitis",
-      "alphabet": "ipa",
-      "phoneme": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs"
-    },
-    {
       "word": "osteomyelitis",
       "alphabet": "ipa",
       "phoneme": "ˌɒstioʊˌmaɪəˈlaɪtɪs"
-    },
-    {
-      "word": "septic arthritis",
-      "alphabet": "ipa",
-      "phoneme": "ˈsɛptɪk ɑːrˈθraɪtɪs"
     },
     {
       "word": "sepsis",
@@ -3779,17 +3619,17 @@
     {
       "word": "plaque",
       "alphabet": "ipa",
-      "phoneme": "plæk"
+      "phoneme": "plˈæk"
     },
     {
       "word": "scale",
       "alphabet": "ipa",
-      "phoneme": "skeɪl"
+      "phoneme": "skˈeɪl"
     },
     {
       "word": "crust",
       "alphabet": "ipa",
-      "phoneme": "krʌst"
+      "phoneme": "krˈʌst"
     },
     {
       "word": "erosion",
@@ -4067,11 +3907,6 @@
       "phoneme": "ˌmɛzoʊˈθiliəm"
     },
     {
-      "word": "stratum corneum",
-      "alphabet": "ipa",
-      "phoneme": "ˈstreɪtəm ˈkɔrniəm"
-    },
-    {
       "word": "dermis",
       "alphabet": "ipa",
       "phoneme": "ˈdɜrmɪs"
@@ -4284,7 +4119,7 @@
     {
       "word": "lobe",
       "alphabet": "ipa",
-      "phoneme": "loʊb"
+      "phoneme": "lˈoʊb"
     },
     {
       "word": "lobule",
@@ -4325,11 +4160,6 @@
       "word": "ductus",
       "alphabet": "ipa",
       "phoneme": "ˈdʌktəs"
-    },
-    {
-      "word": "vas deferens",
-      "alphabet": "ipa",
-      "phoneme": "væs dɛfərɛnz"
     },
     {
       "word": "epididymis",
@@ -4527,11 +4357,6 @@
       "phoneme": "ˈkʊfər"
     },
     {
-      "word": "space of Disse",
-      "alphabet": "ipa",
-      "phoneme": "speɪs əv dɪs"
-    },
-    {
       "word": "canaliculi",
       "alphabet": "ipa",
       "phoneme": "ˌkænəˈlɪkjəlaɪ"
@@ -4540,21 +4365,6 @@
       "word": "falciform",
       "alphabet": "ipa",
       "phoneme": "ˈfælsɪfɔrm"
-    },
-    {
-      "word": "ligamentum teres",
-      "alphabet": "ipa",
-      "phoneme": "ˌlɪɡəˈmɛntəm ˈtɛriz"
-    },
-    {
-      "word": "ligamentum venosum",
-      "alphabet": "ipa",
-      "phoneme": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm"
-    },
-    {
-      "word": "porta hepatis",
-      "alphabet": "ipa",
-      "phoneme": "ˈpɔrtə ˈhɛpətɪs"
     },
     {
       "word": "coronary",
@@ -4572,34 +4382,9 @@
       "phoneme": "ˌɪntərvɛnˈtrɪkjələr"
     },
     {
-      "word": "interventricular septum",
-      "alphabet": "ipa",
-      "phoneme": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm"
-    },
-    {
-      "word": "papillary muscle",
-      "alphabet": "ipa",
-      "phoneme": "ˈpæpɪlɛri ˈmʌsəl"
-    },
-    {
-      "word": "chordae tendineae",
-      "alphabet": "ipa",
-      "phoneme": "ˈkɔrdi tɛnˈdɪnii"
-    },
-    {
-      "word": "valve",
-      "alphabet": "ipa",
-      "phoneme": "vælv"
-    },
-    {
       "word": "leaflet",
       "alphabet": "ipa",
       "phoneme": "ˈlifət"
-    },
-    {
-      "word": "cusp",
-      "alphabet": "ipa",
-      "phoneme": "kʌsp"
     },
     {
       "word": "semilunar",
@@ -4620,21 +4405,6 @@
       "word": "sinoatrial",
       "alphabet": "ipa",
       "phoneme": "ˌsaɪnoʊˈeɪtriəl"
-    },
-    {
-      "word": "coronary sinus",
-      "alphabet": "ipa",
-      "phoneme": "ˈkɔrənɛri ˈsaɪnəs"
-    },
-    {
-      "word": "vena cava",
-      "alphabet": "ipa",
-      "phoneme": "ˈvinə ˈkeɪvə"
-    },
-    {
-      "word": "pulmonary trunk",
-      "alphabet": "ipa",
-      "phoneme": "ˈpʊlmənɛri trʌŋk"
     },
     {
       "word": "aorta",
@@ -4662,29 +4432,14 @@
       "phoneme": "ˈbæsɪlɚ"
     },
     {
-      "word": "circle of Willis",
-      "alphabet": "ipa",
-      "phoneme": "ˈsɝːkəl əv ˈwɪlɪs"
-    },
-    {
       "word": "meninges",
       "alphabet": "ipa",
       "phoneme": "məˈnɪndʒiːz"
     },
     {
-      "word": "dura mater",
-      "alphabet": "ipa",
-      "phoneme": "ˈdʊrə ˈmeɪtɚ"
-    },
-    {
       "word": "arachnoid",
       "alphabet": "ipa",
       "phoneme": "əˈræknɔɪd"
-    },
-    {
-      "word": "pia mater",
-      "alphabet": "ipa",
-      "phoneme": "ˈpiːə ˈmeɪtɚ"
     },
     {
       "word": "subdural",
@@ -4717,36 +4472,6 @@
       "phoneme": "ˈækwɪdʌkt"
     },
     {
-      "word": "choroid plexus",
-      "alphabet": "ipa",
-      "phoneme": "ˈkɔːrɔɪd ˈplɛksəs"
-    },
-    {
-      "word": "cauda equina",
-      "alphabet": "ipa",
-      "phoneme": "ˈkɔːdə ɪˈkwaɪnə"
-    },
-    {
-      "word": "filum terminale",
-      "alphabet": "ipa",
-      "phoneme": "ˈfaɪləm ˌtɝːmɪˈnɑːli"
-    },
-    {
-      "word": "conus medullaris",
-      "alphabet": "ipa",
-      "phoneme": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs"
-    },
-    {
-      "word": "dorsal root",
-      "alphabet": "ipa",
-      "phoneme": "ˈdɔːrsəl ruːt"
-    },
-    {
-      "word": "ventral root",
-      "alphabet": "ipa",
-      "phoneme": "ˈvɛntrəl ruːt"
-    },
-    {
       "word": "ganglion",
       "alphabet": "ipa",
       "phoneme": "ˈɡæŋɡliən"
@@ -4765,11 +4490,6 @@
       "word": "vagus",
       "alphabet": "ipa",
       "phoneme": "ˈveɪɡəs"
-    },
-    {
-      "word": "recurrent laryngeal",
-      "alphabet": "ipa",
-      "phoneme": "rɪˈkɝːənt ləˈrɪndʒiəl"
     },
     {
       "word": "facial",
@@ -4810,6 +4530,31 @@
       "word": "abducens",
       "alphabet": "ipa",
       "phoneme": "æbˈdjuːsənz"
+    },
+    {
+      "word": "angina",
+      "alphabet": "ipa",
+      "phoneme": "ænˈdʒaɪnə"
+    },
+    {
+      "word": "epinephrine",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈnɛfrɪn"
+    },
+    {
+      "word": "naloxone",
+      "alphabet": "ipa",
+      "phoneme": "nəˈlɑksoʊn"
+    },
+    {
+      "word": "hyperlipidemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərlɪˈpɪmiə"
+    },
+    {
+      "word": "osteoarthritis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs"
     }
   ]
 }

@@ -1,9 +1,9 @@
 # Medical Pronunciation Dictionary
 
-Prepackaged medical pronunciation dictionary for voice AI TTS engines. 962 drugs, clinical terms, anatomical terms, and medical acronyms with both phonetic alias and IPA pronunciations. Imports into Telnyx, ElevenLabs, Vapi, Retell, and Amazon Polly.
+Prepackaged medical pronunciation dictionary for voice AI TTS engines. 966 drugs, clinical terms, anatomical terms, and medical acronyms with both phonetic alias and IPA pronunciations. Imports into Telnyx, ElevenLabs, Vapi, Retell, and Amazon Polly.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Terms](https://img.shields.io/badge/terms-962-brightgreen)]()
+[![Terms](https://img.shields.io/badge/terms-966-brightgreen)]()
 [![Providers](https://img.shields.io/badge/providers-5-blue)]()
 [![Formats](https://img.shields.io/badge/formats-alias%20%2B%20IPA-orange)]()
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)]()
@@ -21,7 +21,7 @@ python3 import_to_telnyx.py --dry-run   # preview
 python3 import_to_telnyx.py             # create
 ```
 
-Reads `providers/telnyx/` and creates 20 pronunciation dictionaries in your Telnyx account, 1924 entries total: an alias entry and an IPA phoneme entry per term. Telnyx caps dictionaries at 100 items, so the pack splits automatically.
+Reads `providers/telnyx/` and creates 10 pronunciation dictionaries in your Telnyx account, 966 IPA phoneme entries total. Telnyx caps dictionaries at 100 items and rejects duplicate text entries, so the pack uses one phoneme entry per term.
 
 ### Telnyx Portal
 
@@ -81,23 +81,24 @@ This pack provides both. Providers that support IPA (Telnyx Ultra, MiniMax, Inwo
 
 | Provider | Format | Alias | IPA | Files |
 |----------|--------|-------|-----|-------|
-| Telnyx | JSON items | Yes | Yes | `providers/telnyx/` (20 JSON, 100 entries each) |
-| Telnyx | PLS XML | Yes | Yes | `pls/` (11 PLS) |
-| ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS) |
-| Vapi | JSON | Yes | Yes (`<<ipa>>` syntax) | `providers/vapi/` (1 JSON, 1924 items) |
-| Amazon Polly | PLS XML | No | Yes | `providers/amazon-polly/` (10 PLS) |
-| Retell | JSON | No | Yes | `providers/retell/` (1 JSON, 962 items) |
+| Telnyx | JSON items | No | Yes | `providers/telnyx/` (10 JSON, 100 phoneme entries each) |
+| Telnyx | PLS XML | Yes | Yes | `pls/` (11 PLS, alias-only legacy format) |
+| ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS, alias + phoneme per lexeme) |
+| Vapi | JSON | No | Yes | `providers/vapi/` (1 JSON, 966 `<<ipa>>` entries) |
+| Amazon Polly | PLS XML | No | Yes | `providers/amazon-polly/` (10 PLS, phoneme only, en-US) |
+| Retell | JSON | No | Yes | `providers/retell/` (1 JSON, 911 word-level entries) |
+| STT | Keyterms | N/A | N/A | `providers/stt/keyterms.txt` (comma-separated, 966 terms) |
 | Generic | CSV + JSON | Yes | Yes | `providers/generic/` |
 
 ## Coverage
 
 | Category | Count | Examples |
 |----------|-------|---------|
-| Drugs | 396 | atorvastatin, omeprazole, metformin, sertraline |
-| Clinical terms | 265 | myocardial infarction, cholecystectomy, atrial fibrillation |
+| Drugs | 398 | atorvastatin, omeprazole, metformin, sertraline |
+| Clinical terms | 267 | myocardial infarction, cholecystectomy, atrial fibrillation |
 | Anatomical terms | 152 | epithelium, myocardium, synovium, choroid plexus |
 | Medical acronyms | 149 | MI, COPD, CHF, UTI, HbA1c, SpO2 |
-| **Total** | **962** | |
+| **Total** | **966** | |
 
 ## File structure
 
@@ -166,7 +167,13 @@ This format is chosen over IPA because:
 - Human-readable and easy to audit
 - Simple to edit without phonetic expertise
 
-The initial 962 aliases were generated using an LLM with a medical pronunciation prompt, then spot-checked. The IPA was generated the same way. Both are known to contain errors, and in places the alias and the IPA for the same term disagree. If you find a wrong pronunciation, open a PR with the correction in `data/terms_master.json`.
+The initial 966 aliases and IPA entries were generated using an LLM with a medical pronunciation prompt. Pronunciations have not been reviewed by a clinician or pharmacist. Both alias and IPA are known to contain errors in some entries. If you find a wrong pronunciation, open a PR with the correction in `data/terms_master.json`.
+
+For production healthcare deployments, have a clinician or pharmacist review at least the top 100 most common drug pronunciations before shipping.
+
+## Telnyx dictionary quota
+
+This pack creates 10 dictionaries (one per 100 terms). Telnyx allows 50 dictionaries per organization, so this pack uses 20% of the quota. If you need to import additional pronunciation dictionaries for other domains, you have 40 slots remaining.
 
 ## Contributing
 

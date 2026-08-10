@@ -9,7 +9,7 @@
   },
   "lisinopril": {
     "alias": "ly-SIN-oh-pril",
-    "ipa": "laɪˈsɪ.nə.prɪl"
+    "ipa": "laɪˈsɪnoʊprɪl"
   },
   "metoprolol": {
     "alias": "me-TOE-pro-lol",
@@ -77,7 +77,7 @@
   },
   "furosemide": {
     "alias": "fur-OH-se-mide",
-    "ipa": "fjʊˈroʊ.səˌmaɪd"
+    "ipa": "fʊˈroʊsəmaɪd"
   },
   "hydrochlorothiazide": {
     "alias": "hy-dro-KLOR-oh-THY-a-zide",
@@ -377,7 +377,7 @@
   },
   "vancomycin": {
     "alias": "van-ko-MY-sin",
-    "ipa": "væŋˈkoʊmaɪsɪn"
+    "ipa": "væŋkoʊˈmaɪsɪn"
   },
   "levofloxacin": {
     "alias": "lee-vo-FLOX-a-sin",
@@ -669,7 +669,7 @@
   },
   "granisetron": {
     "alias": "gran-IS-eh-tron",
-    "ipa": "grəˈnɪsətrɒn"
+    "ipa": "ɡrəˈnɪsətrɒn"
   },
   "palonosetron": {
     "alias": "pal-oh-NOH-seh-tron",
@@ -1161,11 +1161,11 @@
   },
   "methotrexate": {
     "alias": "meth-oh-TREK-sate",
-    "ipa": "ˌmɛθəˈtɹɛkseɪt"
+    "ipa": "ˌmɛθəˈtrɛkseɪt"
   },
   "pemetrexed": {
     "alias": "pem-e-TREK-sed",
-    "ipa": "ˌpɛmɪˈtɹɛksɛd"
+    "ipa": "ˌpɛmɪˈtrɛksɛd"
   },
   "gemcitabine": {
     "alias": "jem-SITE-a-been",
@@ -1585,19 +1585,19 @@
   },
   "MI": {
     "alias": "myocardial infarction",
-    "ipa": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən"
+    "ipa": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən"
   },
   "COPD": {
     "alias": "chronic obstructive pulmonary disease",
-    "ipa": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz"
+    "ipa": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz"
   },
   "CHF": {
     "alias": "congestive heart failure",
-    "ipa": "kənˈɡɛstɪv hɑrt ˈfɜːr"
+    "ipa": "kənˈdʒɛstɪv hɑrt ˈfeljɚ"
   },
   "UTI": {
     "alias": "urinary tract infection",
-    "ipa": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən"
+    "ipa": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən"
   },
   "MRI": {
     "alias": "magnetic resonance imaging",
@@ -1613,239 +1613,239 @@
   },
   "ECG": {
     "alias": "electrocardiogram",
-    "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+    "ipa": "ɪˌlɛktroʊˈkɑrdiəˌɡræm"
   },
   "EEG": {
     "alias": "electroencephalogram",
-    "ipa": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm"
+    "ipa": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm"
   },
   "BUN": {
     "alias": "blood urea nitrogen",
-    "ipa": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən"
+    "ipa": "blʌd jʊˈriə ˈnaɪtrədʒən"
   },
   "CMP": {
     "alias": "comprehensive metabolic panel",
-    "ipa": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl"
+    "ipa": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl"
   },
   "CBC": {
     "alias": "complete blood count",
-    "ipa": "ˌkɑmpliːt ˈblʌd ˈkaʊnt"
+    "ipa": "kəmˈplit blʌd kaʊnt"
   },
   "TSH": {
     "alias": "thyroid stimulating hormone",
-    "ipa": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn"
+    "ipa": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn"
   },
   "HbA1c": {
     "alias": "hemoglobin A one C",
-    "ipa": "ˌheməɡloʊbɪn eɪ wʌn siː"
+    "ipa": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si"
   },
   "PT": {
     "alias": "prothrombin time",
-    "ipa": "ˌprɑθrɑmbɪn ˈtaɪm"
+    "ipa": "proʊˈθrɑmbɪn taɪm"
   },
   "INR": {
     "alias": "international normalized ratio",
-    "ipa": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ"
+    "ipa": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ"
   },
   "PTT": {
     "alias": "partial thromboplastin time",
-    "ipa": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm"
+    "ipa": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm"
   },
   "DVT": {
     "alias": "deep vein thrombosis",
-    "ipa": "ˌdiːp veɪn ˈθrɑmbəˌsɪs"
+    "ipa": "dip ven θrɑmˈboʊsɪs"
   },
   "PE": {
     "alias": "pulmonary embolism",
-    "ipa": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm"
+    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
   },
   "CVA": {
     "alias": "cerebrovascular accident",
-    "ipa": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt"
+    "ipa": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt"
   },
   "TIA": {
     "alias": "transient ischemic attack",
-    "ipa": "trænˈzɪənt ɪˈskɛmɪk əˈtæk"
+    "ipa": "ˈtrænziənt ɪsˈkimɪk əˈtæk"
   },
   "ICU": {
     "alias": "intensive care unit",
-    "ipa": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+    "ipa": "ɪnˈtɛnsɪv kɛr ˈjunɪt"
   },
   "NICU": {
     "alias": "neonatal intensive care unit",
-    "ipa": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+    "ipa": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
   },
   "ER": {
     "alias": "emergency room",
-    "ipa": "ɪmˈɜːrdʒənsi ˈruːm"
+    "ipa": "ɪˈmɜrdʒənsi rum"
   },
   "ED": {
     "alias": "emergency department",
-    "ipa": "ˌɛrˈdiː"
+    "ipa": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt"
   },
   "OR": {
     "alias": "operating room",
-    "ipa": "ˈɔr"
+    "ipa": "ˈɑpəˌretɪŋ rum"
   },
   "PACU": {
     "alias": "post-anesthesia care unit",
-    "ipa": "pəˈkuː"
+    "ipa": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt"
   },
   "CCU": {
     "alias": "coronary care unit",
-    "ipa": "ˌsiːˌsiːˈjuː"
+    "ipa": "ˈkɔrəˌnɛri kɛr ˈjunɪt"
   },
   "SICU": {
     "alias": "surgical intensive care unit",
-    "ipa": "ˌɛsˌaɪˌsiːˈjuː"
+    "ipa": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
   },
   "MICU": {
     "alias": "medical intensive care unit",
-    "ipa": "ˌɛmˌaɪˌsiːˈjuː"
+    "ipa": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
   },
   "BP": {
     "alias": "blood pressure",
-    "ipa": "ˌbiːˈpiː"
+    "ipa": "ˈblʌd ˈprɛʃɚ"
   },
   "HR": {
     "alias": "heart rate",
-    "ipa": "ˌeɪtʃˈɑr"
+    "ipa": "ˈhɑrt ˈreɪt"
   },
   "RR": {
     "alias": "respiratory rate",
-    "ipa": "ˌɑrˈɑr"
+    "ipa": "ˈrɛspɚəˌtɔri ˈreɪt"
   },
   "SpO2": {
     "alias": "saturation of peripheral oxygen",
-    "ipa": "ˌɛsˌpiːˈoʊ tuː"
+    "ipa": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən"
   },
   "ETCO2": {
     "alias": "end-tidal carbon dioxide",
-    "ipa": "ˌiːˌtiːˌsiːˈoʊ tuː"
+    "ipa": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd"
   },
   "IV": {
     "alias": "intravenous",
-    "ipa": "ˌaɪˈviː"
+    "ipa": "ˌɪntrəˈvinəs"
   },
   "IM": {
     "alias": "intramuscular",
-    "ipa": "ˌaɪˈɛm"
+    "ipa": "ˌɪntrəˈmʌskjəlɚ"
   },
   "SC": {
     "alias": "subcutaneous",
-    "ipa": "ˌɛsˈsiː"
+    "ipa": "ˌsʌbkjuˈteɪniəs"
   },
   "PO": {
     "alias": "by mouth",
-    "ipa": "ˌpiːˈoʊ"
+    "ipa": "baɪ ˈmaʊθ"
   },
   "PR": {
     "alias": "per rectum",
-    "ipa": "ˌpiːˈɑr"
+    "ipa": "pɚ ˈrɛktəm"
   },
   "SL": {
     "alias": "sublingual",
-    "ipa": "ˌɛsˈɛl"
+    "ipa": "sʌbˈlɪŋɡwəl"
   },
   "OD": {
     "alias": "right eye",
-    "ipa": "ˌoʊˈdiː"
+    "ipa": "ˈraɪt ˈaɪ"
   },
   "OS": {
     "alias": "left eye",
-    "ipa": "ˌoʊˈɛs"
+    "ipa": "ˈlɛft ˈaɪ"
   },
   "OU": {
     "alias": "both eyes",
-    "ipa": "ˌoʊˈjuː"
+    "ipa": "ˈboʊθ ˈaɪz"
   },
   "AU": {
     "alias": "both ears",
-    "ipa": "ˌeɪˈjuː"
+    "ipa": "ˈboʊθ ˈɪrz"
   },
   "AD": {
     "alias": "right ear",
-    "ipa": "ˌeɪˈdiː"
+    "ipa": "ˈraɪt ˈɪr"
   },
   "AS": {
     "alias": "left ear",
-    "ipa": "ˌeɪˈɛs"
+    "ipa": "ˈlɛft ˈɪr"
   },
   "APAP": {
     "alias": "acetaminophen",
-    "ipa": "ˈeɪpæp"
+    "ipa": "əˌsitəˈmɪnəfən"
   },
   "NSAID": {
     "alias": "non-steroidal anti-inflammatory drug",
-    "ipa": "ˈɛnsɛd"
+    "ipa": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ"
   },
   "PPI": {
     "alias": "proton pump inhibitor",
-    "ipa": "ˌpiːˌpiːˈaɪ"
+    "ipa": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ"
   },
   "ARB": {
     "alias": "angiotensin receptor blocker",
-    "ipa": "ˌeɪˌɑrˈbiː"
+    "ipa": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ"
   },
   "ACE": {
     "alias": "angiotensin-converting enzyme",
-    "ipa": "ˈeɪs"
+    "ipa": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm"
   },
   "BB": {
     "alias": "beta blocker",
-    "ipa": "ˌbiːˈbiː"
+    "ipa": "ˈbeɪtə ˈblɑkɚ"
   },
   "CCB": {
     "alias": "calcium channel blocker",
-    "ipa": "ˌsiːˌsiːˈbiː"
+    "ipa": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ"
   },
   "SSRI": {
     "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter",
-    "ipa": "ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər"
+    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
   },
   "SNRI": {
     "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter",
-    "ipa": "ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər"
+    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
   },
   "TCA": {
     "alias": "tri-SIK-lik an-TI-de-PRE-sant",
-    "ipa": "ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt"
+    "ipa": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt"
   },
   "MAOI": {
     "alias": "mono-amine OK-si-DASE in-HIB-i-ter",
-    "ipa": "ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər"
+    "ipa": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ"
   },
   "DM": {
     "alias": "di-a-BE-teez mel-LI-tus",
-    "ipa": "ˌdaɪəˈbiːtɪz ˈmɛlɪtəs"
+    "ipa": "ˌdaɪəˈbitiz məˈlaɪtəs"
   },
   "HTN": {
     "alias": "hi-per-TEN-shun",
-    "ipa": "haɪˈpɜːrtənʃən"
+    "ipa": "ˌhaɪpɚˈtɛnʃən"
   },
   "HLD": {
     "alias": "hi-per-LIP-i-dee-mee-uh",
-    "ipa": "ˌhaɪpərˈlɪpɪˌdiːmɪə"
+    "ipa": "ˌhaɪpɚˈlɪpɪˌdimiə"
   },
   "CAD": {
     "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ",
-    "ipa": "ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz"
+    "ipa": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz"
   },
   "PVD": {
     "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ",
-    "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz"
+    "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz"
   },
   "CKD": {
     "alias": "kron-ik KID-nee di-ZEEZ",
-    "ipa": "ˌkrɑnɪk ˈkɪdni ˈdɪziːz"
+    "ipa": "ˈkrɑnɪk ˈkɪdni dɪˈziz"
   },
   "ESRD": {
     "alias": "end-STAGE re-NAL di-ZEEZ",
-    "ipa": "ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz"
+    "ipa": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz"
   },
   "AKI": {
     "alias": "ak-YOOT KID-nee in-JER-ee",
-    "ipa": "ˈækjʊt kɪdˈni ˈɪndʒəri"
+    "ipa": "əˈkjut ˈkɪdni ˈɪndʒɚi"
   },
   "ASTHMA": {
     "alias": "AZ-muh",
@@ -1853,47 +1853,47 @@
   },
   "GERD": {
     "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ",
-    "ipa": "ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz"
+    "ipa": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz"
   },
   "IBD": {
     "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ",
-    "ipa": "ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz"
+    "ipa": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz"
   },
   "IBS": {
     "alias": "i-RI-ta-bul bo-WEL SIN-drom",
-    "ipa": "ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm"
+    "ipa": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm"
   },
   "NASH": {
     "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis",
-    "ipa": "ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs"
+    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs"
   },
   "NAFLD": {
     "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ",
-    "ipa": "ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz"
+    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz"
   },
   "HCC": {
     "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma",
-    "ipa": "ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə"
+    "ipa": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə"
   },
   "ALL": {
     "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh",
-    "ipa": "ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+    "ipa": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə"
   },
   "AML": {
     "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh",
-    "ipa": "ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə"
+    "ipa": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə"
   },
   "CLL": {
     "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh",
-    "ipa": "ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+    "ipa": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə"
   },
   "CML": {
     "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh",
-    "ipa": "ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə"
+    "ipa": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə"
   },
   "NHL": {
     "alias": "non-HOJ-kin lym-FO-ma",
-    "ipa": "ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə"
+    "ipa": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə"
   },
   "Hodgkin": {
     "alias": "HOJ-kin",
@@ -1901,171 +1901,171 @@
   },
   "MM": {
     "alias": "mul-TI-pul my-eh-LO-ma",
-    "ipa": "ˈmʌltɪpl ˈmaɪˈloʊmə"
+    "ipa": "ˈmʌltɪpəl ˌmaɪəˈloʊmə"
   },
   "SLE": {
     "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus",
-    "ipa": "ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs"
+    "ipa": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs"
   },
   "RA": {
     "alias": "rew-ma-TOYD ar-THRI-tis",
-    "ipa": "ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs"
+    "ipa": "ˌruməˈtɔɪd ɑrˈθraɪtɪs"
   },
   "OA": {
     "alias": "os-tee-o-ar-THRI-tis",
-    "ipa": "ˈɑːsθrəʊˈaɪtɪs"
+    "ipa": "ˌɑstioʊɑrˈθraɪtɪs"
   },
   "DJD": {
     "alias": "de-JEN-er-a-tiv jint di-ZEEZ",
-    "ipa": "ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz"
+    "ipa": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz"
   },
   "GOUT": {
     "alias": "gowt",
-    "ipa": "ɡaʊt"
+    "ipa": "ɡˈaʊt"
   },
   "MG": {
     "alias": "myasthenia gravis",
-    "ipa": "maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən"
+    "ipa": "ˌmaɪəsˈθiniə ˈɡrævɪs"
   },
   "MS": {
     "alias": "multiple sclerosis",
-    "ipa": "ˈmʌltɪpl sklɪˈroʊsɪs"
+    "ipa": "ˈmʌltɪpəl skləˈroʊsɪs"
   },
   "ALS": {
     "alias": "amyotrophic lateral sclerosis",
-    "ipa": "əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs"
+    "ipa": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs"
   },
   "GBS": {
     "alias": "Guillain-Barré syndrome",
-    "ipa": "ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm"
+    "ipa": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm"
   },
   "TBI": {
     "alias": "traumatic brain injury",
-    "ipa": "trəˈmætɪk brɛn ɪnˈdʒʊri"
+    "ipa": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi"
   },
   "PD": {
     "alias": "Parkinson disease",
-    "ipa": "pɑːrkɪnsən ˈdɪziːz"
+    "ipa": "ˈpɑrkɪnsən dɪˌziːz"
   },
   "HD": {
     "alias": "Huntington disease",
-    "ipa": "hʌnˈtɪŋtən ˈdɪziːz"
+    "ipa": "ˈhʌntɪŋtən dɪˌziːz"
   },
   "CJD": {
     "alias": "Creutzfeldt-Jakob disease",
-    "ipa": "krʊtsfɛlt dʒækəb ˈdɪziːz"
+    "ipa": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz"
   },
   "SCI": {
     "alias": "spinal cord injury",
-    "ipa": "spaɪnəl kɔːrd ɪnˈdʒʊri"
+    "ipa": "ˈspaɪnəl kɔrd ˈɪndʒəri"
   },
   "CA": {
     "alias": "cancer",
-    "ipa": "kɑːnsər"
+    "ipa": "ˈkænsɚ"
   },
   "N/V": {
     "alias": "nausea and vomiting",
-    "ipa": "nɔːziə ənd voʊmɪtɪŋ"
+    "ipa": "ˈnɔziə ənd ˈvɑmɪtɪŋ"
   },
   "SOB": {
     "alias": "shortness of breath",
-    "ipa": "ʃɔːrtnis əv brɛθ"
+    "ipa": "ˈʃɔrtnəs əv brɛθ"
   },
   "CP": {
     "alias": "cerebral palsy",
-    "ipa": "sɛrɪbrəl ˈpɔːlsi"
+    "ipa": "səˈribrəl ˈpɔlzi"
   },
   "N/V/D": {
     "alias": "nausea vomiting and diarrhea",
-    "ipa": "nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə"
+    "ipa": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə"
   },
   "LOC": {
     "alias": "loss of consciousness",
-    "ipa": "lɑːs əv kɔnˈʃuːʃən"
+    "ipa": "ˈlɔs əv ˈkɑnʃəsnəs"
   },
   "GCS": {
     "alias": "Glasgow Coma Scale",
-    "ipa": "ɡlæsɡoʊ kɔmə skoːr"
+    "ipa": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl"
   },
   "HEENT": {
     "alias": "head eyes ears nose and throat",
-    "ipa": "hɛd aɪz ɪrz noʊz ənd θroʊt"
+    "ipa": "hˈɛd aɪz ɪrz noʊz ən θroʊt"
   },
   "CV": {
     "alias": "cardiovascular",
-    "ipa": "kɑːrdjoʊˈvæskjələr"
+    "ipa": "ˌkɑrdioʊˈvæskjəlɚ"
   },
   "GI": {
     "alias": "gastrointestinal",
-    "ipa": "ɡæstroʊɪnˈtɛstənəl"
+    "ipa": "ˌɡæstroʊɪnˈtɛstənəl"
   },
   "GU": {
     "alias": "genitourinary",
-    "ipa": "dʒɛnɪtoʊˈrɪnəri"
+    "ipa": "ˌdʒɛnɪtoʊˈjʊrɪnɛri"
   },
   "MSK": {
     "alias": "musculoskeletal",
-    "ipa": "mʌskjoʊsklɪˈlɛtərəl"
+    "ipa": "ˌmʌskjəloʊˈskɛlətəl"
   },
   "Neuro": {
     "alias": "NEU-roh",
-    "ipa": "nʊˈroʊloʊdʒi"
+    "ipa": "ˈnʊroʊ"
   },
   "Psych": {
     "alias": "SYKE",
-    "ipa": "saɪˈkætri"
+    "ipa": "sˈaɪk"
   },
   "Derm": {
     "alias": "derm",
-    "ipa": "dɜːrməˈtɑːlədʒi"
+    "ipa": "ˈdɝm"
   },
   "ENT": {
     "alias": "ear nose and throat",
-    "ipa": "ɪr noʊz ənd θroʊt"
+    "ipa": "ˈɪr noʊz ən θroʊt"
   },
   "OB": {
     "alias": "obstetrics",
-    "ipa": "ɑːbstəˈtrɪks"
+    "ipa": "əbˈstɛtrɪks"
   },
   "GYN": {
     "alias": "gynecology",
-    "ipa": "ɡaɪnɪˈkɑːlədʒi"
+    "ipa": "ˌɡaɪnəˈkɑlədʒi"
   },
   "LMP": {
     "alias": "last menstrual period",
-    "ipa": "læst mɛnstrəl ˈpɪriəd"
+    "ipa": "læst ˈmɛnstruəl ˈpɪriəd"
   },
   "EDC": {
     "alias": "estimated date of confinement",
-    "ipa": "ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment"
+    "ipa": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt"
   },
   "Gest": {
     "alias": "gest",
-    "ipa": "dʒɛst"
+    "ipa": "dʒˈɛst"
   },
   "NS": {
     "alias": "normal saline",
-    "ipa": "nɔːrməl saʊn"
+    "ipa": "ˈnɔrməl səˈliːn"
   },
   "LR": {
     "alias": "lactated Ringer's",
-    "ipa": "lækˈtɛtˌɪd rɪŋɡərz"
+    "ipa": "ˈlækteɪtɪd ˈrɪŋɚz"
   },
   "D5W": {
     "alias": "D-five-W",
-    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər"
+    "ipa": "dˈiː faɪv dʌbəlju"
   },
   "D5NS": {
     "alias": "D-five-N-S",
-    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn"
+    "ipa": "dˈiː faɪv ɛn ɛs"
   },
   "D5LR": {
     "alias": "D-five-L-R",
-    "ipa": "faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz"
+    "ipa": "dˈiː faɪv ɛl ɑr"
   },
   "KCl": {
     "alias": "potassium chloride",
-    "ipa": "pəˈtæsiəm klɔːraɪd"
+    "ipa": "pəˈtæsiəm ˈklɔraɪd"
   },
   "MgSO4": {
     "alias": "mag-NEE-zee-um sul-FATE",
@@ -2073,95 +2073,95 @@
   },
   "CaCl2": {
     "alias": "KAL-see-um KLOR-ide",
-    "ipa": "kælsiəm klɔːraɪd"
+    "ipa": "ˈkælsiəm ˈklɔraɪd"
   },
   "NaHCO3": {
     "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate",
-    "ipa": "soʊdiəm aɪkaɹˈbɒnət"
+    "ipa": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt"
   },
   "ABG": {
     "alias": "arterial blood gas",
-    "ipa": "ˈɑːtəriəl bluːd ɡæz"
+    "ipa": "ɑrˈtɪriəl blʌd ɡæs"
   },
   "VBG": {
     "alias": "venous blood gas",
-    "ipa": "vɛnəs bluːd ɡæz"
+    "ipa": "ˈviːnəs blʌd ɡæs"
   },
   "LP": {
     "alias": "lumbar puncture",
-    "ipa": "ˈlʌmbər ˈpʌŋktʃər"
+    "ipa": "ˈlʌmbɚ ˈpʌŋktʃɚ"
   },
   "BM": {
     "alias": "bowel movement",
-    "ipa": "baʊəl muːvmənt"
+    "ipa": "ˈbaʊəl ˈmuːvmənt"
   },
   "PEG": {
     "alias": "PEG",
-    "ipa": "pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi"
+    "ipa": "pˈɛɡ"
   },
   "ICD": {
     "alias": "implantable cardioverter defibrillator",
-    "ipa": "ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+    "ipa": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
   },
   "Pacemaker": {
     "alias": "PACE-may-ker",
-    "ipa": "ˈpeɪsˌmeɪkər"
+    "ipa": "ˈpeɪsmeɪkɚ"
   },
   "AICD": {
     "alias": "automatic implantable cardioverter defibrillator",
-    "ipa": "ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+    "ipa": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
   },
   "CABG": {
     "alias": "cabbage",
-    "ipa": "ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft"
+    "ipa": "ˈkæbɪdʒ"
   },
   "PCI": {
     "alias": "percutaneous coronary intervention",
-    "ipa": "pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən"
+    "ipa": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən"
   },
   "TAVR": {
     "alias": "TAH-ver",
-    "ipa": "ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt"
+    "ipa": "ˈtɑvɚ"
   },
   "TEVAR": {
     "alias": "TEV-ar",
-    "ipa": "ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+    "ipa": "ˈtɛvɚ"
   },
   "EVAR": {
     "alias": "EE-var",
-    "ipa": "ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+    "ipa": "ˈivɚ"
   },
   "PTCA": {
     "alias": "percutaneous transluminal coronary angioplasty",
-    "ipa": "pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti"
+    "ipa": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti"
   },
   "ETOH": {
     "alias": "alcohol",
-    "ipa": "ˈɛθənɔːl"
+    "ipa": "ˈælkəˌhɔl"
   },
   "IVDU": {
     "alias": "I-V drug use",
-    "ipa": "ˌɪntɹəˈviːnəs dɹʌɡ juːzər"
+    "ipa": "ˌaɪˈvi drʌɡ ˈjuːs"
   },
   "ASA": {
     "alias": "ASPIR-in",
-    "ipa": "ˈæspərɪn"
+    "ipa": "ˈæspɚɪn"
   },
   "NYD": {
     "alias": "not yet diagnosed",
-    "ipa": "nɑːt jɛt dɪˈtɜːrmɪnd"
+    "ipa": "nɑt jɛt ˌdaɪəɡˈnoʊzd"
   },
   "HX": {
     "alias": "history",
-    "ipa": "hɪˈstɒri"
+    "ipa": "ˈhɪstɚi"
   },
   "Sx": {
     "alias": "symptoms",
-    "ipa": "ˈsɪmpəmz"
+    "ipa": "ˈsɪmptəmz"
   },
   "Tx": {
     "alias": "treatment",
-    "ipa": "ˌtrɛtmənt"
+    "ipa": "ˈtriːtmənt"
   },
   "Dx": {
     "alias": "diagnosis",
@@ -2169,15 +2169,15 @@
   },
   "Rx": {
     "alias": "prescription",
-    "ipa": "ˌpɝːskrɪpʃən"
+    "ipa": "prɪˈskrɪpʃən"
   },
   "FHx": {
     "alias": "family history",
-    "ipa": "ˌfæmɪli hɪˈstɒri"
+    "ipa": "ˈfæməli ˈhɪstɚi"
   },
   "SHx": {
     "alias": "social history",
-    "ipa": "ˌsɝːʒəkəl hɪˈstɒri"
+    "ipa": "ˈsoʊʃəl ˈhɪstɚi"
   },
   "myocardial infarction": {
     "alias": "my-oh-KAR-dee-al in-FARK-shun",
@@ -2369,7 +2369,7 @@
   },
   "dyspnea": {
     "alias": "DISP-nee-ah",
-    "ipa": "dɪspˈniːə"
+    "ipa": "ˈdɪspniə"
   },
   "hemoptysis": {
     "alias": "hee-MOP-tih-sis",
@@ -2921,7 +2921,7 @@
   },
   "impetigo": {
     "alias": "im-peh-TY-goh",
-    "ipa": "ˌɪmpɪˈtaɪgoʊ"
+    "ipa": "ˌɪmpɪˈtaɪɡoʊ"
   },
   "erysipelas": {
     "alias": "er-ih-SIP-eh-las",
@@ -3021,15 +3021,15 @@
   },
   "plaque": {
     "alias": "PLAK",
-    "ipa": "plæk"
+    "ipa": "plˈæk"
   },
   "scale": {
     "alias": "SKAYL",
-    "ipa": "skeɪl"
+    "ipa": "skˈeɪl"
   },
   "crust": {
     "alias": "KRUST",
-    "ipa": "krʌst"
+    "ipa": "krˈʌst"
   },
   "erosion": {
     "alias": "ee-ROH-zhun",
@@ -3425,7 +3425,7 @@
   },
   "lobe": {
     "alias": "LOHB",
-    "ipa": "loʊb"
+    "ipa": "lˈoʊb"
   },
   "lobule": {
     "alias": "LOB-yool",
@@ -3461,7 +3461,7 @@
   },
   "vas deferens": {
     "alias": "vas DEF-er-enz",
-    "ipa": "væs dɛfərɛnz"
+    "ipa": "vˈæs dɛfərɛnz"
   },
   "epididymis": {
     "alias": "ep-ih-DID-ih-mis",
@@ -3621,7 +3621,7 @@
   },
   "space of Disse": {
     "alias": "spays of DIS",
-    "ipa": "speɪs əv dɪs"
+    "ipa": "spˈeɪs əv dɪs"
   },
   "canaliculi": {
     "alias": "kan-ah-LIK-yoo-lye",
@@ -3667,17 +3667,9 @@
     "alias": "KOR-dee ten-DIN-ee-ee",
     "ipa": "ˈkɔrdi tɛnˈdɪnii"
   },
-  "valve": {
-    "alias": "valv",
-    "ipa": "vælv"
-  },
   "leaflet": {
     "alias": "LEEF-let",
     "ipa": "ˈlifət"
-  },
-  "cusp": {
-    "alias": "kusp",
-    "ipa": "kʌsp"
   },
   "semilunar": {
     "alias": "sem-ee-LOO-nar",
@@ -3846,5 +3838,29 @@
   "abducens": {
     "alias": "ab-DOO-senz",
     "ipa": "æbˈdjuːsənz"
+  },
+  "angina": {
+    "alias": "angina",
+    "ipa": "ænˈdʒaɪnə"
+  },
+  "epinephrine": {
+    "alias": "epinephrine",
+    "ipa": "ˌɛpɪˈnɛfrɪn"
+  },
+  "naloxone": {
+    "alias": "naloxone",
+    "ipa": "nəˈlɑksoʊn"
+  },
+  "hyperlipidemia": {
+    "alias": "hyperlipidemia",
+    "ipa": "ˌhaɪpərlɪˈpɪmiə"
+  },
+  "osteoarthritis": {
+    "alias": "osteoarthritis",
+    "ipa": "ˌɑstioʊɑrˈθraɪtɪs"
+  },
+  "diabetes mellitus": {
+    "alias": "diabetes mellitus",
+    "ipa": "ˌdaɪəˈbitɪz ˈmɛlɪtəs"
   }
 }
