@@ -137,6 +137,8 @@ medical-pronunciation-dictionary/
 
 10 before/after pairs generated with Telnyx NaturalHD voice (astra). Each pair shows the same sentence spoken with and without the alias applied.
 
+[Open the audio player](docs/index.html) - requires GitHub Pages enabled on the repo (org admin: Settings -> Pages -> Source -> main /docs). Alternatively, clone the repo and open `docs/index.html` locally.
+
 | Term | Alias | Before | After |
 |------|-------|--------|-------|
 | atorvastatin | a-TOR-va-STAT-in | `data/audio/before/atorvastatin_before.mp3` | `data/audio/after/atorvastatin_after.mp3` |
