@@ -136,6 +136,7 @@ TOP_DRUGS = [
     "zolmitriptan", "eletriptan", "almotriptan", "frovatriptan",
     "naratriptan", "ubrogepant", "rimegepant", "erenumab",
     "fremanezumab", "galcanezumab", "eprodual", "onabotulinumtoxinA",
+    "epinephrine", "naloxone",
 ]
 
 # Common medical acronyms - frequently spoken in clinical conversations
@@ -248,6 +249,7 @@ CLINICAL_TERMS = [
     "laparoscopy", "thoracoscopy", "mediastinoscopy", "arthroplasty",
     "osteotomy", "craniotomy", "laminectomy", "discectomy",
     "rhizotomy", "neurectomy", "sympathectomy", "vagotomy",
+    "angina", "diabetes mellitus", "hyperlipidemia", "osteoarthritis",
 ]
 
 # Common anatomical terms - frequently used in clinical conversations
@@ -276,8 +278,8 @@ ANATOMICAL_TERMS = [
     "Kupffer", "space of Disse", "canaliculi", "falciform",
     "ligamentum teres", "ligamentum venosum", "porta hepatis",
     "coronary", "circumflex", "interventricular", "interventricular septum",
-    "papillary muscle", "chordae tendineae", "valve", "leaflet",
-    "cusp", "semilunar", "atrioventricular", "ventricular",
+    "papillary muscle", "chordae tendineae", "leaflet",
+    "semilunar", "atrioventricular", "ventricular",
     "sinoatrial", "coronary sinus", "vena cava", "pulmonary trunk",
     "aorta", "carotid", "subclavian", "vertebral", "basilar",
     "circle of Willis", "meninges", "dura mater", "arachnoid",

@@ -29,16 +29,8 @@
     <alias>KOR-dee ten-DIN-ee-ee</alias>
   </lexeme>
   <lexeme>
-    <grapheme>valve</grapheme>
-    <alias>valv</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>leaflet</grapheme>
     <alias>LEEF-let</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>cusp</grapheme>
-    <alias>kusp</alias>
   </lexeme>
   <lexeme>
     <grapheme>semilunar</grapheme>
