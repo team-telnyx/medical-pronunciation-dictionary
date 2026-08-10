@@ -2,10 +2,15 @@
 """
 Generate phonetic alias pronunciations for medical terms using LiteLLM.
 
-Sends batches of medical terms to a LiteLLM model (MiniMax-M3 or GLM-5.2)
-and asks for plain-text phonetic respellings that work as TTS alias entries.
+Sends batches of medical terms to any OpenAI-compatible chat completions
+endpoint and asks for plain-text phonetic respellings that work as TTS alias
+entries. Merges the result into data/terms_master.json, preserving the `ipa`
+field on terms that already have one.
 
-Output: data/terms_with_pronunciations.json
+Environment:
+  OPENAI_BASE_URL  chat completions endpoint (default: https://api.openai.com/v1)
+  OPENAI_API_KEY   bearer token for that endpoint
+  MODEL            model name (default: gpt-4o-mini)
 """
 import json
 import os
@@ -18,24 +23,12 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from terms import get_all_terms
 
-# Load env
-env_files = [os.path.expanduser("~/.codex/.env"), os.path.expanduser("~/.claude/.env")]
-for f in env_files:
-    if os.path.exists(f):
-        with open(f) as fh:
-            for line in fh:
-                line = line.strip()
-                if line and not line.startswith("#") and "=" in line:
-                    k, v = line.split("=", 1)
-                    k = k.replace("export ", "").strip()
-                    v = v.strip().strip('"').strip("'")
-                    os.environ.setdefault(k, v)
-
-LITELLM_KEY = os.environ.get("LITELLM_KEY", "")
-LITELLM_URL = "http://litellm-aiswe.query.prod.telnyx.io:4000/v1/chat/completions"
-MODEL = "MiniMax-M3-MXFP8-nothink"
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+API_BASE = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+API_URL = f"{API_BASE}/chat/completions"
+MODEL = os.environ.get("MODEL", "gpt-4o-mini")
 BATCH_SIZE = 30
-OUTPUT_FILE = Path(__file__).parent.parent / "data" / "terms_with_pronunciations.json"
+OUTPUT_FILE = Path(__file__).parent.parent / "data" / "terms_master.json"
 
 SYSTEM_PROMPT = """You are a medical pronunciation expert. For each medical term, provide a plain-text phonetic respelling that a text-to-speech engine can read aloud to produce the correct pronunciation.
 
@@ -65,10 +58,10 @@ def call_litellm(batch):
     }).encode()
 
     req = urllib.request.Request(
-        LITELLM_URL,
+        API_URL,
         data=payload,
         headers={
-            "Authorization": f"Bearer {LITELLM_KEY}",
+            "Authorization": f"Bearer {API_KEY}",
             "Content-Type": "application/json"
         }
     )
@@ -95,9 +88,25 @@ def call_litellm(batch):
     return None
 
 
+def record(text, alias, category, existing):
+    """Build a terms_master row, keeping any IPA already recorded for the term."""
+    prior = existing.get(text, {})
+    return {
+        "text": text,
+        "alias": alias,
+        "ipa": prior.get("ipa", ""),
+        "category": category,
+    }
+
+
 def main():
+    if not API_KEY:
+        print("ERROR: OPENAI_API_KEY not set", file=sys.stderr)
+        sys.exit(1)
+
     all_terms = get_all_terms()
     print(f"Total terms to process: {len(all_terms)}")
+    print(f"Endpoint: {API_URL}")
     print(f"Model: {MODEL}")
     print(f"Batch size: {BATCH_SIZE}")
     print(f"Estimated batches: {(len(all_terms) + BATCH_SIZE - 1) // BATCH_SIZE}")
@@ -106,7 +115,7 @@ def main():
     # Load existing results if any
     results = {}
     if OUTPUT_FILE.exists():
-        with open(OUTPUT_FILE) as f:
+        with open(OUTPUT_FILE, encoding="utf-8") as f:
             existing = json.load(f)
             for item in existing:
                 results[item["text"]] = item
@@ -132,7 +141,7 @@ def main():
             # Save what we have with null aliases
             for t in batch:
                 if t["text"] not in results:
-                    results[t["text"]] = {"text": t["text"], "alias": t["text"], "category": t["category"]}
+                    results[t["text"]] = record(t["text"], t["text"], t["category"], results)
             continue
 
         # Match pronunciations back to terms
@@ -164,13 +173,13 @@ def main():
                     if t["text"].lower() == text.lower():
                         cat = t["category"]
                         break
-                results[text] = {"text": text, "alias": alias, "category": cat}
+                results[text] = record(text, alias, cat, results)
         else:
             print(f"  Unexpected response format: {type(pronunciations)}")
 
         # Save after each batch
-        with open(OUTPUT_FILE, "w") as f:
-            json.dump(list(results.values()), f, indent=2)
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(list(results.values()), f, indent=2, ensure_ascii=False)
         print(f"  Saved {len(results)} pronunciations")
 
         # Small delay between batches

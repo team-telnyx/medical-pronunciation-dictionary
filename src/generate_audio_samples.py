@@ -14,18 +14,6 @@ import sys
 import urllib.request
 from pathlib import Path
 
-env_files = [os.path.expanduser("~/.codex/.env"), os.path.expanduser("~/.claude/.env")]
-for f in env_files:
-    if os.path.exists(f):
-        with open(f) as fh:
-            for line in fh:
-                line = line.strip()
-                if line and not line.startswith("#") and "=" in line:
-                    k, v = line.split("=", 1)
-                    k = k.replace("export ", "").strip()
-                    v = v.strip().strip('"').strip("'")
-                    os.environ.setdefault(k, v)
-
 TELNYX_KEY = os.environ.get("TELNYX_API_KEY", "")
 API_BASE = "https://api.telnyx.com/v2"
 
@@ -33,7 +21,7 @@ BASE = Path(__file__).parent.parent
 AUDIO_DIR = BASE / "data" / "audio"
 BEFORE_DIR = AUDIO_DIR / "before"
 AFTER_DIR = AUDIO_DIR / "after"
-INPUT_FILE = BASE / "data" / "terms_with_pronunciations.json"
+INPUT_FILE = BASE / "data" / "terms_master.json"
 
 # Use a Telnyx NaturalHD voice (no BYOK needed)
 VOICE = "Telnyx.NaturalHD.astra"
@@ -123,14 +111,14 @@ def main():
         results.append({
             "term": term,
             "alias": alias,
-            "before": str(before_path),
-            "after": str(after_path),
+            "before": str(before_path.relative_to(BASE)),
+            "after": str(after_path.relative_to(BASE)),
         })
 
     # Save manifest
     manifest_path = AUDIO_DIR / "manifest.json"
-    with open(manifest_path, "w") as f:
-        json.dump(results, f, indent=2)
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
 
     print(f"\nManifest: {manifest_path}")
     print(f"Audio files: {BEFORE_DIR} and {AFTER_DIR}")

@@ -17,10 +17,11 @@ Prepackaged medical pronunciation dictionary for voice AI TTS engines. 962 drugs
 git clone https://github.com/team-telnyx/medical-pronunciation-dictionary.git
 cd medical-pronunciation-dictionary
 export TELNYX_API_KEY=your_key_here
-python3 import_to_telnyx.py
+python3 import_to_telnyx.py --dry-run   # preview
+python3 import_to_telnyx.py             # create
 ```
 
-Creates 20 pronunciation dictionaries in your Telnyx account, each containing up to 100 entries (alias + IPA phoneme per term). Telnyx caps dictionaries at 100 items, so the pack splits automatically.
+Reads `providers/telnyx/` and creates 20 pronunciation dictionaries in your Telnyx account, 1924 entries total: an alias entry and an IPA phoneme entry per term. Telnyx caps dictionaries at 100 items, so the pack splits automatically.
 
 ### Telnyx Portal
 
@@ -103,9 +104,7 @@ This pack provides both. Providers that support IPA (Telnyx Ultra, MiniMax, Inwo
 ```
 medical-pronunciation-dictionary/
 ├── data/
-│   ├── terms_master.json               # Source of truth: 962 terms with alias + IPA
-│   ├── terms_with_pronunciations.json   # Legacy: alias only
-│   ├── terms_with_ipa.json              # Legacy: IPA only
+│   ├── terms_master.json                # Source of truth: 962 terms with alias + IPA
 │   └── audio/
 │       ├── before/                      # 10 MP3 samples without dictionary
 │       ├── after/                       # 10 MP3 samples with alias applied
@@ -122,7 +121,6 @@ medical-pronunciation-dictionary/
 ├── src/
 │   ├── terms.py                         # Curated term lists (962 terms)
 │   ├── generate_pronunciations.py       # Alias pronunciation generator
-│   ├── generate_ipa.py                  # IPA pronunciation generator
 │   ├── export_pls.py                    # PLS XML + plain text exporter
 │   └── generate_audio_samples.py        # Before/after audio sample generator
 ├── converters/
@@ -152,9 +150,10 @@ medical-pronunciation-dictionary/
 
 ## Adding custom terms
 
-1. Edit `data/terms_with_pronunciations.json` and add your entry: `{"text": "your_term", "alias": "your-A-li-as", "category": "drug"}`
+1. Edit `data/terms_master.json` and add your entry: `{"text": "your_term", "alias": "your-A-li-as", "ipa": "jɔːr ˈeɪliəs", "category": "drug"}`. All four fields are required; entries missing `ipa` are skipped by the converter.
 2. Run `python3 converters/convert_all.py` to regenerate all provider formats
-3. Re-import to your TTS provider
+3. Run `python3 src/export_pls.py` to regenerate `pls/` and `txt/`
+4. Re-import to your TTS provider
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow including how to add a new provider format.
 
@@ -167,7 +166,7 @@ This format is chosen over IPA because:
 - Human-readable and easy to audit
 - Simple to edit without phonetic expertise
 
-The initial 962 aliases were generated using an LLM with a medical pronunciation prompt, then spot-checked. If you find a wrong pronunciation, open a PR with the correction in `data/terms_with_pronunciations.json`.
+The initial 962 aliases were generated using an LLM with a medical pronunciation prompt, then spot-checked. The IPA was generated the same way. Both are known to contain errors, and in places the alias and the IPA for the same term disagree. If you find a wrong pronunciation, open a PR with the correction in `data/terms_master.json`.
 
 ## Contributing
 

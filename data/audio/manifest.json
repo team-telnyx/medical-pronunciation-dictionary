@@ -2,61 +2,61 @@
   {
     "term": "atorvastatin",
     "alias": "a-TOR-va-STAT-in",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/atorvastatin_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/atorvastatin_after.mp3"
+    "before": "data/audio/before/atorvastatin_before.mp3",
+    "after": "data/audio/after/atorvastatin_after.mp3"
   },
   {
     "term": "omeprazole",
     "alias": "oh-MEP-rah-zole",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/omeprazole_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/omeprazole_after.mp3"
+    "before": "data/audio/before/omeprazole_before.mp3",
+    "after": "data/audio/after/omeprazole_after.mp3"
   },
   {
     "term": "amoxicillin",
     "alias": "ah-MOX-i-sil-in",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/amoxicillin_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/amoxicillin_after.mp3"
+    "before": "data/audio/before/amoxicillin_before.mp3",
+    "after": "data/audio/after/amoxicillin_after.mp3"
   },
   {
     "term": "metformin",
     "alias": "met-FOR-min",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/metformin_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/metformin_after.mp3"
+    "before": "data/audio/before/metformin_before.mp3",
+    "after": "data/audio/after/metformin_after.mp3"
   },
   {
     "term": "myocardial infarction",
     "alias": "my-oh-KAR-dee-al in-FARK-shun",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/myocardial_infarction_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/myocardial_infarction_after.mp3"
+    "before": "data/audio/before/myocardial_infarction_before.mp3",
+    "after": "data/audio/after/myocardial_infarction_after.mp3"
   },
   {
     "term": "cholecystectomy",
     "alias": "koh-leh-sis-TEK-toh-mee",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/cholecystectomy_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/cholecystectomy_after.mp3"
+    "before": "data/audio/before/cholecystectomy_before.mp3",
+    "after": "data/audio/after/cholecystectomy_after.mp3"
   },
   {
     "term": "cholecystitis",
     "alias": "ko-luh-sis-TYE-tis",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/cholecystitis_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/cholecystitis_after.mp3"
+    "before": "data/audio/before/cholecystitis_before.mp3",
+    "after": "data/audio/after/cholecystitis_after.mp3"
   },
   {
     "term": "MI",
     "alias": "myocardial infarction",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/MI_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/MI_after.mp3"
+    "before": "data/audio/before/MI_before.mp3",
+    "after": "data/audio/after/MI_after.mp3"
   },
   {
     "term": "COPD",
     "alias": "chronic obstructive pulmonary disease",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/COPD_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/COPD_after.mp3"
+    "before": "data/audio/before/COPD_before.mp3",
+    "after": "data/audio/after/COPD_after.mp3"
   },
   {
     "term": "epithelium",
     "alias": "eh-pih-THEE-lee-um",
-    "before": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/before/epithelium_before.mp3",
-    "after": "/Users/abhisheksharma/.claude/output/medical-pronunciation-dict/data/audio/after/epithelium_after.mp3"
+    "before": "data/audio/before/epithelium_before.mp3",
+    "after": "data/audio/after/epithelium_after.mp3"
   }
 ]
