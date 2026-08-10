@@ -4,20 +4,22 @@ PRs welcome. This guide covers how to add terms, add provider format converters,
 
 ## Adding new terms
 
-The source of truth is `data/terms_with_pronunciations.json`. Each entry has `text`, `alias`, and `category` fields.
+The source of truth is `data/terms_master.json`. Each entry has `text`, `alias`, `ipa`, and `category` fields. **All four are required.** `converters/convert_all.py` skips any entry missing `text`, `alias`, or `ipa`, so an entry without IPA silently disappears from every provider output.
 
-1. Edit `data/terms_with_pronunciations.json` and add your term to the appropriate category:
+1. Edit `data/terms_master.json` and add your term:
 
 ```json
 [
   {
     "text": "atorvastatin",
     "alias": "a-TOR-va-STAT-in",
+    "ipa": "əˌtɔr.vəˈstæ.tɪn",
     "category": "drug"
   },
   {
     "text": "your-new-drug-name",
     "alias": "your-PHON-et-ic-AL-ias",
+    "ipa": "jɔːr ˈfoʊnɛtɪk ˈeɪliəs",
     "category": "drug"
   }
 ]
@@ -25,79 +27,80 @@ The source of truth is `data/terms_with_pronunciations.json`. Each entry has `te
 
 Categories: `drug`, `clinical`, `anatomical`, `acronym`.
 
-2. Run the converter to regenerate all provider formats:
+Conventions:
+
+- `alias` is a plain-text respelling, hyphen-separated, with the stressed syllable in caps: `oh-MEP-rah-zole`.
+- `ipa` is American English IPA with a primary stress mark. Use `ɡ` (U+0261) not ASCII `g`, and keep the rhotic/non-rhotic choice consistent with the rest of the file.
+- `alias` and `ipa` must describe the **same** pronunciation. They are emitted as two rules for the same word, so a disagreement produces different output on different providers.
+- For acronyms, `alias` is the spoken expansion (`MI` -> `myocardial infarction`) and `ipa` transcribes that expansion.
+
+2. Regenerate every provider format:
 
 ```bash
-python converters/run_all.py
+python3 converters/convert_all.py
 ```
 
-3. Verify the output by checking `providers/telnyx/`, `providers/elevenlabs/`, `providers/vapi/`, and `providers/amazon-polly/`.
-
-4. Run the Telnyx import to push the updated dictionaries:
+3. Regenerate the legacy alias-only PLS and plain-text exports:
 
 ```bash
-python import_to_telnyx.py
+python3 src/export_pls.py
 ```
 
-5. Add a before/after audio sample to `data/audio/<term>/` if the term is commonly mispronounced.
+4. Verify the output under `providers/` and commit the regenerated files along with your data change.
 
-## Adding a new provider format converter
+5. Optionally push the updated dictionaries to your own Telnyx account:
 
-Each provider has its own quirks. To add a new provider:
+```bash
+export TELNYX_API_KEY=your_key_here
+python3 import_to_telnyx.py --dry-run   # preview
+python3 import_to_telnyx.py             # create
+```
 
-1. Create a new converter module in `converters/`:
+6. To add a before/after audio sample, add the term to `SAMPLE_TERMS` in `src/generate_audio_samples.py` and run it. Output lands in `data/audio/before/` and `data/audio/after/`, and the script rewrites `data/audio/manifest.json` with repo-relative paths.
+
+## Adding a new provider format
+
+`converters/convert_all.py` is a single module with one writer function per provider. To add a provider:
+
+1. Add a writer that takes the loaded terms and an output directory, and returns the paths it wrote:
 
 ```python
-# converters/newprovider.py
-import json
-from xml.etree import ElementTree as ET
-
-
-def convert(terms: list[dict]) -> str:
-    """Convert terms to NewProvider format."""
-    root = ET.Element("pronunciations")
-    for term in terms:
-        entry = ET.SubElement(root, "phoneme")
-        entry.set("word", term["text"])
-        entry.set("pronunciation", term["alias"])
-    return ET.tostring(root, encoding="unicode")
+def write_newprovider(terms: list[dict], out_dir: Path) -> list[Path]:
+    """Single JSON file in NewProvider's schema."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    items = [
+        {"word": item["text"], "pronunciation": item["alias"]}
+        for item in terms
+    ]
+    path = out_dir / "medical-pronunciations.json"
+    with path.open("w", encoding="utf-8") as f:
+        json.dump({"items": items}, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    return [path]
 ```
 
-2. Add the output directory to `providers/`:
-
-```
-providers/
-└── newprovider/
-    └── medical-pronunciations.xml
-```
-
-3. Wire it into `converters/run_all.py`:
+2. Call it from `main()` and append the result to `summary`:
 
 ```python
-from converters import newprovider
-
-def run_all(terms: list[dict]) -> None:
-    telnyx.convert(terms)
-    elevenlabs.convert(terms)
-    vapi.convert(terms)
-    polly.convert(terms)
-    newprovider.convert(terms)  # new
+print("[8/8] NewProvider JSON ...")
+summary.append(("newprovider", write_newprovider(terms, PROVIDERS_DIR / "newprovider")))
 ```
 
-4. Add a usage example to `README.md` under the Usage section.
+3. Renumber the existing `[n/7]` progress labels.
 
-5. Update the provider support table in `README.md`.
+4. Add a usage example to `README.md` under Quick start, and a row to the provider support table.
 
 ## PR checklist
 
 Before submitting a PR, confirm:
 
-- [ ] `python converters/run_all.py` runs without errors
-- [ ] All output files in `providers/` are regenerated
-- [ ] Term count in `README.md` coverage table matches `data/terms_with_pronunciations.json`
+- [ ] `python3 converters/convert_all.py` runs without errors and reports 0 skipped entries
+- [ ] `python3 src/export_pls.py` runs without errors
+- [ ] All regenerated files under `providers/`, `pls/`, and `txt/` are committed
+- [ ] Term count in the `README.md` coverage table matches `data/terms_master.json`
 - [ ] Provider support table in `README.md` reflects any new providers
-- [ ] Before/after audio samples added for commonly mispronounced terms
-- [ ] No secrets, API keys, or credentials in the diff
+- [ ] `alias` and `ipa` agree on stress and syllables for every term you touched
+- [ ] No secrets, API keys, absolute local paths, or internal hostnames in the diff
 - [ ] No comments added unless they explain non-obvious behavior
 
 ## Code style
