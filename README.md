@@ -135,9 +135,7 @@ medical-pronunciation-dictionary/
 
 ## Audio samples
 
-10 before/after pairs generated with Telnyx NaturalHD voice (astra). Each pair shows the same sentence spoken with and without the alias applied.
-
-[Open the audio player](docs/index.html) - requires GitHub Pages enabled on the repo (org admin: Settings -> Pages -> Source -> main /docs). Alternatively, clone the repo and open `docs/index.html` locally.
+10 before/after pairs generated with Telnyx NaturalHD voice (astra). Each pair shows the same sentence spoken with and without the alias applied. Clone the repo and open the MP3s from `data/audio/before/` and `data/audio/after/`.
 
 | Term | Alias | Before | After |
 |------|-------|--------|-------|
