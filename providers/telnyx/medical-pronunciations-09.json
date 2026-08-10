@@ -2,504 +2,554 @@
   "name": "Medical Pronunciations 09",
   "items": [
     {
-      "text": "mediastinoscopy",
+      "text": "MRI",
       "type": "alias",
-      "alias": "MEE-dee-ah-stih-NOS-koh-pee"
+      "alias": "magnetic resonance imaging"
     },
     {
-      "text": "arthroplasty",
-      "type": "alias",
-      "alias": "AR-throh-plas-tee"
+      "text": "MRI",
+      "type": "phoneme",
+      "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
+      "alphabet": "ipa"
     },
     {
-      "text": "osteotomy",
+      "text": "CT",
       "type": "alias",
-      "alias": "os-tee-OT-oh-mee"
+      "alias": "computed tomography"
     },
     {
-      "text": "craniotomy",
-      "type": "alias",
-      "alias": "KRAY-nee-OT-oh-mee"
+      "text": "CT",
+      "type": "phoneme",
+      "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi",
+      "alphabet": "ipa"
     },
     {
-      "text": "laminectomy",
+      "text": "EKG",
       "type": "alias",
-      "alias": "lam-ih-NEK-toh-mee"
+      "alias": "electrocardiogram"
     },
     {
-      "text": "discectomy",
-      "type": "alias",
-      "alias": "dis-EK-toh-mee"
+      "text": "EKG",
+      "type": "phoneme",
+      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
+      "alphabet": "ipa"
     },
     {
-      "text": "rhizotomy",
+      "text": "ECG",
       "type": "alias",
-      "alias": "ry-ZOT-oh-mee"
+      "alias": "electrocardiogram"
     },
     {
-      "text": "neurectomy",
-      "type": "alias",
-      "alias": "nyoo-REK-toh-mee"
+      "text": "ECG",
+      "type": "phoneme",
+      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
+      "alphabet": "ipa"
     },
     {
-      "text": "sympathectomy",
+      "text": "EEG",
       "type": "alias",
-      "alias": "sim-pah-THEK-toh-mee"
+      "alias": "electroencephalogram"
     },
     {
-      "text": "vagotomy",
-      "type": "alias",
-      "alias": "vay-GOT-oh-mee"
+      "text": "EEG",
+      "type": "phoneme",
+      "phoneme": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm",
+      "alphabet": "ipa"
     },
     {
-      "text": "epithelium",
+      "text": "BUN",
       "type": "alias",
-      "alias": "eh-pih-THEE-lee-um"
+      "alias": "blood urea nitrogen"
     },
     {
-      "text": "endothelium",
-      "type": "alias",
-      "alias": "en-doh-THEE-lee-um"
+      "text": "BUN",
+      "type": "phoneme",
+      "phoneme": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən",
+      "alphabet": "ipa"
     },
     {
-      "text": "mesothelium",
+      "text": "CMP",
       "type": "alias",
-      "alias": "meh-zoh-THEE-lee-um"
+      "alias": "comprehensive metabolic panel"
     },
     {
-      "text": "stratum corneum",
-      "type": "alias",
-      "alias": "STRAY-tum KOR-nee-um"
+      "text": "CMP",
+      "type": "phoneme",
+      "phoneme": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl",
+      "alphabet": "ipa"
     },
     {
-      "text": "dermis",
+      "text": "CBC",
       "type": "alias",
-      "alias": "DER-mis"
+      "alias": "complete blood count"
     },
     {
-      "text": "epidermis",
-      "type": "alias",
-      "alias": "eh-pih-DER-mis"
+      "text": "CBC",
+      "type": "phoneme",
+      "phoneme": "ˌkɑmpliːt ˈblʌd ˈkaʊnt",
+      "alphabet": "ipa"
     },
     {
-      "text": "hypodermis",
+      "text": "TSH",
       "type": "alias",
-      "alias": "hy-poh-DER-mis"
+      "alias": "thyroid stimulating hormone"
     },
     {
-      "text": "subcutaneous",
-      "type": "alias",
-      "alias": "sub-kyoo-TAY-nee-us"
+      "text": "TSH",
+      "type": "phoneme",
+      "phoneme": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "fascia",
+      "text": "HbA1c",
       "type": "alias",
-      "alias": "FAH-shah"
+      "alias": "hemoglobin A one C"
     },
     {
-      "text": "ligament",
-      "type": "alias",
-      "alias": "LIH-gah-ment"
+      "text": "HbA1c",
+      "type": "phoneme",
+      "phoneme": "ˌheməɡloʊbɪn eɪ wʌn siː",
+      "alphabet": "ipa"
     },
     {
-      "text": "tendon",
+      "text": "PT",
       "type": "alias",
-      "alias": "TEN-dun"
+      "alias": "prothrombin time"
     },
     {
-      "text": "aponeurosis",
-      "type": "alias",
-      "alias": "ap-oh-noo-ROH-sis"
+      "text": "PT",
+      "type": "phoneme",
+      "phoneme": "ˌprɑθrɑmbɪn ˈtaɪm",
+      "alphabet": "ipa"
     },
     {
-      "text": "bursa",
+      "text": "INR",
       "type": "alias",
-      "alias": "BER-sah"
+      "alias": "international normalized ratio"
     },
     {
-      "text": "meniscus",
-      "type": "alias",
-      "alias": "meh-NIS-kus"
+      "text": "INR",
+      "type": "phoneme",
+      "phoneme": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ",
+      "alphabet": "ipa"
     },
     {
-      "text": "cartilage",
+      "text": "PTT",
       "type": "alias",
-      "alias": "KAR-tih-lij"
+      "alias": "partial thromboplastin time"
     },
     {
-      "text": "periosteum",
-      "type": "alias",
-      "alias": "per-ee-OS-tee-um"
+      "text": "PTT",
+      "type": "phoneme",
+      "phoneme": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm",
+      "alphabet": "ipa"
     },
     {
-      "text": "endosteum",
+      "text": "DVT",
       "type": "alias",
-      "alias": "en-DOS-tee-um"
+      "alias": "deep vein thrombosis"
     },
     {
-      "text": "diaphysis",
-      "type": "alias",
-      "alias": "dy-AF-ih-sis"
+      "text": "DVT",
+      "type": "phoneme",
+      "phoneme": "ˌdiːp veɪn ˈθrɑmbəˌsɪs",
+      "alphabet": "ipa"
     },
     {
-      "text": "epiphysis",
+      "text": "PE",
       "type": "alias",
-      "alias": "eh-PIF-ih-sis"
+      "alias": "pulmonary embolism"
     },
     {
-      "text": "metaphysis",
-      "type": "alias",
-      "alias": "meh-TAF-ih-sis"
+      "text": "PE",
+      "type": "phoneme",
+      "phoneme": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm",
+      "alphabet": "ipa"
     },
     {
-      "text": "physis",
+      "text": "CVA",
       "type": "alias",
-      "alias": "FY-sis"
+      "alias": "cerebrovascular accident"
     },
     {
-      "text": "symphysis",
-      "type": "alias",
-      "alias": "SIM-fih-sis"
+      "text": "CVA",
+      "type": "phoneme",
+      "phoneme": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt",
+      "alphabet": "ipa"
     },
     {
-      "text": "synovium",
+      "text": "TIA",
       "type": "alias",
-      "alias": "sih-NOH-vee-um"
+      "alias": "transient ischemic attack"
     },
     {
-      "text": "synovia",
-      "type": "alias",
-      "alias": "sih-NOH-vee-ah"
+      "text": "TIA",
+      "type": "phoneme",
+      "phoneme": "trænˈzɪənt ɪˈskɛmɪk əˈtæk",
+      "alphabet": "ipa"
     },
     {
-      "text": "sutura",
+      "text": "ICU",
       "type": "alias",
-      "alias": "soo-TOO-rah"
+      "alias": "intensive care unit"
     },
     {
-      "text": "fontanelle",
-      "type": "alias",
-      "alias": "fon-tah-NEL"
+      "text": "ICU",
+      "type": "phoneme",
+      "phoneme": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "myocardium",
+      "text": "NICU",
       "type": "alias",
-      "alias": "my-oh-KAR-dee-um"
+      "alias": "neonatal intensive care unit"
     },
     {
-      "text": "epicardium",
-      "type": "alias",
-      "alias": "eh-pih-KAR-dee-um"
+      "text": "NICU",
+      "type": "phoneme",
+      "phoneme": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "pericardium",
+      "text": "ER",
       "type": "alias",
-      "alias": "per-ih-KAR-dee-um"
+      "alias": "emergency room"
     },
     {
-      "text": "endocardium",
-      "type": "alias",
-      "alias": "en-doh-KAR-dee-um"
+      "text": "ER",
+      "type": "phoneme",
+      "phoneme": "ɪmˈɜːrdʒənsi ˈruːm",
+      "alphabet": "ipa"
     },
     {
-      "text": "intima",
+      "text": "ED",
       "type": "alias",
-      "alias": "IN-tih-mah"
+      "alias": "emergency department"
     },
     {
-      "text": "media",
-      "type": "alias",
-      "alias": "MEH-dee-ah"
+      "text": "ED",
+      "type": "phoneme",
+      "phoneme": "ˌɛrˈdiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "adventitia",
+      "text": "OR",
       "type": "alias",
-      "alias": "ad-ven-TISH-ah"
+      "alias": "operating room"
     },
     {
-      "text": "tunica",
-      "type": "alias",
-      "alias": "TOO-nih-kah"
+      "text": "OR",
+      "type": "phoneme",
+      "phoneme": "ˈɔr",
+      "alphabet": "ipa"
     },
     {
-      "text": "parenchyma",
+      "text": "PACU",
       "type": "alias",
-      "alias": "pah-REN-kih-mah"
+      "alias": "post-anesthesia care unit"
     },
     {
-      "text": "stroma",
-      "type": "alias",
-      "alias": "STROH-mah"
+      "text": "PACU",
+      "type": "phoneme",
+      "phoneme": "pəˈkuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "septum",
+      "text": "CCU",
       "type": "alias",
-      "alias": "SEP-tum"
+      "alias": "coronary care unit"
     },
     {
-      "text": "septa",
-      "type": "alias",
-      "alias": "SEP-tah"
+      "text": "CCU",
+      "type": "phoneme",
+      "phoneme": "ˌsiːˌsiːˈjuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "trabecula",
+      "text": "SICU",
       "type": "alias",
-      "alias": "trah-BEK-yoo-lah"
+      "alias": "surgical intensive care unit"
     },
     {
-      "text": "hilum",
-      "type": "alias",
-      "alias": "HY-lum"
+      "text": "SICU",
+      "type": "phoneme",
+      "phoneme": "ˌɛsˌaɪˌsiːˈjuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "hilus",
+      "text": "MICU",
       "type": "alias",
-      "alias": "HY-lus"
+      "alias": "medical intensive care unit"
     },
     {
-      "text": "sulcus",
-      "type": "alias",
-      "alias": "SUL-kus"
+      "text": "MICU",
+      "type": "phoneme",
+      "phoneme": "ˌɛmˌaɪˌsiːˈjuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "gyrus",
+      "text": "BP",
       "type": "alias",
-      "alias": "JY-rus"
+      "alias": "blood pressure"
     },
     {
-      "text": "cortex",
-      "type": "alias",
-      "alias": "KOR-teks"
+      "text": "BP",
+      "type": "phoneme",
+      "phoneme": "ˌbiːˈpiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "medulla",
+      "text": "HR",
       "type": "alias",
-      "alias": "meh-DOOL-ah"
+      "alias": "heart rate"
     },
     {
-      "text": "capsule",
-      "type": "alias",
-      "alias": "KAP-sool"
+      "text": "HR",
+      "type": "phoneme",
+      "phoneme": "ˌeɪtʃˈɑr",
+      "alphabet": "ipa"
     },
     {
-      "text": "lobe",
+      "text": "RR",
       "type": "alias",
-      "alias": "LOHB"
+      "alias": "respiratory rate"
     },
     {
-      "text": "lobule",
-      "type": "alias",
-      "alias": "LOB-yool"
+      "text": "RR",
+      "type": "phoneme",
+      "phoneme": "ˌɑrˈɑr",
+      "alphabet": "ipa"
     },
     {
-      "text": "acinus",
+      "text": "SpO2",
       "type": "alias",
-      "alias": "AS-ih-nus"
+      "alias": "saturation of peripheral oxygen"
     },
     {
-      "text": "alveolus",
-      "type": "alias",
-      "alias": "al-VEE-oh-lus"
+      "text": "SpO2",
+      "type": "phoneme",
+      "phoneme": "ˌɛsˌpiːˈoʊ tuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "glomerulus",
+      "text": "ETCO2",
       "type": "alias",
-      "alias": "gloh-MER-yoo-lus"
+      "alias": "end-tidal carbon dioxide"
     },
     {
-      "text": "nephron",
-      "type": "alias",
-      "alias": "NEF-ron"
+      "text": "ETCO2",
+      "type": "phoneme",
+      "phoneme": "ˌiːˌtiːˌsiːˈoʊ tuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "tubule",
+      "text": "IV",
       "type": "alias",
-      "alias": "TOOB-yool"
+      "alias": "intravenous"
     },
     {
-      "text": "ductule",
-      "type": "alias",
-      "alias": "DUK-tool"
+      "text": "IV",
+      "type": "phoneme",
+      "phoneme": "ˌaɪˈviː",
+      "alphabet": "ipa"
     },
     {
-      "text": "ductus",
+      "text": "IM",
       "type": "alias",
-      "alias": "DUK-tus"
+      "alias": "intramuscular"
     },
     {
-      "text": "vas deferens",
-      "type": "alias",
-      "alias": "vas DEF-er-enz"
+      "text": "IM",
+      "type": "phoneme",
+      "phoneme": "ˌaɪˈɛm",
+      "alphabet": "ipa"
     },
     {
-      "text": "epididymis",
+      "text": "SC",
       "type": "alias",
-      "alias": "ep-ih-DID-ih-mis"
+      "alias": "subcutaneous"
     },
     {
-      "text": "fimbria",
-      "type": "alias",
-      "alias": "FIM-bree-ah"
+      "text": "SC",
+      "type": "phoneme",
+      "phoneme": "ˌɛsˈsiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "fornix",
+      "text": "PO",
       "type": "alias",
-      "alias": "FOR-niks"
+      "alias": "by mouth"
     },
     {
-      "text": "mesentery",
-      "type": "alias",
-      "alias": "MEZ-en-ter-ee"
+      "text": "PO",
+      "type": "phoneme",
+      "phoneme": "ˌpiːˈoʊ",
+      "alphabet": "ipa"
     },
     {
-      "text": "omentum",
+      "text": "PR",
       "type": "alias",
-      "alias": "oh-MEN-tum"
+      "alias": "per rectum"
     },
     {
-      "text": "peritoneum",
-      "type": "alias",
-      "alias": "per-ih-toh-NEE-um"
+      "text": "PR",
+      "type": "phoneme",
+      "phoneme": "ˌpiːˈɑr",
+      "alphabet": "ipa"
     },
     {
-      "text": "retroperitoneum",
+      "text": "SL",
       "type": "alias",
-      "alias": "REH-troh-per-ih-toh-NEE-um"
+      "alias": "sublingual"
     },
     {
-      "text": "mesocolon",
-      "type": "alias",
-      "alias": "MEZ-oh-KOH-lon"
+      "text": "SL",
+      "type": "phoneme",
+      "phoneme": "ˌɛsˈɛl",
+      "alphabet": "ipa"
     },
     {
-      "text": "haustra",
+      "text": "OD",
       "type": "alias",
-      "alias": "HAW-strah"
+      "alias": "right eye"
     },
     {
-      "text": "plicae",
-      "type": "alias",
-      "alias": "PLY-see"
+      "text": "OD",
+      "type": "phoneme",
+      "phoneme": "ˌoʊˈdiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "rugae",
+      "text": "OS",
       "type": "alias",
-      "alias": "ROO-jee"
+      "alias": "left eye"
     },
     {
-      "text": "villi",
-      "type": "alias",
-      "alias": "VIL-eye"
+      "text": "OS",
+      "type": "phoneme",
+      "phoneme": "ˌoʊˈɛs",
+      "alphabet": "ipa"
     },
     {
-      "text": "microvilli",
+      "text": "OU",
       "type": "alias",
-      "alias": "MY-kroh-VIL-eye"
+      "alias": "both eyes"
     },
     {
-      "text": "cryptae",
-      "type": "alias",
-      "alias": "KRIP-tee"
+      "text": "OU",
+      "type": "phoneme",
+      "phoneme": "ˌoʊˈjuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "pylorus",
+      "text": "AU",
       "type": "alias",
-      "alias": "py-LOR-us"
+      "alias": "both ears"
     },
     {
-      "text": "cardia",
-      "type": "alias",
-      "alias": "KAR-dee-ah"
+      "text": "AU",
+      "type": "phoneme",
+      "phoneme": "ˌeɪˈjuː",
+      "alphabet": "ipa"
     },
     {
-      "text": "fundus",
+      "text": "AD",
       "type": "alias",
-      "alias": "FUN-dus"
+      "alias": "right ear"
     },
     {
-      "text": "antrum",
-      "type": "alias",
-      "alias": "AN-trum"
+      "text": "AD",
+      "type": "phoneme",
+      "phoneme": "ˌeɪˈdiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "duodenum",
+      "text": "AS",
       "type": "alias",
-      "alias": "doo-oh-DEE-num"
+      "alias": "left ear"
     },
     {
-      "text": "jejunum",
-      "type": "alias",
-      "alias": "jeh-JOO-num"
+      "text": "AS",
+      "type": "phoneme",
+      "phoneme": "ˌeɪˈɛs",
+      "alphabet": "ipa"
     },
     {
-      "text": "ileum",
+      "text": "APAP",
       "type": "alias",
-      "alias": "IL-ee-um"
+      "alias": "acetaminophen"
     },
     {
-      "text": "cecum",
-      "type": "alias",
-      "alias": "SEE-kum"
+      "text": "APAP",
+      "type": "phoneme",
+      "phoneme": "ˈeɪpæp",
+      "alphabet": "ipa"
     },
     {
-      "text": "vermiform",
+      "text": "NSAID",
       "type": "alias",
-      "alias": "VER-mih-form"
+      "alias": "non-steroidal anti-inflammatory drug"
     },
     {
-      "text": "appendix",
-      "type": "alias",
-      "alias": "ah-PEN-diks"
+      "text": "NSAID",
+      "type": "phoneme",
+      "phoneme": "ˈɛnsɛd",
+      "alphabet": "ipa"
     },
     {
-      "text": "sigmoid",
+      "text": "PPI",
       "type": "alias",
-      "alias": "SIG-moyd"
+      "alias": "proton pump inhibitor"
     },
     {
-      "text": "rectum",
-      "type": "alias",
-      "alias": "REK-tum"
+      "text": "PPI",
+      "type": "phoneme",
+      "phoneme": "ˌpiːˌpiːˈaɪ",
+      "alphabet": "ipa"
     },
     {
-      "text": "anus",
+      "text": "ARB",
       "type": "alias",
-      "alias": "AY-nus"
+      "alias": "angiotensin receptor blocker"
     },
     {
-      "text": "sphincter",
-      "type": "alias",
-      "alias": "SFINK-ter"
+      "text": "ARB",
+      "type": "phoneme",
+      "phoneme": "ˌeɪˌɑrˈbiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "papilla",
+      "text": "ACE",
       "type": "alias",
-      "alias": "pah-PIL-ah"
+      "alias": "angiotensin-converting enzyme"
     },
     {
-      "text": "ampulla",
-      "type": "alias",
-      "alias": "am-POOL-ah"
+      "text": "ACE",
+      "type": "phoneme",
+      "phoneme": "ˈeɪs",
+      "alphabet": "ipa"
     },
     {
-      "text": "cholecyst",
+      "text": "BB",
       "type": "alias",
-      "alias": "KOH-leh-sist"
+      "alias": "beta blocker"
     },
     {
-      "text": "choledochus",
-      "type": "alias",
-      "alias": "koh-LED-oh-kus"
+      "text": "BB",
+      "type": "phoneme",
+      "phoneme": "ˌbiːˈbiː",
+      "alphabet": "ipa"
     },
     {
-      "text": "pancreas",
+      "text": "CCB",
       "type": "alias",
-      "alias": "PAN-kree-as"
+      "alias": "calcium channel blocker"
     },
     {
-      "text": "islets",
-      "type": "alias",
-      "alias": "EYE-lets"
+      "text": "CCB",
+      "type": "phoneme",
+      "phoneme": "ˌsiːˌsiːˈbiː",
+      "alphabet": "ipa"
     }
   ]
 }

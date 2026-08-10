@@ -1,10 +1,11 @@
 # Medical Pronunciation Dictionary
 
-Prepackaged medical pronunciation dictionary for voice AI TTS engines. 962 drugs, clinical terms, anatomical terms, and medical acronyms with phonetic alias pronunciations that import into Telnyx, ElevenLabs, Vapi, and Amazon Polly.
+Prepackaged medical pronunciation dictionary for voice AI TTS engines. 962 drugs, clinical terms, anatomical terms, and medical acronyms with both phonetic alias and IPA pronunciations. Imports into Telnyx, ElevenLabs, Vapi, Retell, and Amazon Polly.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Terms](https://img.shields.io/badge/terms-962-brightgreen)]()
 [![Providers](https://img.shields.io/badge/providers-5-blue)]()
+[![Formats](https://img.shields.io/badge/formats-alias%20%2B%20IPA-orange)]()
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)]()
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
@@ -19,7 +20,7 @@ export TELNYX_API_KEY=your_key_here
 python3 import_to_telnyx.py
 ```
 
-Creates 10 pronunciation dictionaries in your Telnyx account, each containing up to 100 terms. Telnyx caps dictionaries at 100 items, so the pack splits automatically.
+Creates 20 pronunciation dictionaries in your Telnyx account, each containing up to 100 entries (alias + IPA phoneme per term). Telnyx caps dictionaries at 100 items, so the pack splits automatically.
 
 ### Telnyx Portal
 
@@ -69,20 +70,23 @@ aws polly put-lexicon \
 
 Repeat for files 02 through 10.
 
-## Why aliases
+## Why both alias and IPA
 
-Alias format uses plain-text phonetic respelling (`a-TOR-va-STAT-in` for atorvastatin). It works across every TTS provider without requiring IPA support. IPA is more precise but only some providers accept it, and the ones that do often need different IPA dialects. Aliases sidestep the entire problem.
+**Alias** (plain-text phonetic respelling like `a-TOR-va-STAT-in`) works across every TTS provider. **IPA** (like `əˌtɔr.vəˈstæ.tɪn`) is more precise but only supported by some providers.
+
+This pack provides both. Providers that support IPA (Telnyx Ultra, MiniMax, Inworld, ElevenLabs, Retell) get precise phoneme entries. Providers that only support aliases get plain-text respellings. The converter script emits both formats per term so you can use whichever your provider accepts.
 
 ## Provider support
 
-| Provider | Format | Status | Files |
-|----------|--------|--------|-------|
-| Telnyx | JSON items + PLS XML | Supported | `providers/telnyx/` (10 JSON), `pls/` (11 PLS) |
-| ElevenLabs | PLS XML | Supported | `providers/elevenlabs/` (10 PLS) |
-| Vapi | JSON (no `type` field) | Supported | `providers/vapi/` (1 JSON, 962 items) |
-| Amazon Polly | PLS XML | Supported | `providers/amazon-polly/` (10 PLS) |
-| Retell | IPA phonemes | Roadmap | Needs IPA entries, not aliases |
-| Generic | CSV + JSON | Supported | `providers/generic/` |
+| Provider | Format | Alias | IPA | Files |
+|----------|--------|-------|-----|-------|
+| Telnyx | JSON items | Yes | Yes | `providers/telnyx/` (20 JSON, 100 entries each) |
+| Telnyx | PLS XML | Yes | Yes | `pls/` (11 PLS) |
+| ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS) |
+| Vapi | JSON | Yes | Yes (`<<ipa>>` syntax) | `providers/vapi/` (1 JSON, 1924 items) |
+| Amazon Polly | PLS XML | No | Yes | `providers/amazon-polly/` (10 PLS) |
+| Retell | JSON | No | Yes | `providers/retell/` (1 JSON, 962 items) |
+| Generic | CSV + JSON | Yes | Yes | `providers/generic/` |
 
 ## Coverage
 
@@ -99,26 +103,30 @@ Alias format uses plain-text phonetic respelling (`a-TOR-va-STAT-in` for atorvas
 ```
 medical-pronunciation-dictionary/
 ├── data/
-│   ├── terms_with_pronunciations.json   # Source of truth: 962 terms with aliases
+│   ├── terms_master.json               # Source of truth: 962 terms with alias + IPA
+│   ├── terms_with_pronunciations.json   # Legacy: alias only
+│   ├── terms_with_ipa.json              # Legacy: IPA only
 │   └── audio/
 │       ├── before/                      # 10 MP3 samples without dictionary
 │       ├── after/                       # 10 MP3 samples with alias applied
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
-│   ├── telnyx/                          # 10 JSON files (100 items each)
-│   ├── elevenlabs/                      # 10 PLS XML files
-│   ├── vapi/                            # 1 JSON file (all 962 items)
-│   ├── amazon-polly/                    # 10 PLS XML files
-│   └── generic/                         # CSV + flat JSON for any provider
-├── pls/                                 # 11 W3C PLS XML files (original export)
+│   ├── telnyx/                          # 20 JSON files (100 entries each, alias + IPA)
+│   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
+│   ├── vapi/                            # 1 JSON file (alias + <<ipa>> per term)
+│   ├── amazon-polly/                    # 10 PLS XML files (IPA only)
+│   ├── retell/                          # 1 JSON file (IPA only, word/phoneme format)
+│   └── generic/                         # CSV (text, alias, ipa, category) + nested JSON
+├── pls/                                 # 11 W3C PLS XML files (original export, alias only)
 ├── txt/                                 # 11 plain text files (word=alias format)
 ├── src/
 │   ├── terms.py                         # Curated term lists (962 terms)
-│   ├── generate_pronunciations.py       # LiteLLM pronunciation generator
+│   ├── generate_pronunciations.py       # Alias pronunciation generator
+│   ├── generate_ipa.py                  # IPA pronunciation generator
 │   ├── export_pls.py                    # PLS XML + plain text exporter
 │   └── generate_audio_samples.py        # Before/after audio sample generator
 ├── converters/
-│   └── convert_all.py                   # Multi-provider format converter
+│   └── convert_all.py                   # Multi-provider format converter (alias + IPA)
 ├── import_to_telnyx.py                  # One-command Telnyx API import
 ├── README.md
 ├── CONTRIBUTING.md

@@ -1,0 +1,4815 @@
+{
+  "name": "Medical Pronunciation Dictionary",
+  "items": [
+    {
+      "word": "atorvastatin",
+      "alphabet": "ipa",
+      "phoneme": "əˌtɔr.vəˈstæ.tɪn"
+    },
+    {
+      "word": "Lipitor",
+      "alphabet": "ipa",
+      "phoneme": "lɪˈpɪ.tɔr"
+    },
+    {
+      "word": "lisinopril",
+      "alphabet": "ipa",
+      "phoneme": "laɪˈsɪ.nə.prɪl"
+    },
+    {
+      "word": "metoprolol",
+      "alphabet": "ipa",
+      "phoneme": "məˈtoʊ.prə.lɔl"
+    },
+    {
+      "word": "amlodipine",
+      "alphabet": "ipa",
+      "phoneme": "æmˈloʊ.dɪˌpin"
+    },
+    {
+      "word": "losartan",
+      "alphabet": "ipa",
+      "phoneme": "loʊˈsɑr.tæn"
+    },
+    {
+      "word": "metoprolol succinate",
+      "alphabet": "ipa",
+      "phoneme": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt"
+    },
+    {
+      "word": "metoprolol tartrate",
+      "alphabet": "ipa",
+      "phoneme": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt"
+    },
+    {
+      "word": "carvedilol",
+      "alphabet": "ipa",
+      "phoneme": "kɑrˈvɛ.dɪ.lɔl"
+    },
+    {
+      "word": "valsartan",
+      "alphabet": "ipa",
+      "phoneme": "vælˈsɑr.tæn"
+    },
+    {
+      "word": "enalapril",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈnæ.lə.prɪl"
+    },
+    {
+      "word": "ramipril",
+      "alphabet": "ipa",
+      "phoneme": "ræˈmɪ.prɪl"
+    },
+    {
+      "word": "felodipine",
+      "alphabet": "ipa",
+      "phoneme": "fɪˈloʊ.dɪˌpin"
+    },
+    {
+      "word": "nimodipine",
+      "alphabet": "ipa",
+      "phoneme": "naɪˈmoʊ.dɪˌpin"
+    },
+    {
+      "word": "nicardipine",
+      "alphabet": "ipa",
+      "phoneme": "naɪˈkɑr.dɪˌpin"
+    },
+    {
+      "word": "nitroglycerin",
+      "alphabet": "ipa",
+      "phoneme": "ˌnaɪ.trəˈɡlɪ.sə.rɪn"
+    },
+    {
+      "word": "hydralazine",
+      "alphabet": "ipa",
+      "phoneme": "haɪˈdræ.ləˌzin"
+    },
+    {
+      "word": "clonidine",
+      "alphabet": "ipa",
+      "phoneme": "ˈkloʊ.nɪˌdin"
+    },
+    {
+      "word": "spironolactone",
+      "alphabet": "ipa",
+      "phoneme": "ˌspaɪ.rə.noʊˈlæk.toʊn"
+    },
+    {
+      "word": "furosemide",
+      "alphabet": "ipa",
+      "phoneme": "fjʊˈroʊ.səˌmaɪd"
+    },
+    {
+      "word": "hydrochlorothiazide",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd"
+    },
+    {
+      "word": "triamterene",
+      "alphabet": "ipa",
+      "phoneme": "traɪˈæm.tərˌin"
+    },
+    {
+      "word": "bumetanide",
+      "alphabet": "ipa",
+      "phoneme": "bjuˈmɛ.təˌnaɪd"
+    },
+    {
+      "word": "torsemide",
+      "alphabet": "ipa",
+      "phoneme": "ˈtɔr.səˌmaɪd"
+    },
+    {
+      "word": "eplerenone",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈplɛ.rɪˌnoʊn"
+    },
+    {
+      "word": "diltiazem",
+      "alphabet": "ipa",
+      "phoneme": "dɪlˈtaɪ.ə.zəm"
+    },
+    {
+      "word": "verapamil",
+      "alphabet": "ipa",
+      "phoneme": "vəˈræ.pə.mɪl"
+    },
+    {
+      "word": "nifedipine",
+      "alphabet": "ipa",
+      "phoneme": "naɪˈfɛ.dɪˌpin"
+    },
+    {
+      "word": "doxazosin",
+      "alphabet": "ipa",
+      "phoneme": "dɑkˈsæ.zə.sɪn"
+    },
+    {
+      "word": "terazosin",
+      "alphabet": "ipa",
+      "phoneme": "təˈræ.zə.sɪn"
+    },
+    {
+      "word": "prazosin",
+      "alphabet": "ipa",
+      "phoneme": "ˈpræzəsɪn"
+    },
+    {
+      "word": "amiodarone",
+      "alphabet": "ipa",
+      "phoneme": "əˈmiːoʊdəroʊn"
+    },
+    {
+      "word": "dronedarone",
+      "alphabet": "ipa",
+      "phoneme": "droʊˈnɛdəroʊn"
+    },
+    {
+      "word": "sotalol",
+      "alphabet": "ipa",
+      "phoneme": "ˈsoʊtəlɔːl"
+    },
+    {
+      "word": "propafenone",
+      "alphabet": "ipa",
+      "phoneme": "proʊˈpæfənoʊn"
+    },
+    {
+      "word": "flecainide",
+      "alphabet": "ipa",
+      "phoneme": "ˈflɛkənaɪd"
+    },
+    {
+      "word": "mexiletine",
+      "alphabet": "ipa",
+      "phoneme": "mɛkˈsɪlətiːn"
+    },
+    {
+      "word": "isosorbide dinitrate",
+      "alphabet": "ipa",
+      "phoneme": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt"
+    },
+    {
+      "word": "isosorbide mononitrate",
+      "alphabet": "ipa",
+      "phoneme": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt"
+    },
+    {
+      "word": "warfarin",
+      "alphabet": "ipa",
+      "phoneme": "ˈwɔːrfərɪn"
+    },
+    {
+      "word": "rivaroxaban",
+      "alphabet": "ipa",
+      "phoneme": "ˌrɪvəˈrɒksəbæn"
+    },
+    {
+      "word": "apixaban",
+      "alphabet": "ipa",
+      "phoneme": "əˈpɪksəbæn"
+    },
+    {
+      "word": "dabigatran",
+      "alphabet": "ipa",
+      "phoneme": "dəˈbɪɡətræn"
+    },
+    {
+      "word": "clopidogrel",
+      "alphabet": "ipa",
+      "phoneme": "kloʊˈpɪdəɡrɛl"
+    },
+    {
+      "word": "prasugrel",
+      "alphabet": "ipa",
+      "phoneme": "ˈpræsʊɡrɛl"
+    },
+    {
+      "word": "ticagrelor",
+      "alphabet": "ipa",
+      "phoneme": "taɪˈkæɡrəlɔːr"
+    },
+    {
+      "word": "ezetimibe",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈzɛtəmaɪb"
+    },
+    {
+      "word": "fenofibrate",
+      "alphabet": "ipa",
+      "phoneme": "ˌfɛnoʊˈfaɪbreɪt"
+    },
+    {
+      "word": "gemfibrozil",
+      "alphabet": "ipa",
+      "phoneme": "dʒɛmˈfaɪbrəzɪl"
+    },
+    {
+      "word": "niacin",
+      "alphabet": "ipa",
+      "phoneme": "ˈnaɪəsɪn"
+    },
+    {
+      "word": "colesevelam",
+      "alphabet": "ipa",
+      "phoneme": "koʊləˈsɛvəlæm"
+    },
+    {
+      "word": "simvastatin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɪmvəˈstætɪn"
+    },
+    {
+      "word": "rosuvastatin",
+      "alphabet": "ipa",
+      "phoneme": "ˌroʊsuˈvæstətɪn"
+    },
+    {
+      "word": "pravastatin",
+      "alphabet": "ipa",
+      "phoneme": "ˈprævəstætɪn"
+    },
+    {
+      "word": "fluvastatin",
+      "alphabet": "ipa",
+      "phoneme": "fluːˈvæstətɪn"
+    },
+    {
+      "word": "pitavastatin",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɪtəˈvæstətɪn"
+    },
+    {
+      "word": "alirocumab",
+      "alphabet": "ipa",
+      "phoneme": "əˌlɪroʊˈkuːmæb"
+    },
+    {
+      "word": "evolocumab",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈvoʊloʊkuːmæb"
+    },
+    {
+      "word": "metformin",
+      "alphabet": "ipa",
+      "phoneme": "mɛtˈfɔːrmɪn"
+    },
+    {
+      "word": "glipizide",
+      "alphabet": "ipa",
+      "phoneme": "ˈɡlɪpəzaɪd"
+    },
+    {
+      "word": "glyburide",
+      "alphabet": "ipa",
+      "phoneme": "ˈɡlaɪbjʊˌraɪd"
+    },
+    {
+      "word": "pioglitazone",
+      "alphabet": "ipa",
+      "phoneme": "ˌpaɪoʊɡlɪˈtæzoʊn"
+    },
+    {
+      "word": "sitagliptin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɪtəˈɡlɪptɪn"
+    },
+    {
+      "word": "linagliptin",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪnəˈɡlɪptɪn"
+    },
+    {
+      "word": "saxagliptin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsæksəˈɡlɪptɪn"
+    },
+    {
+      "word": "alogliptin",
+      "alphabet": "ipa",
+      "phoneme": "ˌæloʊˈɡlɪptɪn"
+    },
+    {
+      "word": "empagliflozin",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛmpəɡlɪˈfloʊzɪn"
+    },
+    {
+      "word": "canagliflozin",
+      "alphabet": "ipa",
+      "phoneme": "ˌkænəɡlɪˈfloʊzɪn"
+    },
+    {
+      "word": "dapagliflozin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdæpəɡlɪˈfloʊzɪn"
+    },
+    {
+      "word": "semaglutide",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛməˈɡluːtaɪd"
+    },
+    {
+      "word": "liraglutide",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪrəˈɡluːtaɪd"
+    },
+    {
+      "word": "exenatide",
+      "alphabet": "ipa",
+      "phoneme": "ɛɡˈzɛnətaɪd"
+    },
+    {
+      "word": "dulaglutide",
+      "alphabet": "ipa",
+      "phoneme": "ˌduːləˈɡluːtaɪd"
+    },
+    {
+      "word": "tirzepatide",
+      "alphabet": "ipa",
+      "phoneme": "tɪrˈzɛpətaɪd"
+    },
+    {
+      "word": "insulin glargine",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn"
+    },
+    {
+      "word": "insulin lispro",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪnsəlɪn ˈlɪsproʊ"
+    },
+    {
+      "word": "insulin aspart",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪnsəlɪn ˈæspɑːrt"
+    },
+    {
+      "word": "insulin detemir",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪnsəlɪn dəˈtiːmɪr"
+    },
+    {
+      "word": "insulin degludec",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪnsəlɪn dɛˈɡluːdɛk"
+    },
+    {
+      "word": "acarbose",
+      "alphabet": "ipa",
+      "phoneme": "ˈækɑːrboʊs"
+    },
+    {
+      "word": "miglitol",
+      "alphabet": "ipa",
+      "phoneme": "ˈmɪɡlɪtɔːl"
+    },
+    {
+      "word": "repaglinide",
+      "alphabet": "ipa",
+      "phoneme": "ˌrɛpəˈɡlaɪnaɪd"
+    },
+    {
+      "word": "nateglinide",
+      "alphabet": "ipa",
+      "phoneme": "nəˈtɛɡlɪnaɪd"
+    },
+    {
+      "word": "amoxicillin",
+      "alphabet": "ipa",
+      "phoneme": "əˌmɑːksɪˈsɪlɪn"
+    },
+    {
+      "word": "amoxicillin clavulanate",
+      "alphabet": "ipa",
+      "phoneme": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt"
+    },
+    {
+      "word": "azithromycin",
+      "alphabet": "ipa",
+      "phoneme": "æˌzɪθroʊˈmaɪsɪn"
+    },
+    {
+      "word": "cephalexin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛfəˈlɛksɪn"
+    },
+    {
+      "word": "ciprofloxacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsaɪproʊˈflɑːksəsɪn"
+    },
+    {
+      "word": "clindamycin",
+      "alphabet": "ipa",
+      "phoneme": "ˌklɪndəˈmaɪsɪn"
+    },
+    {
+      "word": "doxycycline",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɑːksiˈsaɪkliːn"
+    },
+    {
+      "word": "metronidazole",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛtrəˈnaɪdəzoʊl"
+    },
+    {
+      "word": "sulfamethoxazole trimethoprim",
+      "alphabet": "ipa",
+      "phoneme": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm"
+    },
+    {
+      "word": "nitrofurantoin",
+      "alphabet": "ipa",
+      "phoneme": "ˌnaɪtroʊfjʊˈræntoʊɪn"
+    },
+    {
+      "word": "penicillin",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛnɪˈsɪlɪn"
+    },
+    {
+      "word": "vancomycin",
+      "alphabet": "ipa",
+      "phoneme": "væŋˈkoʊmaɪsɪn"
+    },
+    {
+      "word": "levofloxacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɛvoʊˈflɑksəsɪn"
+    },
+    {
+      "word": "moxifloxacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɑksɪˈflɑksəsɪn"
+    },
+    {
+      "word": "cefdinir",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛfdɪnɪr"
+    },
+    {
+      "word": "cefaclor",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛfəklɔr"
+    },
+    {
+      "word": "cefuroxime",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛfjʊˈrɑksiːm"
+    },
+    {
+      "word": "ceftriaxone",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛftraɪˈæksoʊn"
+    },
+    {
+      "word": "cefepime",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛfəpiːm"
+    },
+    {
+      "word": "meropenem",
+      "alphabet": "ipa",
+      "phoneme": "məˈrɑpənɛm"
+    },
+    {
+      "word": "ertapenem",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛrtəˈpiːnɛm"
+    },
+    {
+      "word": "imipenem",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪmɪˈpiːnɛm"
+    },
+    {
+      "word": "piperacillin tazobactam",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm"
+    },
+    {
+      "word": "gentamicin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdʒɛntəˈmaɪsɪn"
+    },
+    {
+      "word": "tobramycin",
+      "alphabet": "ipa",
+      "phoneme": "ˌtoʊbrəˈmaɪsɪn"
+    },
+    {
+      "word": "amikacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌæmɪˈkeɪsɪn"
+    },
+    {
+      "word": "linezolid",
+      "alphabet": "ipa",
+      "phoneme": "lɪˈnɛzəlɪd"
+    },
+    {
+      "word": "daptomycin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdæptoʊˈmaɪsɪn"
+    },
+    {
+      "word": "tigecycline",
+      "alphabet": "ipa",
+      "phoneme": "ˌtɪɡəˈsaɪkliːn"
+    },
+    {
+      "word": "minocycline",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɪnoʊˈsaɪkliːn"
+    },
+    {
+      "word": "rifampin",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈfæmpɪn"
+    },
+    {
+      "word": "isoniazid",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪsoʊˈnaɪəzɪd"
+    },
+    {
+      "word": "pyrazinamide",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɪrəˈzɪnəmaɪd"
+    },
+    {
+      "word": "ethambutol",
+      "alphabet": "ipa",
+      "phoneme": "ɛˈθæmbjətɔl"
+    },
+    {
+      "word": "fluconazole",
+      "alphabet": "ipa",
+      "phoneme": "fluˈkɑnəzoʊl"
+    },
+    {
+      "word": "ketoconazole",
+      "alphabet": "ipa",
+      "phoneme": "ˌkiːtoʊˈkɑnəzoʊl"
+    },
+    {
+      "word": "itraconazole",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪtrəˈkɑnəzoʊl"
+    },
+    {
+      "word": "voriconazole",
+      "alphabet": "ipa",
+      "phoneme": "ˌvɔrɪˈkɑnəzoʊl"
+    },
+    {
+      "word": "posaconazole",
+      "alphabet": "ipa",
+      "phoneme": "poʊsəˈkɑnəzoʊl"
+    },
+    {
+      "word": "acyclovir",
+      "alphabet": "ipa",
+      "phoneme": "eɪˈsaɪkləvɪr"
+    },
+    {
+      "word": "valacyclovir",
+      "alphabet": "ipa",
+      "phoneme": "vəˈlæsɪkləvɪr"
+    },
+    {
+      "word": "famciclovir",
+      "alphabet": "ipa",
+      "phoneme": "fæmˈsaɪkləvɪr"
+    },
+    {
+      "word": "oseltamivir",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊsɛlˈtæmɪvɪr"
+    },
+    {
+      "word": "aciklovir",
+      "alphabet": "ipa",
+      "phoneme": "eɪˈsaɪkləvɪr"
+    },
+    {
+      "word": "ibuprofen",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪbjuˈproʊfən"
+    },
+    {
+      "word": "naproxen",
+      "alphabet": "ipa",
+      "phoneme": "nəˈprɑksən"
+    },
+    {
+      "word": "celecoxib",
+      "alphabet": "ipa",
+      "phoneme": "səˈlɛksɪb"
+    },
+    {
+      "word": "meloxicam",
+      "alphabet": "ipa",
+      "phoneme": "məˈlɑksɪkæm"
+    },
+    {
+      "word": "diclofenac",
+      "alphabet": "ipa",
+      "phoneme": "daɪˈkloʊfənæk"
+    },
+    {
+      "word": "ketorolac",
+      "alphabet": "ipa",
+      "phoneme": "kiˈtɔrəlæk"
+    },
+    {
+      "word": "indomethacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪndoʊˈmɛθəsɪn"
+    },
+    {
+      "word": "nabumetone",
+      "alphabet": "ipa",
+      "phoneme": "nəˈbjumətoʊn"
+    },
+    {
+      "word": "etodolac",
+      "alphabet": "ipa",
+      "phoneme": "iˈtoʊdəlæk"
+    },
+    {
+      "word": "oxaprozin",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑksəˈproʊzɪn"
+    },
+    {
+      "word": "acetaminophen",
+      "alphabet": "ipa",
+      "phoneme": "əˌsiːtəˈmɪnəfən"
+    },
+    {
+      "word": "tramadol",
+      "alphabet": "ipa",
+      "phoneme": "ˈtræmədɔl"
+    },
+    {
+      "word": "gabapentin",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡæbəˈpɛntɪn"
+    },
+    {
+      "word": "pregabalin",
+      "alphabet": "ipa",
+      "phoneme": "priˈɡæbəlɪn"
+    },
+    {
+      "word": "duloxetine",
+      "alphabet": "ipa",
+      "phoneme": "duˈlɑksətiːn"
+    },
+    {
+      "word": "amitriptyline",
+      "alphabet": "ipa",
+      "phoneme": "ˌæmɪˈtrɪptəliːn"
+    },
+    {
+      "word": "nortriptyline",
+      "alphabet": "ipa",
+      "phoneme": "nɔrˈtrɪptəliːn"
+    },
+    {
+      "word": "topiramate",
+      "alphabet": "ipa",
+      "phoneme": "toʊˈpɪrəmeɪt"
+    },
+    {
+      "word": "carbamazepine",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɑrbəˈmæzəpiːn"
+    },
+    {
+      "word": "oxcarbazepine",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑkskɑrˈbæzəpiːn"
+    },
+    {
+      "word": "lamotrigine",
+      "alphabet": "ipa",
+      "phoneme": "ləˈmɑtrɪdʒiːn"
+    },
+    {
+      "word": "levetiracetam",
+      "alphabet": "ipa",
+      "phoneme": "ləˌvɛtɪˈræsɪtæm"
+    },
+    {
+      "word": "phenytoin",
+      "alphabet": "ipa",
+      "phoneme": "fəˈnɪtoʊɪn"
+    },
+    {
+      "word": "valproic acid",
+      "alphabet": "ipa",
+      "phoneme": "vælˈproʊɪk ˈæsɪd"
+    },
+    {
+      "word": "zonisamide",
+      "alphabet": "ipa",
+      "phoneme": "zoʊˈnɪsəmaɪd"
+    },
+    {
+      "word": "lacosamide",
+      "alphabet": "ipa",
+      "phoneme": "ləˈkoʊsəmaɪd"
+    },
+    {
+      "word": "rufinamide",
+      "alphabet": "ipa",
+      "phoneme": "ruˈfɪnəmaɪd"
+    },
+    {
+      "word": "omeprazole",
+      "alphabet": "ipa",
+      "phoneme": "oʊˈmɛprəzoʊl"
+    },
+    {
+      "word": "pantoprazole",
+      "alphabet": "ipa",
+      "phoneme": "pænˈtoʊprəzoʊl"
+    },
+    {
+      "word": "esomeprazole",
+      "alphabet": "ipa",
+      "phoneme": "ɛˈsoʊmɛprəzoʊl"
+    },
+    {
+      "word": "lansoprazole",
+      "alphabet": "ipa",
+      "phoneme": "lænˈsoʊprəzoʊl"
+    },
+    {
+      "word": "rabeprazole",
+      "alphabet": "ipa",
+      "phoneme": "rəˈbɛprəzoʊl"
+    },
+    {
+      "word": "dexlansoprazole",
+      "alphabet": "ipa",
+      "phoneme": "dɛksˌlænˈsoʊprəzoʊl"
+    },
+    {
+      "word": "famotidine",
+      "alphabet": "ipa",
+      "phoneme": "fəˈmoʊtɪdiːn"
+    },
+    {
+      "word": "ranitidine",
+      "alphabet": "ipa",
+      "phoneme": "rəˈnɪtɪdiːn"
+    },
+    {
+      "word": "cimetidine",
+      "alphabet": "ipa",
+      "phoneme": "saɪˈmɛtɪdiːn"
+    },
+    {
+      "word": "nizatidine",
+      "alphabet": "ipa",
+      "phoneme": "naɪˈzætɪdiːn"
+    },
+    {
+      "word": "aluminum hydroxide",
+      "alphabet": "ipa",
+      "phoneme": "əˈluːmɪnəm haɪˈdrɒksaɪd"
+    },
+    {
+      "word": "simethicone",
+      "alphabet": "ipa",
+      "phoneme": "saɪˈmɛθɪkoʊn"
+    },
+    {
+      "word": "ondansetron",
+      "alphabet": "ipa",
+      "phoneme": "ɒnˈdænsətrɒn"
+    },
+    {
+      "word": "granisetron",
+      "alphabet": "ipa",
+      "phoneme": "grəˈnɪsətrɒn"
+    },
+    {
+      "word": "palonosetron",
+      "alphabet": "ipa",
+      "phoneme": "pəˌloʊnəˈsɛtrɒn"
+    },
+    {
+      "word": "metoclopramide",
+      "alphabet": "ipa",
+      "phoneme": "məˌtoʊkloʊˈpræmaɪd"
+    },
+    {
+      "word": "promethazine",
+      "alphabet": "ipa",
+      "phoneme": "proʊˈmɛθəziːn"
+    },
+    {
+      "word": "prochlorperazine",
+      "alphabet": "ipa",
+      "phoneme": "proʊˌklɔːrˈpɛrəziːn"
+    },
+    {
+      "word": "loperamide",
+      "alphabet": "ipa",
+      "phoneme": "loʊˈpɛrəmaɪd"
+    },
+    {
+      "word": "docusate",
+      "alphabet": "ipa",
+      "phoneme": "ˈdɒkjuseɪt"
+    },
+    {
+      "word": "polyethylene glycol",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl"
+    },
+    {
+      "word": "bisacodyl",
+      "alphabet": "ipa",
+      "phoneme": "baɪˈsækədɪl"
+    },
+    {
+      "word": "senna",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛnə"
+    },
+    {
+      "word": "lactulose",
+      "alphabet": "ipa",
+      "phoneme": "ˈlæktjuːloʊs"
+    },
+    {
+      "word": "albuterol",
+      "alphabet": "ipa",
+      "phoneme": "ælˈbjuːtərɒl"
+    },
+    {
+      "word": "levalbuterol",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɛvælˈbjuːtərɒl"
+    },
+    {
+      "word": "ipratropium",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪprəˈtroʊpiəm"
+    },
+    {
+      "word": "tiotropium",
+      "alphabet": "ipa",
+      "phoneme": "ˌtaɪəˈtroʊpiəm"
+    },
+    {
+      "word": "umeclidinium",
+      "alphabet": "ipa",
+      "phoneme": "ˌjuːˌmɛklɪˈdɪniəm"
+    },
+    {
+      "word": "glycopyrrolate",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡlaɪkoʊˈpɪroʊleɪt"
+    },
+    {
+      "word": "formoterol",
+      "alphabet": "ipa",
+      "phoneme": "fɔrˈmɑːtərɔːl"
+    },
+    {
+      "word": "salmeterol",
+      "alphabet": "ipa",
+      "phoneme": "sælˈmiːtərɔːl"
+    },
+    {
+      "word": "indacaterol",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪndəˈkætərɔːl"
+    },
+    {
+      "word": "olodaterol",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊloʊˈdætərɔːl"
+    },
+    {
+      "word": "fluticasone",
+      "alphabet": "ipa",
+      "phoneme": "fluːˈtɪkəsoʊn"
+    },
+    {
+      "word": "budesonide",
+      "alphabet": "ipa",
+      "phoneme": "bjuːˈdɛsənaɪd"
+    },
+    {
+      "word": "mometasone",
+      "alphabet": "ipa",
+      "phoneme": "moʊˈmɛtəsoʊn"
+    },
+    {
+      "word": "ciclesonide",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈklɛsənaɪd"
+    },
+    {
+      "word": "beclomethasone",
+      "alphabet": "ipa",
+      "phoneme": "ˌbɛkloʊˈmɛθəsoʊn"
+    },
+    {
+      "word": "montelukast",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɑːntəˈluːkæst"
+    },
+    {
+      "word": "zafirlukast",
+      "alphabet": "ipa",
+      "phoneme": "zəˈfɪrluːkæst"
+    },
+    {
+      "word": "zileuton",
+      "alphabet": "ipa",
+      "phoneme": "zaɪˈluːtɑːn"
+    },
+    {
+      "word": "theophylline",
+      "alphabet": "ipa",
+      "phoneme": "ˌθiːəˈfɪliːn"
+    },
+    {
+      "word": "roflumilast",
+      "alphabet": "ipa",
+      "phoneme": "roʊˈfluːmɪlæst"
+    },
+    {
+      "word": "benralizumab",
+      "alphabet": "ipa",
+      "phoneme": "bɛnˈrælɪzʊmæb"
+    },
+    {
+      "word": "mepolizumab",
+      "alphabet": "ipa",
+      "phoneme": "məˈpɑːlɪzʊmæb"
+    },
+    {
+      "word": "reslizumab",
+      "alphabet": "ipa",
+      "phoneme": "rɛzˈlɪzʊmæb"
+    },
+    {
+      "word": "dupilumab",
+      "alphabet": "ipa",
+      "phoneme": "duːˈpɪljuːmæb"
+    },
+    {
+      "word": "omalizumab",
+      "alphabet": "ipa",
+      "phoneme": "oʊˈmælɪzʊmæb"
+    },
+    {
+      "word": "sertraline",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɜːrtrəliːn"
+    },
+    {
+      "word": "fluoxetine",
+      "alphabet": "ipa",
+      "phoneme": "fluːˈɑːksətiːn"
+    },
+    {
+      "word": "escitalopram",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛsɪˈtæləpræm"
+    },
+    {
+      "word": "citalopram",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈtæləpræm"
+    },
+    {
+      "word": "paroxetine",
+      "alphabet": "ipa",
+      "phoneme": "pəˈrɑːksətiːn"
+    },
+    {
+      "word": "venlafaxine",
+      "alphabet": "ipa",
+      "phoneme": "vɛnˈlæfəksiːn"
+    },
+    {
+      "word": "desvenlafaxine",
+      "alphabet": "ipa",
+      "phoneme": "dɛzˈvɛnələˌfæksiːn"
+    },
+    {
+      "word": "milnacipran",
+      "alphabet": "ipa",
+      "phoneme": "mɪlˈnæsɪpræn"
+    },
+    {
+      "word": "bupropion",
+      "alphabet": "ipa",
+      "phoneme": "bjuˈproʊpiɑn"
+    },
+    {
+      "word": "mirtazapine",
+      "alphabet": "ipa",
+      "phoneme": "mɪrˈtæzəpin"
+    },
+    {
+      "word": "trazodone",
+      "alphabet": "ipa",
+      "phoneme": "ˈtræzədoʊn"
+    },
+    {
+      "word": "nefazodone",
+      "alphabet": "ipa",
+      "phoneme": "nəˈfæzədoʊn"
+    },
+    {
+      "word": "vortioxetine",
+      "alphabet": "ipa",
+      "phoneme": "vɔrtiˈɑksətin"
+    },
+    {
+      "word": "vilazodone",
+      "alphabet": "ipa",
+      "phoneme": "vɪˈlæzədoʊn"
+    },
+    {
+      "word": "fluvoxamine",
+      "alphabet": "ipa",
+      "phoneme": "fluˈvɑksəmin"
+    },
+    {
+      "word": "clomipramine",
+      "alphabet": "ipa",
+      "phoneme": "kloʊˈmɪprəmin"
+    },
+    {
+      "word": "desipramine",
+      "alphabet": "ipa",
+      "phoneme": "dəˈsɪprəmin"
+    },
+    {
+      "word": "imipramine",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈmɪprəmin"
+    },
+    {
+      "word": "protriptyline",
+      "alphabet": "ipa",
+      "phoneme": "proʊˈtrɪptəlin"
+    },
+    {
+      "word": "phenelzine",
+      "alphabet": "ipa",
+      "phoneme": "ˈfɛnəlzin"
+    },
+    {
+      "word": "tranylcypromine",
+      "alphabet": "ipa",
+      "phoneme": "trænɪlˈsɪprəmin"
+    },
+    {
+      "word": "isocarboxazid",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪsoʊkɑrˈbɑksəzɪd"
+    },
+    {
+      "word": "selegiline",
+      "alphabet": "ipa",
+      "phoneme": "səˈlɛdʒəlin"
+    },
+    {
+      "word": "rasagiline",
+      "alphabet": "ipa",
+      "phoneme": "rəˈsædʒəlin"
+    },
+    {
+      "word": "aripiprazole",
+      "alphabet": "ipa",
+      "phoneme": "əˈrɪpɪprəzoʊl"
+    },
+    {
+      "word": "olanzapine",
+      "alphabet": "ipa",
+      "phoneme": "oʊˈlænzəpin"
+    },
+    {
+      "word": "quetiapine",
+      "alphabet": "ipa",
+      "phoneme": "kwɛˈtaɪəpin"
+    },
+    {
+      "word": "risperidone",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈspɛrɪdoʊn"
+    },
+    {
+      "word": "paliperidone",
+      "alphabet": "ipa",
+      "phoneme": "pəˈlɪpərɪdoʊn"
+    },
+    {
+      "word": "ziprasidone",
+      "alphabet": "ipa",
+      "phoneme": "zɪˈpræsɪdoʊn"
+    },
+    {
+      "word": "lurasidone",
+      "alphabet": "ipa",
+      "phoneme": "lʊˈræsɪdoʊn"
+    },
+    {
+      "word": "brexpiprazole",
+      "alphabet": "ipa",
+      "phoneme": "brɛksˈpɪprəzoʊl"
+    },
+    {
+      "word": "cariprazine",
+      "alphabet": "ipa",
+      "phoneme": "kəˈrɪprəzin"
+    },
+    {
+      "word": "clozapine",
+      "alphabet": "ipa",
+      "phoneme": "ˈkloʊzəpin"
+    },
+    {
+      "word": "haloperidol",
+      "alphabet": "ipa",
+      "phoneme": "ˌhæloʊˈpɛrɪdɔl"
+    },
+    {
+      "word": "chlorpromazine",
+      "alphabet": "ipa",
+      "phoneme": "klɔrˈproʊməzin"
+    },
+    {
+      "word": "lithium",
+      "alphabet": "ipa",
+      "phoneme": "ˈlɪθiəm"
+    },
+    {
+      "word": "valproate",
+      "alphabet": "ipa",
+      "phoneme": "vælˈproʊ.eɪt"
+    },
+    {
+      "word": "asenapine",
+      "alphabet": "ipa",
+      "phoneme": "əˈsɛn.ə.piːn"
+    },
+    {
+      "word": "dexmethylphenidate",
+      "alphabet": "ipa",
+      "phoneme": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt"
+    },
+    {
+      "word": "lisdexamfetamine",
+      "alphabet": "ipa",
+      "phoneme": "lɪsˌdɛks.æmˈfɛt.ə.miːn"
+    },
+    {
+      "word": "methylphenidate",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛθ.əlˈfɛn.ə.deɪt"
+    },
+    {
+      "word": "amfetamine",
+      "alphabet": "ipa",
+      "phoneme": "æmˈfɛt.ə.miːn"
+    },
+    {
+      "word": "guanfacine",
+      "alphabet": "ipa",
+      "phoneme": "ˈɡwɑːn.fə.siːn"
+    },
+    {
+      "word": "tamoxifen",
+      "alphabet": "ipa",
+      "phoneme": "təˈmɑːk.sə.fən"
+    },
+    {
+      "word": "anastrozole",
+      "alphabet": "ipa",
+      "phoneme": "əˈnæs.trə.zɔːl"
+    },
+    {
+      "word": "letrozole",
+      "alphabet": "ipa",
+      "phoneme": "ˈlɛ.trə.zɔːl"
+    },
+    {
+      "word": "exemestane",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛk.səˈmɛs.teɪn"
+    },
+    {
+      "word": "leuprolide",
+      "alphabet": "ipa",
+      "phoneme": "luːˈproʊ.laɪd"
+    },
+    {
+      "word": "goserelin",
+      "alphabet": "ipa",
+      "phoneme": "ɡoʊˈsɛr.ə.lɪn"
+    },
+    {
+      "word": "triptorelin",
+      "alphabet": "ipa",
+      "phoneme": "trɪpˈtɔːr.ə.lɪn"
+    },
+    {
+      "word": "bicalutamide",
+      "alphabet": "ipa",
+      "phoneme": "baɪ.kəˈluː.tə.maɪd"
+    },
+    {
+      "word": "enzalutamide",
+      "alphabet": "ipa",
+      "phoneme": "ɛn.zəˈluː.tə.maɪd"
+    },
+    {
+      "word": "abiraterone",
+      "alphabet": "ipa",
+      "phoneme": "əˈbɪr.ə.tə.roʊn"
+    },
+    {
+      "word": "imatinib",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈmæ.tɪ.nɪb"
+    },
+    {
+      "word": "dasatinib",
+      "alphabet": "ipa",
+      "phoneme": "dəˈsæ.tɪ.nɪb"
+    },
+    {
+      "word": "nilotinib",
+      "alphabet": "ipa",
+      "phoneme": "naɪˈloʊ.tɪ.nɪb"
+    },
+    {
+      "word": "bosutinib",
+      "alphabet": "ipa",
+      "phoneme": "boʊˈsuː.tɪ.nɪb"
+    },
+    {
+      "word": "ponatinib",
+      "alphabet": "ipa",
+      "phoneme": "poʊˈnæ.tɪ.nɪb"
+    },
+    {
+      "word": "ibrutinib",
+      "alphabet": "ipa",
+      "phoneme": "aɪˈbruː.tɪ.nɪb"
+    },
+    {
+      "word": "acalabrutinib",
+      "alphabet": "ipa",
+      "phoneme": "əˌkæl.əˈbruː.tɪ.nɪb"
+    },
+    {
+      "word": "venetoclax",
+      "alphabet": "ipa",
+      "phoneme": "vəˈnɛ.toʊ.klæks"
+    },
+    {
+      "word": "rituximab",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈtʊk.sɪ.mæb"
+    },
+    {
+      "word": "trastuzumab",
+      "alphabet": "ipa",
+      "phoneme": "træsˈtʊ.zuː.mæb"
+    },
+    {
+      "word": "pertuzumab",
+      "alphabet": "ipa",
+      "phoneme": "pərˈtʊ.zuː.mæb"
+    },
+    {
+      "word": "bevacizumab",
+      "alphabet": "ipa",
+      "phoneme": "bəˌvæk.sɪˈzuː.mæb"
+    },
+    {
+      "word": "cetuximab",
+      "alphabet": "ipa",
+      "phoneme": "səˈtʊk.sɪ.mæb"
+    },
+    {
+      "word": "panitumumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌpænɪˈtjuːməmæb"
+    },
+    {
+      "word": "pembrolizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛmbroʊˈlɪzjuːmæb"
+    },
+    {
+      "word": "nivolumab",
+      "alphabet": "ipa",
+      "phoneme": "nɪˈvɒljʊmæb"
+    },
+    {
+      "word": "ipilimumab",
+      "alphabet": "ipa",
+      "phoneme": "ɪˌpɪlɪˈmuːmæb"
+    },
+    {
+      "word": "atezolizumab",
+      "alphabet": "ipa",
+      "phoneme": "əˌtɛzoʊˈlɪzjuːmæb"
+    },
+    {
+      "word": "durvalumab",
+      "alphabet": "ipa",
+      "phoneme": "dɜːrˈvæljʊmæb"
+    },
+    {
+      "word": "avelumab",
+      "alphabet": "ipa",
+      "phoneme": "əˈvɛljʊmæb"
+    },
+    {
+      "word": "cisplatin",
+      "alphabet": "ipa",
+      "phoneme": "sɪsˈpleɪtɪn"
+    },
+    {
+      "word": "carboplatin",
+      "alphabet": "ipa",
+      "phoneme": "kɑːrˈboʊplætɪn"
+    },
+    {
+      "word": "oxaliplatin",
+      "alphabet": "ipa",
+      "phoneme": "ɒkˈsælɪplætɪn"
+    },
+    {
+      "word": "paclitaxel",
+      "alphabet": "ipa",
+      "phoneme": "ˌpæklɪˈtæksɛl"
+    },
+    {
+      "word": "docetaxel",
+      "alphabet": "ipa",
+      "phoneme": "ˌdoʊsɪˈtæksɛl"
+    },
+    {
+      "word": "doxorubicin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɒksəˈruːbɪsɪn"
+    },
+    {
+      "word": "daunorubicin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɔːnəˈruːbɪsɪn"
+    },
+    {
+      "word": "vincristine",
+      "alphabet": "ipa",
+      "phoneme": "vɪnˈkrɪstiːn"
+    },
+    {
+      "word": "vinblastine",
+      "alphabet": "ipa",
+      "phoneme": "vɪnˈblæstiːn"
+    },
+    {
+      "word": "vinorelbine",
+      "alphabet": "ipa",
+      "phoneme": "vɪˈnɔːrɛlbiːn"
+    },
+    {
+      "word": "etoposide",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈtoʊpəsaɪd"
+    },
+    {
+      "word": "cyclophosphamide",
+      "alphabet": "ipa",
+      "phoneme": "ˌsaɪkloʊˈfɒsfəmaɪd"
+    },
+    {
+      "word": "ifosfamide",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈfɒsfəmaɪd"
+    },
+    {
+      "word": "methotrexate",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛθəˈtɹɛkseɪt"
+    },
+    {
+      "word": "pemetrexed",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛmɪˈtɹɛksɛd"
+    },
+    {
+      "word": "gemcitabine",
+      "alphabet": "ipa",
+      "phoneme": "dʒɛmˈsaɪtəbiːn"
+    },
+    {
+      "word": "fluorouracil",
+      "alphabet": "ipa",
+      "phoneme": "ˌflʊroʊˈjʊɚəsɪl"
+    },
+    {
+      "word": "capecitabine",
+      "alphabet": "ipa",
+      "phoneme": "ˌkæpɪˈsaɪtəbiːn"
+    },
+    {
+      "word": "cytarabine",
+      "alphabet": "ipa",
+      "phoneme": "saɪˈtɛɚəbiːn"
+    },
+    {
+      "word": "adalimumab",
+      "alphabet": "ipa",
+      "phoneme": "əˌdælɪˈmuːmæb"
+    },
+    {
+      "word": "etanercept",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈtænɚsɛpt"
+    },
+    {
+      "word": "infliximab",
+      "alphabet": "ipa",
+      "phoneme": "ɪnˈflɪksɪmæb"
+    },
+    {
+      "word": "certolizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɜːrtoʊˈlɪzjuːmæb"
+    },
+    {
+      "word": "golimumab",
+      "alphabet": "ipa",
+      "phoneme": "ɡoʊˈlɪmjʊˌmæb"
+    },
+    {
+      "word": "tocilizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌtoʊsɪˈlɪzjʊˌmæb"
+    },
+    {
+      "word": "sarilumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌsærɪˈluːmæb"
+    },
+    {
+      "word": "ustekinumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌʌstəˈkɪnjʊˌmæb"
+    },
+    {
+      "word": "secukinumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛkjʊˈkɪnjʊˌmæb"
+    },
+    {
+      "word": "ixekizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪksɛˈkɪzjʊˌmæb"
+    },
+    {
+      "word": "brodalumab",
+      "alphabet": "ipa",
+      "phoneme": "broʊˈdæljʊˌmæb"
+    },
+    {
+      "word": "guselkumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡʌsɛlˈkuːmæb"
+    },
+    {
+      "word": "risankizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌrɪsæŋˈkɪzjʊˌmæb"
+    },
+    {
+      "word": "tildrakizumab",
+      "alphabet": "ipa",
+      "phoneme": "tɪlˈdrækɪzjʊˌmæb"
+    },
+    {
+      "word": "abatacept",
+      "alphabet": "ipa",
+      "phoneme": "ˌæbəˈtæsɛpt"
+    },
+    {
+      "word": "leflunomide",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɛfˈluːnəˌmaɪd"
+    },
+    {
+      "word": "sulfasalazine",
+      "alphabet": "ipa",
+      "phoneme": "ˌsʌlfəˈsæləˌziːn"
+    },
+    {
+      "word": "hydroxychloroquine",
+      "alphabet": "ipa",
+      "phoneme": "haɪˌdrɑksiˈklɔrəˌkwin"
+    },
+    {
+      "word": "azathioprine",
+      "alphabet": "ipa",
+      "phoneme": "ˌæzəˈθaɪəˌpriːn"
+    },
+    {
+      "word": "mycophenolate",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪkoʊˈfɛnəˌleɪt"
+    },
+    {
+      "word": "tacrolimus",
+      "alphabet": "ipa",
+      "phoneme": "təˈkroʊlɪməs"
+    },
+    {
+      "word": "cyclosporine",
+      "alphabet": "ipa",
+      "phoneme": "ˌsaɪkloʊˈspɔriːn"
+    },
+    {
+      "word": "sirolimus",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈroʊlɪməs"
+    },
+    {
+      "word": "everolimus",
+      "alphabet": "ipa",
+      "phoneme": "ɛˈvɛrəlɪməs"
+    },
+    {
+      "word": "levodopa",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɛvoʊˈdoʊpə"
+    },
+    {
+      "word": "carbidopa",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɑrbɪˈdoʊpə"
+    },
+    {
+      "word": "pramipexole",
+      "alphabet": "ipa",
+      "phoneme": "ˌpræmɪˈpɛksoʊl"
+    },
+    {
+      "word": "ropinirole",
+      "alphabet": "ipa",
+      "phoneme": "roʊˈpɪnəˌroʊl"
+    },
+    {
+      "word": "rotigotine",
+      "alphabet": "ipa",
+      "phoneme": "roʊˈtɪɡəˌtiːn"
+    },
+    {
+      "word": "amantadine",
+      "alphabet": "ipa",
+      "phoneme": "əˈmæntəˌdiːn"
+    },
+    {
+      "word": "entacapone",
+      "alphabet": "ipa",
+      "phoneme": "ɛnˈtækəˌpoʊn"
+    },
+    {
+      "word": "safinamide",
+      "alphabet": "ipa",
+      "phoneme": "səˈfɪnəˌmaɪd"
+    },
+    {
+      "word": "apomorphine",
+      "alphabet": "ipa",
+      "phoneme": "ˌæpəˈmɔrfiːn"
+    },
+    {
+      "word": "donepezil",
+      "alphabet": "ipa",
+      "phoneme": "doʊˈnɛpəzɪl"
+    },
+    {
+      "word": "rivastigmine",
+      "alphabet": "ipa",
+      "phoneme": "ˌrɪvəˈstɪɡmiːn"
+    },
+    {
+      "word": "galantamine",
+      "alphabet": "ipa",
+      "phoneme": "ɡəˈlæntəmiːn"
+    },
+    {
+      "word": "memantine",
+      "alphabet": "ipa",
+      "phoneme": "məˈmæntiːn"
+    },
+    {
+      "word": "glatiramer",
+      "alphabet": "ipa",
+      "phoneme": "ɡləˈtɪrəmər"
+    },
+    {
+      "word": "fingolimod",
+      "alphabet": "ipa",
+      "phoneme": "fɪŋˈɡɒlɪmɒd"
+    },
+    {
+      "word": "dimethyl fumarate",
+      "alphabet": "ipa",
+      "phoneme": "daɪˈmɛθəl ˈfjuməˌreɪt"
+    },
+    {
+      "word": "teriflunomide",
+      "alphabet": "ipa",
+      "phoneme": "ˌtɛrɪˈflunəmaɪd"
+    },
+    {
+      "word": "ozanimod",
+      "alphabet": "ipa",
+      "phoneme": "oʊˈzænɪmɒd"
+    },
+    {
+      "word": "siponimod",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈpɒnɪmɒd"
+    },
+    {
+      "word": "natalizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌnætəˈlɪzʊmæb"
+    },
+    {
+      "word": "ocrelizumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌɒkrɪˈlɪzʊmæb"
+    },
+    {
+      "word": "ofatumumab",
+      "alphabet": "ipa",
+      "phoneme": "ˌɒfəˈtumʊmæb"
+    },
+    {
+      "word": "fumarate",
+      "alphabet": "ipa",
+      "phoneme": "ˈfjuməˌreɪt"
+    },
+    {
+      "word": "levothyroxine",
+      "alphabet": "ipa",
+      "phoneme": "ˌliːvoʊθaɪˈrɒksiːn"
+    },
+    {
+      "word": "prednisone",
+      "alphabet": "ipa",
+      "phoneme": "ˈprɛdnɪsoʊn"
+    },
+    {
+      "word": "prednisolone",
+      "alphabet": "ipa",
+      "phoneme": "prɛdˈnɪsəloʊn"
+    },
+    {
+      "word": "methylprednisolone",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛθəlprɛdˈnɪsəloʊn"
+    },
+    {
+      "word": "hydrocortisone",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪdroʊˈkɔːrtɪsoʊn"
+    },
+    {
+      "word": "dexamethasone",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɛksəˈmɛθəsoʊn"
+    },
+    {
+      "word": "fludrocortisone",
+      "alphabet": "ipa",
+      "phoneme": "ˌfludroʊˈkɔːrtɪsoʊn"
+    },
+    {
+      "word": "alendronate",
+      "alphabet": "ipa",
+      "phoneme": "əˈlɛndrəneɪt"
+    },
+    {
+      "word": "risedronate",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈsɛdrəneɪt"
+    },
+    {
+      "word": "ibandronate",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈbændrəneɪt"
+    },
+    {
+      "word": "zoledronic acid",
+      "alphabet": "ipa",
+      "phoneme": "zoʊˈlɛdrɒnɪk ˈæsɪd"
+    },
+    {
+      "word": "denosumab",
+      "alphabet": "ipa",
+      "phoneme": "dəˈnoʊsʊmæb"
+    },
+    {
+      "word": "teriparatide",
+      "alphabet": "ipa",
+      "phoneme": "ˌtɛrɪˈpærətaɪd"
+    },
+    {
+      "word": "raloxifene",
+      "alphabet": "ipa",
+      "phoneme": "ræˈlɒksɪfiːn"
+    },
+    {
+      "word": "calcitonin",
+      "alphabet": "ipa",
+      "phoneme": "ˌkælsɪˈtoʊnɪn"
+    },
+    {
+      "word": "tadalafil",
+      "alphabet": "ipa",
+      "phoneme": "təˈdælɪfɪl"
+    },
+    {
+      "word": "sildenafil",
+      "alphabet": "ipa",
+      "phoneme": "sɪlˈdɛnəfɪl"
+    },
+    {
+      "word": "vardenafil",
+      "alphabet": "ipa",
+      "phoneme": "vɑrˈdɛnəfɪl"
+    },
+    {
+      "word": "finasteride",
+      "alphabet": "ipa",
+      "phoneme": "fɪˈnæstəˌraɪd"
+    },
+    {
+      "word": "dutasteride",
+      "alphabet": "ipa",
+      "phoneme": "duˈtæstəˌraɪd"
+    },
+    {
+      "word": "tamsulosin",
+      "alphabet": "ipa",
+      "phoneme": "tæmˈsuːləsɪn"
+    },
+    {
+      "word": "silodosin",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈloʊdəsɪn"
+    },
+    {
+      "word": "alfuzosin",
+      "alphabet": "ipa",
+      "phoneme": "ælˈfjuːzəsɪn"
+    },
+    {
+      "word": "oxybutynin",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑksɪˈbjuːtɪnɪn"
+    },
+    {
+      "word": "tolterodine",
+      "alphabet": "ipa",
+      "phoneme": "tɔlˈtɛrəˌdiːn"
+    },
+    {
+      "word": "solifenacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌsoʊlɪˈfɛnəsɪn"
+    },
+    {
+      "word": "darifenacin",
+      "alphabet": "ipa",
+      "phoneme": "ˌdærɪˈfɛnəsɪn"
+    },
+    {
+      "word": "mirabegron",
+      "alphabet": "ipa",
+      "phoneme": "mɪˈræbəˌɡrɑn"
+    },
+    {
+      "word": "phenazopyridine",
+      "alphabet": "ipa",
+      "phoneme": "fəˌnæzoʊˈpɪrɪdiːn"
+    },
+    {
+      "word": "hydroxyzine",
+      "alphabet": "ipa",
+      "phoneme": "haɪˈdrɑksɪˌziːn"
+    },
+    {
+      "word": "fexofenadine",
+      "alphabet": "ipa",
+      "phoneme": "ˌfɛksoʊˈfɛnəˌdiːn"
+    },
+    {
+      "word": "loratadine",
+      "alphabet": "ipa",
+      "phoneme": "lɔˈrætəˌdiːn"
+    },
+    {
+      "word": "cetirizine",
+      "alphabet": "ipa",
+      "phoneme": "səˈtɪrɪˌziːn"
+    },
+    {
+      "word": "diphenhydramine",
+      "alphabet": "ipa",
+      "phoneme": "ˌdaɪfɛnˈhaɪdrəˌmiːn"
+    },
+    {
+      "word": "chlorpheniramine",
+      "alphabet": "ipa",
+      "phoneme": "ˌklɔrfɛnˈɪrəˌmiːn"
+    },
+    {
+      "word": "azelastine",
+      "alphabet": "ipa",
+      "phoneme": "əˈzɛləˌstiːn"
+    },
+    {
+      "word": "olopatadine",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊloʊˈpætəˌdiːn"
+    },
+    {
+      "word": "modafinil",
+      "alphabet": "ipa",
+      "phoneme": "moʊˈdæfɪnɪl"
+    },
+    {
+      "word": "armodafinil",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑrmoʊˈdæfɪnɪl"
+    },
+    {
+      "word": "sumatriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌsuːməˈtrɪpˌtæn"
+    },
+    {
+      "word": "rizatriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌraɪzəˈtrɪpˌtæn"
+    },
+    {
+      "word": "zolmitriptan",
+      "alphabet": "ipa",
+      "phoneme": "zoʊlˈmɪtrɪpˌtæn"
+    },
+    {
+      "word": "eletriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛləˈtrɪpˌtæn"
+    },
+    {
+      "word": "almotriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌælmoʊˈtrɪpˌtæn"
+    },
+    {
+      "word": "frovatriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌfroʊvəˈtrɪpˌtæn"
+    },
+    {
+      "word": "naratriptan",
+      "alphabet": "ipa",
+      "phoneme": "ˌnærəˈtrɪpˌtæn"
+    },
+    {
+      "word": "ubrogepant",
+      "alphabet": "ipa",
+      "phoneme": "juːˈbroʊdʒəˌpænt"
+    },
+    {
+      "word": "rimegepant",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈmɛdʒɪpænt"
+    },
+    {
+      "word": "erenumab",
+      "alphabet": "ipa",
+      "phoneme": "ɛˈrɛnjʊmæb"
+    },
+    {
+      "word": "fremanezumab",
+      "alphabet": "ipa",
+      "phoneme": "friˈmænɪzʊmæb"
+    },
+    {
+      "word": "galcanezumab",
+      "alphabet": "ipa",
+      "phoneme": "ɡælˈkænɪzʊmæb"
+    },
+    {
+      "word": "eprodual",
+      "alphabet": "ipa",
+      "phoneme": "ɛˈprɑduəl"
+    },
+    {
+      "word": "onabotulinumtoxinA",
+      "alphabet": "ipa",
+      "phoneme": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ"
+    },
+    {
+      "word": "MI",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən"
+    },
+    {
+      "word": "COPD",
+      "alphabet": "ipa",
+      "phoneme": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz"
+    },
+    {
+      "word": "CHF",
+      "alphabet": "ipa",
+      "phoneme": "kənˈɡɛstɪv hɑrt ˈfɜːr"
+    },
+    {
+      "word": "UTI",
+      "alphabet": "ipa",
+      "phoneme": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən"
+    },
+    {
+      "word": "MRI",
+      "alphabet": "ipa",
+      "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ"
+    },
+    {
+      "word": "CT",
+      "alphabet": "ipa",
+      "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi"
+    },
+    {
+      "word": "EKG",
+      "alphabet": "ipa",
+      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+    },
+    {
+      "word": "ECG",
+      "alphabet": "ipa",
+      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+    },
+    {
+      "word": "EEG",
+      "alphabet": "ipa",
+      "phoneme": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm"
+    },
+    {
+      "word": "BUN",
+      "alphabet": "ipa",
+      "phoneme": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən"
+    },
+    {
+      "word": "CMP",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl"
+    },
+    {
+      "word": "CBC",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɑmpliːt ˈblʌd ˈkaʊnt"
+    },
+    {
+      "word": "TSH",
+      "alphabet": "ipa",
+      "phoneme": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn"
+    },
+    {
+      "word": "HbA1c",
+      "alphabet": "ipa",
+      "phoneme": "ˌheməɡloʊbɪn eɪ wʌn siː"
+    },
+    {
+      "word": "PT",
+      "alphabet": "ipa",
+      "phoneme": "ˌprɑθrɑmbɪn ˈtaɪm"
+    },
+    {
+      "word": "INR",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ"
+    },
+    {
+      "word": "PTT",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm"
+    },
+    {
+      "word": "DVT",
+      "alphabet": "ipa",
+      "phoneme": "ˌdiːp veɪn ˈθrɑmbəˌsɪs"
+    },
+    {
+      "word": "PE",
+      "alphabet": "ipa",
+      "phoneme": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm"
+    },
+    {
+      "word": "CVA",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt"
+    },
+    {
+      "word": "TIA",
+      "alphabet": "ipa",
+      "phoneme": "trænˈzɪənt ɪˈskɛmɪk əˈtæk"
+    },
+    {
+      "word": "ICU",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+    },
+    {
+      "word": "NICU",
+      "alphabet": "ipa",
+      "phoneme": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt"
+    },
+    {
+      "word": "ER",
+      "alphabet": "ipa",
+      "phoneme": "ɪmˈɜːrdʒənsi ˈruːm"
+    },
+    {
+      "word": "ED",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛrˈdiː"
+    },
+    {
+      "word": "OR",
+      "alphabet": "ipa",
+      "phoneme": "ˈɔr"
+    },
+    {
+      "word": "PACU",
+      "alphabet": "ipa",
+      "phoneme": "pəˈkuː"
+    },
+    {
+      "word": "CCU",
+      "alphabet": "ipa",
+      "phoneme": "ˌsiːˌsiːˈjuː"
+    },
+    {
+      "word": "SICU",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛsˌaɪˌsiːˈjuː"
+    },
+    {
+      "word": "MICU",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛmˌaɪˌsiːˈjuː"
+    },
+    {
+      "word": "BP",
+      "alphabet": "ipa",
+      "phoneme": "ˌbiːˈpiː"
+    },
+    {
+      "word": "HR",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪtʃˈɑr"
+    },
+    {
+      "word": "RR",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑrˈɑr"
+    },
+    {
+      "word": "SpO2",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛsˌpiːˈoʊ tuː"
+    },
+    {
+      "word": "ETCO2",
+      "alphabet": "ipa",
+      "phoneme": "ˌiːˌtiːˌsiːˈoʊ tuː"
+    },
+    {
+      "word": "IV",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪˈviː"
+    },
+    {
+      "word": "IM",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪˈɛm"
+    },
+    {
+      "word": "SC",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛsˈsiː"
+    },
+    {
+      "word": "PO",
+      "alphabet": "ipa",
+      "phoneme": "ˌpiːˈoʊ"
+    },
+    {
+      "word": "PR",
+      "alphabet": "ipa",
+      "phoneme": "ˌpiːˈɑr"
+    },
+    {
+      "word": "SL",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛsˈɛl"
+    },
+    {
+      "word": "OD",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊˈdiː"
+    },
+    {
+      "word": "OS",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊˈɛs"
+    },
+    {
+      "word": "OU",
+      "alphabet": "ipa",
+      "phoneme": "ˌoʊˈjuː"
+    },
+    {
+      "word": "AU",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪˈjuː"
+    },
+    {
+      "word": "AD",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪˈdiː"
+    },
+    {
+      "word": "AS",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪˈɛs"
+    },
+    {
+      "word": "APAP",
+      "alphabet": "ipa",
+      "phoneme": "ˈeɪpæp"
+    },
+    {
+      "word": "NSAID",
+      "alphabet": "ipa",
+      "phoneme": "ˈɛnsɛd"
+    },
+    {
+      "word": "PPI",
+      "alphabet": "ipa",
+      "phoneme": "ˌpiːˌpiːˈaɪ"
+    },
+    {
+      "word": "ARB",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪˌɑrˈbiː"
+    },
+    {
+      "word": "ACE",
+      "alphabet": "ipa",
+      "phoneme": "ˈeɪs"
+    },
+    {
+      "word": "BB",
+      "alphabet": "ipa",
+      "phoneme": "ˌbiːˈbiː"
+    },
+    {
+      "word": "CCB",
+      "alphabet": "ipa",
+      "phoneme": "ˌsiːˌsiːˈbiː"
+    },
+    {
+      "word": "SSRI",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər"
+    },
+    {
+      "word": "SNRI",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər"
+    },
+    {
+      "word": "TCA",
+      "alphabet": "ipa",
+      "phoneme": "ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt"
+    },
+    {
+      "word": "MAOI",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər"
+    },
+    {
+      "word": "DM",
+      "alphabet": "ipa",
+      "phoneme": "ˌdaɪəˈbiːtɪz ˈmɛlɪtəs"
+    },
+    {
+      "word": "HTN",
+      "alphabet": "ipa",
+      "phoneme": "haɪˈpɜːrtənʃən"
+    },
+    {
+      "word": "HLD",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˈlɪpɪˌdiːmɪə"
+    },
+    {
+      "word": "CAD",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz"
+    },
+    {
+      "word": "PVD",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz"
+    },
+    {
+      "word": "CKD",
+      "alphabet": "ipa",
+      "phoneme": "ˌkrɑnɪk ˈkɪdni ˈdɪziːz"
+    },
+    {
+      "word": "ESRD",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz"
+    },
+    {
+      "word": "AKI",
+      "alphabet": "ipa",
+      "phoneme": "ˈækjʊt kɪdˈni ˈɪndʒəri"
+    },
+    {
+      "word": "ASTHMA",
+      "alphabet": "ipa",
+      "phoneme": "ˈæzmə"
+    },
+    {
+      "word": "GERD",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz"
+    },
+    {
+      "word": "IBD",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz"
+    },
+    {
+      "word": "IBS",
+      "alphabet": "ipa",
+      "phoneme": "ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm"
+    },
+    {
+      "word": "NASH",
+      "alphabet": "ipa",
+      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs"
+    },
+    {
+      "word": "NAFLD",
+      "alphabet": "ipa",
+      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz"
+    },
+    {
+      "word": "HCC",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə"
+    },
+    {
+      "word": "ALL",
+      "alphabet": "ipa",
+      "phoneme": "ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+    },
+    {
+      "word": "AML",
+      "alphabet": "ipa",
+      "phoneme": "ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə"
+    },
+    {
+      "word": "CLL",
+      "alphabet": "ipa",
+      "phoneme": "ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə"
+    },
+    {
+      "word": "CML",
+      "alphabet": "ipa",
+      "phoneme": "ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə"
+    },
+    {
+      "word": "NHL",
+      "alphabet": "ipa",
+      "phoneme": "ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə"
+    },
+    {
+      "word": "Hodgkin",
+      "alphabet": "ipa",
+      "phoneme": "ˈhɑdʒkɪn"
+    },
+    {
+      "word": "MM",
+      "alphabet": "ipa",
+      "phoneme": "ˈmʌltɪpl ˈmaɪˈloʊmə"
+    },
+    {
+      "word": "SLE",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs"
+    },
+    {
+      "word": "RA",
+      "alphabet": "ipa",
+      "phoneme": "ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs"
+    },
+    {
+      "word": "OA",
+      "alphabet": "ipa",
+      "phoneme": "ˈɑːsθrəʊˈaɪtɪs"
+    },
+    {
+      "word": "DJD",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz"
+    },
+    {
+      "word": "GOUT",
+      "alphabet": "ipa",
+      "phoneme": "ɡaʊt"
+    },
+    {
+      "word": "MG",
+      "alphabet": "ipa",
+      "phoneme": "maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən"
+    },
+    {
+      "word": "MS",
+      "alphabet": "ipa",
+      "phoneme": "ˈmʌltɪpl sklɪˈroʊsɪs"
+    },
+    {
+      "word": "ALS",
+      "alphabet": "ipa",
+      "phoneme": "əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs"
+    },
+    {
+      "word": "GBS",
+      "alphabet": "ipa",
+      "phoneme": "ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm"
+    },
+    {
+      "word": "TBI",
+      "alphabet": "ipa",
+      "phoneme": "trəˈmætɪk brɛn ɪnˈdʒʊri"
+    },
+    {
+      "word": "PD",
+      "alphabet": "ipa",
+      "phoneme": "pɑːrkɪnsən ˈdɪziːz"
+    },
+    {
+      "word": "HD",
+      "alphabet": "ipa",
+      "phoneme": "hʌnˈtɪŋtən ˈdɪziːz"
+    },
+    {
+      "word": "CJD",
+      "alphabet": "ipa",
+      "phoneme": "krʊtsfɛlt dʒækəb ˈdɪziːz"
+    },
+    {
+      "word": "SCI",
+      "alphabet": "ipa",
+      "phoneme": "spaɪnəl kɔːrd ɪnˈdʒʊri"
+    },
+    {
+      "word": "CA",
+      "alphabet": "ipa",
+      "phoneme": "kɑːnsər"
+    },
+    {
+      "word": "N/V",
+      "alphabet": "ipa",
+      "phoneme": "nɔːziə ənd voʊmɪtɪŋ"
+    },
+    {
+      "word": "SOB",
+      "alphabet": "ipa",
+      "phoneme": "ʃɔːrtnis əv brɛθ"
+    },
+    {
+      "word": "CP",
+      "alphabet": "ipa",
+      "phoneme": "sɛrɪbrəl ˈpɔːlsi"
+    },
+    {
+      "word": "N/V/D",
+      "alphabet": "ipa",
+      "phoneme": "nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə"
+    },
+    {
+      "word": "LOC",
+      "alphabet": "ipa",
+      "phoneme": "lɑːs əv kɔnˈʃuːʃən"
+    },
+    {
+      "word": "GCS",
+      "alphabet": "ipa",
+      "phoneme": "ɡlæsɡoʊ kɔmə skoːr"
+    },
+    {
+      "word": "HEENT",
+      "alphabet": "ipa",
+      "phoneme": "hɛd aɪz ɪrz noʊz ənd θroʊt"
+    },
+    {
+      "word": "CV",
+      "alphabet": "ipa",
+      "phoneme": "kɑːrdjoʊˈvæskjələr"
+    },
+    {
+      "word": "GI",
+      "alphabet": "ipa",
+      "phoneme": "ɡæstroʊɪnˈtɛstənəl"
+    },
+    {
+      "word": "GU",
+      "alphabet": "ipa",
+      "phoneme": "dʒɛnɪtoʊˈrɪnəri"
+    },
+    {
+      "word": "MSK",
+      "alphabet": "ipa",
+      "phoneme": "mʌskjoʊsklɪˈlɛtərəl"
+    },
+    {
+      "word": "Neuro",
+      "alphabet": "ipa",
+      "phoneme": "nʊˈroʊloʊdʒi"
+    },
+    {
+      "word": "Psych",
+      "alphabet": "ipa",
+      "phoneme": "saɪˈkætri"
+    },
+    {
+      "word": "Derm",
+      "alphabet": "ipa",
+      "phoneme": "dɜːrməˈtɑːlədʒi"
+    },
+    {
+      "word": "ENT",
+      "alphabet": "ipa",
+      "phoneme": "ɪr noʊz ənd θroʊt"
+    },
+    {
+      "word": "OB",
+      "alphabet": "ipa",
+      "phoneme": "ɑːbstəˈtrɪks"
+    },
+    {
+      "word": "GYN",
+      "alphabet": "ipa",
+      "phoneme": "ɡaɪnɪˈkɑːlədʒi"
+    },
+    {
+      "word": "LMP",
+      "alphabet": "ipa",
+      "phoneme": "læst mɛnstrəl ˈpɪriəd"
+    },
+    {
+      "word": "EDC",
+      "alphabet": "ipa",
+      "phoneme": "ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment"
+    },
+    {
+      "word": "Gest",
+      "alphabet": "ipa",
+      "phoneme": "dʒɛst"
+    },
+    {
+      "word": "NS",
+      "alphabet": "ipa",
+      "phoneme": "nɔːrməl saʊn"
+    },
+    {
+      "word": "LR",
+      "alphabet": "ipa",
+      "phoneme": "lækˈtɛtˌɪd rɪŋɡərz"
+    },
+    {
+      "word": "D5W",
+      "alphabet": "ipa",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər"
+    },
+    {
+      "word": "D5NS",
+      "alphabet": "ipa",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn"
+    },
+    {
+      "word": "D5LR",
+      "alphabet": "ipa",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz"
+    },
+    {
+      "word": "KCl",
+      "alphabet": "ipa",
+      "phoneme": "pəˈtæsiəm klɔːraɪd"
+    },
+    {
+      "word": "MgSO4",
+      "alphabet": "ipa",
+      "phoneme": "mæɡˈniːziəm sʌlˈfeɪt"
+    },
+    {
+      "word": "CaCl2",
+      "alphabet": "ipa",
+      "phoneme": "kælsiəm klɔːraɪd"
+    },
+    {
+      "word": "NaHCO3",
+      "alphabet": "ipa",
+      "phoneme": "soʊdiəm aɪkaɹˈbɒnət"
+    },
+    {
+      "word": "ABG",
+      "alphabet": "ipa",
+      "phoneme": "ˈɑːtəriəl bluːd ɡæz"
+    },
+    {
+      "word": "VBG",
+      "alphabet": "ipa",
+      "phoneme": "vɛnəs bluːd ɡæz"
+    },
+    {
+      "word": "LP",
+      "alphabet": "ipa",
+      "phoneme": "ˈlʌmbər ˈpʌŋktʃər"
+    },
+    {
+      "word": "BM",
+      "alphabet": "ipa",
+      "phoneme": "baʊəl muːvmənt"
+    },
+    {
+      "word": "PEG",
+      "alphabet": "ipa",
+      "phoneme": "pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi"
+    },
+    {
+      "word": "ICD",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+    },
+    {
+      "word": "Pacemaker",
+      "alphabet": "ipa",
+      "phoneme": "ˈpeɪsˌmeɪkər"
+    },
+    {
+      "word": "AICD",
+      "alphabet": "ipa",
+      "phoneme": "ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər"
+    },
+    {
+      "word": "CABG",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft"
+    },
+    {
+      "word": "PCI",
+      "alphabet": "ipa",
+      "phoneme": "pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən"
+    },
+    {
+      "word": "TAVR",
+      "alphabet": "ipa",
+      "phoneme": "ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt"
+    },
+    {
+      "word": "TEVAR",
+      "alphabet": "ipa",
+      "phoneme": "ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+    },
+    {
+      "word": "EVAR",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər"
+    },
+    {
+      "word": "PTCA",
+      "alphabet": "ipa",
+      "phoneme": "pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti"
+    },
+    {
+      "word": "ETOH",
+      "alphabet": "ipa",
+      "phoneme": "ˈɛθənɔːl"
+    },
+    {
+      "word": "IVDU",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntɹəˈviːnəs dɹʌɡ juːzər"
+    },
+    {
+      "word": "ASA",
+      "alphabet": "ipa",
+      "phoneme": "ˈæspərɪn"
+    },
+    {
+      "word": "NYD",
+      "alphabet": "ipa",
+      "phoneme": "nɑːt jɛt dɪˈtɜːrmɪnd"
+    },
+    {
+      "word": "HX",
+      "alphabet": "ipa",
+      "phoneme": "hɪˈstɒri"
+    },
+    {
+      "word": "Sx",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɪmpəmz"
+    },
+    {
+      "word": "Tx",
+      "alphabet": "ipa",
+      "phoneme": "ˌtrɛtmənt"
+    },
+    {
+      "word": "Dx",
+      "alphabet": "ipa",
+      "phoneme": "ˌdaɪəɡˈnoʊsɪs"
+    },
+    {
+      "word": "Rx",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɝːskrɪpʃən"
+    },
+    {
+      "word": "FHx",
+      "alphabet": "ipa",
+      "phoneme": "ˌfæmɪli hɪˈstɒri"
+    },
+    {
+      "word": "SHx",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɝːʒəkəl hɪˈstɒri"
+    },
+    {
+      "word": "myocardial infarction",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən"
+    },
+    {
+      "word": "angina pectoris",
+      "alphabet": "ipa",
+      "phoneme": "ænˈdʒaɪnə ˈpɛktərɪs"
+    },
+    {
+      "word": "arrhythmia",
+      "alphabet": "ipa",
+      "phoneme": "əˈrɪðmiə"
+    },
+    {
+      "word": "atrial fibrillation",
+      "alphabet": "ipa",
+      "phoneme": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən"
+    },
+    {
+      "word": "ventricular fibrillation",
+      "alphabet": "ipa",
+      "phoneme": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən"
+    },
+    {
+      "word": "tachycardia",
+      "alphabet": "ipa",
+      "phoneme": "ˌtækiˈkɑːrdiə"
+    },
+    {
+      "word": "bradycardia",
+      "alphabet": "ipa",
+      "phoneme": "ˌbrædiˈkɑːrdiə"
+    },
+    {
+      "word": "hypertension",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˈtɛnʃən"
+    },
+    {
+      "word": "hypotension",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊˈtɛnʃən"
+    },
+    {
+      "word": "atherosclerosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌæθəroʊskləˈroʊsɪs"
+    },
+    {
+      "word": "endocarditis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndoʊkɑːrˈdaɪtɪs"
+    },
+    {
+      "word": "pericarditis",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪkɑːrˈdaɪtɪs"
+    },
+    {
+      "word": "myocarditis",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪoʊkɑːrˈdaɪtɪs"
+    },
+    {
+      "word": "cardiomyopathy",
+      "alphabet": "ipa",
+      "phoneme": "ˌkɑːrdioʊmaɪˈɑːpəθi"
+    },
+    {
+      "word": "thromboembolism",
+      "alphabet": "ipa",
+      "phoneme": "ˌθrɑːmboʊˈɛmbəlɪzəm"
+    },
+    {
+      "word": "thrombophlebitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌθrɑːmboʊflɪˈbaɪtɪs"
+    },
+    {
+      "word": "phlebitis",
+      "alphabet": "ipa",
+      "phoneme": "flɪˈbaɪtɪs"
+    },
+    {
+      "word": "embolism",
+      "alphabet": "ipa",
+      "phoneme": "ˈɛmbəlɪzəm"
+    },
+    {
+      "word": "stenosis",
+      "alphabet": "ipa",
+      "phoneme": "stɪˈnoʊsɪs"
+    },
+    {
+      "word": "regurgitation",
+      "alphabet": "ipa",
+      "phoneme": "rɪˌɡɝːdʒɪˈteɪʃən"
+    },
+    {
+      "word": "prolapse",
+      "alphabet": "ipa",
+      "phoneme": "proʊˈlæps"
+    },
+    {
+      "word": "aneurysm",
+      "alphabet": "ipa",
+      "phoneme": "ˈænjərɪzəm"
+    },
+    {
+      "word": "dissection",
+      "alphabet": "ipa",
+      "phoneme": "dɪˈsɛkʃən"
+    },
+    {
+      "word": "ischemia",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈskimiə"
+    },
+    {
+      "word": "infarction",
+      "alphabet": "ipa",
+      "phoneme": "ɪnˈfɑːrkʃən"
+    },
+    {
+      "word": "reperfusion",
+      "alphabet": "ipa",
+      "phoneme": "ˌriːpərˈfjuːʒən"
+    },
+    {
+      "word": "hypercholesterolemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərkəˌlɛstərəˈliːmiə"
+    },
+    {
+      "word": "hypertriglyceridemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə"
+    },
+    {
+      "word": "hypoalbuminemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə"
+    },
+    {
+      "word": "pneumonia",
+      "alphabet": "ipa",
+      "phoneme": "nuːˈmoʊnjə"
+    },
+    {
+      "word": "bronchitis",
+      "alphabet": "ipa",
+      "phoneme": "brɑːŋˈkaɪtɪs"
+    },
+    {
+      "word": "bronchiectasis",
+      "alphabet": "ipa",
+      "phoneme": "ˌbrɑːŋkiˈɛktəsɪs"
+    },
+    {
+      "word": "emphysema",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛmfɪˈsiːmə"
+    },
+    {
+      "word": "pneumothorax",
+      "alphabet": "ipa",
+      "phoneme": "ˌnuːmoʊˈθɔːræks"
+    },
+    {
+      "word": "hemothorax",
+      "alphabet": "ipa",
+      "phoneme": "ˌhiːmoʊˈθɔːræks"
+    },
+    {
+      "word": "pleural effusion",
+      "alphabet": "ipa",
+      "phoneme": "ˈplʊrəl ɪˈfjuːʒən"
+    },
+    {
+      "word": "pleurisy",
+      "alphabet": "ipa",
+      "phoneme": "ˈplʊrɪsi"
+    },
+    {
+      "word": "atelectasis",
+      "alphabet": "ipa",
+      "phoneme": "ˌætəˈlɛktəsɪs"
+    },
+    {
+      "word": "pulmonary embolism",
+      "alphabet": "ipa",
+      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
+    },
+    {
+      "word": "pulmonary edema",
+      "alphabet": "ipa",
+      "phoneme": "ˈpʊlməˌnɛri ɪˈdiːmə"
+    },
+    {
+      "word": "pulmonary fibrosis",
+      "alphabet": "ipa",
+      "phoneme": "ˈpʊlməˌnɛri faɪˈbroʊsɪs"
+    },
+    {
+      "word": "sarcoidosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɑːrkɔɪˈdoʊsɪs"
+    },
+    {
+      "word": "tuberculosis",
+      "alphabet": "ipa",
+      "phoneme": "tuːˌbɜːrkjəˈloʊsɪs"
+    },
+    {
+      "word": "hypoxia",
+      "alphabet": "ipa",
+      "phoneme": "haɪˈpɑːksiə"
+    },
+    {
+      "word": "hypercapnia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˈkæpniə"
+    },
+    {
+      "word": "respiratory failure",
+      "alphabet": "ipa",
+      "phoneme": "ˈrɛspərəˌtɔːri ˈfeɪljər"
+    },
+    {
+      "word": "apnea",
+      "alphabet": "ipa",
+      "phoneme": "æpˈniːə"
+    },
+    {
+      "word": "dyspnea",
+      "alphabet": "ipa",
+      "phoneme": "dɪspˈniːə"
+    },
+    {
+      "word": "hemoptysis",
+      "alphabet": "ipa",
+      "phoneme": "hɪˈmɑːptəsɪs"
+    },
+    {
+      "word": "stridor",
+      "alphabet": "ipa",
+      "phoneme": "ˈstraɪdɔːr"
+    },
+    {
+      "word": "wheezing",
+      "alphabet": "ipa",
+      "phoneme": "ˈwiːzɪŋ"
+    },
+    {
+      "word": "coryza",
+      "alphabet": "ipa",
+      "phoneme": "kəˈraɪzə"
+    },
+    {
+      "word": "gastroesophageal reflux",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks"
+    },
+    {
+      "word": "esophagitis",
+      "alphabet": "ipa",
+      "phoneme": "ɪˌsɑːfəˈdʒaɪtɪs"
+    },
+    {
+      "word": "gastritis",
+      "alphabet": "ipa",
+      "phoneme": "ɡæˈstraɪtɪs"
+    },
+    {
+      "word": "peptic ulcer",
+      "alphabet": "ipa",
+      "phoneme": "ˈpɛptɪk ˈʌlsɚ"
+    },
+    {
+      "word": "gastroenteritis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡæstroʊˌɛntɚˈaɪtɪs"
+    },
+    {
+      "word": "colitis",
+      "alphabet": "ipa",
+      "phoneme": "kəˈlaɪtɪs"
+    },
+    {
+      "word": "ulcerative colitis",
+      "alphabet": "ipa",
+      "phoneme": "ˈʌlsɚətɪv kəˈlaɪtɪs"
+    },
+    {
+      "word": "Crohn's disease",
+      "alphabet": "ipa",
+      "phoneme": "kroʊnz dɪˈziz"
+    },
+    {
+      "word": "diverticulitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs"
+    },
+    {
+      "word": "appendicitis",
+      "alphabet": "ipa",
+      "phoneme": "əˌpɛndɪˈsaɪtɪs"
+    },
+    {
+      "word": "cholecystitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌkoʊləsɪˈstaɪtɪs"
+    },
+    {
+      "word": "pancreatitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌpæŋkriəˈtaɪtɪs"
+    },
+    {
+      "word": "hepatitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛpəˈtaɪtɪs"
+    },
+    {
+      "word": "cirrhosis",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈroʊsɪs"
+    },
+    {
+      "word": "cholestasis",
+      "alphabet": "ipa",
+      "phoneme": "ˌkoʊləˈsteɪsɪs"
+    },
+    {
+      "word": "steatosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌstiəˈtoʊsɪs"
+    },
+    {
+      "word": "steatohepatitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌstiətoʊˌhɛpəˈtaɪtɪs"
+    },
+    {
+      "word": "peritonitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪtəˈnaɪtɪs"
+    },
+    {
+      "word": "ileus",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪliəs"
+    },
+    {
+      "word": "intussusception",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntəsəˈsɛpʃən"
+    },
+    {
+      "word": "volvulus",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɑlvjələs"
+    },
+    {
+      "word": "hematemesis",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛməˈtɛməsɪs"
+    },
+    {
+      "word": "melena",
+      "alphabet": "ipa",
+      "phoneme": "məˈlinə"
+    },
+    {
+      "word": "hematochezia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛmətoʊˈkiʒə"
+    },
+    {
+      "word": "choledocholithiasis",
+      "alphabet": "ipa",
+      "phoneme": "kəˌlɛdəkoʊˌlɪθaɪəsɪs"
+    },
+    {
+      "word": "cholelithiasis",
+      "alphabet": "ipa",
+      "phoneme": "ˌkoʊləlɪˈθaɪəsɪs"
+    },
+    {
+      "word": "nephrolithiasis",
+      "alphabet": "ipa",
+      "phoneme": "ˌnɛfroʊlɪˈθaɪəsɪs"
+    },
+    {
+      "word": "sialadenitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌsaɪəlædəˈnaɪtɪs"
+    },
+    {
+      "word": "nephritis",
+      "alphabet": "ipa",
+      "phoneme": "nəˈfraɪtɪs"
+    },
+    {
+      "word": "nephrosis",
+      "alphabet": "ipa",
+      "phoneme": "nəˈfroʊsɪs"
+    },
+    {
+      "word": "glomerulonephritis",
+      "alphabet": "ipa",
+      "phoneme": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs"
+    },
+    {
+      "word": "pyelonephritis",
+      "alphabet": "ipa",
+      "phoneme": "ˌpaɪəloʊnəˈfraɪtɪs"
+    },
+    {
+      "word": "cystitis",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈstaɪtɪs"
+    },
+    {
+      "word": "urethritis",
+      "alphabet": "ipa",
+      "phoneme": "ˌjʊrɪˈθraɪtɪs"
+    },
+    {
+      "word": "ureterolithiasis",
+      "alphabet": "ipa",
+      "phoneme": "jʊˌrɛtərəlɪˈθaɪəsɪs"
+    },
+    {
+      "word": "hydronephrosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪdrənɛˈfroʊsɪs"
+    },
+    {
+      "word": "oliguria",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑlɪˈɡjʊriə"
+    },
+    {
+      "word": "anuria",
+      "alphabet": "ipa",
+      "phoneme": "əˈnjʊriə"
+    },
+    {
+      "word": "hematuria",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛməˈtʊriə"
+    },
+    {
+      "word": "proteinuria",
+      "alphabet": "ipa",
+      "phoneme": "ˌproʊtiˈnʊriə"
+    },
+    {
+      "word": "dysuria",
+      "alphabet": "ipa",
+      "phoneme": "dɪsˈjʊriə"
+    },
+    {
+      "word": "incontinence",
+      "alphabet": "ipa",
+      "phoneme": "ɪnˈkɑntɪnəns"
+    },
+    {
+      "word": "retention",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈtɛnʃən"
+    },
+    {
+      "word": "azoospermia",
+      "alphabet": "ipa",
+      "phoneme": "eɪˌzoʊəˈspɜrmiə"
+    },
+    {
+      "word": "oligospermia",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑlɪɡoʊˈspɜrmiə"
+    },
+    {
+      "word": "encephalopathy",
+      "alphabet": "ipa",
+      "phoneme": "ɛnˌsɛfəˈlɑpəθi"
+    },
+    {
+      "word": "encephalitis",
+      "alphabet": "ipa",
+      "phoneme": "ɛnˌsɛfəˈlaɪtɪs"
+    },
+    {
+      "word": "meningitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛnɪnˈdʒaɪtɪs"
+    },
+    {
+      "word": "myelitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪəˈlaɪtɪs"
+    },
+    {
+      "word": "neuropathy",
+      "alphabet": "ipa",
+      "phoneme": "nʊˈrɑpəθi"
+    },
+    {
+      "word": "radiculopathy",
+      "alphabet": "ipa",
+      "phoneme": "rəˌdɪkjəˈlɑpəθi"
+    },
+    {
+      "word": "myelopathy",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪəˈlɑpəθi"
+    },
+    {
+      "word": "ataxia",
+      "alphabet": "ipa",
+      "phoneme": "əˈtæksiə"
+    },
+    {
+      "word": "dysarthria",
+      "alphabet": "ipa",
+      "phoneme": "dɪsˈɑrθriə"
+    },
+    {
+      "word": "aphasia",
+      "alphabet": "ipa",
+      "phoneme": "əˈfeɪʒə"
+    },
+    {
+      "word": "apraxia",
+      "alphabet": "ipa",
+      "phoneme": "əˈpræksiə"
+    },
+    {
+      "word": "agnosia",
+      "alphabet": "ipa",
+      "phoneme": "æɡˈnoʊʒə"
+    },
+    {
+      "word": "anomia",
+      "alphabet": "ipa",
+      "phoneme": "əˈnoʊmiə"
+    },
+    {
+      "word": "dysphagia",
+      "alphabet": "ipa",
+      "phoneme": "dɪsˈfeɪdʒə"
+    },
+    {
+      "word": "dysphonia",
+      "alphabet": "ipa",
+      "phoneme": "dɪsˈfoʊniə"
+    },
+    {
+      "word": "dyskinesia",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɪskɪˈniʒə"
+    },
+    {
+      "word": "myoclonus",
+      "alphabet": "ipa",
+      "phoneme": "maɪˈɑklənəs"
+    },
+    {
+      "word": "chorea",
+      "alphabet": "ipa",
+      "phoneme": "kəˈriə"
+    },
+    {
+      "word": "athetosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌæθəˈtoʊsɪs"
+    },
+    {
+      "word": "dystonia",
+      "alphabet": "ipa",
+      "phoneme": "dɪsˈtoʊniə"
+    },
+    {
+      "word": "tremor",
+      "alphabet": "ipa",
+      "phoneme": "ˈtrɛmər"
+    },
+    {
+      "word": "fasciculation",
+      "alphabet": "ipa",
+      "phoneme": "fəˌsɪkjəˈleɪʃən"
+    },
+    {
+      "word": "clonus",
+      "alphabet": "ipa",
+      "phoneme": "ˈkloʊnəs"
+    },
+    {
+      "word": "nystagmus",
+      "alphabet": "ipa",
+      "phoneme": "nɪˈstæɡməs"
+    },
+    {
+      "word": "ptosis",
+      "alphabet": "ipa",
+      "phoneme": "ˈtoʊsɪs"
+    },
+    {
+      "word": "miosis",
+      "alphabet": "ipa",
+      "phoneme": "maɪˈoʊsɪs"
+    },
+    {
+      "word": "mydriasis",
+      "alphabet": "ipa",
+      "phoneme": "mɪˈdraɪəsɪs"
+    },
+    {
+      "word": "anisocoria",
+      "alphabet": "ipa",
+      "phoneme": "ænˌaɪsəˈkɔriə"
+    },
+    {
+      "word": "hyperreflexia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərrɪˈflɛksiə"
+    },
+    {
+      "word": "hyporeflexia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpɔrɪˈflɛksiə"
+    },
+    {
+      "word": "Babinski",
+      "alphabet": "ipa",
+      "phoneme": "bəˈbɪnski"
+    },
+    {
+      "word": "paresthesia",
+      "alphabet": "ipa",
+      "phoneme": "ˌpærəsˈθiʒə"
+    },
+    {
+      "word": "anesthesia",
+      "alphabet": "ipa",
+      "phoneme": "ˌænəsˈθiʒə"
+    },
+    {
+      "word": "hyperesthesia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərəsˈθiʒə"
+    },
+    {
+      "word": "dysesthesia",
+      "alphabet": "ipa",
+      "phoneme": "ˌdɪsəsˈθiʒə"
+    },
+    {
+      "word": "neuralgia",
+      "alphabet": "ipa",
+      "phoneme": "nʊˈrældʒə"
+    },
+    {
+      "word": "neuritis",
+      "alphabet": "ipa",
+      "phoneme": "nʊˈraɪtɪs"
+    },
+    {
+      "word": "sciatica",
+      "alphabet": "ipa",
+      "phoneme": "saɪˈætɪkə"
+    },
+    {
+      "word": "trigeminal",
+      "alphabet": "ipa",
+      "phoneme": "traɪˈdʒɛmɪnəl"
+    },
+    {
+      "word": "prosopagnosia",
+      "alphabet": "ipa",
+      "phoneme": "ˌprɑsəpæɡˈnoʊʒə"
+    },
+    {
+      "word": "hyperthyroidism",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˈθaɪrɔɪdɪzəm"
+    },
+    {
+      "word": "hypothyroidism",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpəˈθaɪrɔɪdɪzəm"
+    },
+    {
+      "word": "thyrotoxicosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs"
+    },
+    {
+      "word": "myxedema",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɪksəˈdiːmə"
+    },
+    {
+      "word": "hyperparathyroidism",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm"
+    },
+    {
+      "word": "hypoparathyroidism",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm"
+    },
+    {
+      "word": "hypercalcemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərkælˈsiːmiə"
+    },
+    {
+      "word": "hypocalcemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpəkælˈsiːmiə"
+    },
+    {
+      "word": "hyperkalemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərkəˈliːmiə"
+    },
+    {
+      "word": "hypokalemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊkəˈliːmiə"
+    },
+    {
+      "word": "hypernatremia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərnəˈtriːmiə"
+    },
+    {
+      "word": "hyponatremia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊnəˈtriːmiə"
+    },
+    {
+      "word": "hypomagnesemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊmæɡnəˈsiːmiə"
+    },
+    {
+      "word": "hypermagnesemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərmæɡnəˈsiːmiə"
+    },
+    {
+      "word": "hypophosphatemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊfɑːsfəˈtiːmiə"
+    },
+    {
+      "word": "hyperphosphatemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərfɑːsfəˈtiːmiə"
+    },
+    {
+      "word": "acidosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌæsɪˈdoʊsɪs"
+    },
+    {
+      "word": "alkalosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌælkəˈloʊsɪs"
+    },
+    {
+      "word": "ketoacidosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs"
+    },
+    {
+      "word": "hypoglycemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə"
+    },
+    {
+      "word": "hyperglycemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərɡlaɪˈsiːmiə"
+    },
+    {
+      "word": "insulinoma",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪnsəlɪˈnoʊmə"
+    },
+    {
+      "word": "pheochromocytoma",
+      "alphabet": "ipa",
+      "phoneme": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə"
+    },
+    {
+      "word": "anemia",
+      "alphabet": "ipa",
+      "phoneme": "əˈniːmiə"
+    },
+    {
+      "word": "polycythemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɑːlɪsaɪˈθiːmiə"
+    },
+    {
+      "word": "thrombocytopenia",
+      "alphabet": "ipa",
+      "phoneme": "ˌθrɑːmboʊˌsaɪtəˈpiːniə"
+    },
+    {
+      "word": "thrombocytosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌθrɑːmboʊsaɪˈtoʊsɪs"
+    },
+    {
+      "word": "leukopenia",
+      "alphabet": "ipa",
+      "phoneme": "ˌluːkəˈpiːniə"
+    },
+    {
+      "word": "leukocytosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌluːkəsaɪˈtoʊsɪs"
+    },
+    {
+      "word": "neutropenia",
+      "alphabet": "ipa",
+      "phoneme": "ˌnuːtrəˈpiːniə"
+    },
+    {
+      "word": "neutrophilia",
+      "alphabet": "ipa",
+      "phoneme": "ˌnuːtrəˈfɪliə"
+    },
+    {
+      "word": "lymphopenia",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪmfəˈpiːniə"
+    },
+    {
+      "word": "lymphocytosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪmfəsaɪˈtoʊsɪs"
+    },
+    {
+      "word": "monocytosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɑːnəsaɪˈtoʊsɪs"
+    },
+    {
+      "word": "eosinophilia",
+      "alphabet": "ipa",
+      "phoneme": "ˌiːəˌsɪnəˈfɪliə"
+    },
+    {
+      "word": "basophilia",
+      "alphabet": "ipa",
+      "phoneme": "ˌbeɪsəˈfɪliə"
+    },
+    {
+      "word": "pancytopenia",
+      "alphabet": "ipa",
+      "phoneme": "ˌpænsaɪtəˈpiːniə"
+    },
+    {
+      "word": "hemophilia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhiːməˈfɪliə"
+    },
+    {
+      "word": "thrombophilia",
+      "alphabet": "ipa",
+      "phoneme": "ˌθrɒmboʊˈfɪliə"
+    },
+    {
+      "word": "purpura",
+      "alphabet": "ipa",
+      "phoneme": "ˈpɜːrpjʊrə"
+    },
+    {
+      "word": "petechiae",
+      "alphabet": "ipa",
+      "phoneme": "pɪˈtɛkiaɪ"
+    },
+    {
+      "word": "ecchymosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛkɪˈmoʊsɪs"
+    },
+    {
+      "word": "hematoma",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɛməˈtoʊmə"
+    },
+    {
+      "word": "hemolysis",
+      "alphabet": "ipa",
+      "phoneme": "hɪˈmɒlɪsɪs"
+    },
+    {
+      "word": "cellulitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛljuˈlaɪtɪs"
+    },
+    {
+      "word": "abscess",
+      "alphabet": "ipa",
+      "phoneme": "ˈæbsɛs"
+    },
+    {
+      "word": "furuncle",
+      "alphabet": "ipa",
+      "phoneme": "ˈfjʊrʌŋkəl"
+    },
+    {
+      "word": "carbuncle",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɑːrbʌŋkəl"
+    },
+    {
+      "word": "impetigo",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪmpɪˈtaɪgoʊ"
+    },
+    {
+      "word": "erysipelas",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛrɪˈsɪpələs"
+    },
+    {
+      "word": "necrotizing fasciitis",
+      "alphabet": "ipa",
+      "phoneme": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs"
+    },
+    {
+      "word": "osteomyelitis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɒstioʊˌmaɪəˈlaɪtɪs"
+    },
+    {
+      "word": "septic arthritis",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛptɪk ɑːrˈθraɪtɪs"
+    },
+    {
+      "word": "sepsis",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛpsɪs"
+    },
+    {
+      "word": "septicemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛptɪˈsiːmiə"
+    },
+    {
+      "word": "bacteremia",
+      "alphabet": "ipa",
+      "phoneme": "ˌbæktəˈriːmiə"
+    },
+    {
+      "word": "viremia",
+      "alphabet": "ipa",
+      "phoneme": "vaɪˈriːmiə"
+    },
+    {
+      "word": "fungemia",
+      "alphabet": "ipa",
+      "phoneme": "fʌnˈdʒiːmiə"
+    },
+    {
+      "word": "parasitemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌpærəsaɪˈtiːmiə"
+    },
+    {
+      "word": "endotoxemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndoʊtɒkˈsiːmiə"
+    },
+    {
+      "word": "erythema",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛrɪˈθiːmə"
+    },
+    {
+      "word": "urticaria",
+      "alphabet": "ipa",
+      "phoneme": "ˌɜːrtɪˈkɛriə"
+    },
+    {
+      "word": "pruritus",
+      "alphabet": "ipa",
+      "phoneme": "prʊˈraɪtəs"
+    },
+    {
+      "word": "eczema",
+      "alphabet": "ipa",
+      "phoneme": "ˈɛksɪmə"
+    },
+    {
+      "word": "psoriasis",
+      "alphabet": "ipa",
+      "phoneme": "səˈraɪəsɪs"
+    },
+    {
+      "word": "lichenification",
+      "alphabet": "ipa",
+      "phoneme": "lɪˌkɛnɪfɪˈkeɪʃən"
+    },
+    {
+      "word": "excoriation",
+      "alphabet": "ipa",
+      "phoneme": "ɪkˌskɔːriˈeɪʃən"
+    },
+    {
+      "word": "vesicle",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɛsɪkəl"
+    },
+    {
+      "word": "bulla",
+      "alphabet": "ipa",
+      "phoneme": "ˈbʊlə"
+    },
+    {
+      "word": "pustule",
+      "alphabet": "ipa",
+      "phoneme": "ˈpʌstʃul"
+    },
+    {
+      "word": "macule",
+      "alphabet": "ipa",
+      "phoneme": "ˈmækjuːl"
+    },
+    {
+      "word": "papule",
+      "alphabet": "ipa",
+      "phoneme": "ˈpæpjuːl"
+    },
+    {
+      "word": "nodule",
+      "alphabet": "ipa",
+      "phoneme": "ˈnɑːdjuːl"
+    },
+    {
+      "word": "plaque",
+      "alphabet": "ipa",
+      "phoneme": "plæk"
+    },
+    {
+      "word": "scale",
+      "alphabet": "ipa",
+      "phoneme": "skeɪl"
+    },
+    {
+      "word": "crust",
+      "alphabet": "ipa",
+      "phoneme": "krʌst"
+    },
+    {
+      "word": "erosion",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈroʊʒən"
+    },
+    {
+      "word": "ulcer",
+      "alphabet": "ipa",
+      "phoneme": "ˈʌlsər"
+    },
+    {
+      "word": "fissure",
+      "alphabet": "ipa",
+      "phoneme": "ˈfɪʃər"
+    },
+    {
+      "word": "atrophy",
+      "alphabet": "ipa",
+      "phoneme": "ˈætrəfi"
+    },
+    {
+      "word": "sclerosis",
+      "alphabet": "ipa",
+      "phoneme": "skləˈroʊsɪs"
+    },
+    {
+      "word": "appendectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌæpənˈdɛktəmi"
+    },
+    {
+      "word": "cholecystectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌkoʊləsɪˈstɛktəmi"
+    },
+    {
+      "word": "herniorrhaphy",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɜːrniˈɔːrəfi"
+    },
+    {
+      "word": "colostomy",
+      "alphabet": "ipa",
+      "phoneme": "kəˈlɑːstəmi"
+    },
+    {
+      "word": "ileostomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪliˈɑːstəmi"
+    },
+    {
+      "word": "nephrectomy",
+      "alphabet": "ipa",
+      "phoneme": "nəˈfrɛktəmi"
+    },
+    {
+      "word": "hysterectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɪstəˈrɛktəmi"
+    },
+    {
+      "word": "mastectomy",
+      "alphabet": "ipa",
+      "phoneme": "mæˈstɛktəmi"
+    },
+    {
+      "word": "thyroidectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌθaɪrɔɪˈdɛktəmi"
+    },
+    {
+      "word": "parathyroidectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌpærəˌθaɪrɔɪˈdɛktəmi"
+    },
+    {
+      "word": "adrenalectomy",
+      "alphabet": "ipa",
+      "phoneme": "əˌdriːnəˈlɛktəmi"
+    },
+    {
+      "word": "splenectomy",
+      "alphabet": "ipa",
+      "phoneme": "spliˈnɛktəmi"
+    },
+    {
+      "word": "pancreatectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌpæŋkriəˈtɛktəmi"
+    },
+    {
+      "word": "esophagectomy",
+      "alphabet": "ipa",
+      "phoneme": "iːˌsɑːfəˈdʒɛktəmi"
+    },
+    {
+      "word": "gastrectomy",
+      "alphabet": "ipa",
+      "phoneme": "ɡæˈstrɛktəmi"
+    },
+    {
+      "word": "colectomy",
+      "alphabet": "ipa",
+      "phoneme": "kəˈlɛktəmi"
+    },
+    {
+      "word": "proctectomy",
+      "alphabet": "ipa",
+      "phoneme": "prɑːkˈtɛktəmi"
+    },
+    {
+      "word": "cystectomy",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈstɛktəmi"
+    },
+    {
+      "word": "nephrostomy",
+      "alphabet": "ipa",
+      "phoneme": "nəˈfrɑstəmi"
+    },
+    {
+      "word": "ureterostomy",
+      "alphabet": "ipa",
+      "phoneme": "jʊˌriːtəˈrɑstəmi"
+    },
+    {
+      "word": "tracheostomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌtreɪkiˈɑstəmi"
+    },
+    {
+      "word": "cricothyroidotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi"
+    },
+    {
+      "word": "thoracotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌθɔːrəˈkɑtəmi"
+    },
+    {
+      "word": "sternotomy",
+      "alphabet": "ipa",
+      "phoneme": "stɜːrˈnɑtəmi"
+    },
+    {
+      "word": "laparotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌlæpəˈrɑtəmi"
+    },
+    {
+      "word": "celiotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌsiːliˈɑtəmi"
+    },
+    {
+      "word": "arthroscopy",
+      "alphabet": "ipa",
+      "phoneme": "ɑːrˈθrɑskəpi"
+    },
+    {
+      "word": "bronchoscopy",
+      "alphabet": "ipa",
+      "phoneme": "brɑŋˈkɑskəpi"
+    },
+    {
+      "word": "colonoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌkoʊləˈnɑskəpi"
+    },
+    {
+      "word": "endoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ɛnˈdɑskəpi"
+    },
+    {
+      "word": "gastroscopy",
+      "alphabet": "ipa",
+      "phoneme": "ɡæˈstrɑskəpi"
+    },
+    {
+      "word": "sigmoidoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɪɡmɔɪˈdɑskəpi"
+    },
+    {
+      "word": "cystoscopy",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈstɑskəpi"
+    },
+    {
+      "word": "colposcopy",
+      "alphabet": "ipa",
+      "phoneme": "kɑlˈpɑskəpi"
+    },
+    {
+      "word": "hysteroscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌhɪstəˈrɑskəpi"
+    },
+    {
+      "word": "laparoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌlæpəˈrɑskəpi"
+    },
+    {
+      "word": "thoracoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌθɔːrəˈkɑskəpi"
+    },
+    {
+      "word": "mediastinoscopy",
+      "alphabet": "ipa",
+      "phoneme": "ˌmiːdiˌæstəˈnɑskəpi"
+    },
+    {
+      "word": "arthroplasty",
+      "alphabet": "ipa",
+      "phoneme": "ˈɑːrθroʊˌplæsti"
+    },
+    {
+      "word": "osteotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑːstiˈɑtəmi"
+    },
+    {
+      "word": "craniotomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌkreɪniˈɑtəmi"
+    },
+    {
+      "word": "laminectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌlæməˈnɛktəmi"
+    },
+    {
+      "word": "discectomy",
+      "alphabet": "ipa",
+      "phoneme": "dɪˈskɛktəmi"
+    },
+    {
+      "word": "rhizotomy",
+      "alphabet": "ipa",
+      "phoneme": "raɪˈzɑtəmi"
+    },
+    {
+      "word": "neurectomy",
+      "alphabet": "ipa",
+      "phoneme": "nʊˈrɛktəmi"
+    },
+    {
+      "word": "sympathectomy",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɪmpəˈθɛktəmi"
+    },
+    {
+      "word": "vagotomy",
+      "alphabet": "ipa",
+      "phoneme": "veɪˈɡɑtəmi"
+    },
+    {
+      "word": "epithelium",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpəˈθiliəm"
+    },
+    {
+      "word": "endothelium",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndoʊˈθiliəm"
+    },
+    {
+      "word": "mesothelium",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛzoʊˈθiliəm"
+    },
+    {
+      "word": "stratum corneum",
+      "alphabet": "ipa",
+      "phoneme": "ˈstreɪtəm ˈkɔrniəm"
+    },
+    {
+      "word": "dermis",
+      "alphabet": "ipa",
+      "phoneme": "ˈdɜrmɪs"
+    },
+    {
+      "word": "epidermis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈdɜrmɪs"
+    },
+    {
+      "word": "hypodermis",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpoʊˈdɜrmɪs"
+    },
+    {
+      "word": "subcutaneous",
+      "alphabet": "ipa",
+      "phoneme": "ˌsʌbkjuˈteɪniəs"
+    },
+    {
+      "word": "fascia",
+      "alphabet": "ipa",
+      "phoneme": "ˈfæʃiə"
+    },
+    {
+      "word": "ligament",
+      "alphabet": "ipa",
+      "phoneme": "ˈlɪɡəmənt"
+    },
+    {
+      "word": "tendon",
+      "alphabet": "ipa",
+      "phoneme": "ˈtɛndən"
+    },
+    {
+      "word": "aponeurosis",
+      "alphabet": "ipa",
+      "phoneme": "ˌæpənʊˈroʊsɪs"
+    },
+    {
+      "word": "bursa",
+      "alphabet": "ipa",
+      "phoneme": "ˈbɜrsə"
+    },
+    {
+      "word": "meniscus",
+      "alphabet": "ipa",
+      "phoneme": "məˈnɪskəs"
+    },
+    {
+      "word": "cartilage",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɑrtəlɪdʒ"
+    },
+    {
+      "word": "periosteum",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛriˈɑstiəm"
+    },
+    {
+      "word": "endosteum",
+      "alphabet": "ipa",
+      "phoneme": "ɛnˈdɑstiəm"
+    },
+    {
+      "word": "diaphysis",
+      "alphabet": "ipa",
+      "phoneme": "daɪˈæfəsɪs"
+    },
+    {
+      "word": "epiphysis",
+      "alphabet": "ipa",
+      "phoneme": "ɪˈpɪfəsɪs"
+    },
+    {
+      "word": "metaphysis",
+      "alphabet": "ipa",
+      "phoneme": "məˈtæfəsɪs"
+    },
+    {
+      "word": "physis",
+      "alphabet": "ipa",
+      "phoneme": "ˈfɪsɪs"
+    },
+    {
+      "word": "symphysis",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɪmfəsɪs"
+    },
+    {
+      "word": "synovium",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈnoʊviəm"
+    },
+    {
+      "word": "synovia",
+      "alphabet": "ipa",
+      "phoneme": "sɪˈnoʊviə"
+    },
+    {
+      "word": "sutura",
+      "alphabet": "ipa",
+      "phoneme": "suˈtʊrə"
+    },
+    {
+      "word": "fontanelle",
+      "alphabet": "ipa",
+      "phoneme": "ˌfɑntəˈnɛl"
+    },
+    {
+      "word": "myocardium",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪoʊˈkɑrdiəm"
+    },
+    {
+      "word": "epicardium",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈkɑrdiəm"
+    },
+    {
+      "word": "pericardium",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪˈkɑrdiəm"
+    },
+    {
+      "word": "endocardium",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛndoʊˈkɑrdiəm"
+    },
+    {
+      "word": "intima",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪntɪmə"
+    },
+    {
+      "word": "media",
+      "alphabet": "ipa",
+      "phoneme": "ˈmiːdiə"
+    },
+    {
+      "word": "adventitia",
+      "alphabet": "ipa",
+      "phoneme": "ˌædvɛnˈtɪʃə"
+    },
+    {
+      "word": "tunica",
+      "alphabet": "ipa",
+      "phoneme": "ˈtuːnɪkə"
+    },
+    {
+      "word": "parenchyma",
+      "alphabet": "ipa",
+      "phoneme": "pəˈrɛŋkɪmə"
+    },
+    {
+      "word": "stroma",
+      "alphabet": "ipa",
+      "phoneme": "ˈstroʊmə"
+    },
+    {
+      "word": "septum",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛptəm"
+    },
+    {
+      "word": "septa",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɛptə"
+    },
+    {
+      "word": "trabecula",
+      "alphabet": "ipa",
+      "phoneme": "trəˈbɛkjələ"
+    },
+    {
+      "word": "hilum",
+      "alphabet": "ipa",
+      "phoneme": "ˈhaɪləm"
+    },
+    {
+      "word": "hilus",
+      "alphabet": "ipa",
+      "phoneme": "ˈhaɪləs"
+    },
+    {
+      "word": "sulcus",
+      "alphabet": "ipa",
+      "phoneme": "ˈsʌlkəs"
+    },
+    {
+      "word": "gyrus",
+      "alphabet": "ipa",
+      "phoneme": "ˈdʒaɪrəs"
+    },
+    {
+      "word": "cortex",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔrtɛks"
+    },
+    {
+      "word": "medulla",
+      "alphabet": "ipa",
+      "phoneme": "məˈdʌlə"
+    },
+    {
+      "word": "capsule",
+      "alphabet": "ipa",
+      "phoneme": "ˈkæpsəl"
+    },
+    {
+      "word": "lobe",
+      "alphabet": "ipa",
+      "phoneme": "loʊb"
+    },
+    {
+      "word": "lobule",
+      "alphabet": "ipa",
+      "phoneme": "ˈlɑbjul"
+    },
+    {
+      "word": "acinus",
+      "alphabet": "ipa",
+      "phoneme": "ˈæsɪnəs"
+    },
+    {
+      "word": "alveolus",
+      "alphabet": "ipa",
+      "phoneme": "ælˈviələs"
+    },
+    {
+      "word": "glomerulus",
+      "alphabet": "ipa",
+      "phoneme": "ɡloʊˈmɛrjələs"
+    },
+    {
+      "word": "nephron",
+      "alphabet": "ipa",
+      "phoneme": "ˈnɛfrɑn"
+    },
+    {
+      "word": "tubule",
+      "alphabet": "ipa",
+      "phoneme": "ˈtubjul"
+    },
+    {
+      "word": "ductule",
+      "alphabet": "ipa",
+      "phoneme": "ˈdʌktʃul"
+    },
+    {
+      "word": "ductus",
+      "alphabet": "ipa",
+      "phoneme": "ˈdʌktəs"
+    },
+    {
+      "word": "vas deferens",
+      "alphabet": "ipa",
+      "phoneme": "væs dɛfərɛnz"
+    },
+    {
+      "word": "epididymis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈdɪdɪmɪs"
+    },
+    {
+      "word": "fimbria",
+      "alphabet": "ipa",
+      "phoneme": "ˈfɪmbriə"
+    },
+    {
+      "word": "fornix",
+      "alphabet": "ipa",
+      "phoneme": "ˈfɔrnɪks"
+    },
+    {
+      "word": "mesentery",
+      "alphabet": "ipa",
+      "phoneme": "ˈmɛzənˌtɛri"
+    },
+    {
+      "word": "omentum",
+      "alphabet": "ipa",
+      "phoneme": "oʊˈmɛntəm"
+    },
+    {
+      "word": "peritoneum",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪtəˈniəm"
+    },
+    {
+      "word": "retroperitoneum",
+      "alphabet": "ipa",
+      "phoneme": "ˌrɛtroʊˌpɛrɪtəˈniəm"
+    },
+    {
+      "word": "mesocolon",
+      "alphabet": "ipa",
+      "phoneme": "ˌmɛzəˈkoʊlən"
+    },
+    {
+      "word": "haustra",
+      "alphabet": "ipa",
+      "phoneme": "ˈhɔstrə"
+    },
+    {
+      "word": "plicae",
+      "alphabet": "ipa",
+      "phoneme": "ˈplaɪsi"
+    },
+    {
+      "word": "rugae",
+      "alphabet": "ipa",
+      "phoneme": "ˈrudiʒi"
+    },
+    {
+      "word": "villi",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɪlaɪ"
+    },
+    {
+      "word": "microvilli",
+      "alphabet": "ipa",
+      "phoneme": "ˌmaɪkroʊˈvɪlaɪ"
+    },
+    {
+      "word": "cryptae",
+      "alphabet": "ipa",
+      "phoneme": "ˈkrɪpti"
+    },
+    {
+      "word": "pylorus",
+      "alphabet": "ipa",
+      "phoneme": "paɪˈlɔrəs"
+    },
+    {
+      "word": "cardia",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɑrdiə"
+    },
+    {
+      "word": "fundus",
+      "alphabet": "ipa",
+      "phoneme": "ˈfʌndəs"
+    },
+    {
+      "word": "antrum",
+      "alphabet": "ipa",
+      "phoneme": "ˈæntrəm"
+    },
+    {
+      "word": "duodenum",
+      "alphabet": "ipa",
+      "phoneme": "ˌduəˈdinəm"
+    },
+    {
+      "word": "jejunum",
+      "alphabet": "ipa",
+      "phoneme": "dʒəˈdʒunəm"
+    },
+    {
+      "word": "ileum",
+      "alphabet": "ipa",
+      "phoneme": "ˈɪliəm"
+    },
+    {
+      "word": "cecum",
+      "alphabet": "ipa",
+      "phoneme": "ˈsikəm"
+    },
+    {
+      "word": "vermiform",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɜrmɪfɔrm"
+    },
+    {
+      "word": "appendix",
+      "alphabet": "ipa",
+      "phoneme": "əˈpɛndɪks"
+    },
+    {
+      "word": "sigmoid",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɪɡmɔɪd"
+    },
+    {
+      "word": "rectum",
+      "alphabet": "ipa",
+      "phoneme": "ˈrɛktəm"
+    },
+    {
+      "word": "anus",
+      "alphabet": "ipa",
+      "phoneme": "ˈeɪnəs"
+    },
+    {
+      "word": "sphincter",
+      "alphabet": "ipa",
+      "phoneme": "ˈsfɪŋktər"
+    },
+    {
+      "word": "papilla",
+      "alphabet": "ipa",
+      "phoneme": "pəˈpɪlə"
+    },
+    {
+      "word": "ampulla",
+      "alphabet": "ipa",
+      "phoneme": "æmˈpʊlə"
+    },
+    {
+      "word": "cholecyst",
+      "alphabet": "ipa",
+      "phoneme": "ˈkoʊləsɪst"
+    },
+    {
+      "word": "choledochus",
+      "alphabet": "ipa",
+      "phoneme": "kəˈlɛdəkəs"
+    },
+    {
+      "word": "pancreas",
+      "alphabet": "ipa",
+      "phoneme": "ˈpæŋkriəs"
+    },
+    {
+      "word": "islets",
+      "alphabet": "ipa",
+      "phoneme": "ˈaɪlɪts"
+    },
+    {
+      "word": "acini",
+      "alphabet": "ipa",
+      "phoneme": "ˈæsɪnaɪ"
+    },
+    {
+      "word": "centrilobular",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛntrɪˈlɑbjələr"
+    },
+    {
+      "word": "periportal",
+      "alphabet": "ipa",
+      "phoneme": "ˌpɛrɪˈpɔrtəl"
+    },
+    {
+      "word": "sinusoids",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɪnjəsɔɪdz"
+    },
+    {
+      "word": "Kupffer",
+      "alphabet": "ipa",
+      "phoneme": "ˈkʊfər"
+    },
+    {
+      "word": "space of Disse",
+      "alphabet": "ipa",
+      "phoneme": "speɪs əv dɪs"
+    },
+    {
+      "word": "canaliculi",
+      "alphabet": "ipa",
+      "phoneme": "ˌkænəˈlɪkjəlaɪ"
+    },
+    {
+      "word": "falciform",
+      "alphabet": "ipa",
+      "phoneme": "ˈfælsɪfɔrm"
+    },
+    {
+      "word": "ligamentum teres",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪɡəˈmɛntəm ˈtɛriz"
+    },
+    {
+      "word": "ligamentum venosum",
+      "alphabet": "ipa",
+      "phoneme": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm"
+    },
+    {
+      "word": "porta hepatis",
+      "alphabet": "ipa",
+      "phoneme": "ˈpɔrtə ˈhɛpətɪs"
+    },
+    {
+      "word": "coronary",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔrənɛri"
+    },
+    {
+      "word": "circumflex",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɜrkəmflɛks"
+    },
+    {
+      "word": "interventricular",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntərvɛnˈtrɪkjələr"
+    },
+    {
+      "word": "interventricular septum",
+      "alphabet": "ipa",
+      "phoneme": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm"
+    },
+    {
+      "word": "papillary muscle",
+      "alphabet": "ipa",
+      "phoneme": "ˈpæpɪlɛri ˈmʌsəl"
+    },
+    {
+      "word": "chordae tendineae",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔrdi tɛnˈdɪnii"
+    },
+    {
+      "word": "valve",
+      "alphabet": "ipa",
+      "phoneme": "vælv"
+    },
+    {
+      "word": "leaflet",
+      "alphabet": "ipa",
+      "phoneme": "ˈlifət"
+    },
+    {
+      "word": "cusp",
+      "alphabet": "ipa",
+      "phoneme": "kʌsp"
+    },
+    {
+      "word": "semilunar",
+      "alphabet": "ipa",
+      "phoneme": "ˌsɛmiˈlunər"
+    },
+    {
+      "word": "atrioventricular",
+      "alphabet": "ipa",
+      "phoneme": "ˌeɪtrioʊvɛnˈtrɪkjələr"
+    },
+    {
+      "word": "ventricular",
+      "alphabet": "ipa",
+      "phoneme": "vɛnˈtrɪkjələr"
+    },
+    {
+      "word": "sinoatrial",
+      "alphabet": "ipa",
+      "phoneme": "ˌsaɪnoʊˈeɪtriəl"
+    },
+    {
+      "word": "coronary sinus",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔrənɛri ˈsaɪnəs"
+    },
+    {
+      "word": "vena cava",
+      "alphabet": "ipa",
+      "phoneme": "ˈvinə ˈkeɪvə"
+    },
+    {
+      "word": "pulmonary trunk",
+      "alphabet": "ipa",
+      "phoneme": "ˈpʊlmənɛri trʌŋk"
+    },
+    {
+      "word": "aorta",
+      "alphabet": "ipa",
+      "phoneme": "eɪˈɔrtə"
+    },
+    {
+      "word": "carotid",
+      "alphabet": "ipa",
+      "phoneme": "kəˈrɑtɪd"
+    },
+    {
+      "word": "subclavian",
+      "alphabet": "ipa",
+      "phoneme": "sʌbˈkleɪviən"
+    },
+    {
+      "word": "vertebral",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɝːtəbrəl"
+    },
+    {
+      "word": "basilar",
+      "alphabet": "ipa",
+      "phoneme": "ˈbæsɪlɚ"
+    },
+    {
+      "word": "circle of Willis",
+      "alphabet": "ipa",
+      "phoneme": "ˈsɝːkəl əv ˈwɪlɪs"
+    },
+    {
+      "word": "meninges",
+      "alphabet": "ipa",
+      "phoneme": "məˈnɪndʒiːz"
+    },
+    {
+      "word": "dura mater",
+      "alphabet": "ipa",
+      "phoneme": "ˈdʊrə ˈmeɪtɚ"
+    },
+    {
+      "word": "arachnoid",
+      "alphabet": "ipa",
+      "phoneme": "əˈræknɔɪd"
+    },
+    {
+      "word": "pia mater",
+      "alphabet": "ipa",
+      "phoneme": "ˈpiːə ˈmeɪtɚ"
+    },
+    {
+      "word": "subdural",
+      "alphabet": "ipa",
+      "phoneme": "sʌbˈdʊrəl"
+    },
+    {
+      "word": "subarachnoid",
+      "alphabet": "ipa",
+      "phoneme": "ˌsʌbəˈræknɔɪd"
+    },
+    {
+      "word": "epidural",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈdʊrəl"
+    },
+    {
+      "word": "ventricles",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɛntrɪkəlz"
+    },
+    {
+      "word": "foramina",
+      "alphabet": "ipa",
+      "phoneme": "fəˈræmɪnə"
+    },
+    {
+      "word": "aqueduct",
+      "alphabet": "ipa",
+      "phoneme": "ˈækwɪdʌkt"
+    },
+    {
+      "word": "choroid plexus",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔːrɔɪd ˈplɛksəs"
+    },
+    {
+      "word": "cauda equina",
+      "alphabet": "ipa",
+      "phoneme": "ˈkɔːdə ɪˈkwaɪnə"
+    },
+    {
+      "word": "filum terminale",
+      "alphabet": "ipa",
+      "phoneme": "ˈfaɪləm ˌtɝːmɪˈnɑːli"
+    },
+    {
+      "word": "conus medullaris",
+      "alphabet": "ipa",
+      "phoneme": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs"
+    },
+    {
+      "word": "dorsal root",
+      "alphabet": "ipa",
+      "phoneme": "ˈdɔːrsəl ruːt"
+    },
+    {
+      "word": "ventral root",
+      "alphabet": "ipa",
+      "phoneme": "ˈvɛntrəl ruːt"
+    },
+    {
+      "word": "ganglion",
+      "alphabet": "ipa",
+      "phoneme": "ˈɡæŋɡliən"
+    },
+    {
+      "word": "plexus",
+      "alphabet": "ipa",
+      "phoneme": "ˈplɛksəs"
+    },
+    {
+      "word": "phrenic",
+      "alphabet": "ipa",
+      "phoneme": "ˈfrɛnɪk"
+    },
+    {
+      "word": "vagus",
+      "alphabet": "ipa",
+      "phoneme": "ˈveɪɡəs"
+    },
+    {
+      "word": "recurrent laryngeal",
+      "alphabet": "ipa",
+      "phoneme": "rɪˈkɝːənt ləˈrɪndʒiəl"
+    },
+    {
+      "word": "facial",
+      "alphabet": "ipa",
+      "phoneme": "ˈfeɪʃəl"
+    },
+    {
+      "word": "vestibulocochlear",
+      "alphabet": "ipa",
+      "phoneme": "vɛsˌtɪbjəloʊˈkoʊkliɚ"
+    },
+    {
+      "word": "glossopharyngeal",
+      "alphabet": "ipa",
+      "phoneme": "ˌɡlɑːsoʊfəˈrɪndʒiəl"
+    },
+    {
+      "word": "hypoglossal",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpəˈɡlɑːsəl"
+    },
+    {
+      "word": "accessory",
+      "alphabet": "ipa",
+      "phoneme": "əkˈsɛsəri"
+    },
+    {
+      "word": "oculomotor",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑːkjəloʊˈmoʊtɚ"
+    },
+    {
+      "word": "trochlear",
+      "alphabet": "ipa",
+      "phoneme": "ˈtroʊkliər"
+    },
+    {
+      "word": "abducens",
+      "alphabet": "ipa",
+      "phoneme": "æbˈdjuːsənz"
+    }
+  ]
+}

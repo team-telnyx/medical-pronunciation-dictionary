@@ -2,504 +2,554 @@
   "name": "Medical Pronunciations 05",
   "items": [
     {
-      "text": "MRI",
+      "text": "reslizumab",
       "type": "alias",
-      "alias": "magnetic resonance imaging"
+      "alias": "rez-LIZ-oo-mab"
     },
     {
-      "text": "CT",
-      "type": "alias",
-      "alias": "computed tomography"
+      "text": "reslizumab",
+      "type": "phoneme",
+      "phoneme": "rɛzˈlɪzʊmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "EKG",
+      "text": "dupilumab",
       "type": "alias",
-      "alias": "electrocardiogram"
+      "alias": "doo-PIL-oo-mab"
     },
     {
-      "text": "ECG",
-      "type": "alias",
-      "alias": "electrocardiogram"
+      "text": "dupilumab",
+      "type": "phoneme",
+      "phoneme": "duːˈpɪljuːmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "EEG",
+      "text": "omalizumab",
       "type": "alias",
-      "alias": "electroencephalogram"
+      "alias": "oh-ma-LIZ-oo-mab"
     },
     {
-      "text": "BUN",
-      "type": "alias",
-      "alias": "blood urea nitrogen"
+      "text": "omalizumab",
+      "type": "phoneme",
+      "phoneme": "oʊˈmælɪzʊmæb",
+      "alphabet": "ipa"
     },
     {
-      "text": "CMP",
+      "text": "sertraline",
       "type": "alias",
-      "alias": "comprehensive metabolic panel"
+      "alias": "SER-tra-leen"
     },
     {
-      "text": "CBC",
-      "type": "alias",
-      "alias": "complete blood count"
+      "text": "sertraline",
+      "type": "phoneme",
+      "phoneme": "ˈsɜːrtrəliːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "TSH",
+      "text": "fluoxetine",
       "type": "alias",
-      "alias": "thyroid stimulating hormone"
+      "alias": "floo-OK-seh-teen"
     },
     {
-      "text": "HbA1c",
-      "type": "alias",
-      "alias": "hemoglobin A one C"
+      "text": "fluoxetine",
+      "type": "phoneme",
+      "phoneme": "fluːˈɑːksətiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "PT",
+      "text": "escitalopram",
       "type": "alias",
-      "alias": "prothrombin time"
+      "alias": "es-sit-AL-oh-pram"
     },
     {
-      "text": "INR",
-      "type": "alias",
-      "alias": "international normalized ratio"
+      "text": "escitalopram",
+      "type": "phoneme",
+      "phoneme": "ˌɛsɪˈtæləpræm",
+      "alphabet": "ipa"
     },
     {
-      "text": "PTT",
+      "text": "citalopram",
       "type": "alias",
-      "alias": "partial thromboplastin time"
+      "alias": "sit-AL-oh-pram"
     },
     {
-      "text": "DVT",
-      "type": "alias",
-      "alias": "deep vein thrombosis"
+      "text": "citalopram",
+      "type": "phoneme",
+      "phoneme": "sɪˈtæləpræm",
+      "alphabet": "ipa"
     },
     {
-      "text": "PE",
+      "text": "paroxetine",
       "type": "alias",
-      "alias": "pulmonary embolism"
+      "alias": "pa-ROK-seh-teen"
     },
     {
-      "text": "CVA",
-      "type": "alias",
-      "alias": "cerebrovascular accident"
+      "text": "paroxetine",
+      "type": "phoneme",
+      "phoneme": "pəˈrɑːksətiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "TIA",
+      "text": "venlafaxine",
       "type": "alias",
-      "alias": "transient ischemic attack"
+      "alias": "ven-la-FAK-seen"
     },
     {
-      "text": "ICU",
-      "type": "alias",
-      "alias": "intensive care unit"
+      "text": "venlafaxine",
+      "type": "phoneme",
+      "phoneme": "vɛnˈlæfəksiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "NICU",
+      "text": "desvenlafaxine",
       "type": "alias",
-      "alias": "neonatal intensive care unit"
+      "alias": "des-ven-la-FAK-seen"
     },
     {
-      "text": "ER",
-      "type": "alias",
-      "alias": "emergency room"
+      "text": "desvenlafaxine",
+      "type": "phoneme",
+      "phoneme": "dɛzˈvɛnələˌfæksiːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "ED",
+      "text": "milnacipran",
       "type": "alias",
-      "alias": "emergency department"
+      "alias": "mil-NA-si-pran"
     },
     {
-      "text": "OR",
-      "type": "alias",
-      "alias": "operating room"
+      "text": "milnacipran",
+      "type": "phoneme",
+      "phoneme": "mɪlˈnæsɪpræn",
+      "alphabet": "ipa"
     },
     {
-      "text": "PACU",
+      "text": "bupropion",
       "type": "alias",
-      "alias": "post-anesthesia care unit"
+      "alias": "byoo-PRO-pee-on"
     },
     {
-      "text": "CCU",
-      "type": "alias",
-      "alias": "coronary care unit"
+      "text": "bupropion",
+      "type": "phoneme",
+      "phoneme": "bjuˈproʊpiɑn",
+      "alphabet": "ipa"
     },
     {
-      "text": "SICU",
+      "text": "mirtazapine",
       "type": "alias",
-      "alias": "surgical intensive care unit"
+      "alias": "mir-TAZ-a-peen"
     },
     {
-      "text": "MICU",
-      "type": "alias",
-      "alias": "medical intensive care unit"
+      "text": "mirtazapine",
+      "type": "phoneme",
+      "phoneme": "mɪrˈtæzəpin",
+      "alphabet": "ipa"
     },
     {
-      "text": "BP",
+      "text": "trazodone",
       "type": "alias",
-      "alias": "blood pressure"
+      "alias": "TRAZ-oh-done"
     },
     {
-      "text": "HR",
-      "type": "alias",
-      "alias": "heart rate"
+      "text": "trazodone",
+      "type": "phoneme",
+      "phoneme": "ˈtræzədoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "RR",
+      "text": "nefazodone",
       "type": "alias",
-      "alias": "respiratory rate"
+      "alias": "ne-FAZ-oh-done"
     },
     {
-      "text": "SpO2",
-      "type": "alias",
-      "alias": "saturation of peripheral oxygen"
+      "text": "nefazodone",
+      "type": "phoneme",
+      "phoneme": "nəˈfæzədoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "ETCO2",
+      "text": "vortioxetine",
       "type": "alias",
-      "alias": "end-tidal carbon dioxide"
+      "alias": "vor-tee-OK-seh-teen"
     },
     {
-      "text": "IV",
-      "type": "alias",
-      "alias": "intravenous"
+      "text": "vortioxetine",
+      "type": "phoneme",
+      "phoneme": "vɔrtiˈɑksətin",
+      "alphabet": "ipa"
     },
     {
-      "text": "IM",
+      "text": "vilazodone",
       "type": "alias",
-      "alias": "intramuscular"
+      "alias": "vil-AZ-oh-done"
     },
     {
-      "text": "SC",
-      "type": "alias",
-      "alias": "subcutaneous"
+      "text": "vilazodone",
+      "type": "phoneme",
+      "phoneme": "vɪˈlæzədoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "PO",
+      "text": "fluvoxamine",
       "type": "alias",
-      "alias": "by mouth"
+      "alias": "floo-VOK-sah-meen"
     },
     {
-      "text": "PR",
-      "type": "alias",
-      "alias": "per rectum"
+      "text": "fluvoxamine",
+      "type": "phoneme",
+      "phoneme": "fluˈvɑksəmin",
+      "alphabet": "ipa"
     },
     {
-      "text": "SL",
+      "text": "clomipramine",
       "type": "alias",
-      "alias": "sublingual"
+      "alias": "klo-MIP-rah-meen"
     },
     {
-      "text": "OD",
-      "type": "alias",
-      "alias": "right eye"
+      "text": "clomipramine",
+      "type": "phoneme",
+      "phoneme": "kloʊˈmɪprəmin",
+      "alphabet": "ipa"
     },
     {
-      "text": "OS",
+      "text": "desipramine",
       "type": "alias",
-      "alias": "left eye"
+      "alias": "des-IP-rah-meen"
     },
     {
-      "text": "OU",
-      "type": "alias",
-      "alias": "both eyes"
+      "text": "desipramine",
+      "type": "phoneme",
+      "phoneme": "dəˈsɪprəmin",
+      "alphabet": "ipa"
     },
     {
-      "text": "AU",
+      "text": "imipramine",
       "type": "alias",
-      "alias": "both ears"
+      "alias": "im-IP-rah-meen"
     },
     {
-      "text": "AD",
-      "type": "alias",
-      "alias": "right ear"
+      "text": "imipramine",
+      "type": "phoneme",
+      "phoneme": "ɪˈmɪprəmin",
+      "alphabet": "ipa"
     },
     {
-      "text": "AS",
+      "text": "protriptyline",
       "type": "alias",
-      "alias": "left ear"
+      "alias": "pro-TRIP-tih-leen"
     },
     {
-      "text": "APAP",
-      "type": "alias",
-      "alias": "acetaminophen"
+      "text": "protriptyline",
+      "type": "phoneme",
+      "phoneme": "proʊˈtrɪptəlin",
+      "alphabet": "ipa"
     },
     {
-      "text": "NSAID",
+      "text": "phenelzine",
       "type": "alias",
-      "alias": "non-steroidal anti-inflammatory drug"
+      "alias": "FEN-el-zeen"
     },
     {
-      "text": "PPI",
-      "type": "alias",
-      "alias": "proton pump inhibitor"
+      "text": "phenelzine",
+      "type": "phoneme",
+      "phoneme": "ˈfɛnəlzin",
+      "alphabet": "ipa"
     },
     {
-      "text": "ARB",
+      "text": "tranylcypromine",
       "type": "alias",
-      "alias": "angiotensin receptor blocker"
+      "alias": "tran-il-SIP-roh-meen"
     },
     {
-      "text": "ACE",
-      "type": "alias",
-      "alias": "angiotensin-converting enzyme"
+      "text": "tranylcypromine",
+      "type": "phoneme",
+      "phoneme": "trænɪlˈsɪprəmin",
+      "alphabet": "ipa"
     },
     {
-      "text": "BB",
+      "text": "isocarboxazid",
       "type": "alias",
-      "alias": "beta blocker"
+      "alias": "eye-so-kar-BOK-sah-zid"
     },
     {
-      "text": "CCB",
-      "type": "alias",
-      "alias": "calcium channel blocker"
+      "text": "isocarboxazid",
+      "type": "phoneme",
+      "phoneme": "ˌaɪsoʊkɑrˈbɑksəzɪd",
+      "alphabet": "ipa"
     },
     {
-      "text": "SSRI",
+      "text": "selegiline",
       "type": "alias",
-      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
+      "alias": "se-LEJ-ih-leen"
     },
     {
-      "text": "SNRI",
-      "type": "alias",
-      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
+      "text": "selegiline",
+      "type": "phoneme",
+      "phoneme": "səˈlɛdʒəlin",
+      "alphabet": "ipa"
     },
     {
-      "text": "TCA",
+      "text": "rasagiline",
       "type": "alias",
-      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
+      "alias": "ra-SAJ-ih-leen"
     },
     {
-      "text": "MAOI",
-      "type": "alias",
-      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
+      "text": "rasagiline",
+      "type": "phoneme",
+      "phoneme": "rəˈsædʒəlin",
+      "alphabet": "ipa"
     },
     {
-      "text": "DM",
+      "text": "aripiprazole",
       "type": "alias",
-      "alias": "di-a-BE-teez mel-LI-tus"
+      "alias": "a-RIP-ip-ra-zole"
     },
     {
-      "text": "HTN",
-      "type": "alias",
-      "alias": "hi-per-TEN-shun"
+      "text": "aripiprazole",
+      "type": "phoneme",
+      "phoneme": "əˈrɪpɪprəzoʊl",
+      "alphabet": "ipa"
     },
     {
-      "text": "HLD",
+      "text": "olanzapine",
       "type": "alias",
-      "alias": "hi-per-LIP-i-dee-mee-uh"
+      "alias": "oh-LAN-zah-peen"
     },
     {
-      "text": "CAD",
-      "type": "alias",
-      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
+      "text": "olanzapine",
+      "type": "phoneme",
+      "phoneme": "oʊˈlænzəpin",
+      "alphabet": "ipa"
     },
     {
-      "text": "PVD",
+      "text": "quetiapine",
       "type": "alias",
-      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
+      "alias": "kwe-TIE-ah-peen"
     },
     {
-      "text": "CKD",
-      "type": "alias",
-      "alias": "kron-ik KID-nee di-ZEEZ"
+      "text": "quetiapine",
+      "type": "phoneme",
+      "phoneme": "kwɛˈtaɪəpin",
+      "alphabet": "ipa"
     },
     {
-      "text": "ESRD",
+      "text": "risperidone",
       "type": "alias",
-      "alias": "end-STAGE re-NAL di-ZEEZ"
+      "alias": "ris-PER-ih-done"
     },
     {
-      "text": "AKI",
-      "type": "alias",
-      "alias": "ak-YOOT KID-nee in-JER-ee"
+      "text": "risperidone",
+      "type": "phoneme",
+      "phoneme": "rɪˈspɛrɪdoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "ASTHMA",
+      "text": "paliperidone",
       "type": "alias",
-      "alias": "AZ-muh"
+      "alias": "pal-ee-PER-ih-done"
     },
     {
-      "text": "GERD",
-      "type": "alias",
-      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
+      "text": "paliperidone",
+      "type": "phoneme",
+      "phoneme": "pəˈlɪpərɪdoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "IBD",
+      "text": "ziprasidone",
       "type": "alias",
-      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
+      "alias": "zip-RAS-ih-done"
     },
     {
-      "text": "IBS",
-      "type": "alias",
-      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
+      "text": "ziprasidone",
+      "type": "phoneme",
+      "phoneme": "zɪˈpræsɪdoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "NASH",
+      "text": "lurasidone",
       "type": "alias",
-      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
+      "alias": "loo-RAS-ih-done"
     },
     {
-      "text": "NAFLD",
-      "type": "alias",
-      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
+      "text": "lurasidone",
+      "type": "phoneme",
+      "phoneme": "lʊˈræsɪdoʊn",
+      "alphabet": "ipa"
     },
     {
-      "text": "HCC",
+      "text": "brexpiprazole",
       "type": "alias",
-      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
+      "alias": "brek-SIP-ra-zole"
     },
     {
-      "text": "ALL",
-      "type": "alias",
-      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
+      "text": "brexpiprazole",
+      "type": "phoneme",
+      "phoneme": "brɛksˈpɪprəzoʊl",
+      "alphabet": "ipa"
     },
     {
-      "text": "AML",
+      "text": "cariprazine",
       "type": "alias",
-      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
+      "alias": "ka-RIP-ra-zeen"
     },
     {
-      "text": "CLL",
-      "type": "alias",
-      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
+      "text": "cariprazine",
+      "type": "phoneme",
+      "phoneme": "kəˈrɪprəzin",
+      "alphabet": "ipa"
     },
     {
-      "text": "CML",
+      "text": "clozapine",
       "type": "alias",
-      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
+      "alias": "KLOZ-ah-peen"
     },
     {
-      "text": "NHL",
-      "type": "alias",
-      "alias": "non-HOJ-kin lym-FO-ma"
+      "text": "clozapine",
+      "type": "phoneme",
+      "phoneme": "ˈkloʊzəpin",
+      "alphabet": "ipa"
     },
     {
-      "text": "Hodgkin",
+      "text": "haloperidol",
       "type": "alias",
-      "alias": "HOJ-kin"
+      "alias": "hal-oh-PER-ih-dol"
     },
     {
-      "text": "MM",
-      "type": "alias",
-      "alias": "mul-TI-pul my-eh-LO-ma"
+      "text": "haloperidol",
+      "type": "phoneme",
+      "phoneme": "ˌhæloʊˈpɛrɪdɔl",
+      "alphabet": "ipa"
     },
     {
-      "text": "SLE",
+      "text": "chlorpromazine",
       "type": "alias",
-      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
+      "alias": "klor-PROH-mah-zeen"
     },
     {
-      "text": "RA",
-      "type": "alias",
-      "alias": "rew-ma-TOYD ar-THRI-tis"
+      "text": "chlorpromazine",
+      "type": "phoneme",
+      "phoneme": "klɔrˈproʊməzin",
+      "alphabet": "ipa"
     },
     {
-      "text": "OA",
+      "text": "lithium",
       "type": "alias",
-      "alias": "os-tee-o-ar-THRI-tis"
+      "alias": "LITH-ee-um"
     },
     {
-      "text": "DJD",
-      "type": "alias",
-      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
+      "text": "lithium",
+      "type": "phoneme",
+      "phoneme": "ˈlɪθiəm",
+      "alphabet": "ipa"
     },
     {
-      "text": "GOUT",
+      "text": "valproate",
       "type": "alias",
-      "alias": "gowt"
+      "alias": "val-PRO-ate"
     },
     {
-      "text": "MG",
-      "type": "alias",
-      "alias": "myasthenia gravis"
+      "text": "valproate",
+      "type": "phoneme",
+      "phoneme": "vælˈproʊ.eɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "MS",
+      "text": "asenapine",
       "type": "alias",
-      "alias": "multiple sclerosis"
+      "alias": "a-SEN-a-peen"
     },
     {
-      "text": "ALS",
-      "type": "alias",
-      "alias": "amyotrophic lateral sclerosis"
+      "text": "asenapine",
+      "type": "phoneme",
+      "phoneme": "əˈsɛn.ə.piːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "GBS",
+      "text": "dexmethylphenidate",
       "type": "alias",
-      "alias": "Guillain-Barré syndrome"
+      "alias": "dex-METH-il-FEN-i-date"
     },
     {
-      "text": "TBI",
-      "type": "alias",
-      "alias": "traumatic brain injury"
+      "text": "dexmethylphenidate",
+      "type": "phoneme",
+      "phoneme": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "PD",
+      "text": "lisdexamfetamine",
       "type": "alias",
-      "alias": "Parkinson disease"
+      "alias": "lis-dex-am-FET-a-meen"
     },
     {
-      "text": "HD",
-      "type": "alias",
-      "alias": "Huntington disease"
+      "text": "lisdexamfetamine",
+      "type": "phoneme",
+      "phoneme": "lɪsˌdɛks.æmˈfɛt.ə.miːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "CJD",
+      "text": "methylphenidate",
       "type": "alias",
-      "alias": "Creutzfeldt-Jakob disease"
+      "alias": "METH-il-FEN-i-date"
     },
     {
-      "text": "SCI",
-      "type": "alias",
-      "alias": "spinal cord injury"
+      "text": "methylphenidate",
+      "type": "phoneme",
+      "phoneme": "ˌmɛθ.əlˈfɛn.ə.deɪt",
+      "alphabet": "ipa"
     },
     {
-      "text": "CA",
+      "text": "amfetamine",
       "type": "alias",
-      "alias": "cancer"
+      "alias": "am-FET-a-meen"
     },
     {
-      "text": "N/V",
-      "type": "alias",
-      "alias": "nausea and vomiting"
+      "text": "amfetamine",
+      "type": "phoneme",
+      "phoneme": "æmˈfɛt.ə.miːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "SOB",
+      "text": "guanfacine",
       "type": "alias",
-      "alias": "shortness of breath"
+      "alias": "GWAHN-fa-seen"
     },
     {
-      "text": "CP",
-      "type": "alias",
-      "alias": "cerebral palsy"
+      "text": "guanfacine",
+      "type": "phoneme",
+      "phoneme": "ˈɡwɑːn.fə.siːn",
+      "alphabet": "ipa"
     },
     {
-      "text": "N/V/D",
+      "text": "tamoxifen",
       "type": "alias",
-      "alias": "nausea vomiting and diarrhea"
+      "alias": "ta-MOX-i-fen"
     },
     {
-      "text": "LOC",
-      "type": "alias",
-      "alias": "loss of consciousness"
+      "text": "tamoxifen",
+      "type": "phoneme",
+      "phoneme": "təˈmɑːk.sə.fən",
+      "alphabet": "ipa"
     },
     {
-      "text": "GCS",
+      "text": "anastrozole",
       "type": "alias",
-      "alias": "Glasgow Coma Scale"
+      "alias": "an-AS-troh-zole"
     },
     {
-      "text": "HEENT",
-      "type": "alias",
-      "alias": "head eyes ears nose and throat"
+      "text": "anastrozole",
+      "type": "phoneme",
+      "phoneme": "əˈnæs.trə.zɔːl",
+      "alphabet": "ipa"
     },
     {
-      "text": "CV",
+      "text": "letrozole",
       "type": "alias",
-      "alias": "cardiovascular"
+      "alias": "LET-roh-zole"
     },
     {
-      "text": "GI",
-      "type": "alias",
-      "alias": "gastrointestinal"
+      "text": "letrozole",
+      "type": "phoneme",
+      "phoneme": "ˈlɛ.trə.zɔːl",
+      "alphabet": "ipa"
     }
   ]
 }

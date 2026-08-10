@@ -1,963 +1,963 @@
-text,alias,category
-atorvastatin,a-TOR-va-STAT-in,drug
-Lipitor,LIP-i-tor,drug
-lisinopril,ly-SIN-oh-pril,drug
-metoprolol,me-TOE-pro-lol,drug
-amlodipine,am-LOE-di-peen,drug
-losartan,loe-SAR-tan,drug
-metoprolol succinate,me-TOE-pro-lol SUK-si-nate,drug
-metoprolol tartrate,me-TOE-pro-lol TAR-trate,drug
-carvedilol,kar-VE-di-lol,drug
-valsartan,val-SAR-tan,drug
-enalapril,e-NAL-a-pril,drug
-ramipril,ra-MI-pril,drug
-felodipine,fe-LOE-di-peen,drug
-nimodipine,ny-MOE-di-peen,drug
-nicardipine,ny-KAR-di-peen,drug
-nitroglycerin,ny-tro-GLIS-er-in,drug
-hydralazine,hy-DRAL-a-zeen,drug
-clonidine,KLON-i-deen,drug
-spironolactone,spir-oh-no-LAK-tone,drug
-furosemide,fur-OH-se-mide,drug
-hydrochlorothiazide,hy-dro-KLOR-oh-THY-a-zide,drug
-triamterene,try-AM-ter-een,drug
-bumetanide,byoo-MET-a-nide,drug
-torsemide,TOR-se-mide,drug
-eplerenone,e-PLER-e-none,drug
-diltiazem,dil-TY-a-zem,drug
-verapamil,ver-AP-a-mil,drug
-nifedipine,ny-FED-i-peen,drug
-doxazosin,dok-SAZ-oh-sin,drug
-terazosin,ter-AZ-oh-sin,drug
-prazosin,PRAZ-oh-sin,drug
-amiodarone,am-ee-OH-da-rone,drug
-dronedarone,droe-NEH-da-rone,drug
-sotalol,SOH-ta-lol,drug
-propafenone,pro-PAF-eh-none,drug
-flecainide,FLEH-ka-nide,drug
-mexiletine,mex-IL-eh-teen,drug
-isosorbide dinitrate,eye-so-SOR-bide dye-NYE-trate,drug
-isosorbide mononitrate,eye-so-SOR-bide mon-oh-NYE-trate,drug
-warfarin,war-FAR-in,drug
-rivaroxaban,riv-a-ROX-a-ban,drug
-apixaban,a-PIX-a-ban,drug
-dabigatran,da-big-a-TRAN,drug
-clopidogrel,kloh-PID-oh-grel,drug
-prasugrel,PRA-soo-grel,drug
-ticagrelor,tye-ka-GREL-or,drug
-ezetimibe,eh-ZET-i-mibe,drug
-fenofibrate,fen-oh-FYE-brate,drug
-gemfibrozil,jem-FYE-broh-zil,drug
-niacin,NYE-a-sin,drug
-colesevelam,koh-leh-SEV-eh-lam,drug
-simvastatin,sim-va-STAT-in,drug
-rosuvastatin,roh-soo-va-STAT-in,drug
-pravastatin,PRAV-va-STAT-in,drug
-fluvastatin,FLOO-va-STAT-in,drug
-pitavastatin,pit-a-va-STAT-in,drug
-alirocumab,a-LIR-oh-kyoo-mab,drug
-evolocumab,e-VOL-oh-kyoo-mab,drug
-metformin,met-FOR-min,drug
-glipizide,GLIP-i-zide,drug
-glyburide,GLY-bur-ide,drug
-pioglitazone,py-oh-GLIT-ah-zone,drug
-sitagliptin,sit-ah-GLIP-tin,drug
-linagliptin,lin-ah-GLIP-tin,drug
-saxagliptin,sax-ah-GLIP-tin,drug
-alogliptin,al-oh-GLIP-tin,drug
-empagliflozin,em-pah-gli-FLOH-zin,drug
-canagliflozin,kan-ah-gli-FLOH-zin,drug
-dapagliflozin,dap-ah-gli-FLOH-zin,drug
-semaglutide,sem-ah-GLOO-tide,drug
-liraglutide,lir-ah-GLOO-tide,drug
-exenatide,ex-EN-ah-tide,drug
-dulaglutide,doo-lah-GLOO-tide,drug
-tirzepatide,teer-ZEP-ah-tide,drug
-insulin glargine,IN-suh-lin GLAR-jeen,drug
-insulin lispro,IN-suh-lin LIS-proh,drug
-insulin aspart,IN-suh-lin AS-part,drug
-insulin detemir,IN-suh-lin DET-uh-meer,drug
-insulin degludec,IN-suh-lin deh-GLOO-dek,drug
-acarbose,AY-kar-bose,drug
-miglitol,MIG-li-tol,drug
-repaglinide,reh-PAG-li-nide,drug
-nateglinide,nah-TEG-li-nide,drug
-amoxicillin,ah-MOX-i-sil-in,drug
-amoxicillin clavulanate,ah-MOX-i-sil-in klav-yoo-LAN-ate,drug
-azithromycin,ah-ZITH-roh-my-sin,drug
-cephalexin,sef-ah-LEX-in,drug
-ciprofloxacin,sip-roh-FLOX-ah-sin,drug
-clindamycin,klin-dah-MY-sin,drug
-doxycycline,dok-see-SY-kleen,drug
-metronidazole,me-tro-NI-da-zole,drug
-sulfamethoxazole trimethoprim,sul-fa-meth-OX-a-zole try-METH-oh-prim,drug
-nitrofurantoin,ny-tro-fyoor-an-TOYN,drug
-penicillin,pen-i-SIL-in,drug
-vancomycin,van-ko-MY-sin,drug
-levofloxacin,lee-vo-FLOX-a-sin,drug
-moxifloxacin,mox-i-FLOX-a-sin,drug
-cefdinir,SEF-di-ner,drug
-cefaclor,SEF-a-klor,drug
-cefuroxime,se-fyoor-OX-eem,drug
-ceftriaxone,sef-try-AX-one,drug
-cefepime,SEF-e-peem,drug
-meropenem,mer-oh-PEN-em,drug
-ertapenem,er-ta-PEN-em,drug
-imipenem,i-mi-PEN-em,drug
-piperacillin tazobactam,pi-PER-a-sil-in ta-zo-BAK-tam,drug
-gentamicin,jen-ta-MY-sin,drug
-tobramycin,toe-bra-MY-sin,drug
-amikacin,am-i-KAY-sin,drug
-linezolid,li-NEZ-o-lid,drug
-daptomycin,dap-toe-MY-sin,drug
-tigecycline,tye-ge-SY-kleen,drug
-minocycline,mi-no-SY-kleen,drug
-rifampin,ri-FAM-pin,drug
-isoniazid,eye-so-NY-a-zid,drug
-pyrazinamide,py-ra-ZIN-a-mide,drug
-ethambutol,e-THAM-byoo-tol,drug
-fluconazole,floo-KON-a-zole,drug
-ketoconazole,kee-toe-KON-a-zole,drug
-itraconazole,i-tra-KON-a-zole,drug
-voriconazole,vor-ih-KON-uh-zole,drug
-posaconazole,poh-sah-KON-uh-zole,drug
-acyclovir,ay-SY-kloh-veer,drug
-valacyclovir,val-ay-SY-kloh-veer,drug
-famciclovir,fam-SY-kloh-veer,drug
-oseltamivir,oh-sel-TAM-ih-veer,drug
-aciklovir,ah-SEE-kloh-veer,drug
-ibuprofen,eye-byoo-PROH-fen,drug
-naproxen,nah-PROK-sen,drug
-celecoxib,sel-eh-KOK-sib,drug
-meloxicam,mel-OK-sih-kam,drug
-diclofenac,dye-KLOH-fen-ak,drug
-ketorolac,kee-TOR-oh-lak,drug
-indomethacin,in-doh-METH-ah-sin,drug
-nabumetone,na-BYOO-meh-tone,drug
-etodolac,ee-TOH-doh-lak,drug
-oxaprozin,ok-sah-PROH-zin,drug
-acetaminophen,ah-SEE-tah-MIN-oh-fen,drug
-tramadol,TRAM-ah-dol,drug
-gabapentin,gab-ah-PEN-tin,drug
-pregabalin,pree-GAB-ah-lin,drug
-duloxetine,doo-LOK-seh-teen,drug
-amitriptyline,am-ee-TRIP-tih-leen,drug
-nortriptyline,nor-TRIP-tih-leen,drug
-topiramate,toh-PIHR-ah-mayt,drug
-carbamazepine,kar-bah-MAZ-eh-peen,drug
-oxcarbazepine,oks-kar-BAZ-eh-peen,drug
-lamotrigine,lah-MOH-trih-jeen,drug
-levetiracetam,lev-eh-TIHR-ah-seh-tam,drug
-phenytoin,FEN-ih-toh-in,drug
-valproic acid,val-PROH-ik AS-id,drug
-zonisamide,zoh-NIS-ah-mide,drug
-lacosamide,lah-KOH-sah-mide,drug
-rufinamide,roo-FIN-ah-mide,drug
-omeprazole,oh-MEP-rah-zole,drug
-pantoprazole,pan-TOH-prah-zole,drug
-esomeprazole,es-oh-MEP-rah-zole,drug
-lansoprazole,lan-SOH-prah-zole,drug
-rabeprazole,rah-BEP-rah-zole,drug
-dexlansoprazole,deks-lan-SOH-prah-zole,drug
-famotidine,fam-OH-tih-deen,drug
-ranitidine,ran-IH-tih-deen,drug
-cimetidine,sy-MET-ih-deen,drug
-nizatidine,ny-ZAT-ih-deen,drug
-aluminum hydroxide,ah-LOO-min-um hy-DROK-side,drug
-simethicone,sy-METH-ih-kone,drug
-ondansetron,on-DAN-seh-tron,drug
-granisetron,gran-IS-eh-tron,drug
-palonosetron,pal-oh-NOH-seh-tron,drug
-metoclopramide,met-oh-KLOH-prah-mide,drug
-promethazine,proh-METH-ah-zeen,drug
-prochlorperazine,proh-klor-PER-ah-zeen,drug
-loperamide,loh-PER-ah-mide,drug
-docusate,DOK-yoo-sate,drug
-polyethylene glycol,pol-ee-ETH-ih-leen GLY-kol,drug
-bisacodyl,bis-AK-oh-dil,drug
-senna,SEN-ah,drug
-lactulose,LAK-tyoo-lose,drug
-albuterol,al-BOO-ter-ol,drug
-levalbuterol,lev-al-BOO-ter-ol,drug
-ipratropium,ip-ra-TROH-pee-um,drug
-tiotropium,ty-oh-TROH-pee-um,drug
-umeclidinium,yoo-meh-kli-DIN-ee-um,drug
-glycopyrrolate,gly-koh-PIR-oh-late,drug
-formoterol,for-MOH-ter-ol,drug
-salmeterol,sal-MEH-ter-ol,drug
-indacaterol,in-da-KA-ter-ol,drug
-olodaterol,oh-loh-DA-ter-ol,drug
-fluticasone,floo-TIK-a-sone,drug
-budesonide,byoo-DEH-soh-nide,drug
-mometasone,moh-MEH-ta-sone,drug
-ciclesonide,sik-LEH-soh-nide,drug
-beclomethasone,beh-kloh-MEH-tha-sone,drug
-montelukast,mon-teh-LOO-kast,drug
-zafirlukast,za-FIR-loo-kast,drug
-zileuton,zy-LOO-ton,drug
-theophylline,thee-OFF-i-lin,drug
-roflumilast,roh-FLOO-mi-last,drug
-benralizumab,ben-ra-LIZ-oo-mab,drug
-mepolizumab,meh-poh-LIZ-oo-mab,drug
-reslizumab,rez-LIZ-oo-mab,drug
-dupilumab,doo-PIL-oo-mab,drug
-omalizumab,oh-ma-LIZ-oo-mab,drug
-sertraline,SER-tra-leen,drug
-fluoxetine,floo-OK-seh-teen,drug
-escitalopram,es-sit-AL-oh-pram,drug
-citalopram,sit-AL-oh-pram,drug
-paroxetine,pa-ROK-seh-teen,drug
-venlafaxine,ven-la-FAK-seen,drug
-desvenlafaxine,des-ven-la-FAK-seen,drug
-milnacipran,mil-NA-si-pran,drug
-bupropion,byoo-PRO-pee-on,drug
-mirtazapine,mir-TAZ-a-peen,drug
-trazodone,TRAZ-oh-done,drug
-nefazodone,ne-FAZ-oh-done,drug
-vortioxetine,vor-tee-OK-seh-teen,drug
-vilazodone,vil-AZ-oh-done,drug
-fluvoxamine,floo-VOK-sah-meen,drug
-clomipramine,klo-MIP-rah-meen,drug
-desipramine,des-IP-rah-meen,drug
-imipramine,im-IP-rah-meen,drug
-protriptyline,pro-TRIP-tih-leen,drug
-phenelzine,FEN-el-zeen,drug
-tranylcypromine,tran-il-SIP-roh-meen,drug
-isocarboxazid,eye-so-kar-BOK-sah-zid,drug
-selegiline,se-LEJ-ih-leen,drug
-rasagiline,ra-SAJ-ih-leen,drug
-aripiprazole,a-RIP-ip-ra-zole,drug
-olanzapine,oh-LAN-zah-peen,drug
-quetiapine,kwe-TIE-ah-peen,drug
-risperidone,ris-PER-ih-done,drug
-paliperidone,pal-ee-PER-ih-done,drug
-ziprasidone,zip-RAS-ih-done,drug
-lurasidone,loo-RAS-ih-done,drug
-brexpiprazole,brek-SIP-ra-zole,drug
-cariprazine,ka-RIP-ra-zeen,drug
-clozapine,KLOZ-ah-peen,drug
-haloperidol,hal-oh-PER-ih-dol,drug
-chlorpromazine,klor-PROH-mah-zeen,drug
-lithium,LITH-ee-um,drug
-valproate,val-PRO-ate,drug
-asenapine,a-SEN-a-peen,drug
-dexmethylphenidate,dex-METH-il-FEN-i-date,drug
-lisdexamfetamine,lis-dex-am-FET-a-meen,drug
-methylphenidate,METH-il-FEN-i-date,drug
-amfetamine,am-FET-a-meen,drug
-guanfacine,GWAHN-fa-seen,drug
-tamoxifen,ta-MOX-i-fen,drug
-anastrozole,an-AS-troh-zole,drug
-letrozole,LET-roh-zole,drug
-exemestane,ex-e-MES-tane,drug
-leuprolide,loo-PRO-lide,drug
-goserelin,goh-SER-a-lin,drug
-triptorelin,trip-toh-REL-in,drug
-bicalutamide,bye-ka-LOO-ta-mide,drug
-enzalutamide,en-za-LOO-ta-mide,drug
-abiraterone,a-bir-A-ter-one,drug
-imatinib,i-MAT-in-ib,drug
-dasatinib,da-SAT-in-ib,drug
-nilotinib,ny-LOH-tin-ib,drug
-bosutinib,boh-SOO-tin-ib,drug
-ponatinib,poh-NA-tin-ib,drug
-ibrutinib,eye-BROO-tin-ib,drug
-acalabrutinib,a-KAL-a-BROO-tin-ib,drug
-venetoclax,ve-NET-oh-klax,drug
-rituximab,ri-TUX-i-mab,drug
-trastuzumab,tras-TUZ-oo-mab,drug
-pertuzumab,per-TUZ-oo-mab,drug
-bevacizumab,beh-va-KIZ-oo-mab,drug
-cetuximab,se-TUX-i-mab,drug
-panitumumab,pan-i-TOO-moo-mab,drug
-pembrolizumab,pem-broh-LIZ-oo-mab,drug
-nivolumab,niv-OL-oo-mab,drug
-ipilimumab,i-pi-LIM-oo-mab,drug
-atezolizumab,a-TEZ-oh-LIZ-oo-mab,drug
-durvalumab,dur-VAL-oo-mab,drug
-avelumab,a-VEL-oo-mab,drug
-cisplatin,sis-PLAT-in,drug
-carboplatin,kar-boh-PLAT-in,drug
-oxaliplatin,ok-SAL-i-plat-in,drug
-paclitaxel,pak-li-TAKS-el,drug
-docetaxel,doh-se-TAKS-el,drug
-doxorubicin,dok-soh-ROO-bi-sin,drug
-daunorubicin,daw-noh-ROO-bi-sin,drug
-vincristine,vin-KRIS-teen,drug
-vinblastine,vin-BLAS-teen,drug
-vinorelbine,vi-NOR-el-been,drug
-etoposide,e-TOH-poh-side,drug
-cyclophosphamide,sy-kloh-FOS-fa-mide,drug
-ifosfamide,i-FOS-fa-mide,drug
-methotrexate,meth-oh-TREK-sate,drug
-pemetrexed,pem-e-TREK-sed,drug
-gemcitabine,jem-SITE-a-been,drug
-fluorouracil,floor-oh-YOO-ra-sil,drug
-capecitabine,ka-pe-SITE-a-been,drug
-cytarabine,sy-TAIR-a-been,drug
-adalimumab,a-da-LIM-oo-mab,drug
-etanercept,e-TAN-er-sept,drug
-infliximab,in-FLIK-si-mab,drug
-certolizumab,ser-toh-LIZ-oo-mab,drug
-golimumab,go-LIM-ue-mab,drug
-tocilizumab,TOE-sih-LIZ-ue-mab,drug
-sarilumab,sar-IL-ue-mab,drug
-ustekinumab,US-te-KIN-ue-mab,drug
-secukinumab,SEK-ue-KIN-ue-mab,drug
-ixekizumab,IX-e-KIZ-ue-mab,drug
-brodalumab,broe-DAL-ue-mab,drug
-guselkumab,gus-ELK-ue-mab,drug
-risankizumab,RIS-an-KIZ-ue-mab,drug
-tildrakizumab,TIL-dra-KIZ-ue-mab,drug
-abatacept,a-BAT-a-sept,drug
-leflunomide,le-FLOO-no-mide,drug
-sulfasalazine,SUL-fa-SAL-a-zeen,drug
-hydroxychloroquine,hy-DROX-ee-KLOR-oh-kween,drug
-azathioprine,AY-za-THYE-oh-preen,drug
-mycophenolate,MYE-koe-FEN-oh-late,drug
-tacrolimus,ta-KROE-li-mus,drug
-cyclosporine,SYE-kloe-SPOR-een,drug
-sirolimus,sir-OH-li-mus,drug
-everolimus,e-VER-oh-LI-mus,drug
-levodopa,LEE-voe-DOE-pa,drug
-carbidopa,KAR-bi-DOE-pa,drug
-pramipexole,PRAM-i-PEX-ole,drug
-ropinirole,roe-PIN-i-role,drug
-rotigotine,roe-TIG-oh-teen,drug
-amantadine,a-MAN-ta-deen,drug
-entacapone,en-TAK-a-pone,drug
-safinamide,sa-FIN-a-mide,drug
-apomorphine,AP-oh-MOR-feen,drug
-donepezil,doe-NEP-e-zil,drug
-rivastigmine,riv-uh-STIG-meen,drug
-galantamine,guh-LAN-tuh-meen,drug
-memantine,muh-MAN-teen,drug
-glatiramer,gluh-TIR-uh-mer,drug
-fingolimod,fin-GOL-ih-mod,drug
-dimethyl fumarate,die-METH-ul FYOO-muh-rate,drug
-teriflunomide,ter-ih-FLOO-noh-mide,drug
-ozanimod,oh-ZAN-ih-mod,drug
-siponimod,sih-PON-ih-mod,drug
-natalizumab,na-tal-IZ-uh-mab,drug
-ocrelizumab,ok-re-LIZ-uh-mab,drug
-ofatumumab,oh-fuh-TOO-muh-mab,drug
-fumarate,FYOO-muh-rate,drug
-levothyroxine,lee-voh-thigh-ROX-een,drug
-prednisone,PRED-nih-zone,drug
-prednisolone,pred-NIS-oh-lone,drug
-methylprednisolone,METH-ul-pred-NIS-oh-lone,drug
-hydrocortisone,HIGH-dro-KOR-tih-zone,drug
-dexamethasone,dex-uh-METH-uh-zone,drug
-fludrocortisone,floo-dro-KOR-tih-zone,drug
-alendronate,uh-LEN-dro-nate,drug
-risedronate,rih-SED-ro-nate,drug
-ibandronate,ih-BAN-dro-nate,drug
-zoledronic acid,zoh-leh-DRON-ik AS-id,drug
-denosumab,den-OH-suh-mab,drug
-teriparatide,ter-ih-PAR-uh-tide,drug
-raloxifene,ral-OX-ih-feen,drug
-calcitonin,kal-sih-TONE-in,drug
-tadalafil,tuh-DAF-ih-lil,drug
-sildenafil,sil-DEN-uh-fil,drug
-vardenafil,var-DEN-ah-fil,drug
-finasteride,fin-AS-ter-ide,drug
-dutasteride,doo-TAS-ter-ide,drug
-tamsulosin,tam-SOO-loh-sin,drug
-silodosin,si-LOH-doh-sin,drug
-alfuzosin,al-FOO-zoh-sin,drug
-oxybutynin,ok-see-BYOO-ti-nin,drug
-tolterodine,tol-TER-oh-deen,drug
-solifenacin,sol-i-FEN-ah-sin,drug
-darifenacin,dar-i-FEN-ah-sin,drug
-mirabegron,mir-ah-BEG-ron,drug
-phenazopyridine,fen-az-oh-PYR-i-deen,drug
-hydroxyzine,hy-DROK-si-zeen,drug
-fexofenadine,fek-soh-FEN-ah-deen,drug
-loratadine,lor-AT-ah-deen,drug
-cetirizine,se-TIR-i-zeen,drug
-diphenhydramine,dy-fen-HY-drah-meen,drug
-chlorpheniramine,klor-fen-EER-ah-meen,drug
-azelastine,ah-ZEL-ah-steen,drug
-olopatadine,oh-loh-PAT-ah-deen,drug
-modafinil,mo-DAF-i-nil,drug
-armodafinil,ar-mo-DAF-i-nil,drug
-sumatriptan,soo-mah-TRIP-tan,drug
-rizatriptan,ry-zah-TRIP-tan,drug
-zolmitriptan,zohl-mi-TRIP-tan,drug
-eletriptan,el-e-TRIP-tan,drug
-almotriptan,al-moh-TRIP-tan,drug
-frovatriptan,froh-vah-TRIP-tan,drug
-naratriptan,nar-ah-TRIP-tan,drug
-ubrogepant,yoo-BROH-jeh-pant,drug
-rimegepant,rih-MEH-jeh-pant,drug
-erenumab,eh-REH-nyoo-mab,drug
-fremanezumab,freh-mah-NEH-zoo-mab,drug
-galcanezumab,gal-kah-NEH-zoo-mab,drug
-eprodual,eh-PROH-dool,drug
-onabotulinumtoxinA,on-ah-BOT-yoo-ly-num-TOX-in ay,drug
-MI,myocardial infarction,acronym
-COPD,chronic obstructive pulmonary disease,acronym
-CHF,congestive heart failure,acronym
-UTI,urinary tract infection,acronym
-MRI,magnetic resonance imaging,acronym
-CT,computed tomography,acronym
-EKG,electrocardiogram,acronym
-ECG,electrocardiogram,acronym
-EEG,electroencephalogram,acronym
-BUN,blood urea nitrogen,acronym
-CMP,comprehensive metabolic panel,acronym
-CBC,complete blood count,acronym
-TSH,thyroid stimulating hormone,acronym
-HbA1c,hemoglobin A one C,acronym
-PT,prothrombin time,acronym
-INR,international normalized ratio,acronym
-PTT,partial thromboplastin time,acronym
-DVT,deep vein thrombosis,acronym
-PE,pulmonary embolism,acronym
-CVA,cerebrovascular accident,acronym
-TIA,transient ischemic attack,acronym
-ICU,intensive care unit,acronym
-NICU,neonatal intensive care unit,acronym
-ER,emergency room,acronym
-ED,emergency department,acronym
-OR,operating room,acronym
-PACU,post-anesthesia care unit,acronym
-CCU,coronary care unit,acronym
-SICU,surgical intensive care unit,acronym
-MICU,medical intensive care unit,acronym
-BP,blood pressure,acronym
-HR,heart rate,acronym
-RR,respiratory rate,acronym
-SpO2,saturation of peripheral oxygen,acronym
-ETCO2,end-tidal carbon dioxide,acronym
-IV,intravenous,acronym
-IM,intramuscular,acronym
-SC,subcutaneous,acronym
-PO,by mouth,acronym
-PR,per rectum,acronym
-SL,sublingual,acronym
-OD,right eye,acronym
-OS,left eye,acronym
-OU,both eyes,acronym
-AU,both ears,acronym
-AD,right ear,acronym
-AS,left ear,acronym
-APAP,acetaminophen,acronym
-NSAID,non-steroidal anti-inflammatory drug,acronym
-PPI,proton pump inhibitor,acronym
-ARB,angiotensin receptor blocker,acronym
-ACE,angiotensin-converting enzyme,acronym
-BB,beta blocker,acronym
-CCB,calcium channel blocker,acronym
-SSRI,se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter,acronym
-SNRI,se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter,acronym
-TCA,tri-SIK-lik an-TI-de-PRE-sant,acronym
-MAOI,mono-amine OK-si-DASE in-HIB-i-ter,acronym
-DM,di-a-BE-teez mel-LI-tus,acronym
-HTN,hi-per-TEN-shun,acronym
-HLD,hi-per-LIP-i-dee-mee-uh,acronym
-CAD,co-ROH-ner-ee AR-ter-ee di-ZEEZ,acronym
-PVD,per-i-FER-ul vas-KYOO-ler di-ZEEZ,acronym
-CKD,kron-ik KID-nee di-ZEEZ,acronym
-ESRD,end-STAGE re-NAL di-ZEEZ,acronym
-AKI,ak-YOOT KID-nee in-JER-ee,acronym
-ASTHMA,AZ-muh,acronym
-GERD,gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ,acronym
-IBD,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,acronym
-IBS,i-RI-ta-bul bo-WEL SIN-drom,acronym
-NASH,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,acronym
-NAFLD,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,acronym
-HCC,he-PAT-o-sel-YOO-ler kar-si-NO-ma,acronym
-ALL,ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh,acronym
-AML,ak-YOOT my-eh-LOYD le-KEE-mee-uh,acronym
-CLL,kron-ik lym-fo-SIT-ik le-KEE-mee-uh,acronym
-CML,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,acronym
-NHL,non-HOJ-kin lym-FO-ma,acronym
-Hodgkin,HOJ-kin,acronym
-MM,mul-TI-pul my-eh-LO-ma,acronym
-SLE,sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus,acronym
-RA,rew-ma-TOYD ar-THRI-tis,acronym
-OA,os-tee-o-ar-THRI-tis,acronym
-DJD,de-JEN-er-a-tiv jint di-ZEEZ,acronym
-GOUT,gowt,acronym
-MG,myasthenia gravis,acronym
-MS,multiple sclerosis,acronym
-ALS,amyotrophic lateral sclerosis,acronym
-GBS,Guillain-Barré syndrome,acronym
-TBI,traumatic brain injury,acronym
-PD,Parkinson disease,acronym
-HD,Huntington disease,acronym
-CJD,Creutzfeldt-Jakob disease,acronym
-SCI,spinal cord injury,acronym
-CA,cancer,acronym
-N/V,nausea and vomiting,acronym
-SOB,shortness of breath,acronym
-CP,cerebral palsy,acronym
-N/V/D,nausea vomiting and diarrhea,acronym
-LOC,loss of consciousness,acronym
-GCS,Glasgow Coma Scale,acronym
-HEENT,head eyes ears nose and throat,acronym
-CV,cardiovascular,acronym
-GI,gastrointestinal,acronym
-GU,genitourinary,acronym
-MSK,musculoskeletal,acronym
-Neuro,NEU-roh,acronym
-Psych,SYKE,acronym
-Derm,derm,acronym
-ENT,ear nose and throat,acronym
-OB,obstetrics,acronym
-GYN,gynecology,acronym
-LMP,last menstrual period,acronym
-EDC,estimated date of confinement,acronym
-Gest,gest,acronym
-NS,normal saline,acronym
-LR,lactated Ringer's,acronym
-D5W,D-five-W,acronym
-D5NS,D-five-N-S,acronym
-D5LR,D-five-L-R,acronym
-KCl,potassium chloride,acronym
-MgSO4,mag-NEE-zee-um sul-FATE,acronym
-CaCl2,KAL-see-um KLOR-ide,acronym
-NaHCO3,SOD-ee-um hye-DROK-sah-dye KAR-bo-nate,acronym
-ABG,arterial blood gas,acronym
-VBG,venous blood gas,acronym
-LP,lumbar puncture,acronym
-BM,bowel movement,acronym
-PEG,PEG,acronym
-ICD,implantable cardioverter defibrillator,acronym
-Pacemaker,PACE-may-ker,acronym
-AICD,automatic implantable cardioverter defibrillator,acronym
-CABG,cabbage,acronym
-PCI,percutaneous coronary intervention,acronym
-TAVR,TAH-ver,acronym
-TEVAR,TEV-ar,acronym
-EVAR,EE-var,acronym
-PTCA,percutaneous transluminal coronary angioplasty,acronym
-ETOH,alcohol,acronym
-IVDU,I-V drug use,acronym
-ASA,ASPIR-in,acronym
-NYD,not yet diagnosed,acronym
-HX,history,acronym
-Sx,symptoms,acronym
-Tx,treatment,acronym
-Dx,diagnosis,acronym
-Rx,prescription,acronym
-FHx,family history,acronym
-SHx,social history,acronym
-myocardial infarction,my-oh-KAR-dee-al in-FARK-shun,clinical
-angina pectoris,an-JY-nah PEK-tor-is,clinical
-arrhythmia,a-RITH-mee-ah,clinical
-atrial fibrillation,AY-tree-al fib-ri-LAY-shun,clinical
-ventricular fibrillation,ven-TRIK-yoo-lar fib-ri-LAY-shun,clinical
-tachycardia,tak-ee-KAR-dee-ah,clinical
-bradycardia,brad-ee-KAR-dee-ah,clinical
-hypertension,hy-per-TEN-shun,clinical
-hypotension,hy-poh-TEN-shun,clinical
-atherosclerosis,ath-er-oh-skleh-ROH-sis,clinical
-endocarditis,en-doh-kar-DY-tis,clinical
-pericarditis,per-ee-kar-DY-tis,clinical
-myocarditis,my-oh-kar-DY-tis,clinical
-cardiomyopathy,kar-dee-oh-my-OP-ah-thee,clinical
-thromboembolism,throm-boh-EM-boh-liz-um,clinical
-thrombophlebitis,throm-boh-fleh-BY-tis,clinical
-phlebitis,fleh-BY-tis,clinical
-embolism,EM-boh-liz-um,clinical
-stenosis,steh-NOH-sis,clinical
-regurgitation,ree-gur-ji-TAY-shun,clinical
-prolapse,proh-LAPS,clinical
-aneurysm,AN-yoo-riz-um,clinical
-dissection,dy-SEK-shun,clinical
-ischemia,is-KEE-mee-ah,clinical
-infarction,in-FARK-shun,clinical
-reperfusion,REE-per-FYOO-zhun,clinical
-hypercholesterolemia,HY-per-koh-LES-ter-oh-LEE-mee-ah,clinical
-hypertriglyceridemia,HY-per-try-GLIS-er-ih-DEE-mee-ah,clinical
-hypoalbuminemia,HY-poh-al-BYOO-mih-NEE-mee-ah,clinical
-pneumonia,noo-MOHN-yah,clinical
-bronchitis,brong-KY-tis,clinical
-bronchiectasis,brong-kee-EK-tah-sis,clinical
-emphysema,em-fih-SEE-mah,clinical
-pneumothorax,noo-moh-THOR-aks,clinical
-hemothorax,hee-moh-THOR-aks,clinical
-pleural effusion,PLOO-ral eh-FYOO-zhun,clinical
-pleurisy,PLOO-rih-see,clinical
-atelectasis,at-ih-LEK-tah-sis,clinical
-pulmonary embolism,PUL-moh-nair-ee EM-bol-izm,clinical
-pulmonary edema,PUL-moh-nair-ee eh-DEE-mah,clinical
-pulmonary fibrosis,PUL-moh-nair-ee fy-BROH-sis,clinical
-sarcoidosis,SAR-koy-DOH-sis,clinical
-tuberculosis,too-BER-kyoo-LOH-sis,clinical
-hypoxia,hy-POK-see-ah,clinical
-hypercapnia,hy-per-KAP-nee-ah,clinical
-respiratory failure,RES-pih-rah-tor-ee FAYL-yer,clinical
-apnea,AP-nee-ah,clinical
-dyspnea,DISP-nee-ah,clinical
-hemoptysis,hee-MOP-tih-sis,clinical
-stridor,STRY-dor,clinical
-wheezing,WEE-zing,clinical
-coryza,koh-RY-zah,clinical
-gastroesophageal reflux,GAS-troh-ee-sof-ah-JEE-al REE-fluks,clinical
-esophagitis,ee-sof-ah-JY-tis,clinical
-gastritis,gas-TRY-tis,clinical
-peptic ulcer,PEP-tik UL-ser,clinical
-gastroenteritis,gas-tro-en-ter-EYE-tis,clinical
-colitis,ko-LYE-tis,clinical
-ulcerative colitis,UL-ser-a-tiv ko-LYE-tis,clinical
-Crohn's disease,KROHNZ dih-ZEEZ,clinical
-diverticulitis,dye-ver-tik-yoo-LYE-tis,clinical
-appendicitis,a-pen-dih-SYE-tis,clinical
-cholecystitis,ko-luh-sis-TYE-tis,clinical
-pancreatitis,pan-kree-a-TYE-tis,clinical
-hepatitis,hep-a-TYE-tis,clinical
-cirrhosis,sir-OH-sis,clinical
-cholestasis,ko-luh-STAY-sis,clinical
-steatosis,stee-a-TOH-sis,clinical
-steatohepatitis,stee-a-toh-hep-a-TYE-tis,clinical
-peritonitis,pair-ih-toh-NYE-tis,clinical
-ileus,IL-ee-us,clinical
-intussusception,in-tuh-suh-SEP-shun,clinical
-volvulus,VOL-vyoo-lus,clinical
-hematemesis,hee-ma-TEM-eh-sis,clinical
-melena,muh-LEE-na,clinical
-hematochezia,hee-ma-toh-KEE-zee-a,clinical
-choledocholithiasis,ko-led-oh-ko-lih-THIGH-a-sis,clinical
-cholelithiasis,ko-luh-lih-THIGH-a-sis,clinical
-nephrolithiasis,nef-ro-lih-THIGH-a-sis,clinical
-sialadenitis,sigh-al-a-deh-NYE-tis,clinical
-nephritis,neh-FRY-tis,clinical
-nephrosis,neh-FROH-sis,clinical
-glomerulonephritis,gloh-mer-yoo-loh-neh-FRY-tis,clinical
-pyelonephritis,pye-eh-loh-neh-FRY-tis,clinical
-cystitis,sis-TYE-tis,clinical
-urethritis,yoo-reh-THRY-tis,clinical
-ureterolithiasis,yoo-REH-ter-oh-lih-THY-ah-sis,clinical
-hydronephrosis,HY-droh-neh-FROH-sis,clinical
-oliguria,oh-lih-GYOO-ree-ah,clinical
-anuria,an-YOO-ree-ah,clinical
-hematuria,HEE-mah-TOO-ree-ah,clinical
-proteinuria,PROH-tee-NYOO-ree-ah,clinical
-dysuria,dis-YOO-ree-ah,clinical
-incontinence,in-KON-tih-nens,clinical
-retention,ree-TEN-shun,clinical
-azoospermia,AY-zoh-oh-SPER-mee-ah,clinical
-oligospermia,OH-lih-goh-SPER-mee-ah,clinical
-encephalopathy,en-SEH-fah-LOP-ah-thee,clinical
-encephalitis,en-SEH-fah-LY-tis,clinical
-meningitis,MEH-nin-JY-tis,clinical
-myelitis,MY-eh-LY-tis,clinical
-neuropathy,nyoo-ROP-ah-thee,clinical
-radiculopathy,rah-DIK-yoo-LOP-ah-thee,clinical
-myelopathy,MY-eh-LOP-ah-thee,clinical
-ataxia,ah-TAK-see-ah,clinical
-dysarthria,dis-AR-three-ah,clinical
-aphasia,ah-FAY-zhah,clinical
-apraxia,ah-PRAK-see-ah,clinical
-agnosia,ag-NOH-zhah,clinical
-anomia,ah-NOH-mee-ah,clinical
-dysphagia,dis-FAY-jah,clinical
-dysphonia,dis-FOH-nee-ah,clinical
-dyskinesia,dis-kih-NEE-zhah,clinical
-myoclonus,my-OK-loh-nus,clinical
-chorea,koh-REE-ah,clinical
-athetosis,ATH-eh-TOE-sis,clinical
-dystonia,dis-TOE-nee-ah,clinical
-tremor,TREM-or,clinical
-fasciculation,fa-SIK-yoo-LAY-shun,clinical
-clonus,KLOH-nus,clinical
-nystagmus,nis-TAG-mus,clinical
-ptosis,TOE-sis,clinical
-miosis,my-OH-sis,clinical
-mydriasis,mi-DRY-ah-sis,clinical
-anisocoria,an-EYE-so-KOR-ee-ah,clinical
-hyperreflexia,HY-per-re-FLEK-see-ah,clinical
-hyporeflexia,HY-po-re-FLEK-see-ah,clinical
-Babinski,ba-BIN-skee,clinical
-paresthesia,par-es-THEE-zhah,clinical
-anesthesia,an-es-THEE-zhah,clinical
-hyperesthesia,HY-per-es-THEE-zhah,clinical
-dysesthesia,dis-es-THEE-zhah,clinical
-neuralgia,nyoo-RAL-jah,clinical
-neuritis,nyoo-RY-tis,clinical
-sciatica,sy-AT-ik-ah,clinical
-trigeminal,try-JEM-in-al,clinical
-prosopagnosia,PROS-oh-pag-NOH-zhah,clinical
-hyperthyroidism,HY-per-THY-roy-dizm,clinical
-hypothyroidism,HY-po-THY-roy-dizm,clinical
-thyrotoxicosis,THY-ro-TOK-sih-KOH-sis,clinical
-myxedema,mik-seh-DEE-mah,clinical
-hyperparathyroidism,HY-per-PAR-ah-THY-roy-dizm,clinical
-hypoparathyroidism,HY-po-PAR-ah-THY-roy-dizm,clinical
-hypercalcemia,HY-per-kal-SEE-mee-ah,clinical
-hypocalcemia,HY-po-kal-SEE-mee-ah,clinical
-hyperkalemia,hy-per-kah-LEE-mee-ah,clinical
-hypokalemia,hy-poh-kah-LEE-mee-ah,clinical
-hypernatremia,hy-per-nah-TREE-mee-ah,clinical
-hyponatremia,hy-poh-nah-TREE-mee-ah,clinical
-hypomagnesemia,hy-poh-mag-neh-SEE-mee-ah,clinical
-hypermagnesemia,hy-per-mag-neh-SEE-mee-ah,clinical
-hypophosphatemia,hy-poh-fos-fah-TEE-mee-ah,clinical
-hyperphosphatemia,hy-per-fos-fah-TEE-mee-ah,clinical
-acidosis,ah-sih-DOH-sis,clinical
-alkalosis,al-kah-LOH-sis,clinical
-ketoacidosis,kee-toh-ah-sih-DOH-sis,clinical
-hypoglycemia,hy-poh-gly-SEE-mee-ah,clinical
-hyperglycemia,hy-per-gly-SEE-mee-ah,clinical
-insulinoma,in-suh-lih-NOH-mah,clinical
-pheochromocytoma,fee-oh-kroh-moh-sy-TOH-mah,clinical
-anemia,ah-NEE-mee-ah,clinical
-polycythemia,pol-ee-sy-THEE-mee-ah,clinical
-thrombocytopenia,throm-boh-sy-toh-PEE-nee-ah,clinical
-thrombocytosis,throm-boh-sy-TOH-sis,clinical
-leukopenia,loo-koh-PEE-nee-ah,clinical
-leukocytosis,loo-koh-sy-TOH-sis,clinical
-neutropenia,noo-troh-PEE-nee-ah,clinical
-neutrophilia,noo-troh-FIL-ee-ah,clinical
-lymphopenia,lim-foh-PEE-nee-ah,clinical
-lymphocytosis,lim-foh-sy-TOH-sis,clinical
-monocytosis,mon-oh-sy-TOH-sis,clinical
-eosinophilia,ee-oh-sin-oh-FIL-ee-ah,clinical
-basophilia,bay-soh-FIL-ee-ah,clinical
-pancytopenia,pan-sy-toh-PEE-nee-ah,clinical
-hemophilia,hee-moh-FIL-ee-ah,clinical
-thrombophilia,throm-bo-FIL-ee-ah,clinical
-purpura,PUR-pur-ah,clinical
-petechiae,pe-TEE-kee-eye,clinical
-ecchymosis,ek-ih-MOH-sis,clinical
-hematoma,hee-mah-TOH-mah,clinical
-hemolysis,hee-MOL-ih-sis,clinical
-cellulitis,sel-yoo-LY-tis,clinical
-abscess,AB-ses,clinical
-furuncle,FYOOR-ung-kul,clinical
-carbuncle,KAR-bung-kul,clinical
-impetigo,im-peh-TY-goh,clinical
-erysipelas,er-ih-SIP-eh-las,clinical
-necrotizing fasciitis,NEK-roh-ty-zing fash-ee-EYE-tis,clinical
-osteomyelitis,os-tee-oh-my-eh-LY-tis,clinical
-septic arthritis,SEP-tik ar-THRY-tis,clinical
-sepsis,SEP-sis,clinical
-septicemia,sep-tih-SEE-mee-ah,clinical
-bacteremia,bak-ter-EE-mee-ah,clinical
-viremia,vy-REE-mee-ah,clinical
-fungemia,fun-JEE-mee-ah,clinical
-parasitemia,par-ah-sih-TEE-mee-ah,clinical
-endotoxemia,en-doh-tok-SEE-mee-ah,clinical
-erythema,er-ih-THEE-mah,clinical
-urticaria,ur-tih-KAR-ee-ah,clinical
-pruritus,proo-RY-tus,clinical
-eczema,EK-zeh-mah,clinical
-psoriasis,soh-RY-ah-sis,clinical
-lichenification,ly-ken-ih-fih-KAY-shun,clinical
-excoriation,eks-kor-ee-AY-shun,clinical
-vesicle,VES-ih-kul,clinical
-bulla,BULL-ah,clinical
-pustule,PUS-chool,clinical
-macule,MAK-yool,clinical
-papule,PAP-yool,clinical
-nodule,NOD-yool,clinical
-plaque,PLAK,clinical
-scale,SKAYL,clinical
-crust,KRUST,clinical
-erosion,ee-ROH-zhun,clinical
-ulcer,UL-ser,clinical
-fissure,FISH-ur,clinical
-atrophy,AT-roh-fee,clinical
-sclerosis,skleh-ROH-sis,clinical
-appendectomy,ap-en-DEK-toh-mee,clinical
-cholecystectomy,koh-leh-sis-TEK-toh-mee,clinical
-herniorrhaphy,her-nee-OR-ah-fee,clinical
-colostomy,koh-LOS-toh-mee,clinical
-ileostomy,il-ee-OS-toh-mee,clinical
-nephrectomy,neh-FREK-toh-mee,clinical
-hysterectomy,his-teh-REK-toh-mee,clinical
-mastectomy,mas-TEK-toh-mee,clinical
-thyroidectomy,thy-roy-DEK-toh-mee,clinical
-parathyroidectomy,par-ah-thy-roy-DEK-toh-mee,clinical
-adrenalectomy,ad-reh-nal-EK-toh-mee,clinical
-splenectomy,spleh-NEK-toh-mee,clinical
-pancreatectomy,pan-kree-ah-TEK-toh-mee,clinical
-esophagectomy,eh-sof-ah-JEK-toh-mee,clinical
-gastrectomy,gas-TREK-toh-mee,clinical
-colectomy,koh-LEK-toh-mee,clinical
-proctectomy,prok-TEK-toh-mee,clinical
-cystectomy,sis-TEK-toh-mee,clinical
-nephrostomy,neh-FROS-toh-mee,clinical
-ureterostomy,yoo-REE-ter-OS-toh-mee,clinical
-tracheostomy,TRAY-kee-OS-toh-mee,clinical
-cricothyroidotomy,KRY-koh-thy-ROY-DOT-oh-mee,clinical
-thoracotomy,thor-ah-KOT-oh-mee,clinical
-sternotomy,ster-NOT-oh-mee,clinical
-laparotomy,lap-ah-ROT-oh-mee,clinical
-celiotomy,see-lee-OT-oh-mee,clinical
-arthroscopy,ar-THROS-koh-pee,clinical
-bronchoscopy,brong-KOS-koh-pee,clinical
-colonoscopy,KOH-lon-OS-koh-pee,clinical
-endoscopy,en-DOS-koh-pee,clinical
-gastroscopy,gas-TROS-koh-pee,clinical
-sigmoidoscopy,sig-moy-DOS-koh-pee,clinical
-cystoscopy,sis-TOS-koh-pee,clinical
-colposcopy,kol-POS-koh-pee,clinical
-hysteroscopy,his-ter-OS-koh-pee,clinical
-laparoscopy,lap-ah-ROS-koh-pee,clinical
-thoracoscopy,thor-ah-KOS-koh-pee,clinical
-mediastinoscopy,MEE-dee-ah-stih-NOS-koh-pee,clinical
-arthroplasty,AR-throh-plas-tee,clinical
-osteotomy,os-tee-OT-oh-mee,clinical
-craniotomy,KRAY-nee-OT-oh-mee,clinical
-laminectomy,lam-ih-NEK-toh-mee,clinical
-discectomy,dis-EK-toh-mee,clinical
-rhizotomy,ry-ZOT-oh-mee,clinical
-neurectomy,nyoo-REK-toh-mee,clinical
-sympathectomy,sim-pah-THEK-toh-mee,clinical
-vagotomy,vay-GOT-oh-mee,clinical
-epithelium,eh-pih-THEE-lee-um,anatomical
-endothelium,en-doh-THEE-lee-um,anatomical
-mesothelium,meh-zoh-THEE-lee-um,anatomical
-stratum corneum,STRAY-tum KOR-nee-um,anatomical
-dermis,DER-mis,anatomical
-epidermis,eh-pih-DER-mis,anatomical
-hypodermis,hy-poh-DER-mis,anatomical
-subcutaneous,sub-kyoo-TAY-nee-us,anatomical
-fascia,FAH-shah,anatomical
-ligament,LIH-gah-ment,anatomical
-tendon,TEN-dun,anatomical
-aponeurosis,ap-oh-noo-ROH-sis,anatomical
-bursa,BER-sah,anatomical
-meniscus,meh-NIS-kus,anatomical
-cartilage,KAR-tih-lij,anatomical
-periosteum,per-ee-OS-tee-um,anatomical
-endosteum,en-DOS-tee-um,anatomical
-diaphysis,dy-AF-ih-sis,anatomical
-epiphysis,eh-PIF-ih-sis,anatomical
-metaphysis,meh-TAF-ih-sis,anatomical
-physis,FY-sis,anatomical
-symphysis,SIM-fih-sis,anatomical
-synovium,sih-NOH-vee-um,anatomical
-synovia,sih-NOH-vee-ah,anatomical
-sutura,soo-TOO-rah,anatomical
-fontanelle,fon-tah-NEL,anatomical
-myocardium,my-oh-KAR-dee-um,anatomical
-epicardium,eh-pih-KAR-dee-um,anatomical
-pericardium,per-ih-KAR-dee-um,anatomical
-endocardium,en-doh-KAR-dee-um,anatomical
-intima,IN-tih-mah,anatomical
-media,MEH-dee-ah,anatomical
-adventitia,ad-ven-TISH-ah,anatomical
-tunica,TOO-nih-kah,anatomical
-parenchyma,pah-REN-kih-mah,anatomical
-stroma,STROH-mah,anatomical
-septum,SEP-tum,anatomical
-septa,SEP-tah,anatomical
-trabecula,trah-BEK-yoo-lah,anatomical
-hilum,HY-lum,anatomical
-hilus,HY-lus,anatomical
-sulcus,SUL-kus,anatomical
-gyrus,JY-rus,anatomical
-cortex,KOR-teks,anatomical
-medulla,meh-DOOL-ah,anatomical
-capsule,KAP-sool,anatomical
-lobe,LOHB,anatomical
-lobule,LOB-yool,anatomical
-acinus,AS-ih-nus,anatomical
-alveolus,al-VEE-oh-lus,anatomical
-glomerulus,gloh-MER-yoo-lus,anatomical
-nephron,NEF-ron,anatomical
-tubule,TOOB-yool,anatomical
-ductule,DUK-tool,anatomical
-ductus,DUK-tus,anatomical
-vas deferens,vas DEF-er-enz,anatomical
-epididymis,ep-ih-DID-ih-mis,anatomical
-fimbria,FIM-bree-ah,anatomical
-fornix,FOR-niks,anatomical
-mesentery,MEZ-en-ter-ee,anatomical
-omentum,oh-MEN-tum,anatomical
-peritoneum,per-ih-toh-NEE-um,anatomical
-retroperitoneum,REH-troh-per-ih-toh-NEE-um,anatomical
-mesocolon,MEZ-oh-KOH-lon,anatomical
-haustra,HAW-strah,anatomical
-plicae,PLY-see,anatomical
-rugae,ROO-jee,anatomical
-villi,VIL-eye,anatomical
-microvilli,MY-kroh-VIL-eye,anatomical
-cryptae,KRIP-tee,anatomical
-pylorus,py-LOR-us,anatomical
-cardia,KAR-dee-ah,anatomical
-fundus,FUN-dus,anatomical
-antrum,AN-trum,anatomical
-duodenum,doo-oh-DEE-num,anatomical
-jejunum,jeh-JOO-num,anatomical
-ileum,IL-ee-um,anatomical
-cecum,SEE-kum,anatomical
-vermiform,VER-mih-form,anatomical
-appendix,ah-PEN-diks,anatomical
-sigmoid,SIG-moyd,anatomical
-rectum,REK-tum,anatomical
-anus,AY-nus,anatomical
-sphincter,SFINK-ter,anatomical
-papilla,pah-PIL-ah,anatomical
-ampulla,am-POOL-ah,anatomical
-cholecyst,KOH-leh-sist,anatomical
-choledochus,koh-LED-oh-kus,anatomical
-pancreas,PAN-kree-as,anatomical
-islets,EYE-lets,anatomical
-acini,AS-ih-nye,anatomical
-centrilobular,sen-trih-LOB-yoo-lar,anatomical
-periportal,per-ih-POR-tal,anatomical
-sinusoids,SIN-yoo-soydz,anatomical
-Kupffer,KOOP-fer,anatomical
-space of Disse,spays of DIS,anatomical
-canaliculi,kan-ah-LIK-yoo-lye,anatomical
-falciform,FAL-sih-form,anatomical
-ligamentum teres,lig-ah-MEN-tum TER-eez,anatomical
-ligamentum venosum,lig-ah-MEN-tum veh-NOH-sum,anatomical
-porta hepatis,POR-tah heh-PAT-is,anatomical
-coronary,KOR-ah-nair-ee,anatomical
-circumflex,SER-kum-fleks,anatomical
-interventricular,in-ter-ven-TRIK-yoo-lar,anatomical
-interventricular septum,in-ter-ven-TRIK-yoo-lar SEP-tum,anatomical
-papillary muscle,PAP-ih-lair-ee MUS-el,anatomical
-chordae tendineae,KOR-dee ten-DIN-ee-ee,anatomical
-valve,valv,anatomical
-leaflet,LEEF-let,anatomical
-cusp,kusp,anatomical
-semilunar,sem-ee-LOO-nar,anatomical
-atrioventricular,ay-tree-oh-ven-TRIK-yoo-lar,anatomical
-ventricular,ven-TRIK-yoo-lar,anatomical
-sinoatrial,sigh-noh-AY-tree-al,anatomical
-coronary sinus,KOR-ah-nair-ee SIGH-nus,anatomical
-vena cava,VEE-nah KAY-vah,anatomical
-pulmonary trunk,PUL-mah-nair-ee trunk,anatomical
-aorta,ay-OR-tah,anatomical
-carotid,kah-ROT-id,anatomical
-subclavian,sub-KLAY-vee-an,anatomical
-vertebral,VER-teh-bral,anatomical
-basilar,BAS-ih-lar,anatomical
-circle of Willis,SER-kul of WIL-is,anatomical
-meninges,men-IN-jeez,anatomical
-dura mater,DUR-ah MAH-ter,anatomical
-arachnoid,ah-RAK-noyd,anatomical
-pia mater,PEE-ah MAH-ter,anatomical
-subdural,sub-DUR-al,anatomical
-subarachnoid,sub-ah-RAK-noyd,anatomical
-epidural,ep-ih-DUR-al,anatomical
-ventricles,VEN-trih-kulz,anatomical
-foramina,fo-RAM-ih-nah,anatomical
-aqueduct,AK-weh-dukt,anatomical
-choroid plexus,KOR-oyd PLEK-sus,anatomical
-cauda equina,KAW-dah eh-KWY-nah,anatomical
-filum terminale,FY-lum ter-mih-NAH-lee,anatomical
-conus medullaris,KOH-nus med-yoo-LAR-is,anatomical
-dorsal root,DOR-sal ROOT,anatomical
-ventral root,VEN-tral ROOT,anatomical
-ganglion,GANG-glee-on,anatomical
-plexus,PLEK-sus,anatomical
-phrenic,FREN-ik,anatomical
-vagus,VAY-gus,anatomical
-recurrent laryngeal,ree-KUR-ent lar-IN-jee-al,anatomical
-facial,FAY-shal,anatomical
-vestibulocochlear,ves-TIB-yoo-loh-KOK-lee-ar,anatomical
-glossopharyngeal,GLOS-oh-fah-RIN-jee-al,anatomical
-hypoglossal,HY-poh-GLOS-al,anatomical
-accessory,ak-SES-oh-ree,anatomical
-oculomotor,OK-yoo-loh-MOH-tor,anatomical
-trochlear,TROK-lee-ar,anatomical
-abducens,ab-DOO-senz,anatomical
+text,alias,ipa,category
+atorvastatin,a-TOR-va-STAT-in,əˌtɔr.vəˈstæ.tɪn,drug
+Lipitor,LIP-i-tor,lɪˈpɪ.tɔr,drug
+lisinopril,ly-SIN-oh-pril,laɪˈsɪ.nə.prɪl,drug
+metoprolol,me-TOE-pro-lol,məˈtoʊ.prə.lɔl,drug
+amlodipine,am-LOE-di-peen,æmˈloʊ.dɪˌpin,drug
+losartan,loe-SAR-tan,loʊˈsɑr.tæn,drug
+metoprolol succinate,me-TOE-pro-lol SUK-si-nate,məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt,drug
+metoprolol tartrate,me-TOE-pro-lol TAR-trate,məˈtoʊ.prə.lɔl ˈtɑr.treɪt,drug
+carvedilol,kar-VE-di-lol,kɑrˈvɛ.dɪ.lɔl,drug
+valsartan,val-SAR-tan,vælˈsɑr.tæn,drug
+enalapril,e-NAL-a-pril,ɪˈnæ.lə.prɪl,drug
+ramipril,ra-MI-pril,ræˈmɪ.prɪl,drug
+felodipine,fe-LOE-di-peen,fɪˈloʊ.dɪˌpin,drug
+nimodipine,ny-MOE-di-peen,naɪˈmoʊ.dɪˌpin,drug
+nicardipine,ny-KAR-di-peen,naɪˈkɑr.dɪˌpin,drug
+nitroglycerin,ny-tro-GLIS-er-in,ˌnaɪ.trəˈɡlɪ.sə.rɪn,drug
+hydralazine,hy-DRAL-a-zeen,haɪˈdræ.ləˌzin,drug
+clonidine,KLON-i-deen,ˈkloʊ.nɪˌdin,drug
+spironolactone,spir-oh-no-LAK-tone,ˌspaɪ.rə.noʊˈlæk.toʊn,drug
+furosemide,fur-OH-se-mide,fjʊˈroʊ.səˌmaɪd,drug
+hydrochlorothiazide,hy-dro-KLOR-oh-THY-a-zide,ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd,drug
+triamterene,try-AM-ter-een,traɪˈæm.tərˌin,drug
+bumetanide,byoo-MET-a-nide,bjuˈmɛ.təˌnaɪd,drug
+torsemide,TOR-se-mide,ˈtɔr.səˌmaɪd,drug
+eplerenone,e-PLER-e-none,ɪˈplɛ.rɪˌnoʊn,drug
+diltiazem,dil-TY-a-zem,dɪlˈtaɪ.ə.zəm,drug
+verapamil,ver-AP-a-mil,vəˈræ.pə.mɪl,drug
+nifedipine,ny-FED-i-peen,naɪˈfɛ.dɪˌpin,drug
+doxazosin,dok-SAZ-oh-sin,dɑkˈsæ.zə.sɪn,drug
+terazosin,ter-AZ-oh-sin,təˈræ.zə.sɪn,drug
+prazosin,PRAZ-oh-sin,ˈpræzəsɪn,drug
+amiodarone,am-ee-OH-da-rone,əˈmiːoʊdəroʊn,drug
+dronedarone,droe-NEH-da-rone,droʊˈnɛdəroʊn,drug
+sotalol,SOH-ta-lol,ˈsoʊtəlɔːl,drug
+propafenone,pro-PAF-eh-none,proʊˈpæfənoʊn,drug
+flecainide,FLEH-ka-nide,ˈflɛkənaɪd,drug
+mexiletine,mex-IL-eh-teen,mɛkˈsɪlətiːn,drug
+isosorbide dinitrate,eye-so-SOR-bide dye-NYE-trate,aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt,drug
+isosorbide mononitrate,eye-so-SOR-bide mon-oh-NYE-trate,aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt,drug
+warfarin,war-FAR-in,ˈwɔːrfərɪn,drug
+rivaroxaban,riv-a-ROX-a-ban,ˌrɪvəˈrɒksəbæn,drug
+apixaban,a-PIX-a-ban,əˈpɪksəbæn,drug
+dabigatran,da-big-a-TRAN,dəˈbɪɡətræn,drug
+clopidogrel,kloh-PID-oh-grel,kloʊˈpɪdəɡrɛl,drug
+prasugrel,PRA-soo-grel,ˈpræsʊɡrɛl,drug
+ticagrelor,tye-ka-GREL-or,taɪˈkæɡrəlɔːr,drug
+ezetimibe,eh-ZET-i-mibe,ɪˈzɛtəmaɪb,drug
+fenofibrate,fen-oh-FYE-brate,ˌfɛnoʊˈfaɪbreɪt,drug
+gemfibrozil,jem-FYE-broh-zil,dʒɛmˈfaɪbrəzɪl,drug
+niacin,NYE-a-sin,ˈnaɪəsɪn,drug
+colesevelam,koh-leh-SEV-eh-lam,koʊləˈsɛvəlæm,drug
+simvastatin,sim-va-STAT-in,ˌsɪmvəˈstætɪn,drug
+rosuvastatin,roh-soo-va-STAT-in,ˌroʊsuˈvæstətɪn,drug
+pravastatin,PRAV-va-STAT-in,ˈprævəstætɪn,drug
+fluvastatin,FLOO-va-STAT-in,fluːˈvæstətɪn,drug
+pitavastatin,pit-a-va-STAT-in,ˌpɪtəˈvæstətɪn,drug
+alirocumab,a-LIR-oh-kyoo-mab,əˌlɪroʊˈkuːmæb,drug
+evolocumab,e-VOL-oh-kyoo-mab,ɪˈvoʊloʊkuːmæb,drug
+metformin,met-FOR-min,mɛtˈfɔːrmɪn,drug
+glipizide,GLIP-i-zide,ˈɡlɪpəzaɪd,drug
+glyburide,GLY-bur-ide,ˈɡlaɪbjʊˌraɪd,drug
+pioglitazone,py-oh-GLIT-ah-zone,ˌpaɪoʊɡlɪˈtæzoʊn,drug
+sitagliptin,sit-ah-GLIP-tin,ˌsɪtəˈɡlɪptɪn,drug
+linagliptin,lin-ah-GLIP-tin,ˌlɪnəˈɡlɪptɪn,drug
+saxagliptin,sax-ah-GLIP-tin,ˌsæksəˈɡlɪptɪn,drug
+alogliptin,al-oh-GLIP-tin,ˌæloʊˈɡlɪptɪn,drug
+empagliflozin,em-pah-gli-FLOH-zin,ˌɛmpəɡlɪˈfloʊzɪn,drug
+canagliflozin,kan-ah-gli-FLOH-zin,ˌkænəɡlɪˈfloʊzɪn,drug
+dapagliflozin,dap-ah-gli-FLOH-zin,ˌdæpəɡlɪˈfloʊzɪn,drug
+semaglutide,sem-ah-GLOO-tide,ˌsɛməˈɡluːtaɪd,drug
+liraglutide,lir-ah-GLOO-tide,ˌlɪrəˈɡluːtaɪd,drug
+exenatide,ex-EN-ah-tide,ɛɡˈzɛnətaɪd,drug
+dulaglutide,doo-lah-GLOO-tide,ˌduːləˈɡluːtaɪd,drug
+tirzepatide,teer-ZEP-ah-tide,tɪrˈzɛpətaɪd,drug
+insulin glargine,IN-suh-lin GLAR-jeen,ˈɪnsəlɪn ˈɡlɑːrdʒiːn,drug
+insulin lispro,IN-suh-lin LIS-proh,ˈɪnsəlɪn ˈlɪsproʊ,drug
+insulin aspart,IN-suh-lin AS-part,ˈɪnsəlɪn ˈæspɑːrt,drug
+insulin detemir,IN-suh-lin DET-uh-meer,ˈɪnsəlɪn dəˈtiːmɪr,drug
+insulin degludec,IN-suh-lin deh-GLOO-dek,ˈɪnsəlɪn dɛˈɡluːdɛk,drug
+acarbose,AY-kar-bose,ˈækɑːrboʊs,drug
+miglitol,MIG-li-tol,ˈmɪɡlɪtɔːl,drug
+repaglinide,reh-PAG-li-nide,ˌrɛpəˈɡlaɪnaɪd,drug
+nateglinide,nah-TEG-li-nide,nəˈtɛɡlɪnaɪd,drug
+amoxicillin,ah-MOX-i-sil-in,əˌmɑːksɪˈsɪlɪn,drug
+amoxicillin clavulanate,ah-MOX-i-sil-in klav-yoo-LAN-ate,əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt,drug
+azithromycin,ah-ZITH-roh-my-sin,æˌzɪθroʊˈmaɪsɪn,drug
+cephalexin,sef-ah-LEX-in,ˌsɛfəˈlɛksɪn,drug
+ciprofloxacin,sip-roh-FLOX-ah-sin,ˌsaɪproʊˈflɑːksəsɪn,drug
+clindamycin,klin-dah-MY-sin,ˌklɪndəˈmaɪsɪn,drug
+doxycycline,dok-see-SY-kleen,ˌdɑːksiˈsaɪkliːn,drug
+metronidazole,me-tro-NI-da-zole,ˌmɛtrəˈnaɪdəzoʊl,drug
+sulfamethoxazole trimethoprim,sul-fa-meth-OX-a-zole try-METH-oh-prim,ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm,drug
+nitrofurantoin,ny-tro-fyoor-an-TOYN,ˌnaɪtroʊfjʊˈræntoʊɪn,drug
+penicillin,pen-i-SIL-in,ˌpɛnɪˈsɪlɪn,drug
+vancomycin,van-ko-MY-sin,væŋˈkoʊmaɪsɪn,drug
+levofloxacin,lee-vo-FLOX-a-sin,ˌlɛvoʊˈflɑksəsɪn,drug
+moxifloxacin,mox-i-FLOX-a-sin,ˌmɑksɪˈflɑksəsɪn,drug
+cefdinir,SEF-di-ner,ˈsɛfdɪnɪr,drug
+cefaclor,SEF-a-klor,ˈsɛfəklɔr,drug
+cefuroxime,se-fyoor-OX-eem,ˌsɛfjʊˈrɑksiːm,drug
+ceftriaxone,sef-try-AX-one,ˌsɛftraɪˈæksoʊn,drug
+cefepime,SEF-e-peem,ˈsɛfəpiːm,drug
+meropenem,mer-oh-PEN-em,məˈrɑpənɛm,drug
+ertapenem,er-ta-PEN-em,ˌɛrtəˈpiːnɛm,drug
+imipenem,i-mi-PEN-em,ˌɪmɪˈpiːnɛm,drug
+piperacillin tazobactam,pi-PER-a-sil-in ta-zo-BAK-tam,ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm,drug
+gentamicin,jen-ta-MY-sin,ˌdʒɛntəˈmaɪsɪn,drug
+tobramycin,toe-bra-MY-sin,ˌtoʊbrəˈmaɪsɪn,drug
+amikacin,am-i-KAY-sin,ˌæmɪˈkeɪsɪn,drug
+linezolid,li-NEZ-o-lid,lɪˈnɛzəlɪd,drug
+daptomycin,dap-toe-MY-sin,ˌdæptoʊˈmaɪsɪn,drug
+tigecycline,tye-ge-SY-kleen,ˌtɪɡəˈsaɪkliːn,drug
+minocycline,mi-no-SY-kleen,ˌmɪnoʊˈsaɪkliːn,drug
+rifampin,ri-FAM-pin,rɪˈfæmpɪn,drug
+isoniazid,eye-so-NY-a-zid,ˌaɪsoʊˈnaɪəzɪd,drug
+pyrazinamide,py-ra-ZIN-a-mide,ˌpɪrəˈzɪnəmaɪd,drug
+ethambutol,e-THAM-byoo-tol,ɛˈθæmbjətɔl,drug
+fluconazole,floo-KON-a-zole,fluˈkɑnəzoʊl,drug
+ketoconazole,kee-toe-KON-a-zole,ˌkiːtoʊˈkɑnəzoʊl,drug
+itraconazole,i-tra-KON-a-zole,ˌɪtrəˈkɑnəzoʊl,drug
+voriconazole,vor-ih-KON-uh-zole,ˌvɔrɪˈkɑnəzoʊl,drug
+posaconazole,poh-sah-KON-uh-zole,poʊsəˈkɑnəzoʊl,drug
+acyclovir,ay-SY-kloh-veer,eɪˈsaɪkləvɪr,drug
+valacyclovir,val-ay-SY-kloh-veer,vəˈlæsɪkləvɪr,drug
+famciclovir,fam-SY-kloh-veer,fæmˈsaɪkləvɪr,drug
+oseltamivir,oh-sel-TAM-ih-veer,ˌoʊsɛlˈtæmɪvɪr,drug
+aciklovir,ah-SEE-kloh-veer,eɪˈsaɪkləvɪr,drug
+ibuprofen,eye-byoo-PROH-fen,ˌaɪbjuˈproʊfən,drug
+naproxen,nah-PROK-sen,nəˈprɑksən,drug
+celecoxib,sel-eh-KOK-sib,səˈlɛksɪb,drug
+meloxicam,mel-OK-sih-kam,məˈlɑksɪkæm,drug
+diclofenac,dye-KLOH-fen-ak,daɪˈkloʊfənæk,drug
+ketorolac,kee-TOR-oh-lak,kiˈtɔrəlæk,drug
+indomethacin,in-doh-METH-ah-sin,ˌɪndoʊˈmɛθəsɪn,drug
+nabumetone,na-BYOO-meh-tone,nəˈbjumətoʊn,drug
+etodolac,ee-TOH-doh-lak,iˈtoʊdəlæk,drug
+oxaprozin,ok-sah-PROH-zin,ˌɑksəˈproʊzɪn,drug
+acetaminophen,ah-SEE-tah-MIN-oh-fen,əˌsiːtəˈmɪnəfən,drug
+tramadol,TRAM-ah-dol,ˈtræmədɔl,drug
+gabapentin,gab-ah-PEN-tin,ˌɡæbəˈpɛntɪn,drug
+pregabalin,pree-GAB-ah-lin,priˈɡæbəlɪn,drug
+duloxetine,doo-LOK-seh-teen,duˈlɑksətiːn,drug
+amitriptyline,am-ee-TRIP-tih-leen,ˌæmɪˈtrɪptəliːn,drug
+nortriptyline,nor-TRIP-tih-leen,nɔrˈtrɪptəliːn,drug
+topiramate,toh-PIHR-ah-mayt,toʊˈpɪrəmeɪt,drug
+carbamazepine,kar-bah-MAZ-eh-peen,ˌkɑrbəˈmæzəpiːn,drug
+oxcarbazepine,oks-kar-BAZ-eh-peen,ˌɑkskɑrˈbæzəpiːn,drug
+lamotrigine,lah-MOH-trih-jeen,ləˈmɑtrɪdʒiːn,drug
+levetiracetam,lev-eh-TIHR-ah-seh-tam,ləˌvɛtɪˈræsɪtæm,drug
+phenytoin,FEN-ih-toh-in,fəˈnɪtoʊɪn,drug
+valproic acid,val-PROH-ik AS-id,vælˈproʊɪk ˈæsɪd,drug
+zonisamide,zoh-NIS-ah-mide,zoʊˈnɪsəmaɪd,drug
+lacosamide,lah-KOH-sah-mide,ləˈkoʊsəmaɪd,drug
+rufinamide,roo-FIN-ah-mide,ruˈfɪnəmaɪd,drug
+omeprazole,oh-MEP-rah-zole,oʊˈmɛprəzoʊl,drug
+pantoprazole,pan-TOH-prah-zole,pænˈtoʊprəzoʊl,drug
+esomeprazole,es-oh-MEP-rah-zole,ɛˈsoʊmɛprəzoʊl,drug
+lansoprazole,lan-SOH-prah-zole,lænˈsoʊprəzoʊl,drug
+rabeprazole,rah-BEP-rah-zole,rəˈbɛprəzoʊl,drug
+dexlansoprazole,deks-lan-SOH-prah-zole,dɛksˌlænˈsoʊprəzoʊl,drug
+famotidine,fam-OH-tih-deen,fəˈmoʊtɪdiːn,drug
+ranitidine,ran-IH-tih-deen,rəˈnɪtɪdiːn,drug
+cimetidine,sy-MET-ih-deen,saɪˈmɛtɪdiːn,drug
+nizatidine,ny-ZAT-ih-deen,naɪˈzætɪdiːn,drug
+aluminum hydroxide,ah-LOO-min-um hy-DROK-side,əˈluːmɪnəm haɪˈdrɒksaɪd,drug
+simethicone,sy-METH-ih-kone,saɪˈmɛθɪkoʊn,drug
+ondansetron,on-DAN-seh-tron,ɒnˈdænsətrɒn,drug
+granisetron,gran-IS-eh-tron,grəˈnɪsətrɒn,drug
+palonosetron,pal-oh-NOH-seh-tron,pəˌloʊnəˈsɛtrɒn,drug
+metoclopramide,met-oh-KLOH-prah-mide,məˌtoʊkloʊˈpræmaɪd,drug
+promethazine,proh-METH-ah-zeen,proʊˈmɛθəziːn,drug
+prochlorperazine,proh-klor-PER-ah-zeen,proʊˌklɔːrˈpɛrəziːn,drug
+loperamide,loh-PER-ah-mide,loʊˈpɛrəmaɪd,drug
+docusate,DOK-yoo-sate,ˈdɒkjuseɪt,drug
+polyethylene glycol,pol-ee-ETH-ih-leen GLY-kol,ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl,drug
+bisacodyl,bis-AK-oh-dil,baɪˈsækədɪl,drug
+senna,SEN-ah,ˈsɛnə,drug
+lactulose,LAK-tyoo-lose,ˈlæktjuːloʊs,drug
+albuterol,al-BOO-ter-ol,ælˈbjuːtərɒl,drug
+levalbuterol,lev-al-BOO-ter-ol,ˌlɛvælˈbjuːtərɒl,drug
+ipratropium,ip-ra-TROH-pee-um,ˌɪprəˈtroʊpiəm,drug
+tiotropium,ty-oh-TROH-pee-um,ˌtaɪəˈtroʊpiəm,drug
+umeclidinium,yoo-meh-kli-DIN-ee-um,ˌjuːˌmɛklɪˈdɪniəm,drug
+glycopyrrolate,gly-koh-PIR-oh-late,ˌɡlaɪkoʊˈpɪroʊleɪt,drug
+formoterol,for-MOH-ter-ol,fɔrˈmɑːtərɔːl,drug
+salmeterol,sal-MEH-ter-ol,sælˈmiːtərɔːl,drug
+indacaterol,in-da-KA-ter-ol,ˌɪndəˈkætərɔːl,drug
+olodaterol,oh-loh-DA-ter-ol,ˌoʊloʊˈdætərɔːl,drug
+fluticasone,floo-TIK-a-sone,fluːˈtɪkəsoʊn,drug
+budesonide,byoo-DEH-soh-nide,bjuːˈdɛsənaɪd,drug
+mometasone,moh-MEH-ta-sone,moʊˈmɛtəsoʊn,drug
+ciclesonide,sik-LEH-soh-nide,sɪˈklɛsənaɪd,drug
+beclomethasone,beh-kloh-MEH-tha-sone,ˌbɛkloʊˈmɛθəsoʊn,drug
+montelukast,mon-teh-LOO-kast,ˌmɑːntəˈluːkæst,drug
+zafirlukast,za-FIR-loo-kast,zəˈfɪrluːkæst,drug
+zileuton,zy-LOO-ton,zaɪˈluːtɑːn,drug
+theophylline,thee-OFF-i-lin,ˌθiːəˈfɪliːn,drug
+roflumilast,roh-FLOO-mi-last,roʊˈfluːmɪlæst,drug
+benralizumab,ben-ra-LIZ-oo-mab,bɛnˈrælɪzʊmæb,drug
+mepolizumab,meh-poh-LIZ-oo-mab,məˈpɑːlɪzʊmæb,drug
+reslizumab,rez-LIZ-oo-mab,rɛzˈlɪzʊmæb,drug
+dupilumab,doo-PIL-oo-mab,duːˈpɪljuːmæb,drug
+omalizumab,oh-ma-LIZ-oo-mab,oʊˈmælɪzʊmæb,drug
+sertraline,SER-tra-leen,ˈsɜːrtrəliːn,drug
+fluoxetine,floo-OK-seh-teen,fluːˈɑːksətiːn,drug
+escitalopram,es-sit-AL-oh-pram,ˌɛsɪˈtæləpræm,drug
+citalopram,sit-AL-oh-pram,sɪˈtæləpræm,drug
+paroxetine,pa-ROK-seh-teen,pəˈrɑːksətiːn,drug
+venlafaxine,ven-la-FAK-seen,vɛnˈlæfəksiːn,drug
+desvenlafaxine,des-ven-la-FAK-seen,dɛzˈvɛnələˌfæksiːn,drug
+milnacipran,mil-NA-si-pran,mɪlˈnæsɪpræn,drug
+bupropion,byoo-PRO-pee-on,bjuˈproʊpiɑn,drug
+mirtazapine,mir-TAZ-a-peen,mɪrˈtæzəpin,drug
+trazodone,TRAZ-oh-done,ˈtræzədoʊn,drug
+nefazodone,ne-FAZ-oh-done,nəˈfæzədoʊn,drug
+vortioxetine,vor-tee-OK-seh-teen,vɔrtiˈɑksətin,drug
+vilazodone,vil-AZ-oh-done,vɪˈlæzədoʊn,drug
+fluvoxamine,floo-VOK-sah-meen,fluˈvɑksəmin,drug
+clomipramine,klo-MIP-rah-meen,kloʊˈmɪprəmin,drug
+desipramine,des-IP-rah-meen,dəˈsɪprəmin,drug
+imipramine,im-IP-rah-meen,ɪˈmɪprəmin,drug
+protriptyline,pro-TRIP-tih-leen,proʊˈtrɪptəlin,drug
+phenelzine,FEN-el-zeen,ˈfɛnəlzin,drug
+tranylcypromine,tran-il-SIP-roh-meen,trænɪlˈsɪprəmin,drug
+isocarboxazid,eye-so-kar-BOK-sah-zid,ˌaɪsoʊkɑrˈbɑksəzɪd,drug
+selegiline,se-LEJ-ih-leen,səˈlɛdʒəlin,drug
+rasagiline,ra-SAJ-ih-leen,rəˈsædʒəlin,drug
+aripiprazole,a-RIP-ip-ra-zole,əˈrɪpɪprəzoʊl,drug
+olanzapine,oh-LAN-zah-peen,oʊˈlænzəpin,drug
+quetiapine,kwe-TIE-ah-peen,kwɛˈtaɪəpin,drug
+risperidone,ris-PER-ih-done,rɪˈspɛrɪdoʊn,drug
+paliperidone,pal-ee-PER-ih-done,pəˈlɪpərɪdoʊn,drug
+ziprasidone,zip-RAS-ih-done,zɪˈpræsɪdoʊn,drug
+lurasidone,loo-RAS-ih-done,lʊˈræsɪdoʊn,drug
+brexpiprazole,brek-SIP-ra-zole,brɛksˈpɪprəzoʊl,drug
+cariprazine,ka-RIP-ra-zeen,kəˈrɪprəzin,drug
+clozapine,KLOZ-ah-peen,ˈkloʊzəpin,drug
+haloperidol,hal-oh-PER-ih-dol,ˌhæloʊˈpɛrɪdɔl,drug
+chlorpromazine,klor-PROH-mah-zeen,klɔrˈproʊməzin,drug
+lithium,LITH-ee-um,ˈlɪθiəm,drug
+valproate,val-PRO-ate,vælˈproʊ.eɪt,drug
+asenapine,a-SEN-a-peen,əˈsɛn.ə.piːn,drug
+dexmethylphenidate,dex-METH-il-FEN-i-date,dɛksˌmɛθ.əlˈfɛn.ə.deɪt,drug
+lisdexamfetamine,lis-dex-am-FET-a-meen,lɪsˌdɛks.æmˈfɛt.ə.miːn,drug
+methylphenidate,METH-il-FEN-i-date,ˌmɛθ.əlˈfɛn.ə.deɪt,drug
+amfetamine,am-FET-a-meen,æmˈfɛt.ə.miːn,drug
+guanfacine,GWAHN-fa-seen,ˈɡwɑːn.fə.siːn,drug
+tamoxifen,ta-MOX-i-fen,təˈmɑːk.sə.fən,drug
+anastrozole,an-AS-troh-zole,əˈnæs.trə.zɔːl,drug
+letrozole,LET-roh-zole,ˈlɛ.trə.zɔːl,drug
+exemestane,ex-e-MES-tane,ˌɛk.səˈmɛs.teɪn,drug
+leuprolide,loo-PRO-lide,luːˈproʊ.laɪd,drug
+goserelin,goh-SER-a-lin,ɡoʊˈsɛr.ə.lɪn,drug
+triptorelin,trip-toh-REL-in,trɪpˈtɔːr.ə.lɪn,drug
+bicalutamide,bye-ka-LOO-ta-mide,baɪ.kəˈluː.tə.maɪd,drug
+enzalutamide,en-za-LOO-ta-mide,ɛn.zəˈluː.tə.maɪd,drug
+abiraterone,a-bir-A-ter-one,əˈbɪr.ə.tə.roʊn,drug
+imatinib,i-MAT-in-ib,ɪˈmæ.tɪ.nɪb,drug
+dasatinib,da-SAT-in-ib,dəˈsæ.tɪ.nɪb,drug
+nilotinib,ny-LOH-tin-ib,naɪˈloʊ.tɪ.nɪb,drug
+bosutinib,boh-SOO-tin-ib,boʊˈsuː.tɪ.nɪb,drug
+ponatinib,poh-NA-tin-ib,poʊˈnæ.tɪ.nɪb,drug
+ibrutinib,eye-BROO-tin-ib,aɪˈbruː.tɪ.nɪb,drug
+acalabrutinib,a-KAL-a-BROO-tin-ib,əˌkæl.əˈbruː.tɪ.nɪb,drug
+venetoclax,ve-NET-oh-klax,vəˈnɛ.toʊ.klæks,drug
+rituximab,ri-TUX-i-mab,rɪˈtʊk.sɪ.mæb,drug
+trastuzumab,tras-TUZ-oo-mab,træsˈtʊ.zuː.mæb,drug
+pertuzumab,per-TUZ-oo-mab,pərˈtʊ.zuː.mæb,drug
+bevacizumab,beh-va-KIZ-oo-mab,bəˌvæk.sɪˈzuː.mæb,drug
+cetuximab,se-TUX-i-mab,səˈtʊk.sɪ.mæb,drug
+panitumumab,pan-i-TOO-moo-mab,ˌpænɪˈtjuːməmæb,drug
+pembrolizumab,pem-broh-LIZ-oo-mab,ˌpɛmbroʊˈlɪzjuːmæb,drug
+nivolumab,niv-OL-oo-mab,nɪˈvɒljʊmæb,drug
+ipilimumab,i-pi-LIM-oo-mab,ɪˌpɪlɪˈmuːmæb,drug
+atezolizumab,a-TEZ-oh-LIZ-oo-mab,əˌtɛzoʊˈlɪzjuːmæb,drug
+durvalumab,dur-VAL-oo-mab,dɜːrˈvæljʊmæb,drug
+avelumab,a-VEL-oo-mab,əˈvɛljʊmæb,drug
+cisplatin,sis-PLAT-in,sɪsˈpleɪtɪn,drug
+carboplatin,kar-boh-PLAT-in,kɑːrˈboʊplætɪn,drug
+oxaliplatin,ok-SAL-i-plat-in,ɒkˈsælɪplætɪn,drug
+paclitaxel,pak-li-TAKS-el,ˌpæklɪˈtæksɛl,drug
+docetaxel,doh-se-TAKS-el,ˌdoʊsɪˈtæksɛl,drug
+doxorubicin,dok-soh-ROO-bi-sin,ˌdɒksəˈruːbɪsɪn,drug
+daunorubicin,daw-noh-ROO-bi-sin,ˌdɔːnəˈruːbɪsɪn,drug
+vincristine,vin-KRIS-teen,vɪnˈkrɪstiːn,drug
+vinblastine,vin-BLAS-teen,vɪnˈblæstiːn,drug
+vinorelbine,vi-NOR-el-been,vɪˈnɔːrɛlbiːn,drug
+etoposide,e-TOH-poh-side,ɪˈtoʊpəsaɪd,drug
+cyclophosphamide,sy-kloh-FOS-fa-mide,ˌsaɪkloʊˈfɒsfəmaɪd,drug
+ifosfamide,i-FOS-fa-mide,ɪˈfɒsfəmaɪd,drug
+methotrexate,meth-oh-TREK-sate,ˌmɛθəˈtɹɛkseɪt,drug
+pemetrexed,pem-e-TREK-sed,ˌpɛmɪˈtɹɛksɛd,drug
+gemcitabine,jem-SITE-a-been,dʒɛmˈsaɪtəbiːn,drug
+fluorouracil,floor-oh-YOO-ra-sil,ˌflʊroʊˈjʊɚəsɪl,drug
+capecitabine,ka-pe-SITE-a-been,ˌkæpɪˈsaɪtəbiːn,drug
+cytarabine,sy-TAIR-a-been,saɪˈtɛɚəbiːn,drug
+adalimumab,a-da-LIM-oo-mab,əˌdælɪˈmuːmæb,drug
+etanercept,e-TAN-er-sept,ɪˈtænɚsɛpt,drug
+infliximab,in-FLIK-si-mab,ɪnˈflɪksɪmæb,drug
+certolizumab,ser-toh-LIZ-oo-mab,ˌsɜːrtoʊˈlɪzjuːmæb,drug
+golimumab,go-LIM-ue-mab,ɡoʊˈlɪmjʊˌmæb,drug
+tocilizumab,TOE-sih-LIZ-ue-mab,ˌtoʊsɪˈlɪzjʊˌmæb,drug
+sarilumab,sar-IL-ue-mab,ˌsærɪˈluːmæb,drug
+ustekinumab,US-te-KIN-ue-mab,ˌʌstəˈkɪnjʊˌmæb,drug
+secukinumab,SEK-ue-KIN-ue-mab,ˌsɛkjʊˈkɪnjʊˌmæb,drug
+ixekizumab,IX-e-KIZ-ue-mab,ˌɪksɛˈkɪzjʊˌmæb,drug
+brodalumab,broe-DAL-ue-mab,broʊˈdæljʊˌmæb,drug
+guselkumab,gus-ELK-ue-mab,ˌɡʌsɛlˈkuːmæb,drug
+risankizumab,RIS-an-KIZ-ue-mab,ˌrɪsæŋˈkɪzjʊˌmæb,drug
+tildrakizumab,TIL-dra-KIZ-ue-mab,tɪlˈdrækɪzjʊˌmæb,drug
+abatacept,a-BAT-a-sept,ˌæbəˈtæsɛpt,drug
+leflunomide,le-FLOO-no-mide,ˌlɛfˈluːnəˌmaɪd,drug
+sulfasalazine,SUL-fa-SAL-a-zeen,ˌsʌlfəˈsæləˌziːn,drug
+hydroxychloroquine,hy-DROX-ee-KLOR-oh-kween,haɪˌdrɑksiˈklɔrəˌkwin,drug
+azathioprine,AY-za-THYE-oh-preen,ˌæzəˈθaɪəˌpriːn,drug
+mycophenolate,MYE-koe-FEN-oh-late,ˌmaɪkoʊˈfɛnəˌleɪt,drug
+tacrolimus,ta-KROE-li-mus,təˈkroʊlɪməs,drug
+cyclosporine,SYE-kloe-SPOR-een,ˌsaɪkloʊˈspɔriːn,drug
+sirolimus,sir-OH-li-mus,sɪˈroʊlɪməs,drug
+everolimus,e-VER-oh-LI-mus,ɛˈvɛrəlɪməs,drug
+levodopa,LEE-voe-DOE-pa,ˌlɛvoʊˈdoʊpə,drug
+carbidopa,KAR-bi-DOE-pa,ˌkɑrbɪˈdoʊpə,drug
+pramipexole,PRAM-i-PEX-ole,ˌpræmɪˈpɛksoʊl,drug
+ropinirole,roe-PIN-i-role,roʊˈpɪnəˌroʊl,drug
+rotigotine,roe-TIG-oh-teen,roʊˈtɪɡəˌtiːn,drug
+amantadine,a-MAN-ta-deen,əˈmæntəˌdiːn,drug
+entacapone,en-TAK-a-pone,ɛnˈtækəˌpoʊn,drug
+safinamide,sa-FIN-a-mide,səˈfɪnəˌmaɪd,drug
+apomorphine,AP-oh-MOR-feen,ˌæpəˈmɔrfiːn,drug
+donepezil,doe-NEP-e-zil,doʊˈnɛpəzɪl,drug
+rivastigmine,riv-uh-STIG-meen,ˌrɪvəˈstɪɡmiːn,drug
+galantamine,guh-LAN-tuh-meen,ɡəˈlæntəmiːn,drug
+memantine,muh-MAN-teen,məˈmæntiːn,drug
+glatiramer,gluh-TIR-uh-mer,ɡləˈtɪrəmər,drug
+fingolimod,fin-GOL-ih-mod,fɪŋˈɡɒlɪmɒd,drug
+dimethyl fumarate,die-METH-ul FYOO-muh-rate,daɪˈmɛθəl ˈfjuməˌreɪt,drug
+teriflunomide,ter-ih-FLOO-noh-mide,ˌtɛrɪˈflunəmaɪd,drug
+ozanimod,oh-ZAN-ih-mod,oʊˈzænɪmɒd,drug
+siponimod,sih-PON-ih-mod,sɪˈpɒnɪmɒd,drug
+natalizumab,na-tal-IZ-uh-mab,ˌnætəˈlɪzʊmæb,drug
+ocrelizumab,ok-re-LIZ-uh-mab,ˌɒkrɪˈlɪzʊmæb,drug
+ofatumumab,oh-fuh-TOO-muh-mab,ˌɒfəˈtumʊmæb,drug
+fumarate,FYOO-muh-rate,ˈfjuməˌreɪt,drug
+levothyroxine,lee-voh-thigh-ROX-een,ˌliːvoʊθaɪˈrɒksiːn,drug
+prednisone,PRED-nih-zone,ˈprɛdnɪsoʊn,drug
+prednisolone,pred-NIS-oh-lone,prɛdˈnɪsəloʊn,drug
+methylprednisolone,METH-ul-pred-NIS-oh-lone,ˌmɛθəlprɛdˈnɪsəloʊn,drug
+hydrocortisone,HIGH-dro-KOR-tih-zone,ˌhaɪdroʊˈkɔːrtɪsoʊn,drug
+dexamethasone,dex-uh-METH-uh-zone,ˌdɛksəˈmɛθəsoʊn,drug
+fludrocortisone,floo-dro-KOR-tih-zone,ˌfludroʊˈkɔːrtɪsoʊn,drug
+alendronate,uh-LEN-dro-nate,əˈlɛndrəneɪt,drug
+risedronate,rih-SED-ro-nate,rɪˈsɛdrəneɪt,drug
+ibandronate,ih-BAN-dro-nate,ɪˈbændrəneɪt,drug
+zoledronic acid,zoh-leh-DRON-ik AS-id,zoʊˈlɛdrɒnɪk ˈæsɪd,drug
+denosumab,den-OH-suh-mab,dəˈnoʊsʊmæb,drug
+teriparatide,ter-ih-PAR-uh-tide,ˌtɛrɪˈpærətaɪd,drug
+raloxifene,ral-OX-ih-feen,ræˈlɒksɪfiːn,drug
+calcitonin,kal-sih-TONE-in,ˌkælsɪˈtoʊnɪn,drug
+tadalafil,tuh-DAF-ih-lil,təˈdælɪfɪl,drug
+sildenafil,sil-DEN-uh-fil,sɪlˈdɛnəfɪl,drug
+vardenafil,var-DEN-ah-fil,vɑrˈdɛnəfɪl,drug
+finasteride,fin-AS-ter-ide,fɪˈnæstəˌraɪd,drug
+dutasteride,doo-TAS-ter-ide,duˈtæstəˌraɪd,drug
+tamsulosin,tam-SOO-loh-sin,tæmˈsuːləsɪn,drug
+silodosin,si-LOH-doh-sin,sɪˈloʊdəsɪn,drug
+alfuzosin,al-FOO-zoh-sin,ælˈfjuːzəsɪn,drug
+oxybutynin,ok-see-BYOO-ti-nin,ˌɑksɪˈbjuːtɪnɪn,drug
+tolterodine,tol-TER-oh-deen,tɔlˈtɛrəˌdiːn,drug
+solifenacin,sol-i-FEN-ah-sin,ˌsoʊlɪˈfɛnəsɪn,drug
+darifenacin,dar-i-FEN-ah-sin,ˌdærɪˈfɛnəsɪn,drug
+mirabegron,mir-ah-BEG-ron,mɪˈræbəˌɡrɑn,drug
+phenazopyridine,fen-az-oh-PYR-i-deen,fəˌnæzoʊˈpɪrɪdiːn,drug
+hydroxyzine,hy-DROK-si-zeen,haɪˈdrɑksɪˌziːn,drug
+fexofenadine,fek-soh-FEN-ah-deen,ˌfɛksoʊˈfɛnəˌdiːn,drug
+loratadine,lor-AT-ah-deen,lɔˈrætəˌdiːn,drug
+cetirizine,se-TIR-i-zeen,səˈtɪrɪˌziːn,drug
+diphenhydramine,dy-fen-HY-drah-meen,ˌdaɪfɛnˈhaɪdrəˌmiːn,drug
+chlorpheniramine,klor-fen-EER-ah-meen,ˌklɔrfɛnˈɪrəˌmiːn,drug
+azelastine,ah-ZEL-ah-steen,əˈzɛləˌstiːn,drug
+olopatadine,oh-loh-PAT-ah-deen,ˌoʊloʊˈpætəˌdiːn,drug
+modafinil,mo-DAF-i-nil,moʊˈdæfɪnɪl,drug
+armodafinil,ar-mo-DAF-i-nil,ˌɑrmoʊˈdæfɪnɪl,drug
+sumatriptan,soo-mah-TRIP-tan,ˌsuːməˈtrɪpˌtæn,drug
+rizatriptan,ry-zah-TRIP-tan,ˌraɪzəˈtrɪpˌtæn,drug
+zolmitriptan,zohl-mi-TRIP-tan,zoʊlˈmɪtrɪpˌtæn,drug
+eletriptan,el-e-TRIP-tan,ˌɛləˈtrɪpˌtæn,drug
+almotriptan,al-moh-TRIP-tan,ˌælmoʊˈtrɪpˌtæn,drug
+frovatriptan,froh-vah-TRIP-tan,ˌfroʊvəˈtrɪpˌtæn,drug
+naratriptan,nar-ah-TRIP-tan,ˌnærəˈtrɪpˌtæn,drug
+ubrogepant,yoo-BROH-jeh-pant,juːˈbroʊdʒəˌpænt,drug
+rimegepant,rih-MEH-jeh-pant,rɪˈmɛdʒɪpænt,drug
+erenumab,eh-REH-nyoo-mab,ɛˈrɛnjʊmæb,drug
+fremanezumab,freh-mah-NEH-zoo-mab,friˈmænɪzʊmæb,drug
+galcanezumab,gal-kah-NEH-zoo-mab,ɡælˈkænɪzʊmæb,drug
+eprodual,eh-PROH-dool,ɛˈprɑduəl,drug
+onabotulinumtoxinA,on-ah-BOT-yoo-ly-num-TOX-in ay,ɑnəbəˌtulɪnəmˈtɑksɪn eɪ,drug
+MI,myocardial infarction,ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən,acronym
+COPD,chronic obstructive pulmonary disease,ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz,acronym
+CHF,congestive heart failure,kənˈɡɛstɪv hɑrt ˈfɜːr,acronym
+UTI,urinary tract infection,ˌjuːriˈnɛri træk ˈɪnfɛkʃən,acronym
+MRI,magnetic resonance imaging,mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ,acronym
+CT,computed tomography,kəmˈpjutɪd təˈmɑɡrəfi,acronym
+EKG,electrocardiogram,ɪˌlɛktroʊkɑrdiˈɑɡrəm,acronym
+ECG,electrocardiogram,ɪˌlɛktroʊkɑrdiˈɑɡrəm,acronym
+EEG,electroencephalogram,ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm,acronym
+BUN,blood urea nitrogen,ˈblʌd ˌjuːriəˈnaɪtroʊdʒən,acronym
+CMP,comprehensive metabolic panel,ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl,acronym
+CBC,complete blood count,ˌkɑmpliːt ˈblʌd ˈkaʊnt,acronym
+TSH,thyroid stimulating hormone,ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn,acronym
+HbA1c,hemoglobin A one C,ˌheməɡloʊbɪn eɪ wʌn siː,acronym
+PT,prothrombin time,ˌprɑθrɑmbɪn ˈtaɪm,acronym
+INR,international normalized ratio,ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ,acronym
+PTT,partial thromboplastin time,ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm,acronym
+DVT,deep vein thrombosis,ˌdiːp veɪn ˈθrɑmbəˌsɪs,acronym
+PE,pulmonary embolism,ˌpʊlməˈnɛri ɛmˈboʊlɪzəm,acronym
+CVA,cerebrovascular accident,ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt,acronym
+TIA,transient ischemic attack,trænˈzɪənt ɪˈskɛmɪk əˈtæk,acronym
+ICU,intensive care unit,ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt,acronym
+NICU,neonatal intensive care unit,ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt,acronym
+ER,emergency room,ɪmˈɜːrdʒənsi ˈruːm,acronym
+ED,emergency department,ˌɛrˈdiː,acronym
+OR,operating room,ˈɔr,acronym
+PACU,post-anesthesia care unit,pəˈkuː,acronym
+CCU,coronary care unit,ˌsiːˌsiːˈjuː,acronym
+SICU,surgical intensive care unit,ˌɛsˌaɪˌsiːˈjuː,acronym
+MICU,medical intensive care unit,ˌɛmˌaɪˌsiːˈjuː,acronym
+BP,blood pressure,ˌbiːˈpiː,acronym
+HR,heart rate,ˌeɪtʃˈɑr,acronym
+RR,respiratory rate,ˌɑrˈɑr,acronym
+SpO2,saturation of peripheral oxygen,ˌɛsˌpiːˈoʊ tuː,acronym
+ETCO2,end-tidal carbon dioxide,ˌiːˌtiːˌsiːˈoʊ tuː,acronym
+IV,intravenous,ˌaɪˈviː,acronym
+IM,intramuscular,ˌaɪˈɛm,acronym
+SC,subcutaneous,ˌɛsˈsiː,acronym
+PO,by mouth,ˌpiːˈoʊ,acronym
+PR,per rectum,ˌpiːˈɑr,acronym
+SL,sublingual,ˌɛsˈɛl,acronym
+OD,right eye,ˌoʊˈdiː,acronym
+OS,left eye,ˌoʊˈɛs,acronym
+OU,both eyes,ˌoʊˈjuː,acronym
+AU,both ears,ˌeɪˈjuː,acronym
+AD,right ear,ˌeɪˈdiː,acronym
+AS,left ear,ˌeɪˈɛs,acronym
+APAP,acetaminophen,ˈeɪpæp,acronym
+NSAID,non-steroidal anti-inflammatory drug,ˈɛnsɛd,acronym
+PPI,proton pump inhibitor,ˌpiːˌpiːˈaɪ,acronym
+ARB,angiotensin receptor blocker,ˌeɪˌɑrˈbiː,acronym
+ACE,angiotensin-converting enzyme,ˈeɪs,acronym
+BB,beta blocker,ˌbiːˈbiː,acronym
+CCB,calcium channel blocker,ˌsiːˌsiːˈbiː,acronym
+SSRI,se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter,ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər,acronym
+SNRI,se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter,ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər,acronym
+TCA,tri-SIK-lik an-TI-de-PRE-sant,ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt,acronym
+MAOI,mono-amine OK-si-DASE in-HIB-i-ter,ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər,acronym
+DM,di-a-BE-teez mel-LI-tus,ˌdaɪəˈbiːtɪz ˈmɛlɪtəs,acronym
+HTN,hi-per-TEN-shun,haɪˈpɜːrtənʃən,acronym
+HLD,hi-per-LIP-i-dee-mee-uh,ˌhaɪpərˈlɪpɪˌdiːmɪə,acronym
+CAD,co-ROH-ner-ee AR-ter-ee di-ZEEZ,ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz,acronym
+PVD,per-i-FER-ul vas-KYOO-ler di-ZEEZ,ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz,acronym
+CKD,kron-ik KID-nee di-ZEEZ,ˌkrɑnɪk ˈkɪdni ˈdɪziːz,acronym
+ESRD,end-STAGE re-NAL di-ZEEZ,ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz,acronym
+AKI,ak-YOOT KID-nee in-JER-ee,ˈækjʊt kɪdˈni ˈɪndʒəri,acronym
+ASTHMA,AZ-muh,ˈæzmə,acronym
+GERD,gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ,ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz,acronym
+IBD,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz,acronym
+IBS,i-RI-ta-bul bo-WEL SIN-drom,ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm,acronym
+NASH,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs,acronym
+NAFLD,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz,acronym
+HCC,he-PAT-o-sel-YOO-ler kar-si-NO-ma,ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə,acronym
+ALL,ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh,ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə,acronym
+AML,ak-YOOT my-eh-LOYD le-KEE-mee-uh,ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə,acronym
+CLL,kron-ik lym-fo-SIT-ik le-KEE-mee-uh,ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə,acronym
+CML,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə,acronym
+NHL,non-HOJ-kin lym-FO-ma,ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə,acronym
+Hodgkin,HOJ-kin,ˈhɑdʒkɪn,acronym
+MM,mul-TI-pul my-eh-LO-ma,ˈmʌltɪpl ˈmaɪˈloʊmə,acronym
+SLE,sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus,ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs,acronym
+RA,rew-ma-TOYD ar-THRI-tis,ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs,acronym
+OA,os-tee-o-ar-THRI-tis,ˈɑːsθrəʊˈaɪtɪs,acronym
+DJD,de-JEN-er-a-tiv jint di-ZEEZ,ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz,acronym
+GOUT,gowt,ɡaʊt,acronym
+MG,myasthenia gravis,maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən,acronym
+MS,multiple sclerosis,ˈmʌltɪpl sklɪˈroʊsɪs,acronym
+ALS,amyotrophic lateral sclerosis,əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs,acronym
+GBS,Guillain-Barré syndrome,ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm,acronym
+TBI,traumatic brain injury,trəˈmætɪk brɛn ɪnˈdʒʊri,acronym
+PD,Parkinson disease,pɑːrkɪnsən ˈdɪziːz,acronym
+HD,Huntington disease,hʌnˈtɪŋtən ˈdɪziːz,acronym
+CJD,Creutzfeldt-Jakob disease,krʊtsfɛlt dʒækəb ˈdɪziːz,acronym
+SCI,spinal cord injury,spaɪnəl kɔːrd ɪnˈdʒʊri,acronym
+CA,cancer,kɑːnsər,acronym
+N/V,nausea and vomiting,nɔːziə ənd voʊmɪtɪŋ,acronym
+SOB,shortness of breath,ʃɔːrtnis əv brɛθ,acronym
+CP,cerebral palsy,sɛrɪbrəl ˈpɔːlsi,acronym
+N/V/D,nausea vomiting and diarrhea,nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə,acronym
+LOC,loss of consciousness,lɑːs əv kɔnˈʃuːʃən,acronym
+GCS,Glasgow Coma Scale,ɡlæsɡoʊ kɔmə skoːr,acronym
+HEENT,head eyes ears nose and throat,hɛd aɪz ɪrz noʊz ənd θroʊt,acronym
+CV,cardiovascular,kɑːrdjoʊˈvæskjələr,acronym
+GI,gastrointestinal,ɡæstroʊɪnˈtɛstənəl,acronym
+GU,genitourinary,dʒɛnɪtoʊˈrɪnəri,acronym
+MSK,musculoskeletal,mʌskjoʊsklɪˈlɛtərəl,acronym
+Neuro,NEU-roh,nʊˈroʊloʊdʒi,acronym
+Psych,SYKE,saɪˈkætri,acronym
+Derm,derm,dɜːrməˈtɑːlədʒi,acronym
+ENT,ear nose and throat,ɪr noʊz ənd θroʊt,acronym
+OB,obstetrics,ɑːbstəˈtrɪks,acronym
+GYN,gynecology,ɡaɪnɪˈkɑːlədʒi,acronym
+LMP,last menstrual period,læst mɛnstrəl ˈpɪriəd,acronym
+EDC,estimated date of confinement,ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment,acronym
+Gest,gest,dʒɛst,acronym
+NS,normal saline,nɔːrməl saʊn,acronym
+LR,lactated Ringer's,lækˈtɛtˌɪd rɪŋɡərz,acronym
+D5W,D-five-W,faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər,acronym
+D5NS,D-five-N-S,faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn,acronym
+D5LR,D-five-L-R,faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz,acronym
+KCl,potassium chloride,pəˈtæsiəm klɔːraɪd,acronym
+MgSO4,mag-NEE-zee-um sul-FATE,mæɡˈniːziəm sʌlˈfeɪt,acronym
+CaCl2,KAL-see-um KLOR-ide,kælsiəm klɔːraɪd,acronym
+NaHCO3,SOD-ee-um hye-DROK-sah-dye KAR-bo-nate,soʊdiəm aɪkaɹˈbɒnət,acronym
+ABG,arterial blood gas,ˈɑːtəriəl bluːd ɡæz,acronym
+VBG,venous blood gas,vɛnəs bluːd ɡæz,acronym
+LP,lumbar puncture,ˈlʌmbər ˈpʌŋktʃər,acronym
+BM,bowel movement,baʊəl muːvmənt,acronym
+PEG,PEG,pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi,acronym
+ICD,implantable cardioverter defibrillator,ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər,acronym
+Pacemaker,PACE-may-ker,ˈpeɪsˌmeɪkər,acronym
+AICD,automatic implantable cardioverter defibrillator,ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər,acronym
+CABG,cabbage,ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft,acronym
+PCI,percutaneous coronary intervention,pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən,acronym
+TAVR,TAH-ver,ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt,acronym
+TEVAR,TEV-ar,ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər,acronym
+EVAR,EE-var,ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər,acronym
+PTCA,percutaneous transluminal coronary angioplasty,pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti,acronym
+ETOH,alcohol,ˈɛθənɔːl,acronym
+IVDU,I-V drug use,ˌɪntɹəˈviːnəs dɹʌɡ juːzər,acronym
+ASA,ASPIR-in,ˈæspərɪn,acronym
+NYD,not yet diagnosed,nɑːt jɛt dɪˈtɜːrmɪnd,acronym
+HX,history,hɪˈstɒri,acronym
+Sx,symptoms,ˈsɪmpəmz,acronym
+Tx,treatment,ˌtrɛtmənt,acronym
+Dx,diagnosis,ˌdaɪəɡˈnoʊsɪs,acronym
+Rx,prescription,ˌpɝːskrɪpʃən,acronym
+FHx,family history,ˌfæmɪli hɪˈstɒri,acronym
+SHx,social history,ˌsɝːʒəkəl hɪˈstɒri,acronym
+myocardial infarction,my-oh-KAR-dee-al in-FARK-shun,ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən,clinical
+angina pectoris,an-JY-nah PEK-tor-is,ænˈdʒaɪnə ˈpɛktərɪs,clinical
+arrhythmia,a-RITH-mee-ah,əˈrɪðmiə,clinical
+atrial fibrillation,AY-tree-al fib-ri-LAY-shun,ˈeɪtriəl ˌfɪbrɪˈleɪʃən,clinical
+ventricular fibrillation,ven-TRIK-yoo-lar fib-ri-LAY-shun,vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən,clinical
+tachycardia,tak-ee-KAR-dee-ah,ˌtækiˈkɑːrdiə,clinical
+bradycardia,brad-ee-KAR-dee-ah,ˌbrædiˈkɑːrdiə,clinical
+hypertension,hy-per-TEN-shun,ˌhaɪpərˈtɛnʃən,clinical
+hypotension,hy-poh-TEN-shun,ˌhaɪpoʊˈtɛnʃən,clinical
+atherosclerosis,ath-er-oh-skleh-ROH-sis,ˌæθəroʊskləˈroʊsɪs,clinical
+endocarditis,en-doh-kar-DY-tis,ˌɛndoʊkɑːrˈdaɪtɪs,clinical
+pericarditis,per-ee-kar-DY-tis,ˌpɛrɪkɑːrˈdaɪtɪs,clinical
+myocarditis,my-oh-kar-DY-tis,ˌmaɪoʊkɑːrˈdaɪtɪs,clinical
+cardiomyopathy,kar-dee-oh-my-OP-ah-thee,ˌkɑːrdioʊmaɪˈɑːpəθi,clinical
+thromboembolism,throm-boh-EM-boh-liz-um,ˌθrɑːmboʊˈɛmbəlɪzəm,clinical
+thrombophlebitis,throm-boh-fleh-BY-tis,ˌθrɑːmboʊflɪˈbaɪtɪs,clinical
+phlebitis,fleh-BY-tis,flɪˈbaɪtɪs,clinical
+embolism,EM-boh-liz-um,ˈɛmbəlɪzəm,clinical
+stenosis,steh-NOH-sis,stɪˈnoʊsɪs,clinical
+regurgitation,ree-gur-ji-TAY-shun,rɪˌɡɝːdʒɪˈteɪʃən,clinical
+prolapse,proh-LAPS,proʊˈlæps,clinical
+aneurysm,AN-yoo-riz-um,ˈænjərɪzəm,clinical
+dissection,dy-SEK-shun,dɪˈsɛkʃən,clinical
+ischemia,is-KEE-mee-ah,ɪˈskimiə,clinical
+infarction,in-FARK-shun,ɪnˈfɑːrkʃən,clinical
+reperfusion,REE-per-FYOO-zhun,ˌriːpərˈfjuːʒən,clinical
+hypercholesterolemia,HY-per-koh-LES-ter-oh-LEE-mee-ah,ˌhaɪpərkəˌlɛstərəˈliːmiə,clinical
+hypertriglyceridemia,HY-per-try-GLIS-er-ih-DEE-mee-ah,ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə,clinical
+hypoalbuminemia,HY-poh-al-BYOO-mih-NEE-mee-ah,ˌhaɪpoʊælˌbjuːmɪˈniːmiə,clinical
+pneumonia,noo-MOHN-yah,nuːˈmoʊnjə,clinical
+bronchitis,brong-KY-tis,brɑːŋˈkaɪtɪs,clinical
+bronchiectasis,brong-kee-EK-tah-sis,ˌbrɑːŋkiˈɛktəsɪs,clinical
+emphysema,em-fih-SEE-mah,ˌɛmfɪˈsiːmə,clinical
+pneumothorax,noo-moh-THOR-aks,ˌnuːmoʊˈθɔːræks,clinical
+hemothorax,hee-moh-THOR-aks,ˌhiːmoʊˈθɔːræks,clinical
+pleural effusion,PLOO-ral eh-FYOO-zhun,ˈplʊrəl ɪˈfjuːʒən,clinical
+pleurisy,PLOO-rih-see,ˈplʊrɪsi,clinical
+atelectasis,at-ih-LEK-tah-sis,ˌætəˈlɛktəsɪs,clinical
+pulmonary embolism,PUL-moh-nair-ee EM-bol-izm,ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm,clinical
+pulmonary edema,PUL-moh-nair-ee eh-DEE-mah,ˈpʊlməˌnɛri ɪˈdiːmə,clinical
+pulmonary fibrosis,PUL-moh-nair-ee fy-BROH-sis,ˈpʊlməˌnɛri faɪˈbroʊsɪs,clinical
+sarcoidosis,SAR-koy-DOH-sis,ˌsɑːrkɔɪˈdoʊsɪs,clinical
+tuberculosis,too-BER-kyoo-LOH-sis,tuːˌbɜːrkjəˈloʊsɪs,clinical
+hypoxia,hy-POK-see-ah,haɪˈpɑːksiə,clinical
+hypercapnia,hy-per-KAP-nee-ah,ˌhaɪpərˈkæpniə,clinical
+respiratory failure,RES-pih-rah-tor-ee FAYL-yer,ˈrɛspərəˌtɔːri ˈfeɪljər,clinical
+apnea,AP-nee-ah,æpˈniːə,clinical
+dyspnea,DISP-nee-ah,dɪspˈniːə,clinical
+hemoptysis,hee-MOP-tih-sis,hɪˈmɑːptəsɪs,clinical
+stridor,STRY-dor,ˈstraɪdɔːr,clinical
+wheezing,WEE-zing,ˈwiːzɪŋ,clinical
+coryza,koh-RY-zah,kəˈraɪzə,clinical
+gastroesophageal reflux,GAS-troh-ee-sof-ah-JEE-al REE-fluks,ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks,clinical
+esophagitis,ee-sof-ah-JY-tis,ɪˌsɑːfəˈdʒaɪtɪs,clinical
+gastritis,gas-TRY-tis,ɡæˈstraɪtɪs,clinical
+peptic ulcer,PEP-tik UL-ser,ˈpɛptɪk ˈʌlsɚ,clinical
+gastroenteritis,gas-tro-en-ter-EYE-tis,ˌɡæstroʊˌɛntɚˈaɪtɪs,clinical
+colitis,ko-LYE-tis,kəˈlaɪtɪs,clinical
+ulcerative colitis,UL-ser-a-tiv ko-LYE-tis,ˈʌlsɚətɪv kəˈlaɪtɪs,clinical
+Crohn's disease,KROHNZ dih-ZEEZ,kroʊnz dɪˈziz,clinical
+diverticulitis,dye-ver-tik-yoo-LYE-tis,ˌdaɪvɚˌtɪkjəˈlaɪtɪs,clinical
+appendicitis,a-pen-dih-SYE-tis,əˌpɛndɪˈsaɪtɪs,clinical
+cholecystitis,ko-luh-sis-TYE-tis,ˌkoʊləsɪˈstaɪtɪs,clinical
+pancreatitis,pan-kree-a-TYE-tis,ˌpæŋkriəˈtaɪtɪs,clinical
+hepatitis,hep-a-TYE-tis,ˌhɛpəˈtaɪtɪs,clinical
+cirrhosis,sir-OH-sis,sɪˈroʊsɪs,clinical
+cholestasis,ko-luh-STAY-sis,ˌkoʊləˈsteɪsɪs,clinical
+steatosis,stee-a-TOH-sis,ˌstiəˈtoʊsɪs,clinical
+steatohepatitis,stee-a-toh-hep-a-TYE-tis,ˌstiətoʊˌhɛpəˈtaɪtɪs,clinical
+peritonitis,pair-ih-toh-NYE-tis,ˌpɛrɪtəˈnaɪtɪs,clinical
+ileus,IL-ee-us,ˈɪliəs,clinical
+intussusception,in-tuh-suh-SEP-shun,ˌɪntəsəˈsɛpʃən,clinical
+volvulus,VOL-vyoo-lus,ˈvɑlvjələs,clinical
+hematemesis,hee-ma-TEM-eh-sis,ˌhɛməˈtɛməsɪs,clinical
+melena,muh-LEE-na,məˈlinə,clinical
+hematochezia,hee-ma-toh-KEE-zee-a,ˌhɛmətoʊˈkiʒə,clinical
+choledocholithiasis,ko-led-oh-ko-lih-THIGH-a-sis,kəˌlɛdəkoʊˌlɪθaɪəsɪs,clinical
+cholelithiasis,ko-luh-lih-THIGH-a-sis,ˌkoʊləlɪˈθaɪəsɪs,clinical
+nephrolithiasis,nef-ro-lih-THIGH-a-sis,ˌnɛfroʊlɪˈθaɪəsɪs,clinical
+sialadenitis,sigh-al-a-deh-NYE-tis,ˌsaɪəlædəˈnaɪtɪs,clinical
+nephritis,neh-FRY-tis,nəˈfraɪtɪs,clinical
+nephrosis,neh-FROH-sis,nəˈfroʊsɪs,clinical
+glomerulonephritis,gloh-mer-yoo-loh-neh-FRY-tis,ɡloʊˌmɛrjəloʊnəˈfraɪtɪs,clinical
+pyelonephritis,pye-eh-loh-neh-FRY-tis,ˌpaɪəloʊnəˈfraɪtɪs,clinical
+cystitis,sis-TYE-tis,sɪˈstaɪtɪs,clinical
+urethritis,yoo-reh-THRY-tis,ˌjʊrɪˈθraɪtɪs,clinical
+ureterolithiasis,yoo-REH-ter-oh-lih-THY-ah-sis,jʊˌrɛtərəlɪˈθaɪəsɪs,clinical
+hydronephrosis,HY-droh-neh-FROH-sis,ˌhaɪdrənɛˈfroʊsɪs,clinical
+oliguria,oh-lih-GYOO-ree-ah,ˌɑlɪˈɡjʊriə,clinical
+anuria,an-YOO-ree-ah,əˈnjʊriə,clinical
+hematuria,HEE-mah-TOO-ree-ah,ˌhɛməˈtʊriə,clinical
+proteinuria,PROH-tee-NYOO-ree-ah,ˌproʊtiˈnʊriə,clinical
+dysuria,dis-YOO-ree-ah,dɪsˈjʊriə,clinical
+incontinence,in-KON-tih-nens,ɪnˈkɑntɪnəns,clinical
+retention,ree-TEN-shun,rɪˈtɛnʃən,clinical
+azoospermia,AY-zoh-oh-SPER-mee-ah,eɪˌzoʊəˈspɜrmiə,clinical
+oligospermia,OH-lih-goh-SPER-mee-ah,ˌɑlɪɡoʊˈspɜrmiə,clinical
+encephalopathy,en-SEH-fah-LOP-ah-thee,ɛnˌsɛfəˈlɑpəθi,clinical
+encephalitis,en-SEH-fah-LY-tis,ɛnˌsɛfəˈlaɪtɪs,clinical
+meningitis,MEH-nin-JY-tis,ˌmɛnɪnˈdʒaɪtɪs,clinical
+myelitis,MY-eh-LY-tis,ˌmaɪəˈlaɪtɪs,clinical
+neuropathy,nyoo-ROP-ah-thee,nʊˈrɑpəθi,clinical
+radiculopathy,rah-DIK-yoo-LOP-ah-thee,rəˌdɪkjəˈlɑpəθi,clinical
+myelopathy,MY-eh-LOP-ah-thee,ˌmaɪəˈlɑpəθi,clinical
+ataxia,ah-TAK-see-ah,əˈtæksiə,clinical
+dysarthria,dis-AR-three-ah,dɪsˈɑrθriə,clinical
+aphasia,ah-FAY-zhah,əˈfeɪʒə,clinical
+apraxia,ah-PRAK-see-ah,əˈpræksiə,clinical
+agnosia,ag-NOH-zhah,æɡˈnoʊʒə,clinical
+anomia,ah-NOH-mee-ah,əˈnoʊmiə,clinical
+dysphagia,dis-FAY-jah,dɪsˈfeɪdʒə,clinical
+dysphonia,dis-FOH-nee-ah,dɪsˈfoʊniə,clinical
+dyskinesia,dis-kih-NEE-zhah,ˌdɪskɪˈniʒə,clinical
+myoclonus,my-OK-loh-nus,maɪˈɑklənəs,clinical
+chorea,koh-REE-ah,kəˈriə,clinical
+athetosis,ATH-eh-TOE-sis,ˌæθəˈtoʊsɪs,clinical
+dystonia,dis-TOE-nee-ah,dɪsˈtoʊniə,clinical
+tremor,TREM-or,ˈtrɛmər,clinical
+fasciculation,fa-SIK-yoo-LAY-shun,fəˌsɪkjəˈleɪʃən,clinical
+clonus,KLOH-nus,ˈkloʊnəs,clinical
+nystagmus,nis-TAG-mus,nɪˈstæɡməs,clinical
+ptosis,TOE-sis,ˈtoʊsɪs,clinical
+miosis,my-OH-sis,maɪˈoʊsɪs,clinical
+mydriasis,mi-DRY-ah-sis,mɪˈdraɪəsɪs,clinical
+anisocoria,an-EYE-so-KOR-ee-ah,ænˌaɪsəˈkɔriə,clinical
+hyperreflexia,HY-per-re-FLEK-see-ah,ˌhaɪpərrɪˈflɛksiə,clinical
+hyporeflexia,HY-po-re-FLEK-see-ah,ˌhaɪpɔrɪˈflɛksiə,clinical
+Babinski,ba-BIN-skee,bəˈbɪnski,clinical
+paresthesia,par-es-THEE-zhah,ˌpærəsˈθiʒə,clinical
+anesthesia,an-es-THEE-zhah,ˌænəsˈθiʒə,clinical
+hyperesthesia,HY-per-es-THEE-zhah,ˌhaɪpərəsˈθiʒə,clinical
+dysesthesia,dis-es-THEE-zhah,ˌdɪsəsˈθiʒə,clinical
+neuralgia,nyoo-RAL-jah,nʊˈrældʒə,clinical
+neuritis,nyoo-RY-tis,nʊˈraɪtɪs,clinical
+sciatica,sy-AT-ik-ah,saɪˈætɪkə,clinical
+trigeminal,try-JEM-in-al,traɪˈdʒɛmɪnəl,clinical
+prosopagnosia,PROS-oh-pag-NOH-zhah,ˌprɑsəpæɡˈnoʊʒə,clinical
+hyperthyroidism,HY-per-THY-roy-dizm,ˌhaɪpərˈθaɪrɔɪdɪzəm,clinical
+hypothyroidism,HY-po-THY-roy-dizm,ˌhaɪpəˈθaɪrɔɪdɪzəm,clinical
+thyrotoxicosis,THY-ro-TOK-sih-KOH-sis,ˌθaɪroʊˌtɑksɪˈkoʊsɪs,clinical
+myxedema,mik-seh-DEE-mah,ˌmɪksəˈdiːmə,clinical
+hyperparathyroidism,HY-per-PAR-ah-THY-roy-dizm,ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm,clinical
+hypoparathyroidism,HY-po-PAR-ah-THY-roy-dizm,ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm,clinical
+hypercalcemia,HY-per-kal-SEE-mee-ah,ˌhaɪpərkælˈsiːmiə,clinical
+hypocalcemia,HY-po-kal-SEE-mee-ah,ˌhaɪpəkælˈsiːmiə,clinical
+hyperkalemia,hy-per-kah-LEE-mee-ah,ˌhaɪpərkəˈliːmiə,clinical
+hypokalemia,hy-poh-kah-LEE-mee-ah,ˌhaɪpoʊkəˈliːmiə,clinical
+hypernatremia,hy-per-nah-TREE-mee-ah,ˌhaɪpərnəˈtriːmiə,clinical
+hyponatremia,hy-poh-nah-TREE-mee-ah,ˌhaɪpoʊnəˈtriːmiə,clinical
+hypomagnesemia,hy-poh-mag-neh-SEE-mee-ah,ˌhaɪpoʊmæɡnəˈsiːmiə,clinical
+hypermagnesemia,hy-per-mag-neh-SEE-mee-ah,ˌhaɪpərmæɡnəˈsiːmiə,clinical
+hypophosphatemia,hy-poh-fos-fah-TEE-mee-ah,ˌhaɪpoʊfɑːsfəˈtiːmiə,clinical
+hyperphosphatemia,hy-per-fos-fah-TEE-mee-ah,ˌhaɪpərfɑːsfəˈtiːmiə,clinical
+acidosis,ah-sih-DOH-sis,ˌæsɪˈdoʊsɪs,clinical
+alkalosis,al-kah-LOH-sis,ˌælkəˈloʊsɪs,clinical
+ketoacidosis,kee-toh-ah-sih-DOH-sis,ˌkiːtoʊˌæsɪˈdoʊsɪs,clinical
+hypoglycemia,hy-poh-gly-SEE-mee-ah,ˌhaɪpoʊɡlaɪˈsiːmiə,clinical
+hyperglycemia,hy-per-gly-SEE-mee-ah,ˌhaɪpərɡlaɪˈsiːmiə,clinical
+insulinoma,in-suh-lih-NOH-mah,ˌɪnsəlɪˈnoʊmə,clinical
+pheochromocytoma,fee-oh-kroh-moh-sy-TOH-mah,ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə,clinical
+anemia,ah-NEE-mee-ah,əˈniːmiə,clinical
+polycythemia,pol-ee-sy-THEE-mee-ah,ˌpɑːlɪsaɪˈθiːmiə,clinical
+thrombocytopenia,throm-boh-sy-toh-PEE-nee-ah,ˌθrɑːmboʊˌsaɪtəˈpiːniə,clinical
+thrombocytosis,throm-boh-sy-TOH-sis,ˌθrɑːmboʊsaɪˈtoʊsɪs,clinical
+leukopenia,loo-koh-PEE-nee-ah,ˌluːkəˈpiːniə,clinical
+leukocytosis,loo-koh-sy-TOH-sis,ˌluːkəsaɪˈtoʊsɪs,clinical
+neutropenia,noo-troh-PEE-nee-ah,ˌnuːtrəˈpiːniə,clinical
+neutrophilia,noo-troh-FIL-ee-ah,ˌnuːtrəˈfɪliə,clinical
+lymphopenia,lim-foh-PEE-nee-ah,ˌlɪmfəˈpiːniə,clinical
+lymphocytosis,lim-foh-sy-TOH-sis,ˌlɪmfəsaɪˈtoʊsɪs,clinical
+monocytosis,mon-oh-sy-TOH-sis,ˌmɑːnəsaɪˈtoʊsɪs,clinical
+eosinophilia,ee-oh-sin-oh-FIL-ee-ah,ˌiːəˌsɪnəˈfɪliə,clinical
+basophilia,bay-soh-FIL-ee-ah,ˌbeɪsəˈfɪliə,clinical
+pancytopenia,pan-sy-toh-PEE-nee-ah,ˌpænsaɪtəˈpiːniə,clinical
+hemophilia,hee-moh-FIL-ee-ah,ˌhiːməˈfɪliə,clinical
+thrombophilia,throm-bo-FIL-ee-ah,ˌθrɒmboʊˈfɪliə,clinical
+purpura,PUR-pur-ah,ˈpɜːrpjʊrə,clinical
+petechiae,pe-TEE-kee-eye,pɪˈtɛkiaɪ,clinical
+ecchymosis,ek-ih-MOH-sis,ˌɛkɪˈmoʊsɪs,clinical
+hematoma,hee-mah-TOH-mah,ˌhɛməˈtoʊmə,clinical
+hemolysis,hee-MOL-ih-sis,hɪˈmɒlɪsɪs,clinical
+cellulitis,sel-yoo-LY-tis,ˌsɛljuˈlaɪtɪs,clinical
+abscess,AB-ses,ˈæbsɛs,clinical
+furuncle,FYOOR-ung-kul,ˈfjʊrʌŋkəl,clinical
+carbuncle,KAR-bung-kul,ˈkɑːrbʌŋkəl,clinical
+impetigo,im-peh-TY-goh,ˌɪmpɪˈtaɪgoʊ,clinical
+erysipelas,er-ih-SIP-eh-las,ˌɛrɪˈsɪpələs,clinical
+necrotizing fasciitis,NEK-roh-ty-zing fash-ee-EYE-tis,ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs,clinical
+osteomyelitis,os-tee-oh-my-eh-LY-tis,ˌɒstioʊˌmaɪəˈlaɪtɪs,clinical
+septic arthritis,SEP-tik ar-THRY-tis,ˈsɛptɪk ɑːrˈθraɪtɪs,clinical
+sepsis,SEP-sis,ˈsɛpsɪs,clinical
+septicemia,sep-tih-SEE-mee-ah,ˌsɛptɪˈsiːmiə,clinical
+bacteremia,bak-ter-EE-mee-ah,ˌbæktəˈriːmiə,clinical
+viremia,vy-REE-mee-ah,vaɪˈriːmiə,clinical
+fungemia,fun-JEE-mee-ah,fʌnˈdʒiːmiə,clinical
+parasitemia,par-ah-sih-TEE-mee-ah,ˌpærəsaɪˈtiːmiə,clinical
+endotoxemia,en-doh-tok-SEE-mee-ah,ˌɛndoʊtɒkˈsiːmiə,clinical
+erythema,er-ih-THEE-mah,ˌɛrɪˈθiːmə,clinical
+urticaria,ur-tih-KAR-ee-ah,ˌɜːrtɪˈkɛriə,clinical
+pruritus,proo-RY-tus,prʊˈraɪtəs,clinical
+eczema,EK-zeh-mah,ˈɛksɪmə,clinical
+psoriasis,soh-RY-ah-sis,səˈraɪəsɪs,clinical
+lichenification,ly-ken-ih-fih-KAY-shun,lɪˌkɛnɪfɪˈkeɪʃən,clinical
+excoriation,eks-kor-ee-AY-shun,ɪkˌskɔːriˈeɪʃən,clinical
+vesicle,VES-ih-kul,ˈvɛsɪkəl,clinical
+bulla,BULL-ah,ˈbʊlə,clinical
+pustule,PUS-chool,ˈpʌstʃul,clinical
+macule,MAK-yool,ˈmækjuːl,clinical
+papule,PAP-yool,ˈpæpjuːl,clinical
+nodule,NOD-yool,ˈnɑːdjuːl,clinical
+plaque,PLAK,plæk,clinical
+scale,SKAYL,skeɪl,clinical
+crust,KRUST,krʌst,clinical
+erosion,ee-ROH-zhun,ɪˈroʊʒən,clinical
+ulcer,UL-ser,ˈʌlsər,clinical
+fissure,FISH-ur,ˈfɪʃər,clinical
+atrophy,AT-roh-fee,ˈætrəfi,clinical
+sclerosis,skleh-ROH-sis,skləˈroʊsɪs,clinical
+appendectomy,ap-en-DEK-toh-mee,ˌæpənˈdɛktəmi,clinical
+cholecystectomy,koh-leh-sis-TEK-toh-mee,ˌkoʊləsɪˈstɛktəmi,clinical
+herniorrhaphy,her-nee-OR-ah-fee,ˌhɜːrniˈɔːrəfi,clinical
+colostomy,koh-LOS-toh-mee,kəˈlɑːstəmi,clinical
+ileostomy,il-ee-OS-toh-mee,ˌɪliˈɑːstəmi,clinical
+nephrectomy,neh-FREK-toh-mee,nəˈfrɛktəmi,clinical
+hysterectomy,his-teh-REK-toh-mee,ˌhɪstəˈrɛktəmi,clinical
+mastectomy,mas-TEK-toh-mee,mæˈstɛktəmi,clinical
+thyroidectomy,thy-roy-DEK-toh-mee,ˌθaɪrɔɪˈdɛktəmi,clinical
+parathyroidectomy,par-ah-thy-roy-DEK-toh-mee,ˌpærəˌθaɪrɔɪˈdɛktəmi,clinical
+adrenalectomy,ad-reh-nal-EK-toh-mee,əˌdriːnəˈlɛktəmi,clinical
+splenectomy,spleh-NEK-toh-mee,spliˈnɛktəmi,clinical
+pancreatectomy,pan-kree-ah-TEK-toh-mee,ˌpæŋkriəˈtɛktəmi,clinical
+esophagectomy,eh-sof-ah-JEK-toh-mee,iːˌsɑːfəˈdʒɛktəmi,clinical
+gastrectomy,gas-TREK-toh-mee,ɡæˈstrɛktəmi,clinical
+colectomy,koh-LEK-toh-mee,kəˈlɛktəmi,clinical
+proctectomy,prok-TEK-toh-mee,prɑːkˈtɛktəmi,clinical
+cystectomy,sis-TEK-toh-mee,sɪˈstɛktəmi,clinical
+nephrostomy,neh-FROS-toh-mee,nəˈfrɑstəmi,clinical
+ureterostomy,yoo-REE-ter-OS-toh-mee,jʊˌriːtəˈrɑstəmi,clinical
+tracheostomy,TRAY-kee-OS-toh-mee,ˌtreɪkiˈɑstəmi,clinical
+cricothyroidotomy,KRY-koh-thy-ROY-DOT-oh-mee,ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi,clinical
+thoracotomy,thor-ah-KOT-oh-mee,ˌθɔːrəˈkɑtəmi,clinical
+sternotomy,ster-NOT-oh-mee,stɜːrˈnɑtəmi,clinical
+laparotomy,lap-ah-ROT-oh-mee,ˌlæpəˈrɑtəmi,clinical
+celiotomy,see-lee-OT-oh-mee,ˌsiːliˈɑtəmi,clinical
+arthroscopy,ar-THROS-koh-pee,ɑːrˈθrɑskəpi,clinical
+bronchoscopy,brong-KOS-koh-pee,brɑŋˈkɑskəpi,clinical
+colonoscopy,KOH-lon-OS-koh-pee,ˌkoʊləˈnɑskəpi,clinical
+endoscopy,en-DOS-koh-pee,ɛnˈdɑskəpi,clinical
+gastroscopy,gas-TROS-koh-pee,ɡæˈstrɑskəpi,clinical
+sigmoidoscopy,sig-moy-DOS-koh-pee,ˌsɪɡmɔɪˈdɑskəpi,clinical
+cystoscopy,sis-TOS-koh-pee,sɪˈstɑskəpi,clinical
+colposcopy,kol-POS-koh-pee,kɑlˈpɑskəpi,clinical
+hysteroscopy,his-ter-OS-koh-pee,ˌhɪstəˈrɑskəpi,clinical
+laparoscopy,lap-ah-ROS-koh-pee,ˌlæpəˈrɑskəpi,clinical
+thoracoscopy,thor-ah-KOS-koh-pee,ˌθɔːrəˈkɑskəpi,clinical
+mediastinoscopy,MEE-dee-ah-stih-NOS-koh-pee,ˌmiːdiˌæstəˈnɑskəpi,clinical
+arthroplasty,AR-throh-plas-tee,ˈɑːrθroʊˌplæsti,clinical
+osteotomy,os-tee-OT-oh-mee,ˌɑːstiˈɑtəmi,clinical
+craniotomy,KRAY-nee-OT-oh-mee,ˌkreɪniˈɑtəmi,clinical
+laminectomy,lam-ih-NEK-toh-mee,ˌlæməˈnɛktəmi,clinical
+discectomy,dis-EK-toh-mee,dɪˈskɛktəmi,clinical
+rhizotomy,ry-ZOT-oh-mee,raɪˈzɑtəmi,clinical
+neurectomy,nyoo-REK-toh-mee,nʊˈrɛktəmi,clinical
+sympathectomy,sim-pah-THEK-toh-mee,ˌsɪmpəˈθɛktəmi,clinical
+vagotomy,vay-GOT-oh-mee,veɪˈɡɑtəmi,clinical
+epithelium,eh-pih-THEE-lee-um,ˌɛpəˈθiliəm,anatomical
+endothelium,en-doh-THEE-lee-um,ˌɛndoʊˈθiliəm,anatomical
+mesothelium,meh-zoh-THEE-lee-um,ˌmɛzoʊˈθiliəm,anatomical
+stratum corneum,STRAY-tum KOR-nee-um,ˈstreɪtəm ˈkɔrniəm,anatomical
+dermis,DER-mis,ˈdɜrmɪs,anatomical
+epidermis,eh-pih-DER-mis,ˌɛpɪˈdɜrmɪs,anatomical
+hypodermis,hy-poh-DER-mis,ˌhaɪpoʊˈdɜrmɪs,anatomical
+subcutaneous,sub-kyoo-TAY-nee-us,ˌsʌbkjuˈteɪniəs,anatomical
+fascia,FAH-shah,ˈfæʃiə,anatomical
+ligament,LIH-gah-ment,ˈlɪɡəmənt,anatomical
+tendon,TEN-dun,ˈtɛndən,anatomical
+aponeurosis,ap-oh-noo-ROH-sis,ˌæpənʊˈroʊsɪs,anatomical
+bursa,BER-sah,ˈbɜrsə,anatomical
+meniscus,meh-NIS-kus,məˈnɪskəs,anatomical
+cartilage,KAR-tih-lij,ˈkɑrtəlɪdʒ,anatomical
+periosteum,per-ee-OS-tee-um,ˌpɛriˈɑstiəm,anatomical
+endosteum,en-DOS-tee-um,ɛnˈdɑstiəm,anatomical
+diaphysis,dy-AF-ih-sis,daɪˈæfəsɪs,anatomical
+epiphysis,eh-PIF-ih-sis,ɪˈpɪfəsɪs,anatomical
+metaphysis,meh-TAF-ih-sis,məˈtæfəsɪs,anatomical
+physis,FY-sis,ˈfɪsɪs,anatomical
+symphysis,SIM-fih-sis,ˈsɪmfəsɪs,anatomical
+synovium,sih-NOH-vee-um,sɪˈnoʊviəm,anatomical
+synovia,sih-NOH-vee-ah,sɪˈnoʊviə,anatomical
+sutura,soo-TOO-rah,suˈtʊrə,anatomical
+fontanelle,fon-tah-NEL,ˌfɑntəˈnɛl,anatomical
+myocardium,my-oh-KAR-dee-um,ˌmaɪoʊˈkɑrdiəm,anatomical
+epicardium,eh-pih-KAR-dee-um,ˌɛpɪˈkɑrdiəm,anatomical
+pericardium,per-ih-KAR-dee-um,ˌpɛrɪˈkɑrdiəm,anatomical
+endocardium,en-doh-KAR-dee-um,ˌɛndoʊˈkɑrdiəm,anatomical
+intima,IN-tih-mah,ˈɪntɪmə,anatomical
+media,MEH-dee-ah,ˈmiːdiə,anatomical
+adventitia,ad-ven-TISH-ah,ˌædvɛnˈtɪʃə,anatomical
+tunica,TOO-nih-kah,ˈtuːnɪkə,anatomical
+parenchyma,pah-REN-kih-mah,pəˈrɛŋkɪmə,anatomical
+stroma,STROH-mah,ˈstroʊmə,anatomical
+septum,SEP-tum,ˈsɛptəm,anatomical
+septa,SEP-tah,ˈsɛptə,anatomical
+trabecula,trah-BEK-yoo-lah,trəˈbɛkjələ,anatomical
+hilum,HY-lum,ˈhaɪləm,anatomical
+hilus,HY-lus,ˈhaɪləs,anatomical
+sulcus,SUL-kus,ˈsʌlkəs,anatomical
+gyrus,JY-rus,ˈdʒaɪrəs,anatomical
+cortex,KOR-teks,ˈkɔrtɛks,anatomical
+medulla,meh-DOOL-ah,məˈdʌlə,anatomical
+capsule,KAP-sool,ˈkæpsəl,anatomical
+lobe,LOHB,loʊb,anatomical
+lobule,LOB-yool,ˈlɑbjul,anatomical
+acinus,AS-ih-nus,ˈæsɪnəs,anatomical
+alveolus,al-VEE-oh-lus,ælˈviələs,anatomical
+glomerulus,gloh-MER-yoo-lus,ɡloʊˈmɛrjələs,anatomical
+nephron,NEF-ron,ˈnɛfrɑn,anatomical
+tubule,TOOB-yool,ˈtubjul,anatomical
+ductule,DUK-tool,ˈdʌktʃul,anatomical
+ductus,DUK-tus,ˈdʌktəs,anatomical
+vas deferens,vas DEF-er-enz,væs dɛfərɛnz,anatomical
+epididymis,ep-ih-DID-ih-mis,ˌɛpɪˈdɪdɪmɪs,anatomical
+fimbria,FIM-bree-ah,ˈfɪmbriə,anatomical
+fornix,FOR-niks,ˈfɔrnɪks,anatomical
+mesentery,MEZ-en-ter-ee,ˈmɛzənˌtɛri,anatomical
+omentum,oh-MEN-tum,oʊˈmɛntəm,anatomical
+peritoneum,per-ih-toh-NEE-um,ˌpɛrɪtəˈniəm,anatomical
+retroperitoneum,REH-troh-per-ih-toh-NEE-um,ˌrɛtroʊˌpɛrɪtəˈniəm,anatomical
+mesocolon,MEZ-oh-KOH-lon,ˌmɛzəˈkoʊlən,anatomical
+haustra,HAW-strah,ˈhɔstrə,anatomical
+plicae,PLY-see,ˈplaɪsi,anatomical
+rugae,ROO-jee,ˈrudiʒi,anatomical
+villi,VIL-eye,ˈvɪlaɪ,anatomical
+microvilli,MY-kroh-VIL-eye,ˌmaɪkroʊˈvɪlaɪ,anatomical
+cryptae,KRIP-tee,ˈkrɪpti,anatomical
+pylorus,py-LOR-us,paɪˈlɔrəs,anatomical
+cardia,KAR-dee-ah,ˈkɑrdiə,anatomical
+fundus,FUN-dus,ˈfʌndəs,anatomical
+antrum,AN-trum,ˈæntrəm,anatomical
+duodenum,doo-oh-DEE-num,ˌduəˈdinəm,anatomical
+jejunum,jeh-JOO-num,dʒəˈdʒunəm,anatomical
+ileum,IL-ee-um,ˈɪliəm,anatomical
+cecum,SEE-kum,ˈsikəm,anatomical
+vermiform,VER-mih-form,ˈvɜrmɪfɔrm,anatomical
+appendix,ah-PEN-diks,əˈpɛndɪks,anatomical
+sigmoid,SIG-moyd,ˈsɪɡmɔɪd,anatomical
+rectum,REK-tum,ˈrɛktəm,anatomical
+anus,AY-nus,ˈeɪnəs,anatomical
+sphincter,SFINK-ter,ˈsfɪŋktər,anatomical
+papilla,pah-PIL-ah,pəˈpɪlə,anatomical
+ampulla,am-POOL-ah,æmˈpʊlə,anatomical
+cholecyst,KOH-leh-sist,ˈkoʊləsɪst,anatomical
+choledochus,koh-LED-oh-kus,kəˈlɛdəkəs,anatomical
+pancreas,PAN-kree-as,ˈpæŋkriəs,anatomical
+islets,EYE-lets,ˈaɪlɪts,anatomical
+acini,AS-ih-nye,ˈæsɪnaɪ,anatomical
+centrilobular,sen-trih-LOB-yoo-lar,ˌsɛntrɪˈlɑbjələr,anatomical
+periportal,per-ih-POR-tal,ˌpɛrɪˈpɔrtəl,anatomical
+sinusoids,SIN-yoo-soydz,ˈsɪnjəsɔɪdz,anatomical
+Kupffer,KOOP-fer,ˈkʊfər,anatomical
+space of Disse,spays of DIS,speɪs əv dɪs,anatomical
+canaliculi,kan-ah-LIK-yoo-lye,ˌkænəˈlɪkjəlaɪ,anatomical
+falciform,FAL-sih-form,ˈfælsɪfɔrm,anatomical
+ligamentum teres,lig-ah-MEN-tum TER-eez,ˌlɪɡəˈmɛntəm ˈtɛriz,anatomical
+ligamentum venosum,lig-ah-MEN-tum veh-NOH-sum,ˌlɪɡəˈmɛntəm vɪˈnoʊsəm,anatomical
+porta hepatis,POR-tah heh-PAT-is,ˈpɔrtə ˈhɛpətɪs,anatomical
+coronary,KOR-ah-nair-ee,ˈkɔrənɛri,anatomical
+circumflex,SER-kum-fleks,ˈsɜrkəmflɛks,anatomical
+interventricular,in-ter-ven-TRIK-yoo-lar,ˌɪntərvɛnˈtrɪkjələr,anatomical
+interventricular septum,in-ter-ven-TRIK-yoo-lar SEP-tum,ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm,anatomical
+papillary muscle,PAP-ih-lair-ee MUS-el,ˈpæpɪlɛri ˈmʌsəl,anatomical
+chordae tendineae,KOR-dee ten-DIN-ee-ee,ˈkɔrdi tɛnˈdɪnii,anatomical
+valve,valv,vælv,anatomical
+leaflet,LEEF-let,ˈlifət,anatomical
+cusp,kusp,kʌsp,anatomical
+semilunar,sem-ee-LOO-nar,ˌsɛmiˈlunər,anatomical
+atrioventricular,ay-tree-oh-ven-TRIK-yoo-lar,ˌeɪtrioʊvɛnˈtrɪkjələr,anatomical
+ventricular,ven-TRIK-yoo-lar,vɛnˈtrɪkjələr,anatomical
+sinoatrial,sigh-noh-AY-tree-al,ˌsaɪnoʊˈeɪtriəl,anatomical
+coronary sinus,KOR-ah-nair-ee SIGH-nus,ˈkɔrənɛri ˈsaɪnəs,anatomical
+vena cava,VEE-nah KAY-vah,ˈvinə ˈkeɪvə,anatomical
+pulmonary trunk,PUL-mah-nair-ee trunk,ˈpʊlmənɛri trʌŋk,anatomical
+aorta,ay-OR-tah,eɪˈɔrtə,anatomical
+carotid,kah-ROT-id,kəˈrɑtɪd,anatomical
+subclavian,sub-KLAY-vee-an,sʌbˈkleɪviən,anatomical
+vertebral,VER-teh-bral,ˈvɝːtəbrəl,anatomical
+basilar,BAS-ih-lar,ˈbæsɪlɚ,anatomical
+circle of Willis,SER-kul of WIL-is,ˈsɝːkəl əv ˈwɪlɪs,anatomical
+meninges,men-IN-jeez,məˈnɪndʒiːz,anatomical
+dura mater,DUR-ah MAH-ter,ˈdʊrə ˈmeɪtɚ,anatomical
+arachnoid,ah-RAK-noyd,əˈræknɔɪd,anatomical
+pia mater,PEE-ah MAH-ter,ˈpiːə ˈmeɪtɚ,anatomical
+subdural,sub-DUR-al,sʌbˈdʊrəl,anatomical
+subarachnoid,sub-ah-RAK-noyd,ˌsʌbəˈræknɔɪd,anatomical
+epidural,ep-ih-DUR-al,ˌɛpɪˈdʊrəl,anatomical
+ventricles,VEN-trih-kulz,ˈvɛntrɪkəlz,anatomical
+foramina,fo-RAM-ih-nah,fəˈræmɪnə,anatomical
+aqueduct,AK-weh-dukt,ˈækwɪdʌkt,anatomical
+choroid plexus,KOR-oyd PLEK-sus,ˈkɔːrɔɪd ˈplɛksəs,anatomical
+cauda equina,KAW-dah eh-KWY-nah,ˈkɔːdə ɪˈkwaɪnə,anatomical
+filum terminale,FY-lum ter-mih-NAH-lee,ˈfaɪləm ˌtɝːmɪˈnɑːli,anatomical
+conus medullaris,KOH-nus med-yoo-LAR-is,ˈkoʊnəs ˌmɛdʒəˈlɛrɪs,anatomical
+dorsal root,DOR-sal ROOT,ˈdɔːrsəl ruːt,anatomical
+ventral root,VEN-tral ROOT,ˈvɛntrəl ruːt,anatomical
+ganglion,GANG-glee-on,ˈɡæŋɡliən,anatomical
+plexus,PLEK-sus,ˈplɛksəs,anatomical
+phrenic,FREN-ik,ˈfrɛnɪk,anatomical
+vagus,VAY-gus,ˈveɪɡəs,anatomical
+recurrent laryngeal,ree-KUR-ent lar-IN-jee-al,rɪˈkɝːənt ləˈrɪndʒiəl,anatomical
+facial,FAY-shal,ˈfeɪʃəl,anatomical
+vestibulocochlear,ves-TIB-yoo-loh-KOK-lee-ar,vɛsˌtɪbjəloʊˈkoʊkliɚ,anatomical
+glossopharyngeal,GLOS-oh-fah-RIN-jee-al,ˌɡlɑːsoʊfəˈrɪndʒiəl,anatomical
+hypoglossal,HY-poh-GLOS-al,ˌhaɪpəˈɡlɑːsəl,anatomical
+accessory,ak-SES-oh-ree,əkˈsɛsəri,anatomical
+oculomotor,OK-yoo-loh-MOH-tor,ˌɑːkjəloʊˈmoʊtɚ,anatomical
+trochlear,TROK-lee-ar,ˈtroʊkliər,anatomical
+abducens,ab-DOO-senz,æbˈdjuːsənz,anatomical

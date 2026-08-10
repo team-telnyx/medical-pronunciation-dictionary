@@ -1,0 +1,555 @@
+{
+  "name": "Medical Pronunciations 15",
+  "items": [
+    {
+      "text": "ketoacidosis",
+      "type": "alias",
+      "alias": "kee-toh-ah-sih-DOH-sis"
+    },
+    {
+      "text": "ketoacidosis",
+      "type": "phoneme",
+      "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoglycemia",
+      "type": "alias",
+      "alias": "hy-poh-gly-SEE-mee-ah"
+    },
+    {
+      "text": "hypoglycemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperglycemia",
+      "type": "alias",
+      "alias": "hy-per-gly-SEE-mee-ah"
+    },
+    {
+      "text": "hyperglycemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərɡlaɪˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "insulinoma",
+      "type": "alias",
+      "alias": "in-suh-lih-NOH-mah"
+    },
+    {
+      "text": "insulinoma",
+      "type": "phoneme",
+      "phoneme": "ˌɪnsəlɪˈnoʊmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pheochromocytoma",
+      "type": "alias",
+      "alias": "fee-oh-kroh-moh-sy-TOH-mah"
+    },
+    {
+      "text": "pheochromocytoma",
+      "type": "phoneme",
+      "phoneme": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anemia",
+      "type": "alias",
+      "alias": "ah-NEE-mee-ah"
+    },
+    {
+      "text": "anemia",
+      "type": "phoneme",
+      "phoneme": "əˈniːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "polycythemia",
+      "type": "alias",
+      "alias": "pol-ee-sy-THEE-mee-ah"
+    },
+    {
+      "text": "polycythemia",
+      "type": "phoneme",
+      "phoneme": "ˌpɑːlɪsaɪˈθiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thrombocytopenia",
+      "type": "alias",
+      "alias": "throm-boh-sy-toh-PEE-nee-ah"
+    },
+    {
+      "text": "thrombocytopenia",
+      "type": "phoneme",
+      "phoneme": "ˌθrɑːmboʊˌsaɪtəˈpiːniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thrombocytosis",
+      "type": "alias",
+      "alias": "throm-boh-sy-TOH-sis"
+    },
+    {
+      "text": "thrombocytosis",
+      "type": "phoneme",
+      "phoneme": "ˌθrɑːmboʊsaɪˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "leukopenia",
+      "type": "alias",
+      "alias": "loo-koh-PEE-nee-ah"
+    },
+    {
+      "text": "leukopenia",
+      "type": "phoneme",
+      "phoneme": "ˌluːkəˈpiːniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "leukocytosis",
+      "type": "alias",
+      "alias": "loo-koh-sy-TOH-sis"
+    },
+    {
+      "text": "leukocytosis",
+      "type": "phoneme",
+      "phoneme": "ˌluːkəsaɪˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neutropenia",
+      "type": "alias",
+      "alias": "noo-troh-PEE-nee-ah"
+    },
+    {
+      "text": "neutropenia",
+      "type": "phoneme",
+      "phoneme": "ˌnuːtrəˈpiːniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neutrophilia",
+      "type": "alias",
+      "alias": "noo-troh-FIL-ee-ah"
+    },
+    {
+      "text": "neutrophilia",
+      "type": "phoneme",
+      "phoneme": "ˌnuːtrəˈfɪliə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "lymphopenia",
+      "type": "alias",
+      "alias": "lim-foh-PEE-nee-ah"
+    },
+    {
+      "text": "lymphopenia",
+      "type": "phoneme",
+      "phoneme": "ˌlɪmfəˈpiːniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "lymphocytosis",
+      "type": "alias",
+      "alias": "lim-foh-sy-TOH-sis"
+    },
+    {
+      "text": "lymphocytosis",
+      "type": "phoneme",
+      "phoneme": "ˌlɪmfəsaɪˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "monocytosis",
+      "type": "alias",
+      "alias": "mon-oh-sy-TOH-sis"
+    },
+    {
+      "text": "monocytosis",
+      "type": "phoneme",
+      "phoneme": "ˌmɑːnəsaɪˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "eosinophilia",
+      "type": "alias",
+      "alias": "ee-oh-sin-oh-FIL-ee-ah"
+    },
+    {
+      "text": "eosinophilia",
+      "type": "phoneme",
+      "phoneme": "ˌiːəˌsɪnəˈfɪliə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "basophilia",
+      "type": "alias",
+      "alias": "bay-soh-FIL-ee-ah"
+    },
+    {
+      "text": "basophilia",
+      "type": "phoneme",
+      "phoneme": "ˌbeɪsəˈfɪliə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pancytopenia",
+      "type": "alias",
+      "alias": "pan-sy-toh-PEE-nee-ah"
+    },
+    {
+      "text": "pancytopenia",
+      "type": "phoneme",
+      "phoneme": "ˌpænsaɪtəˈpiːniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hemophilia",
+      "type": "alias",
+      "alias": "hee-moh-FIL-ee-ah"
+    },
+    {
+      "text": "hemophilia",
+      "type": "phoneme",
+      "phoneme": "ˌhiːməˈfɪliə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thrombophilia",
+      "type": "alias",
+      "alias": "throm-bo-FIL-ee-ah"
+    },
+    {
+      "text": "thrombophilia",
+      "type": "phoneme",
+      "phoneme": "ˌθrɒmboʊˈfɪliə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "purpura",
+      "type": "alias",
+      "alias": "PUR-pur-ah"
+    },
+    {
+      "text": "purpura",
+      "type": "phoneme",
+      "phoneme": "ˈpɜːrpjʊrə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "petechiae",
+      "type": "alias",
+      "alias": "pe-TEE-kee-eye"
+    },
+    {
+      "text": "petechiae",
+      "type": "phoneme",
+      "phoneme": "pɪˈtɛkiaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ecchymosis",
+      "type": "alias",
+      "alias": "ek-ih-MOH-sis"
+    },
+    {
+      "text": "ecchymosis",
+      "type": "phoneme",
+      "phoneme": "ˌɛkɪˈmoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hematoma",
+      "type": "alias",
+      "alias": "hee-mah-TOH-mah"
+    },
+    {
+      "text": "hematoma",
+      "type": "phoneme",
+      "phoneme": "ˌhɛməˈtoʊmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hemolysis",
+      "type": "alias",
+      "alias": "hee-MOL-ih-sis"
+    },
+    {
+      "text": "hemolysis",
+      "type": "phoneme",
+      "phoneme": "hɪˈmɒlɪsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cellulitis",
+      "type": "alias",
+      "alias": "sel-yoo-LY-tis"
+    },
+    {
+      "text": "cellulitis",
+      "type": "phoneme",
+      "phoneme": "ˌsɛljuˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "abscess",
+      "type": "alias",
+      "alias": "AB-ses"
+    },
+    {
+      "text": "abscess",
+      "type": "phoneme",
+      "phoneme": "ˈæbsɛs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "furuncle",
+      "type": "alias",
+      "alias": "FYOOR-ung-kul"
+    },
+    {
+      "text": "furuncle",
+      "type": "phoneme",
+      "phoneme": "ˈfjʊrʌŋkəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "carbuncle",
+      "type": "alias",
+      "alias": "KAR-bung-kul"
+    },
+    {
+      "text": "carbuncle",
+      "type": "phoneme",
+      "phoneme": "ˈkɑːrbʌŋkəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "impetigo",
+      "type": "alias",
+      "alias": "im-peh-TY-goh"
+    },
+    {
+      "text": "impetigo",
+      "type": "phoneme",
+      "phoneme": "ˌɪmpɪˈtaɪgoʊ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "erysipelas",
+      "type": "alias",
+      "alias": "er-ih-SIP-eh-las"
+    },
+    {
+      "text": "erysipelas",
+      "type": "phoneme",
+      "phoneme": "ˌɛrɪˈsɪpələs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "necrotizing fasciitis",
+      "type": "alias",
+      "alias": "NEK-roh-ty-zing fash-ee-EYE-tis"
+    },
+    {
+      "text": "necrotizing fasciitis",
+      "type": "phoneme",
+      "phoneme": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "osteomyelitis",
+      "type": "alias",
+      "alias": "os-tee-oh-my-eh-LY-tis"
+    },
+    {
+      "text": "osteomyelitis",
+      "type": "phoneme",
+      "phoneme": "ˌɒstioʊˌmaɪəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "septic arthritis",
+      "type": "alias",
+      "alias": "SEP-tik ar-THRY-tis"
+    },
+    {
+      "text": "septic arthritis",
+      "type": "phoneme",
+      "phoneme": "ˈsɛptɪk ɑːrˈθraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sepsis",
+      "type": "alias",
+      "alias": "SEP-sis"
+    },
+    {
+      "text": "sepsis",
+      "type": "phoneme",
+      "phoneme": "ˈsɛpsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "septicemia",
+      "type": "alias",
+      "alias": "sep-tih-SEE-mee-ah"
+    },
+    {
+      "text": "septicemia",
+      "type": "phoneme",
+      "phoneme": "ˌsɛptɪˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bacteremia",
+      "type": "alias",
+      "alias": "bak-ter-EE-mee-ah"
+    },
+    {
+      "text": "bacteremia",
+      "type": "phoneme",
+      "phoneme": "ˌbæktəˈriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "viremia",
+      "type": "alias",
+      "alias": "vy-REE-mee-ah"
+    },
+    {
+      "text": "viremia",
+      "type": "phoneme",
+      "phoneme": "vaɪˈriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fungemia",
+      "type": "alias",
+      "alias": "fun-JEE-mee-ah"
+    },
+    {
+      "text": "fungemia",
+      "type": "phoneme",
+      "phoneme": "fʌnˈdʒiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "parasitemia",
+      "type": "alias",
+      "alias": "par-ah-sih-TEE-mee-ah"
+    },
+    {
+      "text": "parasitemia",
+      "type": "phoneme",
+      "phoneme": "ˌpærəsaɪˈtiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endotoxemia",
+      "type": "alias",
+      "alias": "en-doh-tok-SEE-mee-ah"
+    },
+    {
+      "text": "endotoxemia",
+      "type": "phoneme",
+      "phoneme": "ˌɛndoʊtɒkˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "erythema",
+      "type": "alias",
+      "alias": "er-ih-THEE-mah"
+    },
+    {
+      "text": "erythema",
+      "type": "phoneme",
+      "phoneme": "ˌɛrɪˈθiːmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "urticaria",
+      "type": "alias",
+      "alias": "ur-tih-KAR-ee-ah"
+    },
+    {
+      "text": "urticaria",
+      "type": "phoneme",
+      "phoneme": "ˌɜːrtɪˈkɛriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pruritus",
+      "type": "alias",
+      "alias": "proo-RY-tus"
+    },
+    {
+      "text": "pruritus",
+      "type": "phoneme",
+      "phoneme": "prʊˈraɪtəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "eczema",
+      "type": "alias",
+      "alias": "EK-zeh-mah"
+    },
+    {
+      "text": "eczema",
+      "type": "phoneme",
+      "phoneme": "ˈɛksɪmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "psoriasis",
+      "type": "alias",
+      "alias": "soh-RY-ah-sis"
+    },
+    {
+      "text": "psoriasis",
+      "type": "phoneme",
+      "phoneme": "səˈraɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "lichenification",
+      "type": "alias",
+      "alias": "ly-ken-ih-fih-KAY-shun"
+    },
+    {
+      "text": "lichenification",
+      "type": "phoneme",
+      "phoneme": "lɪˌkɛnɪfɪˈkeɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "excoriation",
+      "type": "alias",
+      "alias": "eks-kor-ee-AY-shun"
+    },
+    {
+      "text": "excoriation",
+      "type": "phoneme",
+      "phoneme": "ɪkˌskɔːriˈeɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vesicle",
+      "type": "alias",
+      "alias": "VES-ih-kul"
+    },
+    {
+      "text": "vesicle",
+      "type": "phoneme",
+      "phoneme": "ˈvɛsɪkəl",
+      "alphabet": "ipa"
+    }
+  ]
+}
