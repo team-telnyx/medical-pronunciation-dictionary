@@ -1,0 +1,505 @@
+{
+  "name": "Medical Pronunciations 07",
+  "items": [
+    {
+      "text": "peptic ulcer",
+      "type": "alias",
+      "alias": "PEP-tik UL-ser"
+    },
+    {
+      "text": "gastroenteritis",
+      "type": "alias",
+      "alias": "gas-tro-en-ter-EYE-tis"
+    },
+    {
+      "text": "colitis",
+      "type": "alias",
+      "alias": "ko-LYE-tis"
+    },
+    {
+      "text": "ulcerative colitis",
+      "type": "alias",
+      "alias": "UL-ser-a-tiv ko-LYE-tis"
+    },
+    {
+      "text": "Crohn's disease",
+      "type": "alias",
+      "alias": "KROHNZ dih-ZEEZ"
+    },
+    {
+      "text": "diverticulitis",
+      "type": "alias",
+      "alias": "dye-ver-tik-yoo-LYE-tis"
+    },
+    {
+      "text": "appendicitis",
+      "type": "alias",
+      "alias": "a-pen-dih-SYE-tis"
+    },
+    {
+      "text": "cholecystitis",
+      "type": "alias",
+      "alias": "ko-luh-sis-TYE-tis"
+    },
+    {
+      "text": "pancreatitis",
+      "type": "alias",
+      "alias": "pan-kree-a-TYE-tis"
+    },
+    {
+      "text": "hepatitis",
+      "type": "alias",
+      "alias": "hep-a-TYE-tis"
+    },
+    {
+      "text": "cirrhosis",
+      "type": "alias",
+      "alias": "sir-OH-sis"
+    },
+    {
+      "text": "cholestasis",
+      "type": "alias",
+      "alias": "ko-luh-STAY-sis"
+    },
+    {
+      "text": "steatosis",
+      "type": "alias",
+      "alias": "stee-a-TOH-sis"
+    },
+    {
+      "text": "steatohepatitis",
+      "type": "alias",
+      "alias": "stee-a-toh-hep-a-TYE-tis"
+    },
+    {
+      "text": "peritonitis",
+      "type": "alias",
+      "alias": "pair-ih-toh-NYE-tis"
+    },
+    {
+      "text": "ileus",
+      "type": "alias",
+      "alias": "IL-ee-us"
+    },
+    {
+      "text": "intussusception",
+      "type": "alias",
+      "alias": "in-tuh-suh-SEP-shun"
+    },
+    {
+      "text": "volvulus",
+      "type": "alias",
+      "alias": "VOL-vyoo-lus"
+    },
+    {
+      "text": "hematemesis",
+      "type": "alias",
+      "alias": "hee-ma-TEM-eh-sis"
+    },
+    {
+      "text": "melena",
+      "type": "alias",
+      "alias": "muh-LEE-na"
+    },
+    {
+      "text": "hematochezia",
+      "type": "alias",
+      "alias": "hee-ma-toh-KEE-zee-a"
+    },
+    {
+      "text": "choledocholithiasis",
+      "type": "alias",
+      "alias": "ko-led-oh-ko-lih-THIGH-a-sis"
+    },
+    {
+      "text": "cholelithiasis",
+      "type": "alias",
+      "alias": "ko-luh-lih-THIGH-a-sis"
+    },
+    {
+      "text": "nephrolithiasis",
+      "type": "alias",
+      "alias": "nef-ro-lih-THIGH-a-sis"
+    },
+    {
+      "text": "sialadenitis",
+      "type": "alias",
+      "alias": "sigh-al-a-deh-NYE-tis"
+    },
+    {
+      "text": "nephritis",
+      "type": "alias",
+      "alias": "neh-FRY-tis"
+    },
+    {
+      "text": "nephrosis",
+      "type": "alias",
+      "alias": "neh-FROH-sis"
+    },
+    {
+      "text": "glomerulonephritis",
+      "type": "alias",
+      "alias": "gloh-mer-yoo-loh-neh-FRY-tis"
+    },
+    {
+      "text": "pyelonephritis",
+      "type": "alias",
+      "alias": "pye-eh-loh-neh-FRY-tis"
+    },
+    {
+      "text": "cystitis",
+      "type": "alias",
+      "alias": "sis-TYE-tis"
+    },
+    {
+      "text": "urethritis",
+      "type": "alias",
+      "alias": "yoo-reh-THRY-tis"
+    },
+    {
+      "text": "ureterolithiasis",
+      "type": "alias",
+      "alias": "yoo-REH-ter-oh-lih-THY-ah-sis"
+    },
+    {
+      "text": "hydronephrosis",
+      "type": "alias",
+      "alias": "HY-droh-neh-FROH-sis"
+    },
+    {
+      "text": "oliguria",
+      "type": "alias",
+      "alias": "oh-lih-GYOO-ree-ah"
+    },
+    {
+      "text": "anuria",
+      "type": "alias",
+      "alias": "an-YOO-ree-ah"
+    },
+    {
+      "text": "hematuria",
+      "type": "alias",
+      "alias": "HEE-mah-TOO-ree-ah"
+    },
+    {
+      "text": "proteinuria",
+      "type": "alias",
+      "alias": "PROH-tee-NYOO-ree-ah"
+    },
+    {
+      "text": "dysuria",
+      "type": "alias",
+      "alias": "dis-YOO-ree-ah"
+    },
+    {
+      "text": "incontinence",
+      "type": "alias",
+      "alias": "in-KON-tih-nens"
+    },
+    {
+      "text": "retention",
+      "type": "alias",
+      "alias": "ree-TEN-shun"
+    },
+    {
+      "text": "azoospermia",
+      "type": "alias",
+      "alias": "AY-zoh-oh-SPER-mee-ah"
+    },
+    {
+      "text": "oligospermia",
+      "type": "alias",
+      "alias": "OH-lih-goh-SPER-mee-ah"
+    },
+    {
+      "text": "encephalopathy",
+      "type": "alias",
+      "alias": "en-SEH-fah-LOP-ah-thee"
+    },
+    {
+      "text": "encephalitis",
+      "type": "alias",
+      "alias": "en-SEH-fah-LY-tis"
+    },
+    {
+      "text": "meningitis",
+      "type": "alias",
+      "alias": "MEH-nin-JY-tis"
+    },
+    {
+      "text": "myelitis",
+      "type": "alias",
+      "alias": "MY-eh-LY-tis"
+    },
+    {
+      "text": "neuropathy",
+      "type": "alias",
+      "alias": "nyoo-ROP-ah-thee"
+    },
+    {
+      "text": "radiculopathy",
+      "type": "alias",
+      "alias": "rah-DIK-yoo-LOP-ah-thee"
+    },
+    {
+      "text": "myelopathy",
+      "type": "alias",
+      "alias": "MY-eh-LOP-ah-thee"
+    },
+    {
+      "text": "ataxia",
+      "type": "alias",
+      "alias": "ah-TAK-see-ah"
+    },
+    {
+      "text": "dysarthria",
+      "type": "alias",
+      "alias": "dis-AR-three-ah"
+    },
+    {
+      "text": "aphasia",
+      "type": "alias",
+      "alias": "ah-FAY-zhah"
+    },
+    {
+      "text": "apraxia",
+      "type": "alias",
+      "alias": "ah-PRAK-see-ah"
+    },
+    {
+      "text": "agnosia",
+      "type": "alias",
+      "alias": "ag-NOH-zhah"
+    },
+    {
+      "text": "anomia",
+      "type": "alias",
+      "alias": "ah-NOH-mee-ah"
+    },
+    {
+      "text": "dysphagia",
+      "type": "alias",
+      "alias": "dis-FAY-jah"
+    },
+    {
+      "text": "dysphonia",
+      "type": "alias",
+      "alias": "dis-FOH-nee-ah"
+    },
+    {
+      "text": "dyskinesia",
+      "type": "alias",
+      "alias": "dis-kih-NEE-zhah"
+    },
+    {
+      "text": "myoclonus",
+      "type": "alias",
+      "alias": "my-OK-loh-nus"
+    },
+    {
+      "text": "chorea",
+      "type": "alias",
+      "alias": "koh-REE-ah"
+    },
+    {
+      "text": "athetosis",
+      "type": "alias",
+      "alias": "ATH-eh-TOE-sis"
+    },
+    {
+      "text": "dystonia",
+      "type": "alias",
+      "alias": "dis-TOE-nee-ah"
+    },
+    {
+      "text": "tremor",
+      "type": "alias",
+      "alias": "TREM-or"
+    },
+    {
+      "text": "fasciculation",
+      "type": "alias",
+      "alias": "fa-SIK-yoo-LAY-shun"
+    },
+    {
+      "text": "clonus",
+      "type": "alias",
+      "alias": "KLOH-nus"
+    },
+    {
+      "text": "nystagmus",
+      "type": "alias",
+      "alias": "nis-TAG-mus"
+    },
+    {
+      "text": "ptosis",
+      "type": "alias",
+      "alias": "TOE-sis"
+    },
+    {
+      "text": "miosis",
+      "type": "alias",
+      "alias": "my-OH-sis"
+    },
+    {
+      "text": "mydriasis",
+      "type": "alias",
+      "alias": "mi-DRY-ah-sis"
+    },
+    {
+      "text": "anisocoria",
+      "type": "alias",
+      "alias": "an-EYE-so-KOR-ee-ah"
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "alias",
+      "alias": "HY-per-re-FLEK-see-ah"
+    },
+    {
+      "text": "hyporeflexia",
+      "type": "alias",
+      "alias": "HY-po-re-FLEK-see-ah"
+    },
+    {
+      "text": "Babinski",
+      "type": "alias",
+      "alias": "ba-BIN-skee"
+    },
+    {
+      "text": "paresthesia",
+      "type": "alias",
+      "alias": "par-es-THEE-zhah"
+    },
+    {
+      "text": "anesthesia",
+      "type": "alias",
+      "alias": "an-es-THEE-zhah"
+    },
+    {
+      "text": "hyperesthesia",
+      "type": "alias",
+      "alias": "HY-per-es-THEE-zhah"
+    },
+    {
+      "text": "dysesthesia",
+      "type": "alias",
+      "alias": "dis-es-THEE-zhah"
+    },
+    {
+      "text": "neuralgia",
+      "type": "alias",
+      "alias": "nyoo-RAL-jah"
+    },
+    {
+      "text": "neuritis",
+      "type": "alias",
+      "alias": "nyoo-RY-tis"
+    },
+    {
+      "text": "sciatica",
+      "type": "alias",
+      "alias": "sy-AT-ik-ah"
+    },
+    {
+      "text": "trigeminal",
+      "type": "alias",
+      "alias": "try-JEM-in-al"
+    },
+    {
+      "text": "prosopagnosia",
+      "type": "alias",
+      "alias": "PROS-oh-pag-NOH-zhah"
+    },
+    {
+      "text": "hyperthyroidism",
+      "type": "alias",
+      "alias": "HY-per-THY-roy-dizm"
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "alias",
+      "alias": "HY-po-THY-roy-dizm"
+    },
+    {
+      "text": "thyrotoxicosis",
+      "type": "alias",
+      "alias": "THY-ro-TOK-sih-KOH-sis"
+    },
+    {
+      "text": "myxedema",
+      "type": "alias",
+      "alias": "mik-seh-DEE-mah"
+    },
+    {
+      "text": "hyperparathyroidism",
+      "type": "alias",
+      "alias": "HY-per-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hypoparathyroidism",
+      "type": "alias",
+      "alias": "HY-po-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hypercalcemia",
+      "type": "alias",
+      "alias": "HY-per-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hypocalcemia",
+      "type": "alias",
+      "alias": "HY-po-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hyperkalemia",
+      "type": "alias",
+      "alias": "hy-per-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hypokalemia",
+      "type": "alias",
+      "alias": "hy-poh-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hypernatremia",
+      "type": "alias",
+      "alias": "hy-per-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hyponatremia",
+      "type": "alias",
+      "alias": "hy-poh-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hypomagnesemia",
+      "type": "alias",
+      "alias": "hy-poh-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypermagnesemia",
+      "type": "alias",
+      "alias": "hy-per-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypophosphatemia",
+      "type": "alias",
+      "alias": "hy-poh-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "hyperphosphatemia",
+      "type": "alias",
+      "alias": "hy-per-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "acidosis",
+      "type": "alias",
+      "alias": "ah-sih-DOH-sis"
+    },
+    {
+      "text": "alkalosis",
+      "type": "alias",
+      "alias": "al-kah-LOH-sis"
+    }
+  ]
+}

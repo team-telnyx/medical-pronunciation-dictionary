@@ -1,0 +1,3853 @@
+{
+  "name": "Medical Pronunciation Dictionary",
+  "items": [
+    {
+      "text": "atorvastatin",
+      "alias": "a-TOR-va-STAT-in"
+    },
+    {
+      "text": "Lipitor",
+      "alias": "LIP-i-tor"
+    },
+    {
+      "text": "lisinopril",
+      "alias": "ly-SIN-oh-pril"
+    },
+    {
+      "text": "metoprolol",
+      "alias": "me-TOE-pro-lol"
+    },
+    {
+      "text": "amlodipine",
+      "alias": "am-LOE-di-peen"
+    },
+    {
+      "text": "losartan",
+      "alias": "loe-SAR-tan"
+    },
+    {
+      "text": "metoprolol succinate",
+      "alias": "me-TOE-pro-lol SUK-si-nate"
+    },
+    {
+      "text": "metoprolol tartrate",
+      "alias": "me-TOE-pro-lol TAR-trate"
+    },
+    {
+      "text": "carvedilol",
+      "alias": "kar-VE-di-lol"
+    },
+    {
+      "text": "valsartan",
+      "alias": "val-SAR-tan"
+    },
+    {
+      "text": "enalapril",
+      "alias": "e-NAL-a-pril"
+    },
+    {
+      "text": "ramipril",
+      "alias": "ra-MI-pril"
+    },
+    {
+      "text": "felodipine",
+      "alias": "fe-LOE-di-peen"
+    },
+    {
+      "text": "nimodipine",
+      "alias": "ny-MOE-di-peen"
+    },
+    {
+      "text": "nicardipine",
+      "alias": "ny-KAR-di-peen"
+    },
+    {
+      "text": "nitroglycerin",
+      "alias": "ny-tro-GLIS-er-in"
+    },
+    {
+      "text": "hydralazine",
+      "alias": "hy-DRAL-a-zeen"
+    },
+    {
+      "text": "clonidine",
+      "alias": "KLON-i-deen"
+    },
+    {
+      "text": "spironolactone",
+      "alias": "spir-oh-no-LAK-tone"
+    },
+    {
+      "text": "furosemide",
+      "alias": "fur-OH-se-mide"
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "alias": "hy-dro-KLOR-oh-THY-a-zide"
+    },
+    {
+      "text": "triamterene",
+      "alias": "try-AM-ter-een"
+    },
+    {
+      "text": "bumetanide",
+      "alias": "byoo-MET-a-nide"
+    },
+    {
+      "text": "torsemide",
+      "alias": "TOR-se-mide"
+    },
+    {
+      "text": "eplerenone",
+      "alias": "e-PLER-e-none"
+    },
+    {
+      "text": "diltiazem",
+      "alias": "dil-TY-a-zem"
+    },
+    {
+      "text": "verapamil",
+      "alias": "ver-AP-a-mil"
+    },
+    {
+      "text": "nifedipine",
+      "alias": "ny-FED-i-peen"
+    },
+    {
+      "text": "doxazosin",
+      "alias": "dok-SAZ-oh-sin"
+    },
+    {
+      "text": "terazosin",
+      "alias": "ter-AZ-oh-sin"
+    },
+    {
+      "text": "prazosin",
+      "alias": "PRAZ-oh-sin"
+    },
+    {
+      "text": "amiodarone",
+      "alias": "am-ee-OH-da-rone"
+    },
+    {
+      "text": "dronedarone",
+      "alias": "droe-NEH-da-rone"
+    },
+    {
+      "text": "sotalol",
+      "alias": "SOH-ta-lol"
+    },
+    {
+      "text": "propafenone",
+      "alias": "pro-PAF-eh-none"
+    },
+    {
+      "text": "flecainide",
+      "alias": "FLEH-ka-nide"
+    },
+    {
+      "text": "mexiletine",
+      "alias": "mex-IL-eh-teen"
+    },
+    {
+      "text": "isosorbide dinitrate",
+      "alias": "eye-so-SOR-bide dye-NYE-trate"
+    },
+    {
+      "text": "isosorbide mononitrate",
+      "alias": "eye-so-SOR-bide mon-oh-NYE-trate"
+    },
+    {
+      "text": "warfarin",
+      "alias": "war-FAR-in"
+    },
+    {
+      "text": "rivaroxaban",
+      "alias": "riv-a-ROX-a-ban"
+    },
+    {
+      "text": "apixaban",
+      "alias": "a-PIX-a-ban"
+    },
+    {
+      "text": "dabigatran",
+      "alias": "da-big-a-TRAN"
+    },
+    {
+      "text": "clopidogrel",
+      "alias": "kloh-PID-oh-grel"
+    },
+    {
+      "text": "prasugrel",
+      "alias": "PRA-soo-grel"
+    },
+    {
+      "text": "ticagrelor",
+      "alias": "tye-ka-GREL-or"
+    },
+    {
+      "text": "ezetimibe",
+      "alias": "eh-ZET-i-mibe"
+    },
+    {
+      "text": "fenofibrate",
+      "alias": "fen-oh-FYE-brate"
+    },
+    {
+      "text": "gemfibrozil",
+      "alias": "jem-FYE-broh-zil"
+    },
+    {
+      "text": "niacin",
+      "alias": "NYE-a-sin"
+    },
+    {
+      "text": "colesevelam",
+      "alias": "koh-leh-SEV-eh-lam"
+    },
+    {
+      "text": "simvastatin",
+      "alias": "sim-va-STAT-in"
+    },
+    {
+      "text": "rosuvastatin",
+      "alias": "roh-soo-va-STAT-in"
+    },
+    {
+      "text": "pravastatin",
+      "alias": "PRAV-va-STAT-in"
+    },
+    {
+      "text": "fluvastatin",
+      "alias": "FLOO-va-STAT-in"
+    },
+    {
+      "text": "pitavastatin",
+      "alias": "pit-a-va-STAT-in"
+    },
+    {
+      "text": "alirocumab",
+      "alias": "a-LIR-oh-kyoo-mab"
+    },
+    {
+      "text": "evolocumab",
+      "alias": "e-VOL-oh-kyoo-mab"
+    },
+    {
+      "text": "metformin",
+      "alias": "met-FOR-min"
+    },
+    {
+      "text": "glipizide",
+      "alias": "GLIP-i-zide"
+    },
+    {
+      "text": "glyburide",
+      "alias": "GLY-bur-ide"
+    },
+    {
+      "text": "pioglitazone",
+      "alias": "py-oh-GLIT-ah-zone"
+    },
+    {
+      "text": "sitagliptin",
+      "alias": "sit-ah-GLIP-tin"
+    },
+    {
+      "text": "linagliptin",
+      "alias": "lin-ah-GLIP-tin"
+    },
+    {
+      "text": "saxagliptin",
+      "alias": "sax-ah-GLIP-tin"
+    },
+    {
+      "text": "alogliptin",
+      "alias": "al-oh-GLIP-tin"
+    },
+    {
+      "text": "empagliflozin",
+      "alias": "em-pah-gli-FLOH-zin"
+    },
+    {
+      "text": "canagliflozin",
+      "alias": "kan-ah-gli-FLOH-zin"
+    },
+    {
+      "text": "dapagliflozin",
+      "alias": "dap-ah-gli-FLOH-zin"
+    },
+    {
+      "text": "semaglutide",
+      "alias": "sem-ah-GLOO-tide"
+    },
+    {
+      "text": "liraglutide",
+      "alias": "lir-ah-GLOO-tide"
+    },
+    {
+      "text": "exenatide",
+      "alias": "ex-EN-ah-tide"
+    },
+    {
+      "text": "dulaglutide",
+      "alias": "doo-lah-GLOO-tide"
+    },
+    {
+      "text": "tirzepatide",
+      "alias": "teer-ZEP-ah-tide"
+    },
+    {
+      "text": "insulin glargine",
+      "alias": "IN-suh-lin GLAR-jeen"
+    },
+    {
+      "text": "insulin lispro",
+      "alias": "IN-suh-lin LIS-proh"
+    },
+    {
+      "text": "insulin aspart",
+      "alias": "IN-suh-lin AS-part"
+    },
+    {
+      "text": "insulin detemir",
+      "alias": "IN-suh-lin DET-uh-meer"
+    },
+    {
+      "text": "insulin degludec",
+      "alias": "IN-suh-lin deh-GLOO-dek"
+    },
+    {
+      "text": "acarbose",
+      "alias": "AY-kar-bose"
+    },
+    {
+      "text": "miglitol",
+      "alias": "MIG-li-tol"
+    },
+    {
+      "text": "repaglinide",
+      "alias": "reh-PAG-li-nide"
+    },
+    {
+      "text": "nateglinide",
+      "alias": "nah-TEG-li-nide"
+    },
+    {
+      "text": "amoxicillin",
+      "alias": "ah-MOX-i-sil-in"
+    },
+    {
+      "text": "amoxicillin clavulanate",
+      "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate"
+    },
+    {
+      "text": "azithromycin",
+      "alias": "ah-ZITH-roh-my-sin"
+    },
+    {
+      "text": "cephalexin",
+      "alias": "sef-ah-LEX-in"
+    },
+    {
+      "text": "ciprofloxacin",
+      "alias": "sip-roh-FLOX-ah-sin"
+    },
+    {
+      "text": "clindamycin",
+      "alias": "klin-dah-MY-sin"
+    },
+    {
+      "text": "doxycycline",
+      "alias": "dok-see-SY-kleen"
+    },
+    {
+      "text": "metronidazole",
+      "alias": "me-tro-NI-da-zole"
+    },
+    {
+      "text": "sulfamethoxazole trimethoprim",
+      "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim"
+    },
+    {
+      "text": "nitrofurantoin",
+      "alias": "ny-tro-fyoor-an-TOYN"
+    },
+    {
+      "text": "penicillin",
+      "alias": "pen-i-SIL-in"
+    },
+    {
+      "text": "vancomycin",
+      "alias": "van-ko-MY-sin"
+    },
+    {
+      "text": "levofloxacin",
+      "alias": "lee-vo-FLOX-a-sin"
+    },
+    {
+      "text": "moxifloxacin",
+      "alias": "mox-i-FLOX-a-sin"
+    },
+    {
+      "text": "cefdinir",
+      "alias": "SEF-di-ner"
+    },
+    {
+      "text": "cefaclor",
+      "alias": "SEF-a-klor"
+    },
+    {
+      "text": "cefuroxime",
+      "alias": "se-fyoor-OX-eem"
+    },
+    {
+      "text": "ceftriaxone",
+      "alias": "sef-try-AX-one"
+    },
+    {
+      "text": "cefepime",
+      "alias": "SEF-e-peem"
+    },
+    {
+      "text": "meropenem",
+      "alias": "mer-oh-PEN-em"
+    },
+    {
+      "text": "ertapenem",
+      "alias": "er-ta-PEN-em"
+    },
+    {
+      "text": "imipenem",
+      "alias": "i-mi-PEN-em"
+    },
+    {
+      "text": "piperacillin tazobactam",
+      "alias": "pi-PER-a-sil-in ta-zo-BAK-tam"
+    },
+    {
+      "text": "gentamicin",
+      "alias": "jen-ta-MY-sin"
+    },
+    {
+      "text": "tobramycin",
+      "alias": "toe-bra-MY-sin"
+    },
+    {
+      "text": "amikacin",
+      "alias": "am-i-KAY-sin"
+    },
+    {
+      "text": "linezolid",
+      "alias": "li-NEZ-o-lid"
+    },
+    {
+      "text": "daptomycin",
+      "alias": "dap-toe-MY-sin"
+    },
+    {
+      "text": "tigecycline",
+      "alias": "tye-ge-SY-kleen"
+    },
+    {
+      "text": "minocycline",
+      "alias": "mi-no-SY-kleen"
+    },
+    {
+      "text": "rifampin",
+      "alias": "ri-FAM-pin"
+    },
+    {
+      "text": "isoniazid",
+      "alias": "eye-so-NY-a-zid"
+    },
+    {
+      "text": "pyrazinamide",
+      "alias": "py-ra-ZIN-a-mide"
+    },
+    {
+      "text": "ethambutol",
+      "alias": "e-THAM-byoo-tol"
+    },
+    {
+      "text": "fluconazole",
+      "alias": "floo-KON-a-zole"
+    },
+    {
+      "text": "ketoconazole",
+      "alias": "kee-toe-KON-a-zole"
+    },
+    {
+      "text": "itraconazole",
+      "alias": "i-tra-KON-a-zole"
+    },
+    {
+      "text": "voriconazole",
+      "alias": "vor-ih-KON-uh-zole"
+    },
+    {
+      "text": "posaconazole",
+      "alias": "poh-sah-KON-uh-zole"
+    },
+    {
+      "text": "acyclovir",
+      "alias": "ay-SY-kloh-veer"
+    },
+    {
+      "text": "valacyclovir",
+      "alias": "val-ay-SY-kloh-veer"
+    },
+    {
+      "text": "famciclovir",
+      "alias": "fam-SY-kloh-veer"
+    },
+    {
+      "text": "oseltamivir",
+      "alias": "oh-sel-TAM-ih-veer"
+    },
+    {
+      "text": "aciklovir",
+      "alias": "ah-SEE-kloh-veer"
+    },
+    {
+      "text": "ibuprofen",
+      "alias": "eye-byoo-PROH-fen"
+    },
+    {
+      "text": "naproxen",
+      "alias": "nah-PROK-sen"
+    },
+    {
+      "text": "celecoxib",
+      "alias": "sel-eh-KOK-sib"
+    },
+    {
+      "text": "meloxicam",
+      "alias": "mel-OK-sih-kam"
+    },
+    {
+      "text": "diclofenac",
+      "alias": "dye-KLOH-fen-ak"
+    },
+    {
+      "text": "ketorolac",
+      "alias": "kee-TOR-oh-lak"
+    },
+    {
+      "text": "indomethacin",
+      "alias": "in-doh-METH-ah-sin"
+    },
+    {
+      "text": "nabumetone",
+      "alias": "na-BYOO-meh-tone"
+    },
+    {
+      "text": "etodolac",
+      "alias": "ee-TOH-doh-lak"
+    },
+    {
+      "text": "oxaprozin",
+      "alias": "ok-sah-PROH-zin"
+    },
+    {
+      "text": "acetaminophen",
+      "alias": "ah-SEE-tah-MIN-oh-fen"
+    },
+    {
+      "text": "tramadol",
+      "alias": "TRAM-ah-dol"
+    },
+    {
+      "text": "gabapentin",
+      "alias": "gab-ah-PEN-tin"
+    },
+    {
+      "text": "pregabalin",
+      "alias": "pree-GAB-ah-lin"
+    },
+    {
+      "text": "duloxetine",
+      "alias": "doo-LOK-seh-teen"
+    },
+    {
+      "text": "amitriptyline",
+      "alias": "am-ee-TRIP-tih-leen"
+    },
+    {
+      "text": "nortriptyline",
+      "alias": "nor-TRIP-tih-leen"
+    },
+    {
+      "text": "topiramate",
+      "alias": "toh-PIHR-ah-mayt"
+    },
+    {
+      "text": "carbamazepine",
+      "alias": "kar-bah-MAZ-eh-peen"
+    },
+    {
+      "text": "oxcarbazepine",
+      "alias": "oks-kar-BAZ-eh-peen"
+    },
+    {
+      "text": "lamotrigine",
+      "alias": "lah-MOH-trih-jeen"
+    },
+    {
+      "text": "levetiracetam",
+      "alias": "lev-eh-TIHR-ah-seh-tam"
+    },
+    {
+      "text": "phenytoin",
+      "alias": "FEN-ih-toh-in"
+    },
+    {
+      "text": "valproic acid",
+      "alias": "val-PROH-ik AS-id"
+    },
+    {
+      "text": "zonisamide",
+      "alias": "zoh-NIS-ah-mide"
+    },
+    {
+      "text": "lacosamide",
+      "alias": "lah-KOH-sah-mide"
+    },
+    {
+      "text": "rufinamide",
+      "alias": "roo-FIN-ah-mide"
+    },
+    {
+      "text": "omeprazole",
+      "alias": "oh-MEP-rah-zole"
+    },
+    {
+      "text": "pantoprazole",
+      "alias": "pan-TOH-prah-zole"
+    },
+    {
+      "text": "esomeprazole",
+      "alias": "es-oh-MEP-rah-zole"
+    },
+    {
+      "text": "lansoprazole",
+      "alias": "lan-SOH-prah-zole"
+    },
+    {
+      "text": "rabeprazole",
+      "alias": "rah-BEP-rah-zole"
+    },
+    {
+      "text": "dexlansoprazole",
+      "alias": "deks-lan-SOH-prah-zole"
+    },
+    {
+      "text": "famotidine",
+      "alias": "fam-OH-tih-deen"
+    },
+    {
+      "text": "ranitidine",
+      "alias": "ran-IH-tih-deen"
+    },
+    {
+      "text": "cimetidine",
+      "alias": "sy-MET-ih-deen"
+    },
+    {
+      "text": "nizatidine",
+      "alias": "ny-ZAT-ih-deen"
+    },
+    {
+      "text": "aluminum hydroxide",
+      "alias": "ah-LOO-min-um hy-DROK-side"
+    },
+    {
+      "text": "simethicone",
+      "alias": "sy-METH-ih-kone"
+    },
+    {
+      "text": "ondansetron",
+      "alias": "on-DAN-seh-tron"
+    },
+    {
+      "text": "granisetron",
+      "alias": "gran-IS-eh-tron"
+    },
+    {
+      "text": "palonosetron",
+      "alias": "pal-oh-NOH-seh-tron"
+    },
+    {
+      "text": "metoclopramide",
+      "alias": "met-oh-KLOH-prah-mide"
+    },
+    {
+      "text": "promethazine",
+      "alias": "proh-METH-ah-zeen"
+    },
+    {
+      "text": "prochlorperazine",
+      "alias": "proh-klor-PER-ah-zeen"
+    },
+    {
+      "text": "loperamide",
+      "alias": "loh-PER-ah-mide"
+    },
+    {
+      "text": "docusate",
+      "alias": "DOK-yoo-sate"
+    },
+    {
+      "text": "polyethylene glycol",
+      "alias": "pol-ee-ETH-ih-leen GLY-kol"
+    },
+    {
+      "text": "bisacodyl",
+      "alias": "bis-AK-oh-dil"
+    },
+    {
+      "text": "senna",
+      "alias": "SEN-ah"
+    },
+    {
+      "text": "lactulose",
+      "alias": "LAK-tyoo-lose"
+    },
+    {
+      "text": "albuterol",
+      "alias": "al-BOO-ter-ol"
+    },
+    {
+      "text": "levalbuterol",
+      "alias": "lev-al-BOO-ter-ol"
+    },
+    {
+      "text": "ipratropium",
+      "alias": "ip-ra-TROH-pee-um"
+    },
+    {
+      "text": "tiotropium",
+      "alias": "ty-oh-TROH-pee-um"
+    },
+    {
+      "text": "umeclidinium",
+      "alias": "yoo-meh-kli-DIN-ee-um"
+    },
+    {
+      "text": "glycopyrrolate",
+      "alias": "gly-koh-PIR-oh-late"
+    },
+    {
+      "text": "formoterol",
+      "alias": "for-MOH-ter-ol"
+    },
+    {
+      "text": "salmeterol",
+      "alias": "sal-MEH-ter-ol"
+    },
+    {
+      "text": "indacaterol",
+      "alias": "in-da-KA-ter-ol"
+    },
+    {
+      "text": "olodaterol",
+      "alias": "oh-loh-DA-ter-ol"
+    },
+    {
+      "text": "fluticasone",
+      "alias": "floo-TIK-a-sone"
+    },
+    {
+      "text": "budesonide",
+      "alias": "byoo-DEH-soh-nide"
+    },
+    {
+      "text": "mometasone",
+      "alias": "moh-MEH-ta-sone"
+    },
+    {
+      "text": "ciclesonide",
+      "alias": "sik-LEH-soh-nide"
+    },
+    {
+      "text": "beclomethasone",
+      "alias": "beh-kloh-MEH-tha-sone"
+    },
+    {
+      "text": "montelukast",
+      "alias": "mon-teh-LOO-kast"
+    },
+    {
+      "text": "zafirlukast",
+      "alias": "za-FIR-loo-kast"
+    },
+    {
+      "text": "zileuton",
+      "alias": "zy-LOO-ton"
+    },
+    {
+      "text": "theophylline",
+      "alias": "thee-OFF-i-lin"
+    },
+    {
+      "text": "roflumilast",
+      "alias": "roh-FLOO-mi-last"
+    },
+    {
+      "text": "benralizumab",
+      "alias": "ben-ra-LIZ-oo-mab"
+    },
+    {
+      "text": "mepolizumab",
+      "alias": "meh-poh-LIZ-oo-mab"
+    },
+    {
+      "text": "reslizumab",
+      "alias": "rez-LIZ-oo-mab"
+    },
+    {
+      "text": "dupilumab",
+      "alias": "doo-PIL-oo-mab"
+    },
+    {
+      "text": "omalizumab",
+      "alias": "oh-ma-LIZ-oo-mab"
+    },
+    {
+      "text": "sertraline",
+      "alias": "SER-tra-leen"
+    },
+    {
+      "text": "fluoxetine",
+      "alias": "floo-OK-seh-teen"
+    },
+    {
+      "text": "escitalopram",
+      "alias": "es-sit-AL-oh-pram"
+    },
+    {
+      "text": "citalopram",
+      "alias": "sit-AL-oh-pram"
+    },
+    {
+      "text": "paroxetine",
+      "alias": "pa-ROK-seh-teen"
+    },
+    {
+      "text": "venlafaxine",
+      "alias": "ven-la-FAK-seen"
+    },
+    {
+      "text": "desvenlafaxine",
+      "alias": "des-ven-la-FAK-seen"
+    },
+    {
+      "text": "milnacipran",
+      "alias": "mil-NA-si-pran"
+    },
+    {
+      "text": "bupropion",
+      "alias": "byoo-PRO-pee-on"
+    },
+    {
+      "text": "mirtazapine",
+      "alias": "mir-TAZ-a-peen"
+    },
+    {
+      "text": "trazodone",
+      "alias": "TRAZ-oh-done"
+    },
+    {
+      "text": "nefazodone",
+      "alias": "ne-FAZ-oh-done"
+    },
+    {
+      "text": "vortioxetine",
+      "alias": "vor-tee-OK-seh-teen"
+    },
+    {
+      "text": "vilazodone",
+      "alias": "vil-AZ-oh-done"
+    },
+    {
+      "text": "fluvoxamine",
+      "alias": "floo-VOK-sah-meen"
+    },
+    {
+      "text": "clomipramine",
+      "alias": "klo-MIP-rah-meen"
+    },
+    {
+      "text": "desipramine",
+      "alias": "des-IP-rah-meen"
+    },
+    {
+      "text": "imipramine",
+      "alias": "im-IP-rah-meen"
+    },
+    {
+      "text": "protriptyline",
+      "alias": "pro-TRIP-tih-leen"
+    },
+    {
+      "text": "phenelzine",
+      "alias": "FEN-el-zeen"
+    },
+    {
+      "text": "tranylcypromine",
+      "alias": "tran-il-SIP-roh-meen"
+    },
+    {
+      "text": "isocarboxazid",
+      "alias": "eye-so-kar-BOK-sah-zid"
+    },
+    {
+      "text": "selegiline",
+      "alias": "se-LEJ-ih-leen"
+    },
+    {
+      "text": "rasagiline",
+      "alias": "ra-SAJ-ih-leen"
+    },
+    {
+      "text": "aripiprazole",
+      "alias": "a-RIP-ip-ra-zole"
+    },
+    {
+      "text": "olanzapine",
+      "alias": "oh-LAN-zah-peen"
+    },
+    {
+      "text": "quetiapine",
+      "alias": "kwe-TIE-ah-peen"
+    },
+    {
+      "text": "risperidone",
+      "alias": "ris-PER-ih-done"
+    },
+    {
+      "text": "paliperidone",
+      "alias": "pal-ee-PER-ih-done"
+    },
+    {
+      "text": "ziprasidone",
+      "alias": "zip-RAS-ih-done"
+    },
+    {
+      "text": "lurasidone",
+      "alias": "loo-RAS-ih-done"
+    },
+    {
+      "text": "brexpiprazole",
+      "alias": "brek-SIP-ra-zole"
+    },
+    {
+      "text": "cariprazine",
+      "alias": "ka-RIP-ra-zeen"
+    },
+    {
+      "text": "clozapine",
+      "alias": "KLOZ-ah-peen"
+    },
+    {
+      "text": "haloperidol",
+      "alias": "hal-oh-PER-ih-dol"
+    },
+    {
+      "text": "chlorpromazine",
+      "alias": "klor-PROH-mah-zeen"
+    },
+    {
+      "text": "lithium",
+      "alias": "LITH-ee-um"
+    },
+    {
+      "text": "valproate",
+      "alias": "val-PRO-ate"
+    },
+    {
+      "text": "asenapine",
+      "alias": "a-SEN-a-peen"
+    },
+    {
+      "text": "dexmethylphenidate",
+      "alias": "dex-METH-il-FEN-i-date"
+    },
+    {
+      "text": "lisdexamfetamine",
+      "alias": "lis-dex-am-FET-a-meen"
+    },
+    {
+      "text": "methylphenidate",
+      "alias": "METH-il-FEN-i-date"
+    },
+    {
+      "text": "amfetamine",
+      "alias": "am-FET-a-meen"
+    },
+    {
+      "text": "guanfacine",
+      "alias": "GWAHN-fa-seen"
+    },
+    {
+      "text": "tamoxifen",
+      "alias": "ta-MOX-i-fen"
+    },
+    {
+      "text": "anastrozole",
+      "alias": "an-AS-troh-zole"
+    },
+    {
+      "text": "letrozole",
+      "alias": "LET-roh-zole"
+    },
+    {
+      "text": "exemestane",
+      "alias": "ex-e-MES-tane"
+    },
+    {
+      "text": "leuprolide",
+      "alias": "loo-PRO-lide"
+    },
+    {
+      "text": "goserelin",
+      "alias": "goh-SER-a-lin"
+    },
+    {
+      "text": "triptorelin",
+      "alias": "trip-toh-REL-in"
+    },
+    {
+      "text": "bicalutamide",
+      "alias": "bye-ka-LOO-ta-mide"
+    },
+    {
+      "text": "enzalutamide",
+      "alias": "en-za-LOO-ta-mide"
+    },
+    {
+      "text": "abiraterone",
+      "alias": "a-bir-A-ter-one"
+    },
+    {
+      "text": "imatinib",
+      "alias": "i-MAT-in-ib"
+    },
+    {
+      "text": "dasatinib",
+      "alias": "da-SAT-in-ib"
+    },
+    {
+      "text": "nilotinib",
+      "alias": "ny-LOH-tin-ib"
+    },
+    {
+      "text": "bosutinib",
+      "alias": "boh-SOO-tin-ib"
+    },
+    {
+      "text": "ponatinib",
+      "alias": "poh-NA-tin-ib"
+    },
+    {
+      "text": "ibrutinib",
+      "alias": "eye-BROO-tin-ib"
+    },
+    {
+      "text": "acalabrutinib",
+      "alias": "a-KAL-a-BROO-tin-ib"
+    },
+    {
+      "text": "venetoclax",
+      "alias": "ve-NET-oh-klax"
+    },
+    {
+      "text": "rituximab",
+      "alias": "ri-TUX-i-mab"
+    },
+    {
+      "text": "trastuzumab",
+      "alias": "tras-TUZ-oo-mab"
+    },
+    {
+      "text": "pertuzumab",
+      "alias": "per-TUZ-oo-mab"
+    },
+    {
+      "text": "bevacizumab",
+      "alias": "beh-va-KIZ-oo-mab"
+    },
+    {
+      "text": "cetuximab",
+      "alias": "se-TUX-i-mab"
+    },
+    {
+      "text": "panitumumab",
+      "alias": "pan-i-TOO-moo-mab"
+    },
+    {
+      "text": "pembrolizumab",
+      "alias": "pem-broh-LIZ-oo-mab"
+    },
+    {
+      "text": "nivolumab",
+      "alias": "niv-OL-oo-mab"
+    },
+    {
+      "text": "ipilimumab",
+      "alias": "i-pi-LIM-oo-mab"
+    },
+    {
+      "text": "atezolizumab",
+      "alias": "a-TEZ-oh-LIZ-oo-mab"
+    },
+    {
+      "text": "durvalumab",
+      "alias": "dur-VAL-oo-mab"
+    },
+    {
+      "text": "avelumab",
+      "alias": "a-VEL-oo-mab"
+    },
+    {
+      "text": "cisplatin",
+      "alias": "sis-PLAT-in"
+    },
+    {
+      "text": "carboplatin",
+      "alias": "kar-boh-PLAT-in"
+    },
+    {
+      "text": "oxaliplatin",
+      "alias": "ok-SAL-i-plat-in"
+    },
+    {
+      "text": "paclitaxel",
+      "alias": "pak-li-TAKS-el"
+    },
+    {
+      "text": "docetaxel",
+      "alias": "doh-se-TAKS-el"
+    },
+    {
+      "text": "doxorubicin",
+      "alias": "dok-soh-ROO-bi-sin"
+    },
+    {
+      "text": "daunorubicin",
+      "alias": "daw-noh-ROO-bi-sin"
+    },
+    {
+      "text": "vincristine",
+      "alias": "vin-KRIS-teen"
+    },
+    {
+      "text": "vinblastine",
+      "alias": "vin-BLAS-teen"
+    },
+    {
+      "text": "vinorelbine",
+      "alias": "vi-NOR-el-been"
+    },
+    {
+      "text": "etoposide",
+      "alias": "e-TOH-poh-side"
+    },
+    {
+      "text": "cyclophosphamide",
+      "alias": "sy-kloh-FOS-fa-mide"
+    },
+    {
+      "text": "ifosfamide",
+      "alias": "i-FOS-fa-mide"
+    },
+    {
+      "text": "methotrexate",
+      "alias": "meth-oh-TREK-sate"
+    },
+    {
+      "text": "pemetrexed",
+      "alias": "pem-e-TREK-sed"
+    },
+    {
+      "text": "gemcitabine",
+      "alias": "jem-SITE-a-been"
+    },
+    {
+      "text": "fluorouracil",
+      "alias": "floor-oh-YOO-ra-sil"
+    },
+    {
+      "text": "capecitabine",
+      "alias": "ka-pe-SITE-a-been"
+    },
+    {
+      "text": "cytarabine",
+      "alias": "sy-TAIR-a-been"
+    },
+    {
+      "text": "adalimumab",
+      "alias": "a-da-LIM-oo-mab"
+    },
+    {
+      "text": "etanercept",
+      "alias": "e-TAN-er-sept"
+    },
+    {
+      "text": "infliximab",
+      "alias": "in-FLIK-si-mab"
+    },
+    {
+      "text": "certolizumab",
+      "alias": "ser-toh-LIZ-oo-mab"
+    },
+    {
+      "text": "golimumab",
+      "alias": "go-LIM-ue-mab"
+    },
+    {
+      "text": "tocilizumab",
+      "alias": "TOE-sih-LIZ-ue-mab"
+    },
+    {
+      "text": "sarilumab",
+      "alias": "sar-IL-ue-mab"
+    },
+    {
+      "text": "ustekinumab",
+      "alias": "US-te-KIN-ue-mab"
+    },
+    {
+      "text": "secukinumab",
+      "alias": "SEK-ue-KIN-ue-mab"
+    },
+    {
+      "text": "ixekizumab",
+      "alias": "IX-e-KIZ-ue-mab"
+    },
+    {
+      "text": "brodalumab",
+      "alias": "broe-DAL-ue-mab"
+    },
+    {
+      "text": "guselkumab",
+      "alias": "gus-ELK-ue-mab"
+    },
+    {
+      "text": "risankizumab",
+      "alias": "RIS-an-KIZ-ue-mab"
+    },
+    {
+      "text": "tildrakizumab",
+      "alias": "TIL-dra-KIZ-ue-mab"
+    },
+    {
+      "text": "abatacept",
+      "alias": "a-BAT-a-sept"
+    },
+    {
+      "text": "leflunomide",
+      "alias": "le-FLOO-no-mide"
+    },
+    {
+      "text": "sulfasalazine",
+      "alias": "SUL-fa-SAL-a-zeen"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "alias": "hy-DROX-ee-KLOR-oh-kween"
+    },
+    {
+      "text": "azathioprine",
+      "alias": "AY-za-THYE-oh-preen"
+    },
+    {
+      "text": "mycophenolate",
+      "alias": "MYE-koe-FEN-oh-late"
+    },
+    {
+      "text": "tacrolimus",
+      "alias": "ta-KROE-li-mus"
+    },
+    {
+      "text": "cyclosporine",
+      "alias": "SYE-kloe-SPOR-een"
+    },
+    {
+      "text": "sirolimus",
+      "alias": "sir-OH-li-mus"
+    },
+    {
+      "text": "everolimus",
+      "alias": "e-VER-oh-LI-mus"
+    },
+    {
+      "text": "levodopa",
+      "alias": "LEE-voe-DOE-pa"
+    },
+    {
+      "text": "carbidopa",
+      "alias": "KAR-bi-DOE-pa"
+    },
+    {
+      "text": "pramipexole",
+      "alias": "PRAM-i-PEX-ole"
+    },
+    {
+      "text": "ropinirole",
+      "alias": "roe-PIN-i-role"
+    },
+    {
+      "text": "rotigotine",
+      "alias": "roe-TIG-oh-teen"
+    },
+    {
+      "text": "amantadine",
+      "alias": "a-MAN-ta-deen"
+    },
+    {
+      "text": "entacapone",
+      "alias": "en-TAK-a-pone"
+    },
+    {
+      "text": "safinamide",
+      "alias": "sa-FIN-a-mide"
+    },
+    {
+      "text": "apomorphine",
+      "alias": "AP-oh-MOR-feen"
+    },
+    {
+      "text": "donepezil",
+      "alias": "doe-NEP-e-zil"
+    },
+    {
+      "text": "rivastigmine",
+      "alias": "riv-uh-STIG-meen"
+    },
+    {
+      "text": "galantamine",
+      "alias": "guh-LAN-tuh-meen"
+    },
+    {
+      "text": "memantine",
+      "alias": "muh-MAN-teen"
+    },
+    {
+      "text": "glatiramer",
+      "alias": "gluh-TIR-uh-mer"
+    },
+    {
+      "text": "fingolimod",
+      "alias": "fin-GOL-ih-mod"
+    },
+    {
+      "text": "dimethyl fumarate",
+      "alias": "die-METH-ul FYOO-muh-rate"
+    },
+    {
+      "text": "teriflunomide",
+      "alias": "ter-ih-FLOO-noh-mide"
+    },
+    {
+      "text": "ozanimod",
+      "alias": "oh-ZAN-ih-mod"
+    },
+    {
+      "text": "siponimod",
+      "alias": "sih-PON-ih-mod"
+    },
+    {
+      "text": "natalizumab",
+      "alias": "na-tal-IZ-uh-mab"
+    },
+    {
+      "text": "ocrelizumab",
+      "alias": "ok-re-LIZ-uh-mab"
+    },
+    {
+      "text": "ofatumumab",
+      "alias": "oh-fuh-TOO-muh-mab"
+    },
+    {
+      "text": "fumarate",
+      "alias": "FYOO-muh-rate"
+    },
+    {
+      "text": "levothyroxine",
+      "alias": "lee-voh-thigh-ROX-een"
+    },
+    {
+      "text": "prednisone",
+      "alias": "PRED-nih-zone"
+    },
+    {
+      "text": "prednisolone",
+      "alias": "pred-NIS-oh-lone"
+    },
+    {
+      "text": "methylprednisolone",
+      "alias": "METH-ul-pred-NIS-oh-lone"
+    },
+    {
+      "text": "hydrocortisone",
+      "alias": "HIGH-dro-KOR-tih-zone"
+    },
+    {
+      "text": "dexamethasone",
+      "alias": "dex-uh-METH-uh-zone"
+    },
+    {
+      "text": "fludrocortisone",
+      "alias": "floo-dro-KOR-tih-zone"
+    },
+    {
+      "text": "alendronate",
+      "alias": "uh-LEN-dro-nate"
+    },
+    {
+      "text": "risedronate",
+      "alias": "rih-SED-ro-nate"
+    },
+    {
+      "text": "ibandronate",
+      "alias": "ih-BAN-dro-nate"
+    },
+    {
+      "text": "zoledronic acid",
+      "alias": "zoh-leh-DRON-ik AS-id"
+    },
+    {
+      "text": "denosumab",
+      "alias": "den-OH-suh-mab"
+    },
+    {
+      "text": "teriparatide",
+      "alias": "ter-ih-PAR-uh-tide"
+    },
+    {
+      "text": "raloxifene",
+      "alias": "ral-OX-ih-feen"
+    },
+    {
+      "text": "calcitonin",
+      "alias": "kal-sih-TONE-in"
+    },
+    {
+      "text": "tadalafil",
+      "alias": "tuh-DAF-ih-lil"
+    },
+    {
+      "text": "sildenafil",
+      "alias": "sil-DEN-uh-fil"
+    },
+    {
+      "text": "vardenafil",
+      "alias": "var-DEN-ah-fil"
+    },
+    {
+      "text": "finasteride",
+      "alias": "fin-AS-ter-ide"
+    },
+    {
+      "text": "dutasteride",
+      "alias": "doo-TAS-ter-ide"
+    },
+    {
+      "text": "tamsulosin",
+      "alias": "tam-SOO-loh-sin"
+    },
+    {
+      "text": "silodosin",
+      "alias": "si-LOH-doh-sin"
+    },
+    {
+      "text": "alfuzosin",
+      "alias": "al-FOO-zoh-sin"
+    },
+    {
+      "text": "oxybutynin",
+      "alias": "ok-see-BYOO-ti-nin"
+    },
+    {
+      "text": "tolterodine",
+      "alias": "tol-TER-oh-deen"
+    },
+    {
+      "text": "solifenacin",
+      "alias": "sol-i-FEN-ah-sin"
+    },
+    {
+      "text": "darifenacin",
+      "alias": "dar-i-FEN-ah-sin"
+    },
+    {
+      "text": "mirabegron",
+      "alias": "mir-ah-BEG-ron"
+    },
+    {
+      "text": "phenazopyridine",
+      "alias": "fen-az-oh-PYR-i-deen"
+    },
+    {
+      "text": "hydroxyzine",
+      "alias": "hy-DROK-si-zeen"
+    },
+    {
+      "text": "fexofenadine",
+      "alias": "fek-soh-FEN-ah-deen"
+    },
+    {
+      "text": "loratadine",
+      "alias": "lor-AT-ah-deen"
+    },
+    {
+      "text": "cetirizine",
+      "alias": "se-TIR-i-zeen"
+    },
+    {
+      "text": "diphenhydramine",
+      "alias": "dy-fen-HY-drah-meen"
+    },
+    {
+      "text": "chlorpheniramine",
+      "alias": "klor-fen-EER-ah-meen"
+    },
+    {
+      "text": "azelastine",
+      "alias": "ah-ZEL-ah-steen"
+    },
+    {
+      "text": "olopatadine",
+      "alias": "oh-loh-PAT-ah-deen"
+    },
+    {
+      "text": "modafinil",
+      "alias": "mo-DAF-i-nil"
+    },
+    {
+      "text": "armodafinil",
+      "alias": "ar-mo-DAF-i-nil"
+    },
+    {
+      "text": "sumatriptan",
+      "alias": "soo-mah-TRIP-tan"
+    },
+    {
+      "text": "rizatriptan",
+      "alias": "ry-zah-TRIP-tan"
+    },
+    {
+      "text": "zolmitriptan",
+      "alias": "zohl-mi-TRIP-tan"
+    },
+    {
+      "text": "eletriptan",
+      "alias": "el-e-TRIP-tan"
+    },
+    {
+      "text": "almotriptan",
+      "alias": "al-moh-TRIP-tan"
+    },
+    {
+      "text": "frovatriptan",
+      "alias": "froh-vah-TRIP-tan"
+    },
+    {
+      "text": "naratriptan",
+      "alias": "nar-ah-TRIP-tan"
+    },
+    {
+      "text": "ubrogepant",
+      "alias": "yoo-BROH-jeh-pant"
+    },
+    {
+      "text": "rimegepant",
+      "alias": "rih-MEH-jeh-pant"
+    },
+    {
+      "text": "erenumab",
+      "alias": "eh-REH-nyoo-mab"
+    },
+    {
+      "text": "fremanezumab",
+      "alias": "freh-mah-NEH-zoo-mab"
+    },
+    {
+      "text": "galcanezumab",
+      "alias": "gal-kah-NEH-zoo-mab"
+    },
+    {
+      "text": "eprodual",
+      "alias": "eh-PROH-dool"
+    },
+    {
+      "text": "onabotulinumtoxinA",
+      "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay"
+    },
+    {
+      "text": "MI",
+      "alias": "myocardial infarction"
+    },
+    {
+      "text": "COPD",
+      "alias": "chronic obstructive pulmonary disease"
+    },
+    {
+      "text": "CHF",
+      "alias": "congestive heart failure"
+    },
+    {
+      "text": "UTI",
+      "alias": "urinary tract infection"
+    },
+    {
+      "text": "MRI",
+      "alias": "magnetic resonance imaging"
+    },
+    {
+      "text": "CT",
+      "alias": "computed tomography"
+    },
+    {
+      "text": "EKG",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "ECG",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "EEG",
+      "alias": "electroencephalogram"
+    },
+    {
+      "text": "BUN",
+      "alias": "blood urea nitrogen"
+    },
+    {
+      "text": "CMP",
+      "alias": "comprehensive metabolic panel"
+    },
+    {
+      "text": "CBC",
+      "alias": "complete blood count"
+    },
+    {
+      "text": "TSH",
+      "alias": "thyroid stimulating hormone"
+    },
+    {
+      "text": "HbA1c",
+      "alias": "hemoglobin A one C"
+    },
+    {
+      "text": "PT",
+      "alias": "prothrombin time"
+    },
+    {
+      "text": "INR",
+      "alias": "international normalized ratio"
+    },
+    {
+      "text": "PTT",
+      "alias": "partial thromboplastin time"
+    },
+    {
+      "text": "DVT",
+      "alias": "deep vein thrombosis"
+    },
+    {
+      "text": "PE",
+      "alias": "pulmonary embolism"
+    },
+    {
+      "text": "CVA",
+      "alias": "cerebrovascular accident"
+    },
+    {
+      "text": "TIA",
+      "alias": "transient ischemic attack"
+    },
+    {
+      "text": "ICU",
+      "alias": "intensive care unit"
+    },
+    {
+      "text": "NICU",
+      "alias": "neonatal intensive care unit"
+    },
+    {
+      "text": "ER",
+      "alias": "emergency room"
+    },
+    {
+      "text": "ED",
+      "alias": "emergency department"
+    },
+    {
+      "text": "OR",
+      "alias": "operating room"
+    },
+    {
+      "text": "PACU",
+      "alias": "post-anesthesia care unit"
+    },
+    {
+      "text": "CCU",
+      "alias": "coronary care unit"
+    },
+    {
+      "text": "SICU",
+      "alias": "surgical intensive care unit"
+    },
+    {
+      "text": "MICU",
+      "alias": "medical intensive care unit"
+    },
+    {
+      "text": "BP",
+      "alias": "blood pressure"
+    },
+    {
+      "text": "HR",
+      "alias": "heart rate"
+    },
+    {
+      "text": "RR",
+      "alias": "respiratory rate"
+    },
+    {
+      "text": "SpO2",
+      "alias": "saturation of peripheral oxygen"
+    },
+    {
+      "text": "ETCO2",
+      "alias": "end-tidal carbon dioxide"
+    },
+    {
+      "text": "IV",
+      "alias": "intravenous"
+    },
+    {
+      "text": "IM",
+      "alias": "intramuscular"
+    },
+    {
+      "text": "SC",
+      "alias": "subcutaneous"
+    },
+    {
+      "text": "PO",
+      "alias": "by mouth"
+    },
+    {
+      "text": "PR",
+      "alias": "per rectum"
+    },
+    {
+      "text": "SL",
+      "alias": "sublingual"
+    },
+    {
+      "text": "OD",
+      "alias": "right eye"
+    },
+    {
+      "text": "OS",
+      "alias": "left eye"
+    },
+    {
+      "text": "OU",
+      "alias": "both eyes"
+    },
+    {
+      "text": "AU",
+      "alias": "both ears"
+    },
+    {
+      "text": "AD",
+      "alias": "right ear"
+    },
+    {
+      "text": "AS",
+      "alias": "left ear"
+    },
+    {
+      "text": "APAP",
+      "alias": "acetaminophen"
+    },
+    {
+      "text": "NSAID",
+      "alias": "non-steroidal anti-inflammatory drug"
+    },
+    {
+      "text": "PPI",
+      "alias": "proton pump inhibitor"
+    },
+    {
+      "text": "ARB",
+      "alias": "angiotensin receptor blocker"
+    },
+    {
+      "text": "ACE",
+      "alias": "angiotensin-converting enzyme"
+    },
+    {
+      "text": "BB",
+      "alias": "beta blocker"
+    },
+    {
+      "text": "CCB",
+      "alias": "calcium channel blocker"
+    },
+    {
+      "text": "SSRI",
+      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
+    },
+    {
+      "text": "SNRI",
+      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
+    },
+    {
+      "text": "TCA",
+      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
+    },
+    {
+      "text": "MAOI",
+      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
+    },
+    {
+      "text": "DM",
+      "alias": "di-a-BE-teez mel-LI-tus"
+    },
+    {
+      "text": "HTN",
+      "alias": "hi-per-TEN-shun"
+    },
+    {
+      "text": "HLD",
+      "alias": "hi-per-LIP-i-dee-mee-uh"
+    },
+    {
+      "text": "CAD",
+      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
+    },
+    {
+      "text": "PVD",
+      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
+    },
+    {
+      "text": "CKD",
+      "alias": "kron-ik KID-nee di-ZEEZ"
+    },
+    {
+      "text": "ESRD",
+      "alias": "end-STAGE re-NAL di-ZEEZ"
+    },
+    {
+      "text": "AKI",
+      "alias": "ak-YOOT KID-nee in-JER-ee"
+    },
+    {
+      "text": "ASTHMA",
+      "alias": "AZ-muh"
+    },
+    {
+      "text": "GERD",
+      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
+    },
+    {
+      "text": "IBD",
+      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
+    },
+    {
+      "text": "IBS",
+      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
+    },
+    {
+      "text": "NASH",
+      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
+    },
+    {
+      "text": "NAFLD",
+      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
+    },
+    {
+      "text": "HCC",
+      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
+    },
+    {
+      "text": "ALL",
+      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
+    },
+    {
+      "text": "AML",
+      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
+    },
+    {
+      "text": "CLL",
+      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
+    },
+    {
+      "text": "CML",
+      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
+    },
+    {
+      "text": "NHL",
+      "alias": "non-HOJ-kin lym-FO-ma"
+    },
+    {
+      "text": "Hodgkin",
+      "alias": "HOJ-kin"
+    },
+    {
+      "text": "MM",
+      "alias": "mul-TI-pul my-eh-LO-ma"
+    },
+    {
+      "text": "SLE",
+      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
+    },
+    {
+      "text": "RA",
+      "alias": "rew-ma-TOYD ar-THRI-tis"
+    },
+    {
+      "text": "OA",
+      "alias": "os-tee-o-ar-THRI-tis"
+    },
+    {
+      "text": "DJD",
+      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
+    },
+    {
+      "text": "GOUT",
+      "alias": "gowt"
+    },
+    {
+      "text": "MG",
+      "alias": "myasthenia gravis"
+    },
+    {
+      "text": "MS",
+      "alias": "multiple sclerosis"
+    },
+    {
+      "text": "ALS",
+      "alias": "amyotrophic lateral sclerosis"
+    },
+    {
+      "text": "GBS",
+      "alias": "Guillain-Barré syndrome"
+    },
+    {
+      "text": "TBI",
+      "alias": "traumatic brain injury"
+    },
+    {
+      "text": "PD",
+      "alias": "Parkinson disease"
+    },
+    {
+      "text": "HD",
+      "alias": "Huntington disease"
+    },
+    {
+      "text": "CJD",
+      "alias": "Creutzfeldt-Jakob disease"
+    },
+    {
+      "text": "SCI",
+      "alias": "spinal cord injury"
+    },
+    {
+      "text": "CA",
+      "alias": "cancer"
+    },
+    {
+      "text": "N/V",
+      "alias": "nausea and vomiting"
+    },
+    {
+      "text": "SOB",
+      "alias": "shortness of breath"
+    },
+    {
+      "text": "CP",
+      "alias": "cerebral palsy"
+    },
+    {
+      "text": "N/V/D",
+      "alias": "nausea vomiting and diarrhea"
+    },
+    {
+      "text": "LOC",
+      "alias": "loss of consciousness"
+    },
+    {
+      "text": "GCS",
+      "alias": "Glasgow Coma Scale"
+    },
+    {
+      "text": "HEENT",
+      "alias": "head eyes ears nose and throat"
+    },
+    {
+      "text": "CV",
+      "alias": "cardiovascular"
+    },
+    {
+      "text": "GI",
+      "alias": "gastrointestinal"
+    },
+    {
+      "text": "GU",
+      "alias": "genitourinary"
+    },
+    {
+      "text": "MSK",
+      "alias": "musculoskeletal"
+    },
+    {
+      "text": "Neuro",
+      "alias": "NEU-roh"
+    },
+    {
+      "text": "Psych",
+      "alias": "SYKE"
+    },
+    {
+      "text": "Derm",
+      "alias": "derm"
+    },
+    {
+      "text": "ENT",
+      "alias": "ear nose and throat"
+    },
+    {
+      "text": "OB",
+      "alias": "obstetrics"
+    },
+    {
+      "text": "GYN",
+      "alias": "gynecology"
+    },
+    {
+      "text": "LMP",
+      "alias": "last menstrual period"
+    },
+    {
+      "text": "EDC",
+      "alias": "estimated date of confinement"
+    },
+    {
+      "text": "Gest",
+      "alias": "gest"
+    },
+    {
+      "text": "NS",
+      "alias": "normal saline"
+    },
+    {
+      "text": "LR",
+      "alias": "lactated Ringer's"
+    },
+    {
+      "text": "D5W",
+      "alias": "D-five-W"
+    },
+    {
+      "text": "D5NS",
+      "alias": "D-five-N-S"
+    },
+    {
+      "text": "D5LR",
+      "alias": "D-five-L-R"
+    },
+    {
+      "text": "KCl",
+      "alias": "potassium chloride"
+    },
+    {
+      "text": "MgSO4",
+      "alias": "mag-NEE-zee-um sul-FATE"
+    },
+    {
+      "text": "CaCl2",
+      "alias": "KAL-see-um KLOR-ide"
+    },
+    {
+      "text": "NaHCO3",
+      "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate"
+    },
+    {
+      "text": "ABG",
+      "alias": "arterial blood gas"
+    },
+    {
+      "text": "VBG",
+      "alias": "venous blood gas"
+    },
+    {
+      "text": "LP",
+      "alias": "lumbar puncture"
+    },
+    {
+      "text": "BM",
+      "alias": "bowel movement"
+    },
+    {
+      "text": "PEG",
+      "alias": "PEG"
+    },
+    {
+      "text": "ICD",
+      "alias": "implantable cardioverter defibrillator"
+    },
+    {
+      "text": "Pacemaker",
+      "alias": "PACE-may-ker"
+    },
+    {
+      "text": "AICD",
+      "alias": "automatic implantable cardioverter defibrillator"
+    },
+    {
+      "text": "CABG",
+      "alias": "cabbage"
+    },
+    {
+      "text": "PCI",
+      "alias": "percutaneous coronary intervention"
+    },
+    {
+      "text": "TAVR",
+      "alias": "TAH-ver"
+    },
+    {
+      "text": "TEVAR",
+      "alias": "TEV-ar"
+    },
+    {
+      "text": "EVAR",
+      "alias": "EE-var"
+    },
+    {
+      "text": "PTCA",
+      "alias": "percutaneous transluminal coronary angioplasty"
+    },
+    {
+      "text": "ETOH",
+      "alias": "alcohol"
+    },
+    {
+      "text": "IVDU",
+      "alias": "I-V drug use"
+    },
+    {
+      "text": "ASA",
+      "alias": "ASPIR-in"
+    },
+    {
+      "text": "NYD",
+      "alias": "not yet diagnosed"
+    },
+    {
+      "text": "HX",
+      "alias": "history"
+    },
+    {
+      "text": "Sx",
+      "alias": "symptoms"
+    },
+    {
+      "text": "Tx",
+      "alias": "treatment"
+    },
+    {
+      "text": "Dx",
+      "alias": "diagnosis"
+    },
+    {
+      "text": "Rx",
+      "alias": "prescription"
+    },
+    {
+      "text": "FHx",
+      "alias": "family history"
+    },
+    {
+      "text": "SHx",
+      "alias": "social history"
+    },
+    {
+      "text": "myocardial infarction",
+      "alias": "my-oh-KAR-dee-al in-FARK-shun"
+    },
+    {
+      "text": "angina pectoris",
+      "alias": "an-JY-nah PEK-tor-is"
+    },
+    {
+      "text": "arrhythmia",
+      "alias": "a-RITH-mee-ah"
+    },
+    {
+      "text": "atrial fibrillation",
+      "alias": "AY-tree-al fib-ri-LAY-shun"
+    },
+    {
+      "text": "ventricular fibrillation",
+      "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun"
+    },
+    {
+      "text": "tachycardia",
+      "alias": "tak-ee-KAR-dee-ah"
+    },
+    {
+      "text": "bradycardia",
+      "alias": "brad-ee-KAR-dee-ah"
+    },
+    {
+      "text": "hypertension",
+      "alias": "hy-per-TEN-shun"
+    },
+    {
+      "text": "hypotension",
+      "alias": "hy-poh-TEN-shun"
+    },
+    {
+      "text": "atherosclerosis",
+      "alias": "ath-er-oh-skleh-ROH-sis"
+    },
+    {
+      "text": "endocarditis",
+      "alias": "en-doh-kar-DY-tis"
+    },
+    {
+      "text": "pericarditis",
+      "alias": "per-ee-kar-DY-tis"
+    },
+    {
+      "text": "myocarditis",
+      "alias": "my-oh-kar-DY-tis"
+    },
+    {
+      "text": "cardiomyopathy",
+      "alias": "kar-dee-oh-my-OP-ah-thee"
+    },
+    {
+      "text": "thromboembolism",
+      "alias": "throm-boh-EM-boh-liz-um"
+    },
+    {
+      "text": "thrombophlebitis",
+      "alias": "throm-boh-fleh-BY-tis"
+    },
+    {
+      "text": "phlebitis",
+      "alias": "fleh-BY-tis"
+    },
+    {
+      "text": "embolism",
+      "alias": "EM-boh-liz-um"
+    },
+    {
+      "text": "stenosis",
+      "alias": "steh-NOH-sis"
+    },
+    {
+      "text": "regurgitation",
+      "alias": "ree-gur-ji-TAY-shun"
+    },
+    {
+      "text": "prolapse",
+      "alias": "proh-LAPS"
+    },
+    {
+      "text": "aneurysm",
+      "alias": "AN-yoo-riz-um"
+    },
+    {
+      "text": "dissection",
+      "alias": "dy-SEK-shun"
+    },
+    {
+      "text": "ischemia",
+      "alias": "is-KEE-mee-ah"
+    },
+    {
+      "text": "infarction",
+      "alias": "in-FARK-shun"
+    },
+    {
+      "text": "reperfusion",
+      "alias": "REE-per-FYOO-zhun"
+    },
+    {
+      "text": "hypercholesterolemia",
+      "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah"
+    },
+    {
+      "text": "hypertriglyceridemia",
+      "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah"
+    },
+    {
+      "text": "hypoalbuminemia",
+      "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah"
+    },
+    {
+      "text": "pneumonia",
+      "alias": "noo-MOHN-yah"
+    },
+    {
+      "text": "bronchitis",
+      "alias": "brong-KY-tis"
+    },
+    {
+      "text": "bronchiectasis",
+      "alias": "brong-kee-EK-tah-sis"
+    },
+    {
+      "text": "emphysema",
+      "alias": "em-fih-SEE-mah"
+    },
+    {
+      "text": "pneumothorax",
+      "alias": "noo-moh-THOR-aks"
+    },
+    {
+      "text": "hemothorax",
+      "alias": "hee-moh-THOR-aks"
+    },
+    {
+      "text": "pleural effusion",
+      "alias": "PLOO-ral eh-FYOO-zhun"
+    },
+    {
+      "text": "pleurisy",
+      "alias": "PLOO-rih-see"
+    },
+    {
+      "text": "atelectasis",
+      "alias": "at-ih-LEK-tah-sis"
+    },
+    {
+      "text": "pulmonary embolism",
+      "alias": "PUL-moh-nair-ee EM-bol-izm"
+    },
+    {
+      "text": "pulmonary edema",
+      "alias": "PUL-moh-nair-ee eh-DEE-mah"
+    },
+    {
+      "text": "pulmonary fibrosis",
+      "alias": "PUL-moh-nair-ee fy-BROH-sis"
+    },
+    {
+      "text": "sarcoidosis",
+      "alias": "SAR-koy-DOH-sis"
+    },
+    {
+      "text": "tuberculosis",
+      "alias": "too-BER-kyoo-LOH-sis"
+    },
+    {
+      "text": "hypoxia",
+      "alias": "hy-POK-see-ah"
+    },
+    {
+      "text": "hypercapnia",
+      "alias": "hy-per-KAP-nee-ah"
+    },
+    {
+      "text": "respiratory failure",
+      "alias": "RES-pih-rah-tor-ee FAYL-yer"
+    },
+    {
+      "text": "apnea",
+      "alias": "AP-nee-ah"
+    },
+    {
+      "text": "dyspnea",
+      "alias": "DISP-nee-ah"
+    },
+    {
+      "text": "hemoptysis",
+      "alias": "hee-MOP-tih-sis"
+    },
+    {
+      "text": "stridor",
+      "alias": "STRY-dor"
+    },
+    {
+      "text": "wheezing",
+      "alias": "WEE-zing"
+    },
+    {
+      "text": "coryza",
+      "alias": "koh-RY-zah"
+    },
+    {
+      "text": "gastroesophageal reflux",
+      "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks"
+    },
+    {
+      "text": "esophagitis",
+      "alias": "ee-sof-ah-JY-tis"
+    },
+    {
+      "text": "gastritis",
+      "alias": "gas-TRY-tis"
+    },
+    {
+      "text": "peptic ulcer",
+      "alias": "PEP-tik UL-ser"
+    },
+    {
+      "text": "gastroenteritis",
+      "alias": "gas-tro-en-ter-EYE-tis"
+    },
+    {
+      "text": "colitis",
+      "alias": "ko-LYE-tis"
+    },
+    {
+      "text": "ulcerative colitis",
+      "alias": "UL-ser-a-tiv ko-LYE-tis"
+    },
+    {
+      "text": "Crohn's disease",
+      "alias": "KROHNZ dih-ZEEZ"
+    },
+    {
+      "text": "diverticulitis",
+      "alias": "dye-ver-tik-yoo-LYE-tis"
+    },
+    {
+      "text": "appendicitis",
+      "alias": "a-pen-dih-SYE-tis"
+    },
+    {
+      "text": "cholecystitis",
+      "alias": "ko-luh-sis-TYE-tis"
+    },
+    {
+      "text": "pancreatitis",
+      "alias": "pan-kree-a-TYE-tis"
+    },
+    {
+      "text": "hepatitis",
+      "alias": "hep-a-TYE-tis"
+    },
+    {
+      "text": "cirrhosis",
+      "alias": "sir-OH-sis"
+    },
+    {
+      "text": "cholestasis",
+      "alias": "ko-luh-STAY-sis"
+    },
+    {
+      "text": "steatosis",
+      "alias": "stee-a-TOH-sis"
+    },
+    {
+      "text": "steatohepatitis",
+      "alias": "stee-a-toh-hep-a-TYE-tis"
+    },
+    {
+      "text": "peritonitis",
+      "alias": "pair-ih-toh-NYE-tis"
+    },
+    {
+      "text": "ileus",
+      "alias": "IL-ee-us"
+    },
+    {
+      "text": "intussusception",
+      "alias": "in-tuh-suh-SEP-shun"
+    },
+    {
+      "text": "volvulus",
+      "alias": "VOL-vyoo-lus"
+    },
+    {
+      "text": "hematemesis",
+      "alias": "hee-ma-TEM-eh-sis"
+    },
+    {
+      "text": "melena",
+      "alias": "muh-LEE-na"
+    },
+    {
+      "text": "hematochezia",
+      "alias": "hee-ma-toh-KEE-zee-a"
+    },
+    {
+      "text": "choledocholithiasis",
+      "alias": "ko-led-oh-ko-lih-THIGH-a-sis"
+    },
+    {
+      "text": "cholelithiasis",
+      "alias": "ko-luh-lih-THIGH-a-sis"
+    },
+    {
+      "text": "nephrolithiasis",
+      "alias": "nef-ro-lih-THIGH-a-sis"
+    },
+    {
+      "text": "sialadenitis",
+      "alias": "sigh-al-a-deh-NYE-tis"
+    },
+    {
+      "text": "nephritis",
+      "alias": "neh-FRY-tis"
+    },
+    {
+      "text": "nephrosis",
+      "alias": "neh-FROH-sis"
+    },
+    {
+      "text": "glomerulonephritis",
+      "alias": "gloh-mer-yoo-loh-neh-FRY-tis"
+    },
+    {
+      "text": "pyelonephritis",
+      "alias": "pye-eh-loh-neh-FRY-tis"
+    },
+    {
+      "text": "cystitis",
+      "alias": "sis-TYE-tis"
+    },
+    {
+      "text": "urethritis",
+      "alias": "yoo-reh-THRY-tis"
+    },
+    {
+      "text": "ureterolithiasis",
+      "alias": "yoo-REH-ter-oh-lih-THY-ah-sis"
+    },
+    {
+      "text": "hydronephrosis",
+      "alias": "HY-droh-neh-FROH-sis"
+    },
+    {
+      "text": "oliguria",
+      "alias": "oh-lih-GYOO-ree-ah"
+    },
+    {
+      "text": "anuria",
+      "alias": "an-YOO-ree-ah"
+    },
+    {
+      "text": "hematuria",
+      "alias": "HEE-mah-TOO-ree-ah"
+    },
+    {
+      "text": "proteinuria",
+      "alias": "PROH-tee-NYOO-ree-ah"
+    },
+    {
+      "text": "dysuria",
+      "alias": "dis-YOO-ree-ah"
+    },
+    {
+      "text": "incontinence",
+      "alias": "in-KON-tih-nens"
+    },
+    {
+      "text": "retention",
+      "alias": "ree-TEN-shun"
+    },
+    {
+      "text": "azoospermia",
+      "alias": "AY-zoh-oh-SPER-mee-ah"
+    },
+    {
+      "text": "oligospermia",
+      "alias": "OH-lih-goh-SPER-mee-ah"
+    },
+    {
+      "text": "encephalopathy",
+      "alias": "en-SEH-fah-LOP-ah-thee"
+    },
+    {
+      "text": "encephalitis",
+      "alias": "en-SEH-fah-LY-tis"
+    },
+    {
+      "text": "meningitis",
+      "alias": "MEH-nin-JY-tis"
+    },
+    {
+      "text": "myelitis",
+      "alias": "MY-eh-LY-tis"
+    },
+    {
+      "text": "neuropathy",
+      "alias": "nyoo-ROP-ah-thee"
+    },
+    {
+      "text": "radiculopathy",
+      "alias": "rah-DIK-yoo-LOP-ah-thee"
+    },
+    {
+      "text": "myelopathy",
+      "alias": "MY-eh-LOP-ah-thee"
+    },
+    {
+      "text": "ataxia",
+      "alias": "ah-TAK-see-ah"
+    },
+    {
+      "text": "dysarthria",
+      "alias": "dis-AR-three-ah"
+    },
+    {
+      "text": "aphasia",
+      "alias": "ah-FAY-zhah"
+    },
+    {
+      "text": "apraxia",
+      "alias": "ah-PRAK-see-ah"
+    },
+    {
+      "text": "agnosia",
+      "alias": "ag-NOH-zhah"
+    },
+    {
+      "text": "anomia",
+      "alias": "ah-NOH-mee-ah"
+    },
+    {
+      "text": "dysphagia",
+      "alias": "dis-FAY-jah"
+    },
+    {
+      "text": "dysphonia",
+      "alias": "dis-FOH-nee-ah"
+    },
+    {
+      "text": "dyskinesia",
+      "alias": "dis-kih-NEE-zhah"
+    },
+    {
+      "text": "myoclonus",
+      "alias": "my-OK-loh-nus"
+    },
+    {
+      "text": "chorea",
+      "alias": "koh-REE-ah"
+    },
+    {
+      "text": "athetosis",
+      "alias": "ATH-eh-TOE-sis"
+    },
+    {
+      "text": "dystonia",
+      "alias": "dis-TOE-nee-ah"
+    },
+    {
+      "text": "tremor",
+      "alias": "TREM-or"
+    },
+    {
+      "text": "fasciculation",
+      "alias": "fa-SIK-yoo-LAY-shun"
+    },
+    {
+      "text": "clonus",
+      "alias": "KLOH-nus"
+    },
+    {
+      "text": "nystagmus",
+      "alias": "nis-TAG-mus"
+    },
+    {
+      "text": "ptosis",
+      "alias": "TOE-sis"
+    },
+    {
+      "text": "miosis",
+      "alias": "my-OH-sis"
+    },
+    {
+      "text": "mydriasis",
+      "alias": "mi-DRY-ah-sis"
+    },
+    {
+      "text": "anisocoria",
+      "alias": "an-EYE-so-KOR-ee-ah"
+    },
+    {
+      "text": "hyperreflexia",
+      "alias": "HY-per-re-FLEK-see-ah"
+    },
+    {
+      "text": "hyporeflexia",
+      "alias": "HY-po-re-FLEK-see-ah"
+    },
+    {
+      "text": "Babinski",
+      "alias": "ba-BIN-skee"
+    },
+    {
+      "text": "paresthesia",
+      "alias": "par-es-THEE-zhah"
+    },
+    {
+      "text": "anesthesia",
+      "alias": "an-es-THEE-zhah"
+    },
+    {
+      "text": "hyperesthesia",
+      "alias": "HY-per-es-THEE-zhah"
+    },
+    {
+      "text": "dysesthesia",
+      "alias": "dis-es-THEE-zhah"
+    },
+    {
+      "text": "neuralgia",
+      "alias": "nyoo-RAL-jah"
+    },
+    {
+      "text": "neuritis",
+      "alias": "nyoo-RY-tis"
+    },
+    {
+      "text": "sciatica",
+      "alias": "sy-AT-ik-ah"
+    },
+    {
+      "text": "trigeminal",
+      "alias": "try-JEM-in-al"
+    },
+    {
+      "text": "prosopagnosia",
+      "alias": "PROS-oh-pag-NOH-zhah"
+    },
+    {
+      "text": "hyperthyroidism",
+      "alias": "HY-per-THY-roy-dizm"
+    },
+    {
+      "text": "hypothyroidism",
+      "alias": "HY-po-THY-roy-dizm"
+    },
+    {
+      "text": "thyrotoxicosis",
+      "alias": "THY-ro-TOK-sih-KOH-sis"
+    },
+    {
+      "text": "myxedema",
+      "alias": "mik-seh-DEE-mah"
+    },
+    {
+      "text": "hyperparathyroidism",
+      "alias": "HY-per-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hypoparathyroidism",
+      "alias": "HY-po-PAR-ah-THY-roy-dizm"
+    },
+    {
+      "text": "hypercalcemia",
+      "alias": "HY-per-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hypocalcemia",
+      "alias": "HY-po-kal-SEE-mee-ah"
+    },
+    {
+      "text": "hyperkalemia",
+      "alias": "hy-per-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hypokalemia",
+      "alias": "hy-poh-kah-LEE-mee-ah"
+    },
+    {
+      "text": "hypernatremia",
+      "alias": "hy-per-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hyponatremia",
+      "alias": "hy-poh-nah-TREE-mee-ah"
+    },
+    {
+      "text": "hypomagnesemia",
+      "alias": "hy-poh-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypermagnesemia",
+      "alias": "hy-per-mag-neh-SEE-mee-ah"
+    },
+    {
+      "text": "hypophosphatemia",
+      "alias": "hy-poh-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "hyperphosphatemia",
+      "alias": "hy-per-fos-fah-TEE-mee-ah"
+    },
+    {
+      "text": "acidosis",
+      "alias": "ah-sih-DOH-sis"
+    },
+    {
+      "text": "alkalosis",
+      "alias": "al-kah-LOH-sis"
+    },
+    {
+      "text": "ketoacidosis",
+      "alias": "kee-toh-ah-sih-DOH-sis"
+    },
+    {
+      "text": "hypoglycemia",
+      "alias": "hy-poh-gly-SEE-mee-ah"
+    },
+    {
+      "text": "hyperglycemia",
+      "alias": "hy-per-gly-SEE-mee-ah"
+    },
+    {
+      "text": "insulinoma",
+      "alias": "in-suh-lih-NOH-mah"
+    },
+    {
+      "text": "pheochromocytoma",
+      "alias": "fee-oh-kroh-moh-sy-TOH-mah"
+    },
+    {
+      "text": "anemia",
+      "alias": "ah-NEE-mee-ah"
+    },
+    {
+      "text": "polycythemia",
+      "alias": "pol-ee-sy-THEE-mee-ah"
+    },
+    {
+      "text": "thrombocytopenia",
+      "alias": "throm-boh-sy-toh-PEE-nee-ah"
+    },
+    {
+      "text": "thrombocytosis",
+      "alias": "throm-boh-sy-TOH-sis"
+    },
+    {
+      "text": "leukopenia",
+      "alias": "loo-koh-PEE-nee-ah"
+    },
+    {
+      "text": "leukocytosis",
+      "alias": "loo-koh-sy-TOH-sis"
+    },
+    {
+      "text": "neutropenia",
+      "alias": "noo-troh-PEE-nee-ah"
+    },
+    {
+      "text": "neutrophilia",
+      "alias": "noo-troh-FIL-ee-ah"
+    },
+    {
+      "text": "lymphopenia",
+      "alias": "lim-foh-PEE-nee-ah"
+    },
+    {
+      "text": "lymphocytosis",
+      "alias": "lim-foh-sy-TOH-sis"
+    },
+    {
+      "text": "monocytosis",
+      "alias": "mon-oh-sy-TOH-sis"
+    },
+    {
+      "text": "eosinophilia",
+      "alias": "ee-oh-sin-oh-FIL-ee-ah"
+    },
+    {
+      "text": "basophilia",
+      "alias": "bay-soh-FIL-ee-ah"
+    },
+    {
+      "text": "pancytopenia",
+      "alias": "pan-sy-toh-PEE-nee-ah"
+    },
+    {
+      "text": "hemophilia",
+      "alias": "hee-moh-FIL-ee-ah"
+    },
+    {
+      "text": "thrombophilia",
+      "alias": "throm-bo-FIL-ee-ah"
+    },
+    {
+      "text": "purpura",
+      "alias": "PUR-pur-ah"
+    },
+    {
+      "text": "petechiae",
+      "alias": "pe-TEE-kee-eye"
+    },
+    {
+      "text": "ecchymosis",
+      "alias": "ek-ih-MOH-sis"
+    },
+    {
+      "text": "hematoma",
+      "alias": "hee-mah-TOH-mah"
+    },
+    {
+      "text": "hemolysis",
+      "alias": "hee-MOL-ih-sis"
+    },
+    {
+      "text": "cellulitis",
+      "alias": "sel-yoo-LY-tis"
+    },
+    {
+      "text": "abscess",
+      "alias": "AB-ses"
+    },
+    {
+      "text": "furuncle",
+      "alias": "FYOOR-ung-kul"
+    },
+    {
+      "text": "carbuncle",
+      "alias": "KAR-bung-kul"
+    },
+    {
+      "text": "impetigo",
+      "alias": "im-peh-TY-goh"
+    },
+    {
+      "text": "erysipelas",
+      "alias": "er-ih-SIP-eh-las"
+    },
+    {
+      "text": "necrotizing fasciitis",
+      "alias": "NEK-roh-ty-zing fash-ee-EYE-tis"
+    },
+    {
+      "text": "osteomyelitis",
+      "alias": "os-tee-oh-my-eh-LY-tis"
+    },
+    {
+      "text": "septic arthritis",
+      "alias": "SEP-tik ar-THRY-tis"
+    },
+    {
+      "text": "sepsis",
+      "alias": "SEP-sis"
+    },
+    {
+      "text": "septicemia",
+      "alias": "sep-tih-SEE-mee-ah"
+    },
+    {
+      "text": "bacteremia",
+      "alias": "bak-ter-EE-mee-ah"
+    },
+    {
+      "text": "viremia",
+      "alias": "vy-REE-mee-ah"
+    },
+    {
+      "text": "fungemia",
+      "alias": "fun-JEE-mee-ah"
+    },
+    {
+      "text": "parasitemia",
+      "alias": "par-ah-sih-TEE-mee-ah"
+    },
+    {
+      "text": "endotoxemia",
+      "alias": "en-doh-tok-SEE-mee-ah"
+    },
+    {
+      "text": "erythema",
+      "alias": "er-ih-THEE-mah"
+    },
+    {
+      "text": "urticaria",
+      "alias": "ur-tih-KAR-ee-ah"
+    },
+    {
+      "text": "pruritus",
+      "alias": "proo-RY-tus"
+    },
+    {
+      "text": "eczema",
+      "alias": "EK-zeh-mah"
+    },
+    {
+      "text": "psoriasis",
+      "alias": "soh-RY-ah-sis"
+    },
+    {
+      "text": "lichenification",
+      "alias": "ly-ken-ih-fih-KAY-shun"
+    },
+    {
+      "text": "excoriation",
+      "alias": "eks-kor-ee-AY-shun"
+    },
+    {
+      "text": "vesicle",
+      "alias": "VES-ih-kul"
+    },
+    {
+      "text": "bulla",
+      "alias": "BULL-ah"
+    },
+    {
+      "text": "pustule",
+      "alias": "PUS-chool"
+    },
+    {
+      "text": "macule",
+      "alias": "MAK-yool"
+    },
+    {
+      "text": "papule",
+      "alias": "PAP-yool"
+    },
+    {
+      "text": "nodule",
+      "alias": "NOD-yool"
+    },
+    {
+      "text": "plaque",
+      "alias": "PLAK"
+    },
+    {
+      "text": "scale",
+      "alias": "SKAYL"
+    },
+    {
+      "text": "crust",
+      "alias": "KRUST"
+    },
+    {
+      "text": "erosion",
+      "alias": "ee-ROH-zhun"
+    },
+    {
+      "text": "ulcer",
+      "alias": "UL-ser"
+    },
+    {
+      "text": "fissure",
+      "alias": "FISH-ur"
+    },
+    {
+      "text": "atrophy",
+      "alias": "AT-roh-fee"
+    },
+    {
+      "text": "sclerosis",
+      "alias": "skleh-ROH-sis"
+    },
+    {
+      "text": "appendectomy",
+      "alias": "ap-en-DEK-toh-mee"
+    },
+    {
+      "text": "cholecystectomy",
+      "alias": "koh-leh-sis-TEK-toh-mee"
+    },
+    {
+      "text": "herniorrhaphy",
+      "alias": "her-nee-OR-ah-fee"
+    },
+    {
+      "text": "colostomy",
+      "alias": "koh-LOS-toh-mee"
+    },
+    {
+      "text": "ileostomy",
+      "alias": "il-ee-OS-toh-mee"
+    },
+    {
+      "text": "nephrectomy",
+      "alias": "neh-FREK-toh-mee"
+    },
+    {
+      "text": "hysterectomy",
+      "alias": "his-teh-REK-toh-mee"
+    },
+    {
+      "text": "mastectomy",
+      "alias": "mas-TEK-toh-mee"
+    },
+    {
+      "text": "thyroidectomy",
+      "alias": "thy-roy-DEK-toh-mee"
+    },
+    {
+      "text": "parathyroidectomy",
+      "alias": "par-ah-thy-roy-DEK-toh-mee"
+    },
+    {
+      "text": "adrenalectomy",
+      "alias": "ad-reh-nal-EK-toh-mee"
+    },
+    {
+      "text": "splenectomy",
+      "alias": "spleh-NEK-toh-mee"
+    },
+    {
+      "text": "pancreatectomy",
+      "alias": "pan-kree-ah-TEK-toh-mee"
+    },
+    {
+      "text": "esophagectomy",
+      "alias": "eh-sof-ah-JEK-toh-mee"
+    },
+    {
+      "text": "gastrectomy",
+      "alias": "gas-TREK-toh-mee"
+    },
+    {
+      "text": "colectomy",
+      "alias": "koh-LEK-toh-mee"
+    },
+    {
+      "text": "proctectomy",
+      "alias": "prok-TEK-toh-mee"
+    },
+    {
+      "text": "cystectomy",
+      "alias": "sis-TEK-toh-mee"
+    },
+    {
+      "text": "nephrostomy",
+      "alias": "neh-FROS-toh-mee"
+    },
+    {
+      "text": "ureterostomy",
+      "alias": "yoo-REE-ter-OS-toh-mee"
+    },
+    {
+      "text": "tracheostomy",
+      "alias": "TRAY-kee-OS-toh-mee"
+    },
+    {
+      "text": "cricothyroidotomy",
+      "alias": "KRY-koh-thy-ROY-DOT-oh-mee"
+    },
+    {
+      "text": "thoracotomy",
+      "alias": "thor-ah-KOT-oh-mee"
+    },
+    {
+      "text": "sternotomy",
+      "alias": "ster-NOT-oh-mee"
+    },
+    {
+      "text": "laparotomy",
+      "alias": "lap-ah-ROT-oh-mee"
+    },
+    {
+      "text": "celiotomy",
+      "alias": "see-lee-OT-oh-mee"
+    },
+    {
+      "text": "arthroscopy",
+      "alias": "ar-THROS-koh-pee"
+    },
+    {
+      "text": "bronchoscopy",
+      "alias": "brong-KOS-koh-pee"
+    },
+    {
+      "text": "colonoscopy",
+      "alias": "KOH-lon-OS-koh-pee"
+    },
+    {
+      "text": "endoscopy",
+      "alias": "en-DOS-koh-pee"
+    },
+    {
+      "text": "gastroscopy",
+      "alias": "gas-TROS-koh-pee"
+    },
+    {
+      "text": "sigmoidoscopy",
+      "alias": "sig-moy-DOS-koh-pee"
+    },
+    {
+      "text": "cystoscopy",
+      "alias": "sis-TOS-koh-pee"
+    },
+    {
+      "text": "colposcopy",
+      "alias": "kol-POS-koh-pee"
+    },
+    {
+      "text": "hysteroscopy",
+      "alias": "his-ter-OS-koh-pee"
+    },
+    {
+      "text": "laparoscopy",
+      "alias": "lap-ah-ROS-koh-pee"
+    },
+    {
+      "text": "thoracoscopy",
+      "alias": "thor-ah-KOS-koh-pee"
+    },
+    {
+      "text": "mediastinoscopy",
+      "alias": "MEE-dee-ah-stih-NOS-koh-pee"
+    },
+    {
+      "text": "arthroplasty",
+      "alias": "AR-throh-plas-tee"
+    },
+    {
+      "text": "osteotomy",
+      "alias": "os-tee-OT-oh-mee"
+    },
+    {
+      "text": "craniotomy",
+      "alias": "KRAY-nee-OT-oh-mee"
+    },
+    {
+      "text": "laminectomy",
+      "alias": "lam-ih-NEK-toh-mee"
+    },
+    {
+      "text": "discectomy",
+      "alias": "dis-EK-toh-mee"
+    },
+    {
+      "text": "rhizotomy",
+      "alias": "ry-ZOT-oh-mee"
+    },
+    {
+      "text": "neurectomy",
+      "alias": "nyoo-REK-toh-mee"
+    },
+    {
+      "text": "sympathectomy",
+      "alias": "sim-pah-THEK-toh-mee"
+    },
+    {
+      "text": "vagotomy",
+      "alias": "vay-GOT-oh-mee"
+    },
+    {
+      "text": "epithelium",
+      "alias": "eh-pih-THEE-lee-um"
+    },
+    {
+      "text": "endothelium",
+      "alias": "en-doh-THEE-lee-um"
+    },
+    {
+      "text": "mesothelium",
+      "alias": "meh-zoh-THEE-lee-um"
+    },
+    {
+      "text": "stratum corneum",
+      "alias": "STRAY-tum KOR-nee-um"
+    },
+    {
+      "text": "dermis",
+      "alias": "DER-mis"
+    },
+    {
+      "text": "epidermis",
+      "alias": "eh-pih-DER-mis"
+    },
+    {
+      "text": "hypodermis",
+      "alias": "hy-poh-DER-mis"
+    },
+    {
+      "text": "subcutaneous",
+      "alias": "sub-kyoo-TAY-nee-us"
+    },
+    {
+      "text": "fascia",
+      "alias": "FAH-shah"
+    },
+    {
+      "text": "ligament",
+      "alias": "LIH-gah-ment"
+    },
+    {
+      "text": "tendon",
+      "alias": "TEN-dun"
+    },
+    {
+      "text": "aponeurosis",
+      "alias": "ap-oh-noo-ROH-sis"
+    },
+    {
+      "text": "bursa",
+      "alias": "BER-sah"
+    },
+    {
+      "text": "meniscus",
+      "alias": "meh-NIS-kus"
+    },
+    {
+      "text": "cartilage",
+      "alias": "KAR-tih-lij"
+    },
+    {
+      "text": "periosteum",
+      "alias": "per-ee-OS-tee-um"
+    },
+    {
+      "text": "endosteum",
+      "alias": "en-DOS-tee-um"
+    },
+    {
+      "text": "diaphysis",
+      "alias": "dy-AF-ih-sis"
+    },
+    {
+      "text": "epiphysis",
+      "alias": "eh-PIF-ih-sis"
+    },
+    {
+      "text": "metaphysis",
+      "alias": "meh-TAF-ih-sis"
+    },
+    {
+      "text": "physis",
+      "alias": "FY-sis"
+    },
+    {
+      "text": "symphysis",
+      "alias": "SIM-fih-sis"
+    },
+    {
+      "text": "synovium",
+      "alias": "sih-NOH-vee-um"
+    },
+    {
+      "text": "synovia",
+      "alias": "sih-NOH-vee-ah"
+    },
+    {
+      "text": "sutura",
+      "alias": "soo-TOO-rah"
+    },
+    {
+      "text": "fontanelle",
+      "alias": "fon-tah-NEL"
+    },
+    {
+      "text": "myocardium",
+      "alias": "my-oh-KAR-dee-um"
+    },
+    {
+      "text": "epicardium",
+      "alias": "eh-pih-KAR-dee-um"
+    },
+    {
+      "text": "pericardium",
+      "alias": "per-ih-KAR-dee-um"
+    },
+    {
+      "text": "endocardium",
+      "alias": "en-doh-KAR-dee-um"
+    },
+    {
+      "text": "intima",
+      "alias": "IN-tih-mah"
+    },
+    {
+      "text": "media",
+      "alias": "MEH-dee-ah"
+    },
+    {
+      "text": "adventitia",
+      "alias": "ad-ven-TISH-ah"
+    },
+    {
+      "text": "tunica",
+      "alias": "TOO-nih-kah"
+    },
+    {
+      "text": "parenchyma",
+      "alias": "pah-REN-kih-mah"
+    },
+    {
+      "text": "stroma",
+      "alias": "STROH-mah"
+    },
+    {
+      "text": "septum",
+      "alias": "SEP-tum"
+    },
+    {
+      "text": "septa",
+      "alias": "SEP-tah"
+    },
+    {
+      "text": "trabecula",
+      "alias": "trah-BEK-yoo-lah"
+    },
+    {
+      "text": "hilum",
+      "alias": "HY-lum"
+    },
+    {
+      "text": "hilus",
+      "alias": "HY-lus"
+    },
+    {
+      "text": "sulcus",
+      "alias": "SUL-kus"
+    },
+    {
+      "text": "gyrus",
+      "alias": "JY-rus"
+    },
+    {
+      "text": "cortex",
+      "alias": "KOR-teks"
+    },
+    {
+      "text": "medulla",
+      "alias": "meh-DOOL-ah"
+    },
+    {
+      "text": "capsule",
+      "alias": "KAP-sool"
+    },
+    {
+      "text": "lobe",
+      "alias": "LOHB"
+    },
+    {
+      "text": "lobule",
+      "alias": "LOB-yool"
+    },
+    {
+      "text": "acinus",
+      "alias": "AS-ih-nus"
+    },
+    {
+      "text": "alveolus",
+      "alias": "al-VEE-oh-lus"
+    },
+    {
+      "text": "glomerulus",
+      "alias": "gloh-MER-yoo-lus"
+    },
+    {
+      "text": "nephron",
+      "alias": "NEF-ron"
+    },
+    {
+      "text": "tubule",
+      "alias": "TOOB-yool"
+    },
+    {
+      "text": "ductule",
+      "alias": "DUK-tool"
+    },
+    {
+      "text": "ductus",
+      "alias": "DUK-tus"
+    },
+    {
+      "text": "vas deferens",
+      "alias": "vas DEF-er-enz"
+    },
+    {
+      "text": "epididymis",
+      "alias": "ep-ih-DID-ih-mis"
+    },
+    {
+      "text": "fimbria",
+      "alias": "FIM-bree-ah"
+    },
+    {
+      "text": "fornix",
+      "alias": "FOR-niks"
+    },
+    {
+      "text": "mesentery",
+      "alias": "MEZ-en-ter-ee"
+    },
+    {
+      "text": "omentum",
+      "alias": "oh-MEN-tum"
+    },
+    {
+      "text": "peritoneum",
+      "alias": "per-ih-toh-NEE-um"
+    },
+    {
+      "text": "retroperitoneum",
+      "alias": "REH-troh-per-ih-toh-NEE-um"
+    },
+    {
+      "text": "mesocolon",
+      "alias": "MEZ-oh-KOH-lon"
+    },
+    {
+      "text": "haustra",
+      "alias": "HAW-strah"
+    },
+    {
+      "text": "plicae",
+      "alias": "PLY-see"
+    },
+    {
+      "text": "rugae",
+      "alias": "ROO-jee"
+    },
+    {
+      "text": "villi",
+      "alias": "VIL-eye"
+    },
+    {
+      "text": "microvilli",
+      "alias": "MY-kroh-VIL-eye"
+    },
+    {
+      "text": "cryptae",
+      "alias": "KRIP-tee"
+    },
+    {
+      "text": "pylorus",
+      "alias": "py-LOR-us"
+    },
+    {
+      "text": "cardia",
+      "alias": "KAR-dee-ah"
+    },
+    {
+      "text": "fundus",
+      "alias": "FUN-dus"
+    },
+    {
+      "text": "antrum",
+      "alias": "AN-trum"
+    },
+    {
+      "text": "duodenum",
+      "alias": "doo-oh-DEE-num"
+    },
+    {
+      "text": "jejunum",
+      "alias": "jeh-JOO-num"
+    },
+    {
+      "text": "ileum",
+      "alias": "IL-ee-um"
+    },
+    {
+      "text": "cecum",
+      "alias": "SEE-kum"
+    },
+    {
+      "text": "vermiform",
+      "alias": "VER-mih-form"
+    },
+    {
+      "text": "appendix",
+      "alias": "ah-PEN-diks"
+    },
+    {
+      "text": "sigmoid",
+      "alias": "SIG-moyd"
+    },
+    {
+      "text": "rectum",
+      "alias": "REK-tum"
+    },
+    {
+      "text": "anus",
+      "alias": "AY-nus"
+    },
+    {
+      "text": "sphincter",
+      "alias": "SFINK-ter"
+    },
+    {
+      "text": "papilla",
+      "alias": "pah-PIL-ah"
+    },
+    {
+      "text": "ampulla",
+      "alias": "am-POOL-ah"
+    },
+    {
+      "text": "cholecyst",
+      "alias": "KOH-leh-sist"
+    },
+    {
+      "text": "choledochus",
+      "alias": "koh-LED-oh-kus"
+    },
+    {
+      "text": "pancreas",
+      "alias": "PAN-kree-as"
+    },
+    {
+      "text": "islets",
+      "alias": "EYE-lets"
+    },
+    {
+      "text": "acini",
+      "alias": "AS-ih-nye"
+    },
+    {
+      "text": "centrilobular",
+      "alias": "sen-trih-LOB-yoo-lar"
+    },
+    {
+      "text": "periportal",
+      "alias": "per-ih-POR-tal"
+    },
+    {
+      "text": "sinusoids",
+      "alias": "SIN-yoo-soydz"
+    },
+    {
+      "text": "Kupffer",
+      "alias": "KOOP-fer"
+    },
+    {
+      "text": "space of Disse",
+      "alias": "spays of DIS"
+    },
+    {
+      "text": "canaliculi",
+      "alias": "kan-ah-LIK-yoo-lye"
+    },
+    {
+      "text": "falciform",
+      "alias": "FAL-sih-form"
+    },
+    {
+      "text": "ligamentum teres",
+      "alias": "lig-ah-MEN-tum TER-eez"
+    },
+    {
+      "text": "ligamentum venosum",
+      "alias": "lig-ah-MEN-tum veh-NOH-sum"
+    },
+    {
+      "text": "porta hepatis",
+      "alias": "POR-tah heh-PAT-is"
+    },
+    {
+      "text": "coronary",
+      "alias": "KOR-ah-nair-ee"
+    },
+    {
+      "text": "circumflex",
+      "alias": "SER-kum-fleks"
+    },
+    {
+      "text": "interventricular",
+      "alias": "in-ter-ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "interventricular septum",
+      "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
+    },
+    {
+      "text": "papillary muscle",
+      "alias": "PAP-ih-lair-ee MUS-el"
+    },
+    {
+      "text": "chordae tendineae",
+      "alias": "KOR-dee ten-DIN-ee-ee"
+    },
+    {
+      "text": "valve",
+      "alias": "valv"
+    },
+    {
+      "text": "leaflet",
+      "alias": "LEEF-let"
+    },
+    {
+      "text": "cusp",
+      "alias": "kusp"
+    },
+    {
+      "text": "semilunar",
+      "alias": "sem-ee-LOO-nar"
+    },
+    {
+      "text": "atrioventricular",
+      "alias": "ay-tree-oh-ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "ventricular",
+      "alias": "ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "sinoatrial",
+      "alias": "sigh-noh-AY-tree-al"
+    },
+    {
+      "text": "coronary sinus",
+      "alias": "KOR-ah-nair-ee SIGH-nus"
+    },
+    {
+      "text": "vena cava",
+      "alias": "VEE-nah KAY-vah"
+    },
+    {
+      "text": "pulmonary trunk",
+      "alias": "PUL-mah-nair-ee trunk"
+    },
+    {
+      "text": "aorta",
+      "alias": "ay-OR-tah"
+    },
+    {
+      "text": "carotid",
+      "alias": "kah-ROT-id"
+    },
+    {
+      "text": "subclavian",
+      "alias": "sub-KLAY-vee-an"
+    },
+    {
+      "text": "vertebral",
+      "alias": "VER-teh-bral"
+    },
+    {
+      "text": "basilar",
+      "alias": "BAS-ih-lar"
+    },
+    {
+      "text": "circle of Willis",
+      "alias": "SER-kul of WIL-is"
+    },
+    {
+      "text": "meninges",
+      "alias": "men-IN-jeez"
+    },
+    {
+      "text": "dura mater",
+      "alias": "DUR-ah MAH-ter"
+    },
+    {
+      "text": "arachnoid",
+      "alias": "ah-RAK-noyd"
+    },
+    {
+      "text": "pia mater",
+      "alias": "PEE-ah MAH-ter"
+    },
+    {
+      "text": "subdural",
+      "alias": "sub-DUR-al"
+    },
+    {
+      "text": "subarachnoid",
+      "alias": "sub-ah-RAK-noyd"
+    },
+    {
+      "text": "epidural",
+      "alias": "ep-ih-DUR-al"
+    },
+    {
+      "text": "ventricles",
+      "alias": "VEN-trih-kulz"
+    },
+    {
+      "text": "foramina",
+      "alias": "fo-RAM-ih-nah"
+    },
+    {
+      "text": "aqueduct",
+      "alias": "AK-weh-dukt"
+    },
+    {
+      "text": "choroid plexus",
+      "alias": "KOR-oyd PLEK-sus"
+    },
+    {
+      "text": "cauda equina",
+      "alias": "KAW-dah eh-KWY-nah"
+    },
+    {
+      "text": "filum terminale",
+      "alias": "FY-lum ter-mih-NAH-lee"
+    },
+    {
+      "text": "conus medullaris",
+      "alias": "KOH-nus med-yoo-LAR-is"
+    },
+    {
+      "text": "dorsal root",
+      "alias": "DOR-sal ROOT"
+    },
+    {
+      "text": "ventral root",
+      "alias": "VEN-tral ROOT"
+    },
+    {
+      "text": "ganglion",
+      "alias": "GANG-glee-on"
+    },
+    {
+      "text": "plexus",
+      "alias": "PLEK-sus"
+    },
+    {
+      "text": "phrenic",
+      "alias": "FREN-ik"
+    },
+    {
+      "text": "vagus",
+      "alias": "VAY-gus"
+    },
+    {
+      "text": "recurrent laryngeal",
+      "alias": "ree-KUR-ent lar-IN-jee-al"
+    },
+    {
+      "text": "facial",
+      "alias": "FAY-shal"
+    },
+    {
+      "text": "vestibulocochlear",
+      "alias": "ves-TIB-yoo-loh-KOK-lee-ar"
+    },
+    {
+      "text": "glossopharyngeal",
+      "alias": "GLOS-oh-fah-RIN-jee-al"
+    },
+    {
+      "text": "hypoglossal",
+      "alias": "HY-poh-GLOS-al"
+    },
+    {
+      "text": "accessory",
+      "alias": "ak-SES-oh-ree"
+    },
+    {
+      "text": "oculomotor",
+      "alias": "OK-yoo-loh-MOH-tor"
+    },
+    {
+      "text": "trochlear",
+      "alias": "TROK-lee-ar"
+    },
+    {
+      "text": "abducens",
+      "alias": "ab-DOO-senz"
+    }
+  ]
+}

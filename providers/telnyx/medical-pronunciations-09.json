@@ -1,0 +1,505 @@
+{
+  "name": "Medical Pronunciations 09",
+  "items": [
+    {
+      "text": "mediastinoscopy",
+      "type": "alias",
+      "alias": "MEE-dee-ah-stih-NOS-koh-pee"
+    },
+    {
+      "text": "arthroplasty",
+      "type": "alias",
+      "alias": "AR-throh-plas-tee"
+    },
+    {
+      "text": "osteotomy",
+      "type": "alias",
+      "alias": "os-tee-OT-oh-mee"
+    },
+    {
+      "text": "craniotomy",
+      "type": "alias",
+      "alias": "KRAY-nee-OT-oh-mee"
+    },
+    {
+      "text": "laminectomy",
+      "type": "alias",
+      "alias": "lam-ih-NEK-toh-mee"
+    },
+    {
+      "text": "discectomy",
+      "type": "alias",
+      "alias": "dis-EK-toh-mee"
+    },
+    {
+      "text": "rhizotomy",
+      "type": "alias",
+      "alias": "ry-ZOT-oh-mee"
+    },
+    {
+      "text": "neurectomy",
+      "type": "alias",
+      "alias": "nyoo-REK-toh-mee"
+    },
+    {
+      "text": "sympathectomy",
+      "type": "alias",
+      "alias": "sim-pah-THEK-toh-mee"
+    },
+    {
+      "text": "vagotomy",
+      "type": "alias",
+      "alias": "vay-GOT-oh-mee"
+    },
+    {
+      "text": "epithelium",
+      "type": "alias",
+      "alias": "eh-pih-THEE-lee-um"
+    },
+    {
+      "text": "endothelium",
+      "type": "alias",
+      "alias": "en-doh-THEE-lee-um"
+    },
+    {
+      "text": "mesothelium",
+      "type": "alias",
+      "alias": "meh-zoh-THEE-lee-um"
+    },
+    {
+      "text": "stratum corneum",
+      "type": "alias",
+      "alias": "STRAY-tum KOR-nee-um"
+    },
+    {
+      "text": "dermis",
+      "type": "alias",
+      "alias": "DER-mis"
+    },
+    {
+      "text": "epidermis",
+      "type": "alias",
+      "alias": "eh-pih-DER-mis"
+    },
+    {
+      "text": "hypodermis",
+      "type": "alias",
+      "alias": "hy-poh-DER-mis"
+    },
+    {
+      "text": "subcutaneous",
+      "type": "alias",
+      "alias": "sub-kyoo-TAY-nee-us"
+    },
+    {
+      "text": "fascia",
+      "type": "alias",
+      "alias": "FAH-shah"
+    },
+    {
+      "text": "ligament",
+      "type": "alias",
+      "alias": "LIH-gah-ment"
+    },
+    {
+      "text": "tendon",
+      "type": "alias",
+      "alias": "TEN-dun"
+    },
+    {
+      "text": "aponeurosis",
+      "type": "alias",
+      "alias": "ap-oh-noo-ROH-sis"
+    },
+    {
+      "text": "bursa",
+      "type": "alias",
+      "alias": "BER-sah"
+    },
+    {
+      "text": "meniscus",
+      "type": "alias",
+      "alias": "meh-NIS-kus"
+    },
+    {
+      "text": "cartilage",
+      "type": "alias",
+      "alias": "KAR-tih-lij"
+    },
+    {
+      "text": "periosteum",
+      "type": "alias",
+      "alias": "per-ee-OS-tee-um"
+    },
+    {
+      "text": "endosteum",
+      "type": "alias",
+      "alias": "en-DOS-tee-um"
+    },
+    {
+      "text": "diaphysis",
+      "type": "alias",
+      "alias": "dy-AF-ih-sis"
+    },
+    {
+      "text": "epiphysis",
+      "type": "alias",
+      "alias": "eh-PIF-ih-sis"
+    },
+    {
+      "text": "metaphysis",
+      "type": "alias",
+      "alias": "meh-TAF-ih-sis"
+    },
+    {
+      "text": "physis",
+      "type": "alias",
+      "alias": "FY-sis"
+    },
+    {
+      "text": "symphysis",
+      "type": "alias",
+      "alias": "SIM-fih-sis"
+    },
+    {
+      "text": "synovium",
+      "type": "alias",
+      "alias": "sih-NOH-vee-um"
+    },
+    {
+      "text": "synovia",
+      "type": "alias",
+      "alias": "sih-NOH-vee-ah"
+    },
+    {
+      "text": "sutura",
+      "type": "alias",
+      "alias": "soo-TOO-rah"
+    },
+    {
+      "text": "fontanelle",
+      "type": "alias",
+      "alias": "fon-tah-NEL"
+    },
+    {
+      "text": "myocardium",
+      "type": "alias",
+      "alias": "my-oh-KAR-dee-um"
+    },
+    {
+      "text": "epicardium",
+      "type": "alias",
+      "alias": "eh-pih-KAR-dee-um"
+    },
+    {
+      "text": "pericardium",
+      "type": "alias",
+      "alias": "per-ih-KAR-dee-um"
+    },
+    {
+      "text": "endocardium",
+      "type": "alias",
+      "alias": "en-doh-KAR-dee-um"
+    },
+    {
+      "text": "intima",
+      "type": "alias",
+      "alias": "IN-tih-mah"
+    },
+    {
+      "text": "media",
+      "type": "alias",
+      "alias": "MEH-dee-ah"
+    },
+    {
+      "text": "adventitia",
+      "type": "alias",
+      "alias": "ad-ven-TISH-ah"
+    },
+    {
+      "text": "tunica",
+      "type": "alias",
+      "alias": "TOO-nih-kah"
+    },
+    {
+      "text": "parenchyma",
+      "type": "alias",
+      "alias": "pah-REN-kih-mah"
+    },
+    {
+      "text": "stroma",
+      "type": "alias",
+      "alias": "STROH-mah"
+    },
+    {
+      "text": "septum",
+      "type": "alias",
+      "alias": "SEP-tum"
+    },
+    {
+      "text": "septa",
+      "type": "alias",
+      "alias": "SEP-tah"
+    },
+    {
+      "text": "trabecula",
+      "type": "alias",
+      "alias": "trah-BEK-yoo-lah"
+    },
+    {
+      "text": "hilum",
+      "type": "alias",
+      "alias": "HY-lum"
+    },
+    {
+      "text": "hilus",
+      "type": "alias",
+      "alias": "HY-lus"
+    },
+    {
+      "text": "sulcus",
+      "type": "alias",
+      "alias": "SUL-kus"
+    },
+    {
+      "text": "gyrus",
+      "type": "alias",
+      "alias": "JY-rus"
+    },
+    {
+      "text": "cortex",
+      "type": "alias",
+      "alias": "KOR-teks"
+    },
+    {
+      "text": "medulla",
+      "type": "alias",
+      "alias": "meh-DOOL-ah"
+    },
+    {
+      "text": "capsule",
+      "type": "alias",
+      "alias": "KAP-sool"
+    },
+    {
+      "text": "lobe",
+      "type": "alias",
+      "alias": "LOHB"
+    },
+    {
+      "text": "lobule",
+      "type": "alias",
+      "alias": "LOB-yool"
+    },
+    {
+      "text": "acinus",
+      "type": "alias",
+      "alias": "AS-ih-nus"
+    },
+    {
+      "text": "alveolus",
+      "type": "alias",
+      "alias": "al-VEE-oh-lus"
+    },
+    {
+      "text": "glomerulus",
+      "type": "alias",
+      "alias": "gloh-MER-yoo-lus"
+    },
+    {
+      "text": "nephron",
+      "type": "alias",
+      "alias": "NEF-ron"
+    },
+    {
+      "text": "tubule",
+      "type": "alias",
+      "alias": "TOOB-yool"
+    },
+    {
+      "text": "ductule",
+      "type": "alias",
+      "alias": "DUK-tool"
+    },
+    {
+      "text": "ductus",
+      "type": "alias",
+      "alias": "DUK-tus"
+    },
+    {
+      "text": "vas deferens",
+      "type": "alias",
+      "alias": "vas DEF-er-enz"
+    },
+    {
+      "text": "epididymis",
+      "type": "alias",
+      "alias": "ep-ih-DID-ih-mis"
+    },
+    {
+      "text": "fimbria",
+      "type": "alias",
+      "alias": "FIM-bree-ah"
+    },
+    {
+      "text": "fornix",
+      "type": "alias",
+      "alias": "FOR-niks"
+    },
+    {
+      "text": "mesentery",
+      "type": "alias",
+      "alias": "MEZ-en-ter-ee"
+    },
+    {
+      "text": "omentum",
+      "type": "alias",
+      "alias": "oh-MEN-tum"
+    },
+    {
+      "text": "peritoneum",
+      "type": "alias",
+      "alias": "per-ih-toh-NEE-um"
+    },
+    {
+      "text": "retroperitoneum",
+      "type": "alias",
+      "alias": "REH-troh-per-ih-toh-NEE-um"
+    },
+    {
+      "text": "mesocolon",
+      "type": "alias",
+      "alias": "MEZ-oh-KOH-lon"
+    },
+    {
+      "text": "haustra",
+      "type": "alias",
+      "alias": "HAW-strah"
+    },
+    {
+      "text": "plicae",
+      "type": "alias",
+      "alias": "PLY-see"
+    },
+    {
+      "text": "rugae",
+      "type": "alias",
+      "alias": "ROO-jee"
+    },
+    {
+      "text": "villi",
+      "type": "alias",
+      "alias": "VIL-eye"
+    },
+    {
+      "text": "microvilli",
+      "type": "alias",
+      "alias": "MY-kroh-VIL-eye"
+    },
+    {
+      "text": "cryptae",
+      "type": "alias",
+      "alias": "KRIP-tee"
+    },
+    {
+      "text": "pylorus",
+      "type": "alias",
+      "alias": "py-LOR-us"
+    },
+    {
+      "text": "cardia",
+      "type": "alias",
+      "alias": "KAR-dee-ah"
+    },
+    {
+      "text": "fundus",
+      "type": "alias",
+      "alias": "FUN-dus"
+    },
+    {
+      "text": "antrum",
+      "type": "alias",
+      "alias": "AN-trum"
+    },
+    {
+      "text": "duodenum",
+      "type": "alias",
+      "alias": "doo-oh-DEE-num"
+    },
+    {
+      "text": "jejunum",
+      "type": "alias",
+      "alias": "jeh-JOO-num"
+    },
+    {
+      "text": "ileum",
+      "type": "alias",
+      "alias": "IL-ee-um"
+    },
+    {
+      "text": "cecum",
+      "type": "alias",
+      "alias": "SEE-kum"
+    },
+    {
+      "text": "vermiform",
+      "type": "alias",
+      "alias": "VER-mih-form"
+    },
+    {
+      "text": "appendix",
+      "type": "alias",
+      "alias": "ah-PEN-diks"
+    },
+    {
+      "text": "sigmoid",
+      "type": "alias",
+      "alias": "SIG-moyd"
+    },
+    {
+      "text": "rectum",
+      "type": "alias",
+      "alias": "REK-tum"
+    },
+    {
+      "text": "anus",
+      "type": "alias",
+      "alias": "AY-nus"
+    },
+    {
+      "text": "sphincter",
+      "type": "alias",
+      "alias": "SFINK-ter"
+    },
+    {
+      "text": "papilla",
+      "type": "alias",
+      "alias": "pah-PIL-ah"
+    },
+    {
+      "text": "ampulla",
+      "type": "alias",
+      "alias": "am-POOL-ah"
+    },
+    {
+      "text": "cholecyst",
+      "type": "alias",
+      "alias": "KOH-leh-sist"
+    },
+    {
+      "text": "choledochus",
+      "type": "alias",
+      "alias": "koh-LED-oh-kus"
+    },
+    {
+      "text": "pancreas",
+      "type": "alias",
+      "alias": "PAN-kree-as"
+    },
+    {
+      "text": "islets",
+      "type": "alias",
+      "alias": "EYE-lets"
+    }
+  ]
+}

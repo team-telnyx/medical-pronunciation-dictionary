@@ -1,0 +1,505 @@
+{
+  "name": "Medical Pronunciations 04",
+  "items": [
+    {
+      "text": "golimumab",
+      "type": "alias",
+      "alias": "go-LIM-ue-mab"
+    },
+    {
+      "text": "tocilizumab",
+      "type": "alias",
+      "alias": "TOE-sih-LIZ-ue-mab"
+    },
+    {
+      "text": "sarilumab",
+      "type": "alias",
+      "alias": "sar-IL-ue-mab"
+    },
+    {
+      "text": "ustekinumab",
+      "type": "alias",
+      "alias": "US-te-KIN-ue-mab"
+    },
+    {
+      "text": "secukinumab",
+      "type": "alias",
+      "alias": "SEK-ue-KIN-ue-mab"
+    },
+    {
+      "text": "ixekizumab",
+      "type": "alias",
+      "alias": "IX-e-KIZ-ue-mab"
+    },
+    {
+      "text": "brodalumab",
+      "type": "alias",
+      "alias": "broe-DAL-ue-mab"
+    },
+    {
+      "text": "guselkumab",
+      "type": "alias",
+      "alias": "gus-ELK-ue-mab"
+    },
+    {
+      "text": "risankizumab",
+      "type": "alias",
+      "alias": "RIS-an-KIZ-ue-mab"
+    },
+    {
+      "text": "tildrakizumab",
+      "type": "alias",
+      "alias": "TIL-dra-KIZ-ue-mab"
+    },
+    {
+      "text": "abatacept",
+      "type": "alias",
+      "alias": "a-BAT-a-sept"
+    },
+    {
+      "text": "leflunomide",
+      "type": "alias",
+      "alias": "le-FLOO-no-mide"
+    },
+    {
+      "text": "sulfasalazine",
+      "type": "alias",
+      "alias": "SUL-fa-SAL-a-zeen"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "type": "alias",
+      "alias": "hy-DROX-ee-KLOR-oh-kween"
+    },
+    {
+      "text": "azathioprine",
+      "type": "alias",
+      "alias": "AY-za-THYE-oh-preen"
+    },
+    {
+      "text": "mycophenolate",
+      "type": "alias",
+      "alias": "MYE-koe-FEN-oh-late"
+    },
+    {
+      "text": "tacrolimus",
+      "type": "alias",
+      "alias": "ta-KROE-li-mus"
+    },
+    {
+      "text": "cyclosporine",
+      "type": "alias",
+      "alias": "SYE-kloe-SPOR-een"
+    },
+    {
+      "text": "sirolimus",
+      "type": "alias",
+      "alias": "sir-OH-li-mus"
+    },
+    {
+      "text": "everolimus",
+      "type": "alias",
+      "alias": "e-VER-oh-LI-mus"
+    },
+    {
+      "text": "levodopa",
+      "type": "alias",
+      "alias": "LEE-voe-DOE-pa"
+    },
+    {
+      "text": "carbidopa",
+      "type": "alias",
+      "alias": "KAR-bi-DOE-pa"
+    },
+    {
+      "text": "pramipexole",
+      "type": "alias",
+      "alias": "PRAM-i-PEX-ole"
+    },
+    {
+      "text": "ropinirole",
+      "type": "alias",
+      "alias": "roe-PIN-i-role"
+    },
+    {
+      "text": "rotigotine",
+      "type": "alias",
+      "alias": "roe-TIG-oh-teen"
+    },
+    {
+      "text": "amantadine",
+      "type": "alias",
+      "alias": "a-MAN-ta-deen"
+    },
+    {
+      "text": "entacapone",
+      "type": "alias",
+      "alias": "en-TAK-a-pone"
+    },
+    {
+      "text": "safinamide",
+      "type": "alias",
+      "alias": "sa-FIN-a-mide"
+    },
+    {
+      "text": "apomorphine",
+      "type": "alias",
+      "alias": "AP-oh-MOR-feen"
+    },
+    {
+      "text": "donepezil",
+      "type": "alias",
+      "alias": "doe-NEP-e-zil"
+    },
+    {
+      "text": "rivastigmine",
+      "type": "alias",
+      "alias": "riv-uh-STIG-meen"
+    },
+    {
+      "text": "galantamine",
+      "type": "alias",
+      "alias": "guh-LAN-tuh-meen"
+    },
+    {
+      "text": "memantine",
+      "type": "alias",
+      "alias": "muh-MAN-teen"
+    },
+    {
+      "text": "glatiramer",
+      "type": "alias",
+      "alias": "gluh-TIR-uh-mer"
+    },
+    {
+      "text": "fingolimod",
+      "type": "alias",
+      "alias": "fin-GOL-ih-mod"
+    },
+    {
+      "text": "dimethyl fumarate",
+      "type": "alias",
+      "alias": "die-METH-ul FYOO-muh-rate"
+    },
+    {
+      "text": "teriflunomide",
+      "type": "alias",
+      "alias": "ter-ih-FLOO-noh-mide"
+    },
+    {
+      "text": "ozanimod",
+      "type": "alias",
+      "alias": "oh-ZAN-ih-mod"
+    },
+    {
+      "text": "siponimod",
+      "type": "alias",
+      "alias": "sih-PON-ih-mod"
+    },
+    {
+      "text": "natalizumab",
+      "type": "alias",
+      "alias": "na-tal-IZ-uh-mab"
+    },
+    {
+      "text": "ocrelizumab",
+      "type": "alias",
+      "alias": "ok-re-LIZ-uh-mab"
+    },
+    {
+      "text": "ofatumumab",
+      "type": "alias",
+      "alias": "oh-fuh-TOO-muh-mab"
+    },
+    {
+      "text": "fumarate",
+      "type": "alias",
+      "alias": "FYOO-muh-rate"
+    },
+    {
+      "text": "levothyroxine",
+      "type": "alias",
+      "alias": "lee-voh-thigh-ROX-een"
+    },
+    {
+      "text": "prednisone",
+      "type": "alias",
+      "alias": "PRED-nih-zone"
+    },
+    {
+      "text": "prednisolone",
+      "type": "alias",
+      "alias": "pred-NIS-oh-lone"
+    },
+    {
+      "text": "methylprednisolone",
+      "type": "alias",
+      "alias": "METH-ul-pred-NIS-oh-lone"
+    },
+    {
+      "text": "hydrocortisone",
+      "type": "alias",
+      "alias": "HIGH-dro-KOR-tih-zone"
+    },
+    {
+      "text": "dexamethasone",
+      "type": "alias",
+      "alias": "dex-uh-METH-uh-zone"
+    },
+    {
+      "text": "fludrocortisone",
+      "type": "alias",
+      "alias": "floo-dro-KOR-tih-zone"
+    },
+    {
+      "text": "alendronate",
+      "type": "alias",
+      "alias": "uh-LEN-dro-nate"
+    },
+    {
+      "text": "risedronate",
+      "type": "alias",
+      "alias": "rih-SED-ro-nate"
+    },
+    {
+      "text": "ibandronate",
+      "type": "alias",
+      "alias": "ih-BAN-dro-nate"
+    },
+    {
+      "text": "zoledronic acid",
+      "type": "alias",
+      "alias": "zoh-leh-DRON-ik AS-id"
+    },
+    {
+      "text": "denosumab",
+      "type": "alias",
+      "alias": "den-OH-suh-mab"
+    },
+    {
+      "text": "teriparatide",
+      "type": "alias",
+      "alias": "ter-ih-PAR-uh-tide"
+    },
+    {
+      "text": "raloxifene",
+      "type": "alias",
+      "alias": "ral-OX-ih-feen"
+    },
+    {
+      "text": "calcitonin",
+      "type": "alias",
+      "alias": "kal-sih-TONE-in"
+    },
+    {
+      "text": "tadalafil",
+      "type": "alias",
+      "alias": "tuh-DAF-ih-lil"
+    },
+    {
+      "text": "sildenafil",
+      "type": "alias",
+      "alias": "sil-DEN-uh-fil"
+    },
+    {
+      "text": "vardenafil",
+      "type": "alias",
+      "alias": "var-DEN-ah-fil"
+    },
+    {
+      "text": "finasteride",
+      "type": "alias",
+      "alias": "fin-AS-ter-ide"
+    },
+    {
+      "text": "dutasteride",
+      "type": "alias",
+      "alias": "doo-TAS-ter-ide"
+    },
+    {
+      "text": "tamsulosin",
+      "type": "alias",
+      "alias": "tam-SOO-loh-sin"
+    },
+    {
+      "text": "silodosin",
+      "type": "alias",
+      "alias": "si-LOH-doh-sin"
+    },
+    {
+      "text": "alfuzosin",
+      "type": "alias",
+      "alias": "al-FOO-zoh-sin"
+    },
+    {
+      "text": "oxybutynin",
+      "type": "alias",
+      "alias": "ok-see-BYOO-ti-nin"
+    },
+    {
+      "text": "tolterodine",
+      "type": "alias",
+      "alias": "tol-TER-oh-deen"
+    },
+    {
+      "text": "solifenacin",
+      "type": "alias",
+      "alias": "sol-i-FEN-ah-sin"
+    },
+    {
+      "text": "darifenacin",
+      "type": "alias",
+      "alias": "dar-i-FEN-ah-sin"
+    },
+    {
+      "text": "mirabegron",
+      "type": "alias",
+      "alias": "mir-ah-BEG-ron"
+    },
+    {
+      "text": "phenazopyridine",
+      "type": "alias",
+      "alias": "fen-az-oh-PYR-i-deen"
+    },
+    {
+      "text": "hydroxyzine",
+      "type": "alias",
+      "alias": "hy-DROK-si-zeen"
+    },
+    {
+      "text": "fexofenadine",
+      "type": "alias",
+      "alias": "fek-soh-FEN-ah-deen"
+    },
+    {
+      "text": "loratadine",
+      "type": "alias",
+      "alias": "lor-AT-ah-deen"
+    },
+    {
+      "text": "cetirizine",
+      "type": "alias",
+      "alias": "se-TIR-i-zeen"
+    },
+    {
+      "text": "diphenhydramine",
+      "type": "alias",
+      "alias": "dy-fen-HY-drah-meen"
+    },
+    {
+      "text": "chlorpheniramine",
+      "type": "alias",
+      "alias": "klor-fen-EER-ah-meen"
+    },
+    {
+      "text": "azelastine",
+      "type": "alias",
+      "alias": "ah-ZEL-ah-steen"
+    },
+    {
+      "text": "olopatadine",
+      "type": "alias",
+      "alias": "oh-loh-PAT-ah-deen"
+    },
+    {
+      "text": "modafinil",
+      "type": "alias",
+      "alias": "mo-DAF-i-nil"
+    },
+    {
+      "text": "armodafinil",
+      "type": "alias",
+      "alias": "ar-mo-DAF-i-nil"
+    },
+    {
+      "text": "sumatriptan",
+      "type": "alias",
+      "alias": "soo-mah-TRIP-tan"
+    },
+    {
+      "text": "rizatriptan",
+      "type": "alias",
+      "alias": "ry-zah-TRIP-tan"
+    },
+    {
+      "text": "zolmitriptan",
+      "type": "alias",
+      "alias": "zohl-mi-TRIP-tan"
+    },
+    {
+      "text": "eletriptan",
+      "type": "alias",
+      "alias": "el-e-TRIP-tan"
+    },
+    {
+      "text": "almotriptan",
+      "type": "alias",
+      "alias": "al-moh-TRIP-tan"
+    },
+    {
+      "text": "frovatriptan",
+      "type": "alias",
+      "alias": "froh-vah-TRIP-tan"
+    },
+    {
+      "text": "naratriptan",
+      "type": "alias",
+      "alias": "nar-ah-TRIP-tan"
+    },
+    {
+      "text": "ubrogepant",
+      "type": "alias",
+      "alias": "yoo-BROH-jeh-pant"
+    },
+    {
+      "text": "rimegepant",
+      "type": "alias",
+      "alias": "rih-MEH-jeh-pant"
+    },
+    {
+      "text": "erenumab",
+      "type": "alias",
+      "alias": "eh-REH-nyoo-mab"
+    },
+    {
+      "text": "fremanezumab",
+      "type": "alias",
+      "alias": "freh-mah-NEH-zoo-mab"
+    },
+    {
+      "text": "galcanezumab",
+      "type": "alias",
+      "alias": "gal-kah-NEH-zoo-mab"
+    },
+    {
+      "text": "eprodual",
+      "type": "alias",
+      "alias": "eh-PROH-dool"
+    },
+    {
+      "text": "onabotulinumtoxinA",
+      "type": "alias",
+      "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay"
+    },
+    {
+      "text": "MI",
+      "type": "alias",
+      "alias": "myocardial infarction"
+    },
+    {
+      "text": "COPD",
+      "type": "alias",
+      "alias": "chronic obstructive pulmonary disease"
+    },
+    {
+      "text": "CHF",
+      "type": "alias",
+      "alias": "congestive heart failure"
+    },
+    {
+      "text": "UTI",
+      "type": "alias",
+      "alias": "urinary tract infection"
+    }
+  ]
+}

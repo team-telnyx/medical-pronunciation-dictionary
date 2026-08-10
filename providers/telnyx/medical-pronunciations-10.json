@@ -1,0 +1,315 @@
+{
+  "name": "Medical Pronunciations 10",
+  "items": [
+    {
+      "text": "acini",
+      "type": "alias",
+      "alias": "AS-ih-nye"
+    },
+    {
+      "text": "centrilobular",
+      "type": "alias",
+      "alias": "sen-trih-LOB-yoo-lar"
+    },
+    {
+      "text": "periportal",
+      "type": "alias",
+      "alias": "per-ih-POR-tal"
+    },
+    {
+      "text": "sinusoids",
+      "type": "alias",
+      "alias": "SIN-yoo-soydz"
+    },
+    {
+      "text": "Kupffer",
+      "type": "alias",
+      "alias": "KOOP-fer"
+    },
+    {
+      "text": "space of Disse",
+      "type": "alias",
+      "alias": "spays of DIS"
+    },
+    {
+      "text": "canaliculi",
+      "type": "alias",
+      "alias": "kan-ah-LIK-yoo-lye"
+    },
+    {
+      "text": "falciform",
+      "type": "alias",
+      "alias": "FAL-sih-form"
+    },
+    {
+      "text": "ligamentum teres",
+      "type": "alias",
+      "alias": "lig-ah-MEN-tum TER-eez"
+    },
+    {
+      "text": "ligamentum venosum",
+      "type": "alias",
+      "alias": "lig-ah-MEN-tum veh-NOH-sum"
+    },
+    {
+      "text": "porta hepatis",
+      "type": "alias",
+      "alias": "POR-tah heh-PAT-is"
+    },
+    {
+      "text": "coronary",
+      "type": "alias",
+      "alias": "KOR-ah-nair-ee"
+    },
+    {
+      "text": "circumflex",
+      "type": "alias",
+      "alias": "SER-kum-fleks"
+    },
+    {
+      "text": "interventricular",
+      "type": "alias",
+      "alias": "in-ter-ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "interventricular septum",
+      "type": "alias",
+      "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
+    },
+    {
+      "text": "papillary muscle",
+      "type": "alias",
+      "alias": "PAP-ih-lair-ee MUS-el"
+    },
+    {
+      "text": "chordae tendineae",
+      "type": "alias",
+      "alias": "KOR-dee ten-DIN-ee-ee"
+    },
+    {
+      "text": "valve",
+      "type": "alias",
+      "alias": "valv"
+    },
+    {
+      "text": "leaflet",
+      "type": "alias",
+      "alias": "LEEF-let"
+    },
+    {
+      "text": "cusp",
+      "type": "alias",
+      "alias": "kusp"
+    },
+    {
+      "text": "semilunar",
+      "type": "alias",
+      "alias": "sem-ee-LOO-nar"
+    },
+    {
+      "text": "atrioventricular",
+      "type": "alias",
+      "alias": "ay-tree-oh-ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "ventricular",
+      "type": "alias",
+      "alias": "ven-TRIK-yoo-lar"
+    },
+    {
+      "text": "sinoatrial",
+      "type": "alias",
+      "alias": "sigh-noh-AY-tree-al"
+    },
+    {
+      "text": "coronary sinus",
+      "type": "alias",
+      "alias": "KOR-ah-nair-ee SIGH-nus"
+    },
+    {
+      "text": "vena cava",
+      "type": "alias",
+      "alias": "VEE-nah KAY-vah"
+    },
+    {
+      "text": "pulmonary trunk",
+      "type": "alias",
+      "alias": "PUL-mah-nair-ee trunk"
+    },
+    {
+      "text": "aorta",
+      "type": "alias",
+      "alias": "ay-OR-tah"
+    },
+    {
+      "text": "carotid",
+      "type": "alias",
+      "alias": "kah-ROT-id"
+    },
+    {
+      "text": "subclavian",
+      "type": "alias",
+      "alias": "sub-KLAY-vee-an"
+    },
+    {
+      "text": "vertebral",
+      "type": "alias",
+      "alias": "VER-teh-bral"
+    },
+    {
+      "text": "basilar",
+      "type": "alias",
+      "alias": "BAS-ih-lar"
+    },
+    {
+      "text": "circle of Willis",
+      "type": "alias",
+      "alias": "SER-kul of WIL-is"
+    },
+    {
+      "text": "meninges",
+      "type": "alias",
+      "alias": "men-IN-jeez"
+    },
+    {
+      "text": "dura mater",
+      "type": "alias",
+      "alias": "DUR-ah MAH-ter"
+    },
+    {
+      "text": "arachnoid",
+      "type": "alias",
+      "alias": "ah-RAK-noyd"
+    },
+    {
+      "text": "pia mater",
+      "type": "alias",
+      "alias": "PEE-ah MAH-ter"
+    },
+    {
+      "text": "subdural",
+      "type": "alias",
+      "alias": "sub-DUR-al"
+    },
+    {
+      "text": "subarachnoid",
+      "type": "alias",
+      "alias": "sub-ah-RAK-noyd"
+    },
+    {
+      "text": "epidural",
+      "type": "alias",
+      "alias": "ep-ih-DUR-al"
+    },
+    {
+      "text": "ventricles",
+      "type": "alias",
+      "alias": "VEN-trih-kulz"
+    },
+    {
+      "text": "foramina",
+      "type": "alias",
+      "alias": "fo-RAM-ih-nah"
+    },
+    {
+      "text": "aqueduct",
+      "type": "alias",
+      "alias": "AK-weh-dukt"
+    },
+    {
+      "text": "choroid plexus",
+      "type": "alias",
+      "alias": "KOR-oyd PLEK-sus"
+    },
+    {
+      "text": "cauda equina",
+      "type": "alias",
+      "alias": "KAW-dah eh-KWY-nah"
+    },
+    {
+      "text": "filum terminale",
+      "type": "alias",
+      "alias": "FY-lum ter-mih-NAH-lee"
+    },
+    {
+      "text": "conus medullaris",
+      "type": "alias",
+      "alias": "KOH-nus med-yoo-LAR-is"
+    },
+    {
+      "text": "dorsal root",
+      "type": "alias",
+      "alias": "DOR-sal ROOT"
+    },
+    {
+      "text": "ventral root",
+      "type": "alias",
+      "alias": "VEN-tral ROOT"
+    },
+    {
+      "text": "ganglion",
+      "type": "alias",
+      "alias": "GANG-glee-on"
+    },
+    {
+      "text": "plexus",
+      "type": "alias",
+      "alias": "PLEK-sus"
+    },
+    {
+      "text": "phrenic",
+      "type": "alias",
+      "alias": "FREN-ik"
+    },
+    {
+      "text": "vagus",
+      "type": "alias",
+      "alias": "VAY-gus"
+    },
+    {
+      "text": "recurrent laryngeal",
+      "type": "alias",
+      "alias": "ree-KUR-ent lar-IN-jee-al"
+    },
+    {
+      "text": "facial",
+      "type": "alias",
+      "alias": "FAY-shal"
+    },
+    {
+      "text": "vestibulocochlear",
+      "type": "alias",
+      "alias": "ves-TIB-yoo-loh-KOK-lee-ar"
+    },
+    {
+      "text": "glossopharyngeal",
+      "type": "alias",
+      "alias": "GLOS-oh-fah-RIN-jee-al"
+    },
+    {
+      "text": "hypoglossal",
+      "type": "alias",
+      "alias": "HY-poh-GLOS-al"
+    },
+    {
+      "text": "accessory",
+      "type": "alias",
+      "alias": "ak-SES-oh-ree"
+    },
+    {
+      "text": "oculomotor",
+      "type": "alias",
+      "alias": "OK-yoo-loh-MOH-tor"
+    },
+    {
+      "text": "trochlear",
+      "type": "alias",
+      "alias": "TROK-lee-ar"
+    },
+    {
+      "text": "abducens",
+      "type": "alias",
+      "alias": "ab-DOO-senz"
+    }
+  ]
+}
