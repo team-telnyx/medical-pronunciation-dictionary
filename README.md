@@ -144,22 +144,22 @@ medical-pronunciation-dictionary/
 
 ## Adding custom terms
 
-1. Edit `src/terms.py` and add your term to the appropriate list
-2. Run `python3 src/generate_pronunciations.py` (skips already-processed terms, generates aliases for new ones via LiteLLM)
-3. Run `python3 converters/convert_all.py` to regenerate all provider formats
-4. Run `python3 import_to_telnyx.py` to push to Telnyx
+1. Edit `data/terms_with_pronunciations.json` and add your entry: `{"text": "your_term", "alias": "your-A-li-as", "category": "drug"}`
+2. Run `python3 converters/convert_all.py` to regenerate all provider formats
+3. Re-import to your TTS provider
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow including how to add a new provider format.
 
 ## How pronunciations are generated
 
-1. Term lists are curated from RxNorm (NLM), SNOMED CT subsets, and clinical knowledge
-2. Each term is sent to MiniMax-M3-MXFP8 via LiteLLM with a medical pronunciation expert prompt
-3. The model returns a plain-text phonetic respelling with the stressed syllable capitalized
-4. Acronyms are expanded to their full form (MI -> myocardial infarction)
-5. Output is validated and saved to `data/terms_with_pronunciations.json`
+Pronunciations use plain-text phonetic respelling (alias format) with the stressed syllable capitalized. For example, `atorvastatin` becomes `a-TOR-va-STAT-in`.
 
-No external g2p library required. The LiteLLM proxy handles the grapheme-to-phoneme conversion with better accuracy for medical terms than generic g2p tools.
+This format is chosen over IPA because:
+- Works with every TTS provider, not just those that support IPA
+- Human-readable and easy to audit
+- Simple to edit without phonetic expertise
+
+The initial 962 aliases were generated using an LLM with a medical pronunciation prompt, then spot-checked. If you find a wrong pronunciation, open a PR with the correction in `data/terms_with_pronunciations.json`.
 
 ## Contributing
 
