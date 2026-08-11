@@ -1,0 +1,401 @@
+{
+  "name": "Medical Pronunciations 10",
+  "items": [
+    {
+      "text": "acini",
+      "type": "phoneme",
+      "phoneme": "ˈæsɪnaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "centrilobular",
+      "type": "phoneme",
+      "phoneme": "ˌsɛntrɪˈlɑbjələr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "periportal",
+      "type": "phoneme",
+      "phoneme": "ˌpɛrɪˈpɔrtəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sinusoids",
+      "type": "phoneme",
+      "phoneme": "ˈsɪnjəsɔɪdz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Kupffer",
+      "type": "phoneme",
+      "phoneme": "ˈkʊfər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "space of Disse",
+      "type": "phoneme",
+      "phoneme": "spˈeɪs əv dɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "canaliculi",
+      "type": "phoneme",
+      "phoneme": "ˌkænəˈlɪkjəlaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "falciform",
+      "type": "phoneme",
+      "phoneme": "ˈfælsɪfɔrm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ligamentum teres",
+      "type": "phoneme",
+      "phoneme": "ˌlɪɡəˈmɛntəm ˈtɛriz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ligamentum venosum",
+      "type": "phoneme",
+      "phoneme": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "porta hepatis",
+      "type": "phoneme",
+      "phoneme": "ˈpɔrtə ˈhɛpətɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "coronary",
+      "type": "phoneme",
+      "phoneme": "ˈkɔrənɛri",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "circumflex",
+      "type": "phoneme",
+      "phoneme": "ˈsɜrkəmflɛks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "interventricular",
+      "type": "phoneme",
+      "phoneme": "ˌɪntərvɛnˈtrɪkjələr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "interventricular septum",
+      "type": "phoneme",
+      "phoneme": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "papillary muscle",
+      "type": "phoneme",
+      "phoneme": "ˈpæpɪlɛri ˈmʌsəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "chordae tendineae",
+      "type": "phoneme",
+      "phoneme": "ˈkɔrdi tɛnˈdɪnii",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "leaflet",
+      "type": "phoneme",
+      "phoneme": "ˈlifət",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "semilunar",
+      "type": "phoneme",
+      "phoneme": "ˌsɛmiˈlunər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atrioventricular",
+      "type": "phoneme",
+      "phoneme": "ˌeɪtrioʊvɛnˈtrɪkjələr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ventricular",
+      "type": "phoneme",
+      "phoneme": "vɛnˈtrɪkjələr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sinoatrial",
+      "type": "phoneme",
+      "phoneme": "ˌsaɪnoʊˈeɪtriəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "coronary sinus",
+      "type": "phoneme",
+      "phoneme": "ˈkɔrənɛri ˈsaɪnəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vena cava",
+      "type": "phoneme",
+      "phoneme": "ˈvinə ˈkeɪvə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pulmonary trunk",
+      "type": "phoneme",
+      "phoneme": "ˈpʊlmənɛri trʌŋk",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aorta",
+      "type": "phoneme",
+      "phoneme": "eɪˈɔrtə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "carotid",
+      "type": "phoneme",
+      "phoneme": "kəˈrɑtɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "subclavian",
+      "type": "phoneme",
+      "phoneme": "sʌbˈkleɪviən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vertebral",
+      "type": "phoneme",
+      "phoneme": "ˈvɝːtəbrəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "basilar",
+      "type": "phoneme",
+      "phoneme": "ˈbæsɪlɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "circle of Willis",
+      "type": "phoneme",
+      "phoneme": "ˈsɝːkəl əv ˈwɪlɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "meninges",
+      "type": "phoneme",
+      "phoneme": "məˈnɪndʒiːz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dura mater",
+      "type": "phoneme",
+      "phoneme": "ˈdʊrə ˈmeɪtɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arachnoid",
+      "type": "phoneme",
+      "phoneme": "əˈræknɔɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pia mater",
+      "type": "phoneme",
+      "phoneme": "ˈpiːə ˈmeɪtɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "subdural",
+      "type": "phoneme",
+      "phoneme": "sʌbˈdʊrəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "subarachnoid",
+      "type": "phoneme",
+      "phoneme": "ˌsʌbəˈræknɔɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epidural",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈdʊrəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ventricles",
+      "type": "phoneme",
+      "phoneme": "ˈvɛntrɪkəlz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "foramina",
+      "type": "phoneme",
+      "phoneme": "fəˈræmɪnə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aqueduct",
+      "type": "phoneme",
+      "phoneme": "ˈækwɪdʌkt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "choroid plexus",
+      "type": "phoneme",
+      "phoneme": "ˈkɔːrɔɪd ˈplɛksəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cauda equina",
+      "type": "phoneme",
+      "phoneme": "ˈkɔːdə ɪˈkwaɪnə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "filum terminale",
+      "type": "phoneme",
+      "phoneme": "ˈfaɪləm ˌtɝːmɪˈnɑːli",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "conus medullaris",
+      "type": "phoneme",
+      "phoneme": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dorsal root",
+      "type": "phoneme",
+      "phoneme": "ˈdɔːrsəl ruːt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ventral root",
+      "type": "phoneme",
+      "phoneme": "ˈvɛntrəl ruːt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ganglion",
+      "type": "phoneme",
+      "phoneme": "ˈɡæŋɡliən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "plexus",
+      "type": "phoneme",
+      "phoneme": "ˈplɛksəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "phrenic",
+      "type": "phoneme",
+      "phoneme": "ˈfrɛnɪk",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vagus",
+      "type": "phoneme",
+      "phoneme": "ˈveɪɡəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "recurrent laryngeal",
+      "type": "phoneme",
+      "phoneme": "rɪˈkɝːənt ləˈrɪndʒiəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "facial",
+      "type": "phoneme",
+      "phoneme": "ˈfeɪʃəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vestibulocochlear",
+      "type": "phoneme",
+      "phoneme": "vɛsˌtɪbjəloʊˈkoʊkliɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "glossopharyngeal",
+      "type": "phoneme",
+      "phoneme": "ˌɡlɑːsoʊfəˈrɪndʒiəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoglossal",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəˈɡlɑːsəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "accessory",
+      "type": "phoneme",
+      "phoneme": "əkˈsɛsəri",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "oculomotor",
+      "type": "phoneme",
+      "phoneme": "ˌɑːkjəloʊˈmoʊtɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "trochlear",
+      "type": "phoneme",
+      "phoneme": "ˈtroʊkliər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "abducens",
+      "type": "phoneme",
+      "phoneme": "æbˈdjuːsənz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "angina",
+      "type": "phoneme",
+      "phoneme": "ænˈdʒaɪnə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epinephrine",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈnɛfrɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "naloxone",
+      "type": "phoneme",
+      "phoneme": "nəˈlɑksoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərlɪˈpɪmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "phoneme",
+      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "phoneme",
+      "phoneme": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
+      "alphabet": "ipa"
+    }
+  ]
+}

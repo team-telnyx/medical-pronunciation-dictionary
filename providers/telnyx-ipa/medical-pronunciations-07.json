@@ -1,0 +1,605 @@
+{
+  "name": "Medical Pronunciations 07",
+  "items": [
+    {
+      "text": "peptic ulcer",
+      "type": "phoneme",
+      "phoneme": "ˈpɛptɪk ˈʌlsɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastroenteritis",
+      "type": "phoneme",
+      "phoneme": "ˌɡæstroʊˌɛntɚˈaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "colitis",
+      "type": "phoneme",
+      "phoneme": "kəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ulcerative colitis",
+      "type": "phoneme",
+      "phoneme": "ˈʌlsɚətɪv kəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Crohn's disease",
+      "type": "phoneme",
+      "phoneme": "kroʊnz dɪˈziz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "diverticulitis",
+      "type": "phoneme",
+      "phoneme": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "appendicitis",
+      "type": "phoneme",
+      "phoneme": "əˌpɛndɪˈsaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholecystitis",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləsɪˈstaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pancreatitis",
+      "type": "phoneme",
+      "phoneme": "ˌpæŋkriəˈtaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hepatitis",
+      "type": "phoneme",
+      "phoneme": "ˌhɛpəˈtaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cirrhosis",
+      "type": "phoneme",
+      "phoneme": "sɪˈroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholestasis",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləˈsteɪsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "steatosis",
+      "type": "phoneme",
+      "phoneme": "ˌstiəˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "steatohepatitis",
+      "type": "phoneme",
+      "phoneme": "ˌstiətoʊˌhɛpəˈtaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "peritonitis",
+      "type": "phoneme",
+      "phoneme": "ˌpɛrɪtəˈnaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ileus",
+      "type": "phoneme",
+      "phoneme": "ˈɪliəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "intussusception",
+      "type": "phoneme",
+      "phoneme": "ˌɪntəsəˈsɛpʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "volvulus",
+      "type": "phoneme",
+      "phoneme": "ˈvɑlvjələs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hematemesis",
+      "type": "phoneme",
+      "phoneme": "ˌhɛməˈtɛməsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "melena",
+      "type": "phoneme",
+      "phoneme": "məˈlinə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hematochezia",
+      "type": "phoneme",
+      "phoneme": "ˌhɛmətoʊˈkiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "choledocholithiasis",
+      "type": "phoneme",
+      "phoneme": "kəˌlɛdəkoʊˌlɪθaɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholelithiasis",
+      "type": "phoneme",
+      "phoneme": "ˌkoʊləlɪˈθaɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrolithiasis",
+      "type": "phoneme",
+      "phoneme": "ˌnɛfroʊlɪˈθaɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sialadenitis",
+      "type": "phoneme",
+      "phoneme": "ˌsaɪəlædəˈnaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephritis",
+      "type": "phoneme",
+      "phoneme": "nəˈfraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephrosis",
+      "type": "phoneme",
+      "phoneme": "nəˈfroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "glomerulonephritis",
+      "type": "phoneme",
+      "phoneme": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pyelonephritis",
+      "type": "phoneme",
+      "phoneme": "ˌpaɪəloʊnəˈfraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cystitis",
+      "type": "phoneme",
+      "phoneme": "sɪˈstaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "urethritis",
+      "type": "phoneme",
+      "phoneme": "ˌjʊrɪˈθraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ureterolithiasis",
+      "type": "phoneme",
+      "phoneme": "jʊˌrɛtərəlɪˈθaɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hydronephrosis",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪdrənɛˈfroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "oliguria",
+      "type": "phoneme",
+      "phoneme": "ˌɑlɪˈɡjʊriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anuria",
+      "type": "phoneme",
+      "phoneme": "əˈnjʊriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hematuria",
+      "type": "phoneme",
+      "phoneme": "ˌhɛməˈtʊriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "proteinuria",
+      "type": "phoneme",
+      "phoneme": "ˌproʊtiˈnʊriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysuria",
+      "type": "phoneme",
+      "phoneme": "dɪsˈjʊriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "incontinence",
+      "type": "phoneme",
+      "phoneme": "ɪnˈkɑntɪnəns",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "retention",
+      "type": "phoneme",
+      "phoneme": "rɪˈtɛnʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "azoospermia",
+      "type": "phoneme",
+      "phoneme": "eɪˌzoʊəˈspɜrmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "oligospermia",
+      "type": "phoneme",
+      "phoneme": "ˌɑlɪɡoʊˈspɜrmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "encephalopathy",
+      "type": "phoneme",
+      "phoneme": "ɛnˌsɛfəˈlɑpəθi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "encephalitis",
+      "type": "phoneme",
+      "phoneme": "ɛnˌsɛfəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "meningitis",
+      "type": "phoneme",
+      "phoneme": "ˌmɛnɪnˈdʒaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myelitis",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪəˈlaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neuropathy",
+      "type": "phoneme",
+      "phoneme": "nʊˈrɑpəθi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "radiculopathy",
+      "type": "phoneme",
+      "phoneme": "rəˌdɪkjəˈlɑpəθi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myelopathy",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪəˈlɑpəθi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ataxia",
+      "type": "phoneme",
+      "phoneme": "əˈtæksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysarthria",
+      "type": "phoneme",
+      "phoneme": "dɪsˈɑrθriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aphasia",
+      "type": "phoneme",
+      "phoneme": "əˈfeɪʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "apraxia",
+      "type": "phoneme",
+      "phoneme": "əˈpræksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "agnosia",
+      "type": "phoneme",
+      "phoneme": "æɡˈnoʊʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anomia",
+      "type": "phoneme",
+      "phoneme": "əˈnoʊmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysphagia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈfeɪdʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysphonia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈfoʊniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dyskinesia",
+      "type": "phoneme",
+      "phoneme": "ˌdɪskɪˈniʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myoclonus",
+      "type": "phoneme",
+      "phoneme": "maɪˈɑklənəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "chorea",
+      "type": "phoneme",
+      "phoneme": "kəˈriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "athetosis",
+      "type": "phoneme",
+      "phoneme": "ˌæθəˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dystonia",
+      "type": "phoneme",
+      "phoneme": "dɪsˈtoʊniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tremor",
+      "type": "phoneme",
+      "phoneme": "ˈtrɛmər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fasciculation",
+      "type": "phoneme",
+      "phoneme": "fəˌsɪkjəˈleɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "clonus",
+      "type": "phoneme",
+      "phoneme": "ˈkloʊnəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nystagmus",
+      "type": "phoneme",
+      "phoneme": "nɪˈstæɡməs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ptosis",
+      "type": "phoneme",
+      "phoneme": "ˈtoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "miosis",
+      "type": "phoneme",
+      "phoneme": "maɪˈoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mydriasis",
+      "type": "phoneme",
+      "phoneme": "mɪˈdraɪəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anisocoria",
+      "type": "phoneme",
+      "phoneme": "ænˌaɪsəˈkɔriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərrɪˈflɛksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyporeflexia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpɔrɪˈflɛksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Babinski",
+      "type": "phoneme",
+      "phoneme": "bəˈbɪnski",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "paresthesia",
+      "type": "phoneme",
+      "phoneme": "ˌpærəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌænəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dysesthesia",
+      "type": "phoneme",
+      "phoneme": "ˌdɪsəsˈθiʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neuralgia",
+      "type": "phoneme",
+      "phoneme": "nʊˈrældʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neuritis",
+      "type": "phoneme",
+      "phoneme": "nʊˈraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sciatica",
+      "type": "phoneme",
+      "phoneme": "saɪˈætɪkə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "trigeminal",
+      "type": "phoneme",
+      "phoneme": "traɪˈdʒɛmɪnəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "prosopagnosia",
+      "type": "phoneme",
+      "phoneme": "ˌprɑsəpæɡˈnoʊʒə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperthyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thyrotoxicosis",
+      "type": "phoneme",
+      "phoneme": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myxedema",
+      "type": "phoneme",
+      "phoneme": "ˌmɪksəˈdiːmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperparathyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoparathyroidism",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypercalcemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərkælˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypocalcemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpəkælˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperkalemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərkəˈliːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypokalemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊkəˈliːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypernatremia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərnəˈtriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyponatremia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊnəˈtriːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypomagnesemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊmæɡnəˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypermagnesemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərmæɡnəˈsiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypophosphatemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊfɑːsfəˈtiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperphosphatemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərfɑːsfəˈtiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "acidosis",
+      "type": "phoneme",
+      "phoneme": "ˌæsɪˈdoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "alkalosis",
+      "type": "phoneme",
+      "phoneme": "ˌælkəˈloʊsɪs",
+      "alphabet": "ipa"
+    }
+  ]
+}

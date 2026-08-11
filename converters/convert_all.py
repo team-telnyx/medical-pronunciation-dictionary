@@ -10,7 +10,10 @@ the provider supports both. Providers that only support phoneme (Polly,
 Retell) emit phoneme-only entries.
 
 Providers:
-  - telnyx:       chunked JSON, 100 entries per file (50 terms x 2 entries)
+  - telnyx:       chunked JSON, 100 alias entries per file (safe on every voice)
+  - telnyx-ipa:   chunked JSON, 100 IPA phoneme entries per file. Only for
+                  Telnyx Ultra, MiniMax and Inworld. Destructive on other
+                  voices, see write_telnyx.
   - elevenlabs:   W3C PLS XML, 100 lexemes per file, alias + phoneme
   - vapi:         single JSON file, alias + <<ipa>> entries
   - amazon-polly: W3C PLS XML, 100 lexemes per file, phoneme only
@@ -114,35 +117,50 @@ def prune(out_dir: Path, pattern: str, keep: list[Path]) -> None:
 # Telnyx JSON
 # ---------------------------------------------------------------------------
 
-def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
-    """One JSON file per CHUNK_SIZE entries, one ALIAS entry per term.
+def write_telnyx(terms: list[dict], out_dir: Path, phoneme: bool = False) -> list[Path]:
+    """One JSON file per CHUNK_SIZE entries, one entry per term.
 
     Two constraints drive this shape:
 
     1. The Telnyx API rejects duplicate `text` entries within a dictionary,
        so each term gets exactly one rule, not an alias and a phoneme.
-    2. Telnyx TTS does not interpret `type: "phoneme"` entries. It reads the
-       IPA string as characters rather than applying it. Verified against
-       Telnyx.NaturalHD.astra with a textbook case: mapping "tomato" to
-       /təˈmeɪtoʊ/ renders as "tee me me to ours". On Telnyx.KokoroTTS.af the
-       same entry is spoken as the literal Unicode names ("schwa second stress
-       M letter 251 ..."). Alias entries are applied correctly.
+    2. Entry type has to match the voice. Telnyx docs: alias works "for any
+       voice", IPA phonemes only on engines that support them (Telnyx Ultra,
+       MiniMax, Inworld).
 
-    So Telnyx gets aliases. The IPA is still exported for providers that do
-    support phonemes; see write_pls and write_retell.
+    On a voice outside that list a phoneme entry is not ignored, it is
+    destructive: the IPA string goes through the text path. Verified on
+    Telnyx.NaturalHD.astra, where mapping "tomato" to /təˈmeɪtoʊ/ renders as
+    "tee me me to ours", and on Telnyx.KokoroTTS.af, which speaks the literal
+    Unicode names ("schwa second stress M letter 251 ..."). The same dictionary
+    on Telnyx.Ultra renders "tomato" correctly.
+
+    So alias is the default, since it is the only type that is safe on every
+    voice. Pass phoneme=True for the Ultra/MiniMax/Inworld variant.
     """
     out_dir.mkdir(parents=True, exist_ok=True)
     files: list[Path] = []
     for idx, batch in enumerate(chunked(terms, CHUNK_SIZE), start=1):
         name = f"{DICT_PREFIX} {pad(idx)}"
-        items = [
-            {
-                "text": item["text"],
-                "type": "alias",
-                "alias": item["alias"],
-            }
-            for item in batch
-        ]
+        if phoneme:
+            items = [
+                {
+                    "text": item["text"],
+                    "type": "phoneme",
+                    "phoneme": item["ipa"],
+                    "alphabet": "ipa",
+                }
+                for item in batch
+            ]
+        else:
+            items = [
+                {
+                    "text": item["text"],
+                    "type": "alias",
+                    "alias": item["alias"],
+                }
+                for item in batch
+            ]
         payload = {"name": name, "items": items}
         path = out_dir / f"medical-pronunciations-{pad(idx)}.json"
         with path.open("w", encoding="utf-8") as f:
@@ -330,10 +348,16 @@ def main() -> int:
 
     summary: list[tuple[str, list[Path]]] = []
 
-    print("[1/8] Telnyx JSON (chunked, 100 phoneme entries/file) ...")
+    print("[1/9] Telnyx JSON, alias (safe on every voice) ...")
     summary.append(("telnyx", write_telnyx(terms, PROVIDERS_DIR / "telnyx")))
 
-    print("[2/8] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
+    print("[2/9] Telnyx JSON, IPA phoneme (Ultra / MiniMax / Inworld only) ...")
+    summary.append((
+        "telnyx-ipa",
+        write_telnyx(terms, PROVIDERS_DIR / "telnyx-ipa", phoneme=True),
+    ))
+
+    print("[3/9] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
     summary.append((
         "elevenlabs",
         write_pls(
@@ -344,10 +368,10 @@ def main() -> int:
         ),
     ))
 
-    print("[3/8] Vapi JSON (single file, <<ipa>> phoneme entries) ...")
+    print("[4/9] Vapi JSON (single file, <<ipa>> phoneme entries) ...")
     summary.append(("vapi", write_vapi(terms, PROVIDERS_DIR / "vapi")))
 
-    print("[4/8] Amazon Polly PLS (chunked, 100 lexemes/file, phoneme only) ...")
+    print("[5/9] Amazon Polly PLS (chunked, 100 lexemes/file, phoneme only) ...")
     summary.append((
         "amazon-polly",
         write_pls(
@@ -358,16 +382,16 @@ def main() -> int:
         ),
     ))
 
-    print("[5/8] Retell JSON (single file, IPA phoneme only, word-level) ...")
+    print("[6/9] Retell JSON (single file, IPA phoneme only, word-level) ...")
     summary.append(("retell", write_retell(terms, PROVIDERS_DIR / "retell")))
 
-    print("[6/8] STT keyterms (comma-separated for Deepgram keyterm boosting) ...")
+    print("[7/9] STT keyterms (comma-separated for Deepgram keyterm boosting) ...")
     summary.append(("keyterms", write_keyterms(terms, PROVIDERS_DIR / "stt")))
 
-    print("[7/8] Generic CSV ...")
+    print("[8/9] Generic CSV ...")
     summary.append(("generic-csv", write_generic_csv(terms, PROVIDERS_DIR / "generic")))
 
-    print("[8/8] Generic JSON (flat) ...")
+    print("[9/9] Generic JSON (flat) ...")
     summary.append(("generic-json", write_generic_json(terms, PROVIDERS_DIR / "generic")))
 
     print()

@@ -1,0 +1,605 @@
+{
+  "name": "Medical Pronunciations 06",
+  "items": [
+    {
+      "text": "GU",
+      "type": "phoneme",
+      "phoneme": "ˌdʒɛnɪtoʊˈjʊrɪnɛri",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "MSK",
+      "type": "phoneme",
+      "phoneme": "ˌmʌskjəloʊˈskɛlətəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Neuro",
+      "type": "phoneme",
+      "phoneme": "ˈnʊroʊ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Psych",
+      "type": "phoneme",
+      "phoneme": "sˈaɪk",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Derm",
+      "type": "phoneme",
+      "phoneme": "ˈdɝm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ENT",
+      "type": "phoneme",
+      "phoneme": "ˈɪr noʊz ən θroʊt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "OB",
+      "type": "phoneme",
+      "phoneme": "əbˈstɛtrɪks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "GYN",
+      "type": "phoneme",
+      "phoneme": "ˌɡaɪnəˈkɑlədʒi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "LMP",
+      "type": "phoneme",
+      "phoneme": "læst ˈmɛnstruəl ˈpɪriəd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "EDC",
+      "type": "phoneme",
+      "phoneme": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Gest",
+      "type": "phoneme",
+      "phoneme": "dʒˈɛst",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "NS",
+      "type": "phoneme",
+      "phoneme": "ˈnɔrməl səˈliːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "LR",
+      "type": "phoneme",
+      "phoneme": "ˈlækteɪtɪd ˈrɪŋɚz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "D5W",
+      "type": "phoneme",
+      "phoneme": "dˈiː faɪv dʌbəlju",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "D5NS",
+      "type": "phoneme",
+      "phoneme": "dˈiː faɪv ɛn ɛs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "D5LR",
+      "type": "phoneme",
+      "phoneme": "dˈiː faɪv ɛl ɑr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "KCl",
+      "type": "phoneme",
+      "phoneme": "pəˈtæsiəm ˈklɔraɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "MgSO4",
+      "type": "phoneme",
+      "phoneme": "mæɡˈniːziəm sʌlˈfeɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "CaCl2",
+      "type": "phoneme",
+      "phoneme": "ˈkælsiəm ˈklɔraɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "NaHCO3",
+      "type": "phoneme",
+      "phoneme": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ABG",
+      "type": "phoneme",
+      "phoneme": "ɑrˈtɪriəl blʌd ɡæs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "VBG",
+      "type": "phoneme",
+      "phoneme": "ˈviːnəs blʌd ɡæs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "LP",
+      "type": "phoneme",
+      "phoneme": "ˈlʌmbɚ ˈpʌŋktʃɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "BM",
+      "type": "phoneme",
+      "phoneme": "ˈbaʊəl ˈmuːvmənt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "PEG",
+      "type": "phoneme",
+      "phoneme": "pˈɛɡ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ICD",
+      "type": "phoneme",
+      "phoneme": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Pacemaker",
+      "type": "phoneme",
+      "phoneme": "ˈpeɪsmeɪkɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "AICD",
+      "type": "phoneme",
+      "phoneme": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "CABG",
+      "type": "phoneme",
+      "phoneme": "ˈkæbɪdʒ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "PCI",
+      "type": "phoneme",
+      "phoneme": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "TAVR",
+      "type": "phoneme",
+      "phoneme": "ˈtɑvɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "TEVAR",
+      "type": "phoneme",
+      "phoneme": "ˈtɛvɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "EVAR",
+      "type": "phoneme",
+      "phoneme": "ˈivɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "PTCA",
+      "type": "phoneme",
+      "phoneme": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ETOH",
+      "type": "phoneme",
+      "phoneme": "ˈælkəˌhɔl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "IVDU",
+      "type": "phoneme",
+      "phoneme": "ˌaɪˈvi drʌɡ ˈjuːs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ASA",
+      "type": "phoneme",
+      "phoneme": "ˈæspɚɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "NYD",
+      "type": "phoneme",
+      "phoneme": "nɑt jɛt ˌdaɪəɡˈnoʊzd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "HX",
+      "type": "phoneme",
+      "phoneme": "ˈhɪstɚi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Sx",
+      "type": "phoneme",
+      "phoneme": "ˈsɪmptəmz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Tx",
+      "type": "phoneme",
+      "phoneme": "ˈtriːtmənt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Dx",
+      "type": "phoneme",
+      "phoneme": "ˌdaɪəɡˈnoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "Rx",
+      "type": "phoneme",
+      "phoneme": "prɪˈskrɪpʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "FHx",
+      "type": "phoneme",
+      "phoneme": "ˈfæməli ˈhɪstɚi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "SHx",
+      "type": "phoneme",
+      "phoneme": "ˈsoʊʃəl ˈhɪstɚi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "angina pectoris",
+      "type": "phoneme",
+      "phoneme": "ænˈdʒaɪnə ˈpɛktərɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arrhythmia",
+      "type": "phoneme",
+      "phoneme": "əˈrɪðmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "phoneme",
+      "phoneme": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ventricular fibrillation",
+      "type": "phoneme",
+      "phoneme": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tachycardia",
+      "type": "phoneme",
+      "phoneme": "ˌtækiˈkɑːrdiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bradycardia",
+      "type": "phoneme",
+      "phoneme": "ˌbrædiˈkɑːrdiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypertension",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˈtɛnʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypotension",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊˈtɛnʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atherosclerosis",
+      "type": "phoneme",
+      "phoneme": "ˌæθəroʊskləˈroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endocarditis",
+      "type": "phoneme",
+      "phoneme": "ˌɛndoʊkɑːrˈdaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pericarditis",
+      "type": "phoneme",
+      "phoneme": "ˌpɛrɪkɑːrˈdaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myocarditis",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪoʊkɑːrˈdaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cardiomyopathy",
+      "type": "phoneme",
+      "phoneme": "ˌkɑːrdioʊmaɪˈɑːpəθi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thromboembolism",
+      "type": "phoneme",
+      "phoneme": "ˌθrɑːmboʊˈɛmbəlɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "thrombophlebitis",
+      "type": "phoneme",
+      "phoneme": "ˌθrɑːmboʊflɪˈbaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "phlebitis",
+      "type": "phoneme",
+      "phoneme": "flɪˈbaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "embolism",
+      "type": "phoneme",
+      "phoneme": "ˈɛmbəlɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "stenosis",
+      "type": "phoneme",
+      "phoneme": "stɪˈnoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "regurgitation",
+      "type": "phoneme",
+      "phoneme": "rɪˌɡɝːdʒɪˈteɪʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "prolapse",
+      "type": "phoneme",
+      "phoneme": "proʊˈlæps",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aneurysm",
+      "type": "phoneme",
+      "phoneme": "ˈænjərɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dissection",
+      "type": "phoneme",
+      "phoneme": "dɪˈsɛkʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ischemia",
+      "type": "phoneme",
+      "phoneme": "ɪˈskimiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "infarction",
+      "type": "phoneme",
+      "phoneme": "ɪnˈfɑːrkʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "reperfusion",
+      "type": "phoneme",
+      "phoneme": "ˌriːpərˈfjuːʒən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypercholesterolemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərkəˌlɛstərəˈliːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypertriglyceridemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoalbuminemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pneumonia",
+      "type": "phoneme",
+      "phoneme": "nuːˈmoʊnjə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bronchitis",
+      "type": "phoneme",
+      "phoneme": "brɑːŋˈkaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bronchiectasis",
+      "type": "phoneme",
+      "phoneme": "ˌbrɑːŋkiˈɛktəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "emphysema",
+      "type": "phoneme",
+      "phoneme": "ˌɛmfɪˈsiːmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pneumothorax",
+      "type": "phoneme",
+      "phoneme": "ˌnuːmoʊˈθɔːræks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hemothorax",
+      "type": "phoneme",
+      "phoneme": "ˌhiːmoʊˈθɔːræks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pleural effusion",
+      "type": "phoneme",
+      "phoneme": "ˈplʊrəl ɪˈfjuːʒən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pleurisy",
+      "type": "phoneme",
+      "phoneme": "ˈplʊrɪsi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "atelectasis",
+      "type": "phoneme",
+      "phoneme": "ˌætəˈlɛktəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pulmonary embolism",
+      "type": "phoneme",
+      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pulmonary edema",
+      "type": "phoneme",
+      "phoneme": "ˈpʊlməˌnɛri ɪˈdiːmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pulmonary fibrosis",
+      "type": "phoneme",
+      "phoneme": "ˈpʊlməˌnɛri faɪˈbroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sarcoidosis",
+      "type": "phoneme",
+      "phoneme": "ˌsɑːrkɔɪˈdoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tuberculosis",
+      "type": "phoneme",
+      "phoneme": "tuːˌbɜːrkjəˈloʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoxia",
+      "type": "phoneme",
+      "phoneme": "haɪˈpɑːksiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypercapnia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˈkæpniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "respiratory failure",
+      "type": "phoneme",
+      "phoneme": "ˈrɛspərəˌtɔːri ˈfeɪljər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "apnea",
+      "type": "phoneme",
+      "phoneme": "æpˈniːə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dyspnea",
+      "type": "phoneme",
+      "phoneme": "ˈdɪspniə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hemoptysis",
+      "type": "phoneme",
+      "phoneme": "hɪˈmɑːptəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "stridor",
+      "type": "phoneme",
+      "phoneme": "ˈstraɪdɔːr",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "wheezing",
+      "type": "phoneme",
+      "phoneme": "ˈwiːzɪŋ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "coryza",
+      "type": "phoneme",
+      "phoneme": "kəˈraɪzə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastroesophageal reflux",
+      "type": "phoneme",
+      "phoneme": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "esophagitis",
+      "type": "phoneme",
+      "phoneme": "ɪˌsɑːfəˈdʒaɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastritis",
+      "type": "phoneme",
+      "phoneme": "ɡæˈstraɪtɪs",
+      "alphabet": "ipa"
+    }
+  ]
+}

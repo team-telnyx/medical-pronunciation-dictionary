@@ -23,7 +23,13 @@ python3 import_to_telnyx.py             # create
 
 Reads `providers/telnyx/` and creates 10 pronunciation dictionaries in your Telnyx account, 966 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
 
-Telnyx TTS applies alias entries but does not interpret IPA phoneme entries, so the Telnyx pack is alias-only. See [Which format each provider gets](#which-format-each-provider-gets).
+There are two Telnyx packs. The default is alias, because alias works on every Telnyx voice. IPA phonemes only work on **Telnyx Ultra, MiniMax and Inworld**, and on any other voice they make pronunciation worse rather than being ignored. If you are on one of those three engines:
+
+```bash
+python3 import_to_telnyx.py --ipa
+```
+
+See [Which format each provider gets](#which-format-each-provider-gets).
 
 ### Telnyx Portal
 
@@ -83,7 +89,8 @@ Repeat for files 02 through 10.
 
 | Provider | Emitted | Why |
 |----------|---------|-----|
-| Telnyx | alias | Telnyx TTS does not interpret IPA phoneme entries. Verified on `Telnyx.NaturalHD.astra`: a dictionary mapping `tomato` to `/təˈmeɪtoʊ/` renders as "tee me me to ours". On `Telnyx.KokoroTTS.af` the same entry is spoken as literal Unicode character names. Alias entries are applied correctly. |
+| Telnyx (default) | alias | Alias is the only entry type that works on every Telnyx voice, so it is the safe default for a pack you hand to someone else. |
+| Telnyx Ultra / MiniMax / Inworld | phoneme (`providers/telnyx-ipa/`) | These three engines support IPA. Opt in with `import_to_telnyx.py --ipa`. On any other voice a phoneme entry is not ignored, it is destructive: verified on `Telnyx.NaturalHD.astra`, where mapping `tomato` to `/təˈmeɪtoʊ/` renders as "tee me me to ours", and on `Telnyx.KokoroTTS.af`, which speaks the literal Unicode character names. The same dictionary on `Telnyx.Ultra` renders `tomato` correctly. |
 | ElevenLabs | alias + phoneme | PLS supports both per lexeme |
 | Amazon Polly | phoneme | Polly lexicons are IPA-based |
 | Vapi | phoneme (`<<ipa>>`) | Vapi's documented syntax. Not independently verified. |
@@ -94,11 +101,14 @@ Telnyx, Vapi, and Retell reject duplicate entries for the same word, so those ge
 
 The Telnyx TTS request field is `pronunciation_dict_id`, singular, a string. The plural spellings are accepted with HTTP 200 and silently ignored.
 
+The audio samples below were generated on `Telnyx.NaturalHD.astra`, so they show the alias pack.
+
 ## Provider support
 
 | Provider | Format | Alias | IPA | Files |
 |----------|--------|-------|-----|-------|
 | Telnyx | JSON items | Yes | No | `providers/telnyx/` (10 JSON, 100 alias entries each) |
+| Telnyx Ultra / MiniMax / Inworld | JSON items | No | Yes | `providers/telnyx-ipa/` (10 JSON, 100 phoneme entries each) |
 | Telnyx | PLS XML | Yes | Yes | `pls/` (11 PLS, alias-only legacy format) |
 | ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS, alias + phoneme per lexeme) |
 | Vapi | JSON | No | Yes | `providers/vapi/` (1 JSON, 966 `<<ipa>>` entries) |
@@ -129,6 +139,7 @@ medical-pronunciation-dictionary/
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
 │   ├── telnyx/                          # 10 JSON files (100 alias entries each)
+│   ├── telnyx-ipa/                      # 10 JSON files, IPA (Ultra/MiniMax/Inworld only)
 │   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
 │   ├── vapi/                            # 1 JSON file (<<ipa>> per term)
 │   ├── amazon-polly/                    # 10 PLS XML files (IPA only, en-US)

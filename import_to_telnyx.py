@@ -2,12 +2,19 @@
 """
 Import medical pronunciation dictionaries into Telnyx.
 
-Reads the generated dictionaries in providers/telnyx/ and creates one Telnyx
-pronunciation dictionary per file. Each file holds up to 100 items: an alias
-entry and an IPA phoneme entry per term.
+Creates one Telnyx pronunciation dictionary per generated file, up to 100
+entries each.
+
+Two packs are available:
+
+  providers/telnyx/      alias entries. Safe on every Telnyx voice.
+  providers/telnyx-ipa/  IPA phoneme entries. ONLY for Telnyx Ultra, MiniMax
+                         and Inworld. On any other voice the IPA is read as
+                         text and makes pronunciation worse, so this is opt-in.
 
 Usage:
-  python3 import_to_telnyx.py            # create all dictionaries
+  python3 import_to_telnyx.py            # alias pack
+  python3 import_to_telnyx.py --ipa      # IPA pack (Ultra / MiniMax / Inworld)
   python3 import_to_telnyx.py --dry-run  # preview without creating
 
 Requires: TELNYX_API_KEY environment variable
@@ -22,15 +29,15 @@ import urllib.request
 from pathlib import Path
 
 API_BASE = "https://api.telnyx.com/v2"
-DICTS_DIR = Path(__file__).parent / "providers" / "telnyx"
+PROVIDERS_DIR = Path(__file__).parent / "providers"
 
 
-def load_dicts() -> list[dict]:
+def load_dicts(dicts_dir: Path) -> list[dict]:
     """Load every generated Telnyx dictionary payload, in file order."""
-    paths = sorted(DICTS_DIR.glob("medical-pronunciations-*.json"))
+    paths = sorted(dicts_dir.glob("medical-pronunciations-*.json"))
     if not paths:
         sys.exit(
-            f"No dictionaries found in {DICTS_DIR}. "
+            f"No dictionaries found in {dicts_dir}. "
             "Run `python3 converters/convert_all.py` first."
         )
     payloads = []
@@ -57,14 +64,21 @@ def create_dict(key: str, name: str, items: list[dict]) -> str:
 
 def main() -> int:
     dry_run = "--dry-run" in sys.argv
+    use_ipa = "--ipa" in sys.argv
+    dicts_dir = PROVIDERS_DIR / ("telnyx-ipa" if use_ipa else "telnyx")
 
     key = os.environ.get("TELNYX_API_KEY", "")
     if not key and not dry_run:
         print("ERROR: TELNYX_API_KEY not set", file=sys.stderr)
         return 1
 
-    dicts = load_dicts()
+    dicts = load_dicts(dicts_dir)
     total_items = sum(len(d["items"]) for d in dicts)
+    kind = "IPA phoneme" if use_ipa else "alias"
+    print(f"Pack: {dicts_dir.name} ({kind} entries)")
+    if use_ipa:
+        print("WARNING: IPA entries only work on Telnyx Ultra, MiniMax and "
+              "Inworld voices. On any other voice they degrade pronunciation.")
     print(f"Dictionaries to create: {len(dicts)} ({total_items} items total)")
 
     for i, payload in enumerate(dicts, 1):

@@ -1,0 +1,605 @@
+{
+  "name": "Medical Pronunciations 09",
+  "items": [
+    {
+      "text": "mediastinoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌmiːdiˌæstəˈnɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arthroplasty",
+      "type": "phoneme",
+      "phoneme": "ˈɑːrθroʊˌplæsti",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "osteotomy",
+      "type": "phoneme",
+      "phoneme": "ˌɑːstiˈɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "craniotomy",
+      "type": "phoneme",
+      "phoneme": "ˌkreɪniˈɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "laminectomy",
+      "type": "phoneme",
+      "phoneme": "ˌlæməˈnɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "discectomy",
+      "type": "phoneme",
+      "phoneme": "dɪˈskɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rhizotomy",
+      "type": "phoneme",
+      "phoneme": "raɪˈzɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "neurectomy",
+      "type": "phoneme",
+      "phoneme": "nʊˈrɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sympathectomy",
+      "type": "phoneme",
+      "phoneme": "ˌsɪmpəˈθɛktəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vagotomy",
+      "type": "phoneme",
+      "phoneme": "veɪˈɡɑtəmi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epithelium",
+      "type": "phoneme",
+      "phoneme": "ˌɛpəˈθiliəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endothelium",
+      "type": "phoneme",
+      "phoneme": "ˌɛndoʊˈθiliəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mesothelium",
+      "type": "phoneme",
+      "phoneme": "ˌmɛzoʊˈθiliəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "stratum corneum",
+      "type": "phoneme",
+      "phoneme": "ˈstreɪtəm ˈkɔrniəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dermis",
+      "type": "phoneme",
+      "phoneme": "ˈdɜrmɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epidermis",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈdɜrmɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypodermis",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊˈdɜrmɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "subcutaneous",
+      "type": "phoneme",
+      "phoneme": "ˌsʌbkjuˈteɪniəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fascia",
+      "type": "phoneme",
+      "phoneme": "ˈfæʃiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ligament",
+      "type": "phoneme",
+      "phoneme": "ˈlɪɡəmənt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tendon",
+      "type": "phoneme",
+      "phoneme": "ˈtɛndən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "aponeurosis",
+      "type": "phoneme",
+      "phoneme": "ˌæpənʊˈroʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "bursa",
+      "type": "phoneme",
+      "phoneme": "ˈbɜrsə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "meniscus",
+      "type": "phoneme",
+      "phoneme": "məˈnɪskəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cartilage",
+      "type": "phoneme",
+      "phoneme": "ˈkɑrtəlɪdʒ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "periosteum",
+      "type": "phoneme",
+      "phoneme": "ˌpɛriˈɑstiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endosteum",
+      "type": "phoneme",
+      "phoneme": "ɛnˈdɑstiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "diaphysis",
+      "type": "phoneme",
+      "phoneme": "daɪˈæfəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epiphysis",
+      "type": "phoneme",
+      "phoneme": "ɪˈpɪfəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "metaphysis",
+      "type": "phoneme",
+      "phoneme": "məˈtæfəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "physis",
+      "type": "phoneme",
+      "phoneme": "ˈfɪsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "symphysis",
+      "type": "phoneme",
+      "phoneme": "ˈsɪmfəsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "synovium",
+      "type": "phoneme",
+      "phoneme": "sɪˈnoʊviəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "synovia",
+      "type": "phoneme",
+      "phoneme": "sɪˈnoʊviə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sutura",
+      "type": "phoneme",
+      "phoneme": "suˈtʊrə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fontanelle",
+      "type": "phoneme",
+      "phoneme": "ˌfɑntəˈnɛl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "myocardium",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪoʊˈkɑrdiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epicardium",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈkɑrdiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pericardium",
+      "type": "phoneme",
+      "phoneme": "ˌpɛrɪˈkɑrdiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "endocardium",
+      "type": "phoneme",
+      "phoneme": "ˌɛndoʊˈkɑrdiəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "intima",
+      "type": "phoneme",
+      "phoneme": "ˈɪntɪmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "media",
+      "type": "phoneme",
+      "phoneme": "ˈmiːdiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "adventitia",
+      "type": "phoneme",
+      "phoneme": "ˌædvɛnˈtɪʃə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tunica",
+      "type": "phoneme",
+      "phoneme": "ˈtuːnɪkə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "parenchyma",
+      "type": "phoneme",
+      "phoneme": "pəˈrɛŋkɪmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "stroma",
+      "type": "phoneme",
+      "phoneme": "ˈstroʊmə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "septum",
+      "type": "phoneme",
+      "phoneme": "ˈsɛptəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "septa",
+      "type": "phoneme",
+      "phoneme": "ˈsɛptə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "trabecula",
+      "type": "phoneme",
+      "phoneme": "trəˈbɛkjələ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hilum",
+      "type": "phoneme",
+      "phoneme": "ˈhaɪləm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hilus",
+      "type": "phoneme",
+      "phoneme": "ˈhaɪləs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sulcus",
+      "type": "phoneme",
+      "phoneme": "ˈsʌlkəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gyrus",
+      "type": "phoneme",
+      "phoneme": "ˈdʒaɪrəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cortex",
+      "type": "phoneme",
+      "phoneme": "ˈkɔrtɛks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "medulla",
+      "type": "phoneme",
+      "phoneme": "məˈdʌlə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "capsule",
+      "type": "phoneme",
+      "phoneme": "ˈkæpsəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "lobe",
+      "type": "phoneme",
+      "phoneme": "lˈoʊb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "lobule",
+      "type": "phoneme",
+      "phoneme": "ˈlɑbjul",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "acinus",
+      "type": "phoneme",
+      "phoneme": "ˈæsɪnəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "alveolus",
+      "type": "phoneme",
+      "phoneme": "ælˈviələs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "glomerulus",
+      "type": "phoneme",
+      "phoneme": "ɡloʊˈmɛrjələs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "nephron",
+      "type": "phoneme",
+      "phoneme": "ˈnɛfrɑn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tubule",
+      "type": "phoneme",
+      "phoneme": "ˈtubjul",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ductule",
+      "type": "phoneme",
+      "phoneme": "ˈdʌktʃul",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ductus",
+      "type": "phoneme",
+      "phoneme": "ˈdʌktəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vas deferens",
+      "type": "phoneme",
+      "phoneme": "vˈæs dɛfərɛnz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epididymis",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈdɪdɪmɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fimbria",
+      "type": "phoneme",
+      "phoneme": "ˈfɪmbriə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fornix",
+      "type": "phoneme",
+      "phoneme": "ˈfɔrnɪks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mesentery",
+      "type": "phoneme",
+      "phoneme": "ˈmɛzənˌtɛri",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "omentum",
+      "type": "phoneme",
+      "phoneme": "oʊˈmɛntəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "peritoneum",
+      "type": "phoneme",
+      "phoneme": "ˌpɛrɪtəˈniəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "retroperitoneum",
+      "type": "phoneme",
+      "phoneme": "ˌrɛtroʊˌpɛrɪtəˈniəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mesocolon",
+      "type": "phoneme",
+      "phoneme": "ˌmɛzəˈkoʊlən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "haustra",
+      "type": "phoneme",
+      "phoneme": "ˈhɔstrə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "plicae",
+      "type": "phoneme",
+      "phoneme": "ˈplaɪsi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rugae",
+      "type": "phoneme",
+      "phoneme": "ˈrudiʒi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "villi",
+      "type": "phoneme",
+      "phoneme": "ˈvɪlaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "microvilli",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪkroʊˈvɪlaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cryptae",
+      "type": "phoneme",
+      "phoneme": "ˈkrɪpti",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pylorus",
+      "type": "phoneme",
+      "phoneme": "paɪˈlɔrəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cardia",
+      "type": "phoneme",
+      "phoneme": "ˈkɑrdiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fundus",
+      "type": "phoneme",
+      "phoneme": "ˈfʌndəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "antrum",
+      "type": "phoneme",
+      "phoneme": "ˈæntrəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "duodenum",
+      "type": "phoneme",
+      "phoneme": "ˌduəˈdinəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "jejunum",
+      "type": "phoneme",
+      "phoneme": "dʒəˈdʒunəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ileum",
+      "type": "phoneme",
+      "phoneme": "ˈɪliəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cecum",
+      "type": "phoneme",
+      "phoneme": "ˈsikəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vermiform",
+      "type": "phoneme",
+      "phoneme": "ˈvɜrmɪfɔrm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "appendix",
+      "type": "phoneme",
+      "phoneme": "əˈpɛndɪks",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sigmoid",
+      "type": "phoneme",
+      "phoneme": "ˈsɪɡmɔɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rectum",
+      "type": "phoneme",
+      "phoneme": "ˈrɛktəm",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "anus",
+      "type": "phoneme",
+      "phoneme": "ˈeɪnəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sphincter",
+      "type": "phoneme",
+      "phoneme": "ˈsfɪŋktər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "papilla",
+      "type": "phoneme",
+      "phoneme": "pəˈpɪlə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ampulla",
+      "type": "phoneme",
+      "phoneme": "æmˈpʊlə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cholecyst",
+      "type": "phoneme",
+      "phoneme": "ˈkoʊləsɪst",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "choledochus",
+      "type": "phoneme",
+      "phoneme": "kəˈlɛdəkəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pancreas",
+      "type": "phoneme",
+      "phoneme": "ˈpæŋkriəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "islets",
+      "type": "phoneme",
+      "phoneme": "ˈaɪlɪts",
+      "alphabet": "ipa"
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "name": "Medical Pronunciations 04",
+  "items": [
+    {
+      "text": "golimumab",
+      "type": "phoneme",
+      "phoneme": "ɡoʊˈlɪmjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tocilizumab",
+      "type": "phoneme",
+      "phoneme": "ˌtoʊsɪˈlɪzjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sarilumab",
+      "type": "phoneme",
+      "phoneme": "ˌsærɪˈluːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ustekinumab",
+      "type": "phoneme",
+      "phoneme": "ˌʌstəˈkɪnjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "secukinumab",
+      "type": "phoneme",
+      "phoneme": "ˌsɛkjʊˈkɪnjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ixekizumab",
+      "type": "phoneme",
+      "phoneme": "ˌɪksɛˈkɪzjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "brodalumab",
+      "type": "phoneme",
+      "phoneme": "broʊˈdæljʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "guselkumab",
+      "type": "phoneme",
+      "phoneme": "ˌɡʌsɛlˈkuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "risankizumab",
+      "type": "phoneme",
+      "phoneme": "ˌrɪsæŋˈkɪzjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tildrakizumab",
+      "type": "phoneme",
+      "phoneme": "tɪlˈdrækɪzjʊˌmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "abatacept",
+      "type": "phoneme",
+      "phoneme": "ˌæbəˈtæsɛpt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "leflunomide",
+      "type": "phoneme",
+      "phoneme": "ˌlɛfˈluːnəˌmaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sulfasalazine",
+      "type": "phoneme",
+      "phoneme": "ˌsʌlfəˈsæləˌziːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "type": "phoneme",
+      "phoneme": "haɪˌdrɑksiˈklɔrəˌkwin",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "azathioprine",
+      "type": "phoneme",
+      "phoneme": "ˌæzəˈθaɪəˌpriːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mycophenolate",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪkoʊˈfɛnəˌleɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tacrolimus",
+      "type": "phoneme",
+      "phoneme": "təˈkroʊlɪməs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cyclosporine",
+      "type": "phoneme",
+      "phoneme": "ˌsaɪkloʊˈspɔriːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sirolimus",
+      "type": "phoneme",
+      "phoneme": "sɪˈroʊlɪməs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "everolimus",
+      "type": "phoneme",
+      "phoneme": "ɛˈvɛrəlɪməs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "levodopa",
+      "type": "phoneme",
+      "phoneme": "ˌlɛvoʊˈdoʊpə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "carbidopa",
+      "type": "phoneme",
+      "phoneme": "ˌkɑrbɪˈdoʊpə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "pramipexole",
+      "type": "phoneme",
+      "phoneme": "ˌpræmɪˈpɛksoʊl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ropinirole",
+      "type": "phoneme",
+      "phoneme": "roʊˈpɪnəˌroʊl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rotigotine",
+      "type": "phoneme",
+      "phoneme": "roʊˈtɪɡəˌtiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "amantadine",
+      "type": "phoneme",
+      "phoneme": "əˈmæntəˌdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "entacapone",
+      "type": "phoneme",
+      "phoneme": "ɛnˈtækəˌpoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "safinamide",
+      "type": "phoneme",
+      "phoneme": "səˈfɪnəˌmaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "apomorphine",
+      "type": "phoneme",
+      "phoneme": "ˌæpəˈmɔrfiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "donepezil",
+      "type": "phoneme",
+      "phoneme": "doʊˈnɛpəzɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rivastigmine",
+      "type": "phoneme",
+      "phoneme": "ˌrɪvəˈstɪɡmiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "galantamine",
+      "type": "phoneme",
+      "phoneme": "ɡəˈlæntəmiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "memantine",
+      "type": "phoneme",
+      "phoneme": "məˈmæntiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "glatiramer",
+      "type": "phoneme",
+      "phoneme": "ɡləˈtɪrəmər",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fingolimod",
+      "type": "phoneme",
+      "phoneme": "fɪŋˈɡɒlɪmɒd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dimethyl fumarate",
+      "type": "phoneme",
+      "phoneme": "daɪˈmɛθəl ˈfjuməˌreɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "teriflunomide",
+      "type": "phoneme",
+      "phoneme": "ˌtɛrɪˈflunəmaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ozanimod",
+      "type": "phoneme",
+      "phoneme": "oʊˈzænɪmɒd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "siponimod",
+      "type": "phoneme",
+      "phoneme": "sɪˈpɒnɪmɒd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "natalizumab",
+      "type": "phoneme",
+      "phoneme": "ˌnætəˈlɪzʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ocrelizumab",
+      "type": "phoneme",
+      "phoneme": "ˌɒkrɪˈlɪzʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ofatumumab",
+      "type": "phoneme",
+      "phoneme": "ˌɒfəˈtumʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fumarate",
+      "type": "phoneme",
+      "phoneme": "ˈfjuməˌreɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "levothyroxine",
+      "type": "phoneme",
+      "phoneme": "ˌliːvoʊθaɪˈrɒksiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "prednisone",
+      "type": "phoneme",
+      "phoneme": "ˈprɛdnɪsoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "prednisolone",
+      "type": "phoneme",
+      "phoneme": "prɛdˈnɪsəloʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "methylprednisolone",
+      "type": "phoneme",
+      "phoneme": "ˌmɛθəlprɛdˈnɪsəloʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hydrocortisone",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪdroʊˈkɔːrtɪsoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dexamethasone",
+      "type": "phoneme",
+      "phoneme": "ˌdɛksəˈmɛθəsoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fludrocortisone",
+      "type": "phoneme",
+      "phoneme": "ˌfludroʊˈkɔːrtɪsoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "alendronate",
+      "type": "phoneme",
+      "phoneme": "əˈlɛndrəneɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "risedronate",
+      "type": "phoneme",
+      "phoneme": "rɪˈsɛdrəneɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ibandronate",
+      "type": "phoneme",
+      "phoneme": "ɪˈbændrəneɪt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "zoledronic acid",
+      "type": "phoneme",
+      "phoneme": "zoʊˈlɛdrɒnɪk ˈæsɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "denosumab",
+      "type": "phoneme",
+      "phoneme": "dəˈnoʊsʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "teriparatide",
+      "type": "phoneme",
+      "phoneme": "ˌtɛrɪˈpærətaɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "raloxifene",
+      "type": "phoneme",
+      "phoneme": "ræˈlɒksɪfiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "calcitonin",
+      "type": "phoneme",
+      "phoneme": "ˌkælsɪˈtoʊnɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tadalafil",
+      "type": "phoneme",
+      "phoneme": "təˈdælɪfɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sildenafil",
+      "type": "phoneme",
+      "phoneme": "sɪlˈdɛnəfɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "vardenafil",
+      "type": "phoneme",
+      "phoneme": "vɑrˈdɛnəfɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "finasteride",
+      "type": "phoneme",
+      "phoneme": "fɪˈnæstəˌraɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "dutasteride",
+      "type": "phoneme",
+      "phoneme": "duˈtæstəˌraɪd",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tamsulosin",
+      "type": "phoneme",
+      "phoneme": "tæmˈsuːləsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "silodosin",
+      "type": "phoneme",
+      "phoneme": "sɪˈloʊdəsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "alfuzosin",
+      "type": "phoneme",
+      "phoneme": "ælˈfjuːzəsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "oxybutynin",
+      "type": "phoneme",
+      "phoneme": "ˌɑksɪˈbjuːtɪnɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "tolterodine",
+      "type": "phoneme",
+      "phoneme": "tɔlˈtɛrəˌdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "solifenacin",
+      "type": "phoneme",
+      "phoneme": "ˌsoʊlɪˈfɛnəsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "darifenacin",
+      "type": "phoneme",
+      "phoneme": "ˌdærɪˈfɛnəsɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mirabegron",
+      "type": "phoneme",
+      "phoneme": "mɪˈræbəˌɡrɑn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "phenazopyridine",
+      "type": "phoneme",
+      "phoneme": "fəˌnæzoʊˈpɪrɪdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hydroxyzine",
+      "type": "phoneme",
+      "phoneme": "haɪˈdrɑksɪˌziːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fexofenadine",
+      "type": "phoneme",
+      "phoneme": "ˌfɛksoʊˈfɛnəˌdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "loratadine",
+      "type": "phoneme",
+      "phoneme": "lɔˈrætəˌdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cetirizine",
+      "type": "phoneme",
+      "phoneme": "səˈtɪrɪˌziːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "diphenhydramine",
+      "type": "phoneme",
+      "phoneme": "ˌdaɪfɛnˈhaɪdrəˌmiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "chlorpheniramine",
+      "type": "phoneme",
+      "phoneme": "ˌklɔrfɛnˈɪrəˌmiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "azelastine",
+      "type": "phoneme",
+      "phoneme": "əˈzɛləˌstiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "olopatadine",
+      "type": "phoneme",
+      "phoneme": "ˌoʊloʊˈpætəˌdiːn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "modafinil",
+      "type": "phoneme",
+      "phoneme": "moʊˈdæfɪnɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "armodafinil",
+      "type": "phoneme",
+      "phoneme": "ˌɑrmoʊˈdæfɪnɪl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "sumatriptan",
+      "type": "phoneme",
+      "phoneme": "ˌsuːməˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rizatriptan",
+      "type": "phoneme",
+      "phoneme": "ˌraɪzəˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "zolmitriptan",
+      "type": "phoneme",
+      "phoneme": "zoʊlˈmɪtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "eletriptan",
+      "type": "phoneme",
+      "phoneme": "ˌɛləˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "almotriptan",
+      "type": "phoneme",
+      "phoneme": "ˌælmoʊˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "frovatriptan",
+      "type": "phoneme",
+      "phoneme": "ˌfroʊvəˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "naratriptan",
+      "type": "phoneme",
+      "phoneme": "ˌnærəˈtrɪpˌtæn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "ubrogepant",
+      "type": "phoneme",
+      "phoneme": "juːˈbroʊdʒəˌpænt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "rimegepant",
+      "type": "phoneme",
+      "phoneme": "rɪˈmɛdʒɪpænt",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "erenumab",
+      "type": "phoneme",
+      "phoneme": "ɛˈrɛnjʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "fremanezumab",
+      "type": "phoneme",
+      "phoneme": "friˈmænɪzʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "galcanezumab",
+      "type": "phoneme",
+      "phoneme": "ɡælˈkænɪzʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "eprodual",
+      "type": "phoneme",
+      "phoneme": "ɛˈprɑduəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "onabotulinumtoxinA",
+      "type": "phoneme",
+      "phoneme": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "MI",
+      "type": "phoneme",
+      "phoneme": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "COPD",
+      "type": "phoneme",
+      "phoneme": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "CHF",
+      "type": "phoneme",
+      "phoneme": "kənˈdʒɛstɪv hɑrt ˈfeljɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "UTI",
+      "type": "phoneme",
+      "phoneme": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən",
+      "alphabet": "ipa"
+    }
+  ]
+}
