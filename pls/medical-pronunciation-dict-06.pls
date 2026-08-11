@@ -1,403 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0" xml:lang="en-US">
   <lexeme>
-    <grapheme>myelitis</grapheme>
-    <alias>MY-eh-LY-tis</alias>
+    <grapheme>GI</grapheme>
+    <alias>gastrointestinal</alias>
   </lexeme>
   <lexeme>
-    <grapheme>neuropathy</grapheme>
-    <alias>nyoo-ROP-ah-thee</alias>
+    <grapheme>GU</grapheme>
+    <alias>genitourinary</alias>
   </lexeme>
   <lexeme>
-    <grapheme>radiculopathy</grapheme>
-    <alias>rah-DIK-yoo-LOP-ah-thee</alias>
+    <grapheme>MSK</grapheme>
+    <alias>musculoskeletal</alias>
   </lexeme>
   <lexeme>
-    <grapheme>myelopathy</grapheme>
-    <alias>MY-eh-LOP-ah-thee</alias>
+    <grapheme>Neuro</grapheme>
+    <alias>NEU-roh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ataxia</grapheme>
-    <alias>ah-TAK-see-ah</alias>
+    <grapheme>ENT</grapheme>
+    <alias>ear nose and throat</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dysarthria</grapheme>
-    <alias>dis-AR-three-ah</alias>
+    <grapheme>OB</grapheme>
+    <alias>obstetrics</alias>
   </lexeme>
   <lexeme>
-    <grapheme>aphasia</grapheme>
-    <alias>ah-FAY-zhah</alias>
+    <grapheme>GYN</grapheme>
+    <alias>gynecology</alias>
   </lexeme>
   <lexeme>
-    <grapheme>apraxia</grapheme>
-    <alias>ah-PRAK-see-ah</alias>
+    <grapheme>LMP</grapheme>
+    <alias>last menstrual period</alias>
   </lexeme>
   <lexeme>
-    <grapheme>agnosia</grapheme>
-    <alias>ag-NOH-zhah</alias>
+    <grapheme>EDC</grapheme>
+    <alias>estimated date of confinement</alias>
   </lexeme>
   <lexeme>
-    <grapheme>anomia</grapheme>
-    <alias>ah-NOH-mee-ah</alias>
+    <grapheme>NS</grapheme>
+    <alias>normal saline</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dysphagia</grapheme>
-    <alias>dis-FAY-jah</alias>
+    <grapheme>LR</grapheme>
+    <alias>lactated Ringer's</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dysphonia</grapheme>
-    <alias>dis-FOH-nee-ah</alias>
+    <grapheme>KCl</grapheme>
+    <alias>potassium chloride</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dyskinesia</grapheme>
-    <alias>dis-kih-NEE-zhah</alias>
+    <grapheme>MgSO4</grapheme>
+    <alias>mag-NEE-zee-um sul-FATE</alias>
   </lexeme>
   <lexeme>
-    <grapheme>myoclonus</grapheme>
-    <alias>my-OK-loh-nus</alias>
+    <grapheme>CaCl2</grapheme>
+    <alias>KAL-see-um KLOR-ide</alias>
   </lexeme>
   <lexeme>
-    <grapheme>chorea</grapheme>
-    <alias>koh-REE-ah</alias>
+    <grapheme>NaHCO3</grapheme>
+    <alias>SOD-ee-um hye-DROK-sah-dye KAR-bo-nate</alias>
   </lexeme>
   <lexeme>
-    <grapheme>athetosis</grapheme>
-    <alias>ATH-eh-TOE-sis</alias>
+    <grapheme>ABG</grapheme>
+    <alias>arterial blood gas</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dystonia</grapheme>
-    <alias>dis-TOE-nee-ah</alias>
+    <grapheme>VBG</grapheme>
+    <alias>venous blood gas</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tremor</grapheme>
-    <alias>TREM-or</alias>
+    <grapheme>LP</grapheme>
+    <alias>lumbar puncture</alias>
   </lexeme>
   <lexeme>
-    <grapheme>fasciculation</grapheme>
-    <alias>fa-SIK-yoo-LAY-shun</alias>
+    <grapheme>BM</grapheme>
+    <alias>bowel movement</alias>
   </lexeme>
   <lexeme>
-    <grapheme>clonus</grapheme>
-    <alias>KLOH-nus</alias>
+    <grapheme>ICD</grapheme>
+    <alias>implantable cardioverter defibrillator</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nystagmus</grapheme>
-    <alias>nis-TAG-mus</alias>
+    <grapheme>AICD</grapheme>
+    <alias>automatic implantable cardioverter defibrillator</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ptosis</grapheme>
-    <alias>TOE-sis</alias>
+    <grapheme>PCI</grapheme>
+    <alias>percutaneous coronary intervention</alias>
   </lexeme>
   <lexeme>
-    <grapheme>miosis</grapheme>
-    <alias>my-OH-sis</alias>
+    <grapheme>TAVR</grapheme>
+    <alias>TAH-ver</alias>
   </lexeme>
   <lexeme>
-    <grapheme>mydriasis</grapheme>
-    <alias>mi-DRY-ah-sis</alias>
+    <grapheme>TEVAR</grapheme>
+    <alias>TEV-ar</alias>
   </lexeme>
   <lexeme>
-    <grapheme>anisocoria</grapheme>
-    <alias>an-EYE-so-KOR-ee-ah</alias>
+    <grapheme>PTCA</grapheme>
+    <alias>percutaneous transluminal coronary angioplasty</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hyperreflexia</grapheme>
-    <alias>HY-per-re-FLEK-see-ah</alias>
+    <grapheme>ETOH</grapheme>
+    <alias>alcohol</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hyporeflexia</grapheme>
-    <alias>HY-po-re-FLEK-see-ah</alias>
+    <grapheme>IVDU</grapheme>
+    <alias>I-V drug use</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Babinski</grapheme>
-    <alias>ba-BIN-skee</alias>
+    <grapheme>ASA</grapheme>
+    <alias>ASPIR-in</alias>
   </lexeme>
   <lexeme>
-    <grapheme>paresthesia</grapheme>
-    <alias>par-es-THEE-zhah</alias>
+    <grapheme>NYD</grapheme>
+    <alias>not yet diagnosed</alias>
   </lexeme>
   <lexeme>
-    <grapheme>anesthesia</grapheme>
-    <alias>an-es-THEE-zhah</alias>
+    <grapheme>Sx</grapheme>
+    <alias>symptoms</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hyperesthesia</grapheme>
-    <alias>HY-per-es-THEE-zhah</alias>
+    <grapheme>Tx</grapheme>
+    <alias>treatment</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dysesthesia</grapheme>
-    <alias>dis-es-THEE-zhah</alias>
+    <grapheme>Dx</grapheme>
+    <alias>diagnosis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>neuralgia</grapheme>
-    <alias>nyoo-RAL-jah</alias>
+    <grapheme>Rx</grapheme>
+    <alias>prescription</alias>
   </lexeme>
   <lexeme>
-    <grapheme>neuritis</grapheme>
-    <alias>nyoo-RY-tis</alias>
+    <grapheme>FHx</grapheme>
+    <alias>family history</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sciatica</grapheme>
-    <alias>sy-AT-ik-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>trigeminal</grapheme>
-    <alias>try-JEM-in-al</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>prosopagnosia</grapheme>
-    <alias>PROS-oh-pag-NOH-zhah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyperthyroidism</grapheme>
-    <alias>HY-per-THY-roy-dizm</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypothyroidism</grapheme>
-    <alias>HY-po-THY-roy-dizm</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>thyrotoxicosis</grapheme>
-    <alias>THY-ro-TOK-sih-KOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>myxedema</grapheme>
-    <alias>mik-seh-DEE-mah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyperparathyroidism</grapheme>
-    <alias>HY-per-PAR-ah-THY-roy-dizm</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypoparathyroidism</grapheme>
-    <alias>HY-po-PAR-ah-THY-roy-dizm</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypercalcemia</grapheme>
-    <alias>HY-per-kal-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypocalcemia</grapheme>
-    <alias>HY-po-kal-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyperkalemia</grapheme>
-    <alias>hy-per-kah-LEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypokalemia</grapheme>
-    <alias>hy-poh-kah-LEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypernatremia</grapheme>
-    <alias>hy-per-nah-TREE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyponatremia</grapheme>
-    <alias>hy-poh-nah-TREE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypomagnesemia</grapheme>
-    <alias>hy-poh-mag-neh-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypermagnesemia</grapheme>
-    <alias>hy-per-mag-neh-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypophosphatemia</grapheme>
-    <alias>hy-poh-fos-fah-TEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyperphosphatemia</grapheme>
-    <alias>hy-per-fos-fah-TEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>acidosis</grapheme>
-    <alias>ah-sih-DOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>alkalosis</grapheme>
-    <alias>al-kah-LOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ketoacidosis</grapheme>
-    <alias>kee-toh-ah-sih-DOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hypoglycemia</grapheme>
-    <alias>hy-poh-gly-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hyperglycemia</grapheme>
-    <alias>hy-per-gly-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>insulinoma</grapheme>
-    <alias>in-suh-lih-NOH-mah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>pheochromocytoma</grapheme>
-    <alias>fee-oh-kroh-moh-sy-TOH-mah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>anemia</grapheme>
-    <alias>ah-NEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>polycythemia</grapheme>
-    <alias>pol-ee-sy-THEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>thrombocytopenia</grapheme>
-    <alias>throm-boh-sy-toh-PEE-nee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>thrombocytosis</grapheme>
-    <alias>throm-boh-sy-TOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>leukopenia</grapheme>
-    <alias>loo-koh-PEE-nee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>leukocytosis</grapheme>
-    <alias>loo-koh-sy-TOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>neutropenia</grapheme>
-    <alias>noo-troh-PEE-nee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>neutrophilia</grapheme>
-    <alias>noo-troh-FIL-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>lymphopenia</grapheme>
-    <alias>lim-foh-PEE-nee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>lymphocytosis</grapheme>
-    <alias>lim-foh-sy-TOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>monocytosis</grapheme>
-    <alias>mon-oh-sy-TOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>eosinophilia</grapheme>
-    <alias>ee-oh-sin-oh-FIL-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>basophilia</grapheme>
-    <alias>bay-soh-FIL-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>pancytopenia</grapheme>
-    <alias>pan-sy-toh-PEE-nee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hemophilia</grapheme>
-    <alias>hee-moh-FIL-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>thrombophilia</grapheme>
-    <alias>throm-bo-FIL-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>purpura</grapheme>
-    <alias>PUR-pur-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>petechiae</grapheme>
-    <alias>pe-TEE-kee-eye</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ecchymosis</grapheme>
-    <alias>ek-ih-MOH-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hematoma</grapheme>
-    <alias>hee-mah-TOH-mah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hemolysis</grapheme>
-    <alias>hee-MOL-ih-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>cellulitis</grapheme>
-    <alias>sel-yoo-LY-tis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>abscess</grapheme>
-    <alias>AB-ses</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>furuncle</grapheme>
-    <alias>FYOOR-ung-kul</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>carbuncle</grapheme>
-    <alias>KAR-bung-kul</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>impetigo</grapheme>
-    <alias>im-peh-TY-goh</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>erysipelas</grapheme>
-    <alias>er-ih-SIP-eh-las</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>necrotizing fasciitis</grapheme>
-    <alias>NEK-roh-ty-zing fash-ee-EYE-tis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>osteomyelitis</grapheme>
-    <alias>os-tee-oh-my-eh-LY-tis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>septic arthritis</grapheme>
-    <alias>SEP-tik ar-THRY-tis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>sepsis</grapheme>
-    <alias>SEP-sis</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>septicemia</grapheme>
-    <alias>sep-tih-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>bacteremia</grapheme>
-    <alias>bak-ter-EE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>viremia</grapheme>
-    <alias>vy-REE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fungemia</grapheme>
-    <alias>fun-JEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>parasitemia</grapheme>
-    <alias>par-ah-sih-TEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>endotoxemia</grapheme>
-    <alias>en-doh-tok-SEE-mee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>erythema</grapheme>
-    <alias>er-ih-THEE-mah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>urticaria</grapheme>
-    <alias>ur-tih-KAR-ee-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>pruritus</grapheme>
-    <alias>proo-RY-tus</alias>
+    <grapheme>SHx</grapheme>
+    <alias>social history</alias>
   </lexeme>
 </lexicon>

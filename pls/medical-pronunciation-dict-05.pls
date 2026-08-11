@@ -1,403 +1,403 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0" xml:lang="en-US">
   <lexeme>
-    <grapheme>myocardial infarction</grapheme>
-    <alias>my-oh-KAR-dee-al in-FARK-shun</alias>
+    <grapheme>MI</grapheme>
+    <alias>myocardial infarction</alias>
   </lexeme>
   <lexeme>
-    <grapheme>angina pectoris</grapheme>
-    <alias>an-JY-nah PEK-tor-is</alias>
+    <grapheme>COPD</grapheme>
+    <alias>chronic obstructive pulmonary disease</alias>
   </lexeme>
   <lexeme>
-    <grapheme>arrhythmia</grapheme>
-    <alias>a-RITH-mee-ah</alias>
+    <grapheme>CHF</grapheme>
+    <alias>congestive heart failure</alias>
   </lexeme>
   <lexeme>
-    <grapheme>atrial fibrillation</grapheme>
-    <alias>AY-tree-al fib-ri-LAY-shun</alias>
+    <grapheme>UTI</grapheme>
+    <alias>urinary tract infection</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ventricular fibrillation</grapheme>
-    <alias>ven-TRIK-yoo-lar fib-ri-LAY-shun</alias>
+    <grapheme>MRI</grapheme>
+    <alias>magnetic resonance imaging</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tachycardia</grapheme>
-    <alias>tak-ee-KAR-dee-ah</alias>
+    <grapheme>CT</grapheme>
+    <alias>computed tomography</alias>
   </lexeme>
   <lexeme>
-    <grapheme>bradycardia</grapheme>
-    <alias>brad-ee-KAR-dee-ah</alias>
+    <grapheme>EKG</grapheme>
+    <alias>electrocardiogram</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypertension</grapheme>
-    <alias>hy-per-TEN-shun</alias>
+    <grapheme>ECG</grapheme>
+    <alias>electrocardiogram</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypotension</grapheme>
-    <alias>hy-poh-TEN-shun</alias>
+    <grapheme>EEG</grapheme>
+    <alias>electroencephalogram</alias>
   </lexeme>
   <lexeme>
-    <grapheme>atherosclerosis</grapheme>
-    <alias>ath-er-oh-skleh-ROH-sis</alias>
+    <grapheme>BUN</grapheme>
+    <alias>blood urea nitrogen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>endocarditis</grapheme>
-    <alias>en-doh-kar-DY-tis</alias>
+    <grapheme>CMP</grapheme>
+    <alias>comprehensive metabolic panel</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pericarditis</grapheme>
-    <alias>per-ee-kar-DY-tis</alias>
+    <grapheme>CBC</grapheme>
+    <alias>complete blood count</alias>
   </lexeme>
   <lexeme>
-    <grapheme>myocarditis</grapheme>
-    <alias>my-oh-kar-DY-tis</alias>
+    <grapheme>TSH</grapheme>
+    <alias>thyroid stimulating hormone</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cardiomyopathy</grapheme>
-    <alias>kar-dee-oh-my-OP-ah-thee</alias>
+    <grapheme>HbA1c</grapheme>
+    <alias>hemoglobin A one C</alias>
   </lexeme>
   <lexeme>
-    <grapheme>thromboembolism</grapheme>
-    <alias>throm-boh-EM-boh-liz-um</alias>
+    <grapheme>PT</grapheme>
+    <alias>prothrombin time</alias>
   </lexeme>
   <lexeme>
-    <grapheme>thrombophlebitis</grapheme>
-    <alias>throm-boh-fleh-BY-tis</alias>
+    <grapheme>INR</grapheme>
+    <alias>international normalized ratio</alias>
   </lexeme>
   <lexeme>
-    <grapheme>phlebitis</grapheme>
-    <alias>fleh-BY-tis</alias>
+    <grapheme>PTT</grapheme>
+    <alias>partial thromboplastin time</alias>
   </lexeme>
   <lexeme>
-    <grapheme>embolism</grapheme>
-    <alias>EM-boh-liz-um</alias>
+    <grapheme>DVT</grapheme>
+    <alias>deep vein thrombosis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>stenosis</grapheme>
-    <alias>steh-NOH-sis</alias>
+    <grapheme>PE</grapheme>
+    <alias>pulmonary embolism</alias>
   </lexeme>
   <lexeme>
-    <grapheme>regurgitation</grapheme>
-    <alias>ree-gur-ji-TAY-shun</alias>
+    <grapheme>CVA</grapheme>
+    <alias>cerebrovascular accident</alias>
   </lexeme>
   <lexeme>
-    <grapheme>prolapse</grapheme>
-    <alias>proh-LAPS</alias>
+    <grapheme>TIA</grapheme>
+    <alias>transient ischemic attack</alias>
   </lexeme>
   <lexeme>
-    <grapheme>aneurysm</grapheme>
-    <alias>AN-yoo-riz-um</alias>
+    <grapheme>ICU</grapheme>
+    <alias>intensive care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dissection</grapheme>
-    <alias>dy-SEK-shun</alias>
+    <grapheme>NICU</grapheme>
+    <alias>neonatal intensive care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ischemia</grapheme>
-    <alias>is-KEE-mee-ah</alias>
+    <grapheme>ER</grapheme>
+    <alias>emergency room</alias>
   </lexeme>
   <lexeme>
-    <grapheme>infarction</grapheme>
-    <alias>in-FARK-shun</alias>
+    <grapheme>ED</grapheme>
+    <alias>emergency department</alias>
   </lexeme>
   <lexeme>
-    <grapheme>reperfusion</grapheme>
-    <alias>REE-per-FYOO-zhun</alias>
+    <grapheme>OR</grapheme>
+    <alias>operating room</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypercholesterolemia</grapheme>
-    <alias>HY-per-koh-LES-ter-oh-LEE-mee-ah</alias>
+    <grapheme>PACU</grapheme>
+    <alias>post-anesthesia care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypertriglyceridemia</grapheme>
-    <alias>HY-per-try-GLIS-er-ih-DEE-mee-ah</alias>
+    <grapheme>CCU</grapheme>
+    <alias>coronary care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypoalbuminemia</grapheme>
-    <alias>HY-poh-al-BYOO-mih-NEE-mee-ah</alias>
+    <grapheme>SICU</grapheme>
+    <alias>surgical intensive care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pneumonia</grapheme>
-    <alias>noo-MOHN-yah</alias>
+    <grapheme>MICU</grapheme>
+    <alias>medical intensive care unit</alias>
   </lexeme>
   <lexeme>
-    <grapheme>bronchitis</grapheme>
-    <alias>brong-KY-tis</alias>
+    <grapheme>BP</grapheme>
+    <alias>blood pressure</alias>
   </lexeme>
   <lexeme>
-    <grapheme>bronchiectasis</grapheme>
-    <alias>brong-kee-EK-tah-sis</alias>
+    <grapheme>HR</grapheme>
+    <alias>heart rate</alias>
   </lexeme>
   <lexeme>
-    <grapheme>emphysema</grapheme>
-    <alias>em-fih-SEE-mah</alias>
+    <grapheme>RR</grapheme>
+    <alias>respiratory rate</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pneumothorax</grapheme>
-    <alias>noo-moh-THOR-aks</alias>
+    <grapheme>SpO2</grapheme>
+    <alias>saturation of peripheral oxygen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hemothorax</grapheme>
-    <alias>hee-moh-THOR-aks</alias>
+    <grapheme>ETCO2</grapheme>
+    <alias>end-tidal carbon dioxide</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pleural effusion</grapheme>
-    <alias>PLOO-ral eh-FYOO-zhun</alias>
+    <grapheme>IV</grapheme>
+    <alias>intravenous</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pleurisy</grapheme>
-    <alias>PLOO-rih-see</alias>
+    <grapheme>IM</grapheme>
+    <alias>intramuscular</alias>
   </lexeme>
   <lexeme>
-    <grapheme>atelectasis</grapheme>
-    <alias>at-ih-LEK-tah-sis</alias>
+    <grapheme>SC</grapheme>
+    <alias>subcutaneous</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pulmonary embolism</grapheme>
-    <alias>PUL-moh-nair-ee EM-bol-izm</alias>
+    <grapheme>PO</grapheme>
+    <alias>by mouth</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pulmonary edema</grapheme>
-    <alias>PUL-moh-nair-ee eh-DEE-mah</alias>
+    <grapheme>PR</grapheme>
+    <alias>per rectum</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pulmonary fibrosis</grapheme>
-    <alias>PUL-moh-nair-ee fy-BROH-sis</alias>
+    <grapheme>SL</grapheme>
+    <alias>sublingual</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sarcoidosis</grapheme>
-    <alias>SAR-koy-DOH-sis</alias>
+    <grapheme>OS</grapheme>
+    <alias>left eye</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tuberculosis</grapheme>
-    <alias>too-BER-kyoo-LOH-sis</alias>
+    <grapheme>OU</grapheme>
+    <alias>both eyes</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypoxia</grapheme>
-    <alias>hy-POK-see-ah</alias>
+    <grapheme>AU</grapheme>
+    <alias>both ears</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hypercapnia</grapheme>
-    <alias>hy-per-KAP-nee-ah</alias>
+    <grapheme>AD</grapheme>
+    <alias>right ear</alias>
   </lexeme>
   <lexeme>
-    <grapheme>respiratory failure</grapheme>
-    <alias>RES-pih-rah-tor-ee FAYL-yer</alias>
+    <grapheme>AS</grapheme>
+    <alias>left ear</alias>
   </lexeme>
   <lexeme>
-    <grapheme>apnea</grapheme>
-    <alias>AP-nee-ah</alias>
+    <grapheme>APAP</grapheme>
+    <alias>acetaminophen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dyspnea</grapheme>
-    <alias>DISP-nee-ah</alias>
+    <grapheme>NSAID</grapheme>
+    <alias>non-steroidal anti-inflammatory drug</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hemoptysis</grapheme>
-    <alias>hee-MOP-tih-sis</alias>
+    <grapheme>PPI</grapheme>
+    <alias>proton pump inhibitor</alias>
   </lexeme>
   <lexeme>
-    <grapheme>stridor</grapheme>
-    <alias>STRY-dor</alias>
+    <grapheme>ARB</grapheme>
+    <alias>angiotensin receptor blocker</alias>
   </lexeme>
   <lexeme>
-    <grapheme>wheezing</grapheme>
-    <alias>WEE-zing</alias>
+    <grapheme>ACE</grapheme>
+    <alias>angiotensin-converting enzyme</alias>
   </lexeme>
   <lexeme>
-    <grapheme>coryza</grapheme>
-    <alias>koh-RY-zah</alias>
+    <grapheme>BB</grapheme>
+    <alias>beta blocker</alias>
   </lexeme>
   <lexeme>
-    <grapheme>gastroesophageal reflux</grapheme>
-    <alias>GAS-troh-ee-sof-ah-JEE-al REE-fluks</alias>
+    <grapheme>CCB</grapheme>
+    <alias>calcium channel blocker</alias>
   </lexeme>
   <lexeme>
-    <grapheme>esophagitis</grapheme>
-    <alias>ee-sof-ah-JY-tis</alias>
+    <grapheme>SSRI</grapheme>
+    <alias>se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter</alias>
   </lexeme>
   <lexeme>
-    <grapheme>gastritis</grapheme>
-    <alias>gas-TRY-tis</alias>
+    <grapheme>SNRI</grapheme>
+    <alias>se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter</alias>
   </lexeme>
   <lexeme>
-    <grapheme>peptic ulcer</grapheme>
-    <alias>PEP-tik UL-ser</alias>
+    <grapheme>TCA</grapheme>
+    <alias>tri-SIK-lik an-TI-de-PRE-sant</alias>
   </lexeme>
   <lexeme>
-    <grapheme>gastroenteritis</grapheme>
-    <alias>gas-tro-en-ter-EYE-tis</alias>
+    <grapheme>MAOI</grapheme>
+    <alias>mono-amine OK-si-DASE in-HIB-i-ter</alias>
   </lexeme>
   <lexeme>
-    <grapheme>colitis</grapheme>
-    <alias>ko-LYE-tis</alias>
+    <grapheme>DM</grapheme>
+    <alias>di-a-BE-teez mel-LI-tus</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ulcerative colitis</grapheme>
-    <alias>UL-ser-a-tiv ko-LYE-tis</alias>
+    <grapheme>HTN</grapheme>
+    <alias>hi-per-TEN-shun</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Crohn's disease</grapheme>
-    <alias>KROHNZ dih-ZEEZ</alias>
+    <grapheme>HLD</grapheme>
+    <alias>hi-per-LIP-i-dee-mee-uh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>diverticulitis</grapheme>
-    <alias>dye-ver-tik-yoo-LYE-tis</alias>
+    <grapheme>CAD</grapheme>
+    <alias>co-ROH-ner-ee AR-ter-ee di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>appendicitis</grapheme>
-    <alias>a-pen-dih-SYE-tis</alias>
+    <grapheme>PVD</grapheme>
+    <alias>per-i-FER-ul vas-KYOO-ler di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cholecystitis</grapheme>
-    <alias>ko-luh-sis-TYE-tis</alias>
+    <grapheme>CKD</grapheme>
+    <alias>kron-ik KID-nee di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pancreatitis</grapheme>
-    <alias>pan-kree-a-TYE-tis</alias>
+    <grapheme>ESRD</grapheme>
+    <alias>end-STAGE re-NAL di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hepatitis</grapheme>
-    <alias>hep-a-TYE-tis</alias>
+    <grapheme>AKI</grapheme>
+    <alias>ak-YOOT KID-nee in-JER-ee</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cirrhosis</grapheme>
-    <alias>sir-OH-sis</alias>
+    <grapheme>ASTHMA</grapheme>
+    <alias>AZ-muh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cholestasis</grapheme>
-    <alias>ko-luh-STAY-sis</alias>
+    <grapheme>GERD</grapheme>
+    <alias>gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>steatosis</grapheme>
-    <alias>stee-a-TOH-sis</alias>
+    <grapheme>IBD</grapheme>
+    <alias>in-FLAM-a-tor-ee bo-WEL di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>steatohepatitis</grapheme>
-    <alias>stee-a-toh-hep-a-TYE-tis</alias>
+    <grapheme>IBS</grapheme>
+    <alias>i-RI-ta-bul bo-WEL SIN-drom</alias>
   </lexeme>
   <lexeme>
-    <grapheme>peritonitis</grapheme>
-    <alias>pair-ih-toh-NYE-tis</alias>
+    <grapheme>NASH</grapheme>
+    <alias>non-al-ka-ho-LIK ste-to-hep-a-TI-tis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ileus</grapheme>
-    <alias>IL-ee-us</alias>
+    <grapheme>NAFLD</grapheme>
+    <alias>non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>intussusception</grapheme>
-    <alias>in-tuh-suh-SEP-shun</alias>
+    <grapheme>HCC</grapheme>
+    <alias>he-PAT-o-sel-YOO-ler kar-si-NO-ma</alias>
   </lexeme>
   <lexeme>
-    <grapheme>volvulus</grapheme>
-    <alias>VOL-vyoo-lus</alias>
+    <grapheme>ALL</grapheme>
+    <alias>ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hematemesis</grapheme>
-    <alias>hee-ma-TEM-eh-sis</alias>
+    <grapheme>AML</grapheme>
+    <alias>ak-YOOT my-eh-LOYD le-KEE-mee-uh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>melena</grapheme>
-    <alias>muh-LEE-na</alias>
+    <grapheme>CLL</grapheme>
+    <alias>kron-ik lym-fo-SIT-ik le-KEE-mee-uh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hematochezia</grapheme>
-    <alias>hee-ma-toh-KEE-zee-a</alias>
+    <grapheme>CML</grapheme>
+    <alias>kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh</alias>
   </lexeme>
   <lexeme>
-    <grapheme>choledocholithiasis</grapheme>
-    <alias>ko-led-oh-ko-lih-THIGH-a-sis</alias>
+    <grapheme>NHL</grapheme>
+    <alias>non-HOJ-kin lym-FO-ma</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cholelithiasis</grapheme>
-    <alias>ko-luh-lih-THIGH-a-sis</alias>
+    <grapheme>MM</grapheme>
+    <alias>mul-TI-pul my-eh-LO-ma</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nephrolithiasis</grapheme>
-    <alias>nef-ro-lih-THIGH-a-sis</alias>
+    <grapheme>SLE</grapheme>
+    <alias>sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sialadenitis</grapheme>
-    <alias>sigh-al-a-deh-NYE-tis</alias>
+    <grapheme>RA</grapheme>
+    <alias>rew-ma-TOYD ar-THRI-tis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nephritis</grapheme>
-    <alias>neh-FRY-tis</alias>
+    <grapheme>OA</grapheme>
+    <alias>os-tee-o-ar-THRI-tis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nephrosis</grapheme>
-    <alias>neh-FROH-sis</alias>
+    <grapheme>DJD</grapheme>
+    <alias>de-JEN-er-a-tiv jint di-ZEEZ</alias>
   </lexeme>
   <lexeme>
-    <grapheme>glomerulonephritis</grapheme>
-    <alias>gloh-mer-yoo-loh-neh-FRY-tis</alias>
+    <grapheme>MG</grapheme>
+    <alias>myasthenia gravis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>pyelonephritis</grapheme>
-    <alias>pye-eh-loh-neh-FRY-tis</alias>
+    <grapheme>MS</grapheme>
+    <alias>multiple sclerosis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cystitis</grapheme>
-    <alias>sis-TYE-tis</alias>
+    <grapheme>ALS</grapheme>
+    <alias>amyotrophic lateral sclerosis</alias>
   </lexeme>
   <lexeme>
-    <grapheme>urethritis</grapheme>
-    <alias>yoo-reh-THRY-tis</alias>
+    <grapheme>GBS</grapheme>
+    <alias>Guillain-Barré syndrome</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ureterolithiasis</grapheme>
-    <alias>yoo-REH-ter-oh-lih-THY-ah-sis</alias>
+    <grapheme>TBI</grapheme>
+    <alias>traumatic brain injury</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hydronephrosis</grapheme>
-    <alias>HY-droh-neh-FROH-sis</alias>
+    <grapheme>PD</grapheme>
+    <alias>Parkinson disease</alias>
   </lexeme>
   <lexeme>
-    <grapheme>oliguria</grapheme>
-    <alias>oh-lih-GYOO-ree-ah</alias>
+    <grapheme>HD</grapheme>
+    <alias>Huntington disease</alias>
   </lexeme>
   <lexeme>
-    <grapheme>anuria</grapheme>
-    <alias>an-YOO-ree-ah</alias>
+    <grapheme>CJD</grapheme>
+    <alias>Creutzfeldt-Jakob disease</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hematuria</grapheme>
-    <alias>HEE-mah-TOO-ree-ah</alias>
+    <grapheme>SCI</grapheme>
+    <alias>spinal cord injury</alias>
   </lexeme>
   <lexeme>
-    <grapheme>proteinuria</grapheme>
-    <alias>PROH-tee-NYOO-ree-ah</alias>
+    <grapheme>CA</grapheme>
+    <alias>cancer</alias>
   </lexeme>
   <lexeme>
-    <grapheme>dysuria</grapheme>
-    <alias>dis-YOO-ree-ah</alias>
+    <grapheme>N/V</grapheme>
+    <alias>nausea and vomiting</alias>
   </lexeme>
   <lexeme>
-    <grapheme>incontinence</grapheme>
-    <alias>in-KON-tih-nens</alias>
+    <grapheme>SOB</grapheme>
+    <alias>shortness of breath</alias>
   </lexeme>
   <lexeme>
-    <grapheme>retention</grapheme>
-    <alias>ree-TEN-shun</alias>
+    <grapheme>CP</grapheme>
+    <alias>cerebral palsy</alias>
   </lexeme>
   <lexeme>
-    <grapheme>azoospermia</grapheme>
-    <alias>AY-zoh-oh-SPER-mee-ah</alias>
+    <grapheme>N/V/D</grapheme>
+    <alias>nausea vomiting and diarrhea</alias>
   </lexeme>
   <lexeme>
-    <grapheme>oligospermia</grapheme>
-    <alias>OH-lih-goh-SPER-mee-ah</alias>
+    <grapheme>LOC</grapheme>
+    <alias>loss of consciousness</alias>
   </lexeme>
   <lexeme>
-    <grapheme>encephalopathy</grapheme>
-    <alias>en-SEH-fah-LOP-ah-thee</alias>
+    <grapheme>GCS</grapheme>
+    <alias>Glasgow Coma Scale</alias>
   </lexeme>
   <lexeme>
-    <grapheme>encephalitis</grapheme>
-    <alias>en-SEH-fah-LY-tis</alias>
+    <grapheme>HEENT</grapheme>
+    <alias>head eyes ears nose and throat</alias>
   </lexeme>
   <lexeme>
-    <grapheme>meningitis</grapheme>
-    <alias>MEH-nin-JY-tis</alias>
+    <grapheme>CV</grapheme>
+    <alias>cardiovascular</alias>
   </lexeme>
 </lexicon>

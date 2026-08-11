@@ -30,8 +30,15 @@ MAX_ITEMS_PER_DICT = 100
 
 
 def load_terms():
-    with open(INPUT_FILE) as f:
-        return json.load(f)
+    """Only terms whose alias was measured as an improvement.
+
+    These files carry <alias> with no phoneme fallback, so an alias that makes
+    pronunciation worse has nothing to fall back to. Filtered on the audit
+    verdict; see data/telnyx_naturalhd_audit.csv and converters/convert_all.py.
+    """
+    with open(INPUT_FILE, encoding="utf-8") as f:
+        terms = json.load(f)
+    return [t for t in terms if t.get("telnyx_naturalhd_verdict") == "HELPS"]
 
 
 def chunk_list(lst, size):

@@ -1,0 +1,967 @@
+text,category,alias,verdict,gain,heard_without_dict,heard_with_dict,sentence
+SICU,acronym,surgical intensive care unit,HELPS,1.0,,surgical intensive care unit,The patient has a history of SICU.
+OS,acronym,left eye,HELPS,1.0,azz,left eye,The patient has a history of OS.
+OU,acronym,both eyes,HELPS,1.0,,both eyes,The patient has a history of OU.
+AU,acronym,both ears,HELPS,1.0,,both ears,The patient has a history of AU.
+HEENT,acronym,head eyes ears nose and throat,HELPS,1.0,,head eyes ears nose and throat,The patient has a history of HEENT.
+GU,acronym,genitourinary,HELPS,1.0,,genitourinary,The patient has a history of GU.
+GYN,acronym,gynecology,HELPS,1.0,,gynecology,The patient has a history of GYN.
+LR,acronym,lactated Ringer's,HELPS,1.0,,lactated ringers,The patient has a history of LR.
+KCl,acronym,potassium chloride,HELPS,1.0,,potassium chloride,The patient has a history of KCl.
+OB,acronym,obstetrics,HELPS,0.947,aug,obstetric,The patient has a history of OB.
+INR,acronym,international normalized ratio,HELPS,0.938,an,international normalized ratio,The patient has a history of INR.
+UTI,acronym,urinary tract infection,HELPS,0.92,ed,urinary tract infection,The patient has a history of UTI.
+MI,acronym,myocardial infarction,HELPS,0.913,me,myocardial infarction,The patient has a history of MI.
+MM,acronym,mul-TI-pul my-eh-LO-ma,HELPS,0.909,,multiple myeloma,The patient has a history of MM.
+MS,acronym,multiple sclerosis,HELPS,0.9,ev,multiple sclerosis,The patient has a history of MS.
+ICD,acronym,implantable cardioverter defibrillator,HELPS,0.9,ic,implantable cardioverter defibrillator,The patient has a history of ICD.
+ECG,acronym,electrocardiogram,HELPS,0.895,xe,electrocardiogram,The patient has a history of ECG.
+PE,acronym,pulmonary embolism,HELPS,0.895,p,pulmonary embolism,The patient has a history of PE.
+ABG,acronym,arterial blood gas,HELPS,0.895,b,arterial blood gas,The patient has a history of ABG.
+GI,acronym,gastrointestinal,HELPS,0.889,gy,gastrointestinal,The patient has a history of GI.
+PCI,acronym,percutaneous coronary intervention,HELPS,0.889,pi,percutaneous coronary intervention,The patient has a history of PCI.
+AICD,acronym,automatic implantable cardioverter defibrillator,HELPS,0.882,aed,automatic implantable cardioverter defibrillator,The patient has a history of AICD.
+PTCA,acronym,percutaneous transluminal coronary angioplasty,HELPS,0.88,ptca,percutaneous transluminal coronary angioplasty,The patient has a history of PTCA.
+ALS,acronym,amyotrophic lateral sclerosis,HELPS,0.879,else,amyotrophic lateral sclerosis,The patient has a history of ALS.
+NICU,acronym,neonatal intensive care unit,HELPS,0.875,niku,neonatal intensive care unit,The patient has a history of NICU.
+TSH,acronym,thyroid stimulating hormone,HELPS,0.871,tech,thyroid stimulating hormone,The patient has a history of TSH.
+MICU,acronym,medical intensive care unit,HELPS,0.871,myku,medical intensive care unit,The patient has a history of MICU.
+ACE,acronym,angiotensin-converting enzyme,HELPS,0.871,ace,angiotensinconverting enzyme,The patient has a history of ACE.
+N/V/D,acronym,nausea vomiting and diarrhea,HELPS,0.867,nv,nausea vomiting and diarrhea,The patient has a history of N/V/D.
+BM,acronym,bowel movement,HELPS,0.867,b,bowel movement,The patient has a history of BM.
+Rx,acronym,prescription,HELPS,0.867,r x,prescription,The patient has a history of Rx.
+MRI,acronym,magnetic resonance imaging,HELPS,0.862,mri,magnetic resonance imaging,The patient has a history of MRI.
+TIA,acronym,transient ischemic attack,HELPS,0.857,tia,transient ischemic attack,The patient has a history of TIA.
+PACU,acronym,post-anesthesia care unit,HELPS,0.852,paq,postanesthesia care unit,The patient has a history of PACU.
+CCB,acronym,calcium channel blocker,HELPS,0.846,ccd,calcium channel blocker,The patient has a history of CCB.
+NSAID,acronym,non-steroidal anti-inflammatory drug,HELPS,0.842,seed,nonsteroidal antiinflammatory drug,The patient has a history of NSAID.
+TBI,acronym,traumatic brain injury,HELPS,0.84,tbi,traumatic brain injury,The patient has a history of TBI.
+AD,acronym,right ear,HELPS,0.833,add,right ear,The patient has a history of AD.
+SpO2,acronym,saturation of peripheral oxygen,HELPS,0.832,spo,saturation peripheral oxygen,The patient has a history of SpO2.
+CMP,acronym,comprehensive metabolic panel,HELPS,0.824,kanpe,comprehensive metabolic panel,The patient has a history of CMP.
+ED,acronym,emergency department,HELPS,0.818,ed,emergency department,The patient has a history of ED.
+SCI,acronym,spinal cord injury,HELPS,0.818,sigh,spinal cord injury,The patient has a history of SCI.
+Dx,acronym,diagnosis,HELPS,0.818,dx,diagnosis,The patient has a history of Dx.
+RR,acronym,respiratory rate,HELPS,0.815,uh,respiratory,The patient has a history of RR.
+COPD,acronym,chronic obstructive pulmonary disease,HELPS,0.814,copped,chronic obstructive pulmonary disease,The patient has a history of COPD.
+CT,acronym,computed tomography,HELPS,0.81,ct,computed tomography,The patient has a history of CT.
+NYD,acronym,not yet diagnosed,HELPS,0.81,naid,not yet diagnosed,The patient has a history of NYD.
+ARB,acronym,angiotensin receptor blocker,HELPS,0.806,arb,angiotensin receptor blocker,The patient has a history of ARB.
+EEG,acronym,electroencephalogram,HELPS,0.802,e d,electroencephalo,The patient has a history of EEG.
+EKG,acronym,electrocardiogram,HELPS,0.8,eki,electrocardiogram,The patient has a history of EKG.
+PO,acronym,by mouth,HELPS,0.8,po,by mouth,The patient has a history of PO.
+Sx,acronym,symptoms,HELPS,0.8,sx,symptoms,The patient has a history of Sx.
+VBG,acronym,venous blood gas,HELPS,0.798,bbb,venus blood gus,The patient has a history of VBG.
+MG,acronym,myasthenia gravis,HELPS,0.789,ng,myasthenia gravis,The patient has a history of MG.
+ENT,acronym,ear nose and throat,HELPS,0.782,an,ear nose and throt,The patient has a history of ENT.
+GERD,acronym,gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ,HELPS,0.781,,gastroes uh fage ul reflux disease,The patient has a history of GERD.
+CHF,acronym,congestive heart failure,HELPS,0.778,chf,congestive heart failure,The patient has a history of CHF.
+CVA,acronym,cerebrovascular accident,HELPS,0.778,cva,cerebrovascular accident,The patient has a history of CVA.
+MSK,acronym,musculoskeletal,HELPS,0.778,nsk,musculoskeletal,The patient has a history of MSK.
+PTT,acronym,partial thromboplastin time,HELPS,0.765,ppt,partial thromboplastin,The patient has a history of PTT.
+PD,acronym,Parkinson disease,HELPS,0.761,pd,parkinsons disease,The patient has a history of PD.
+EDC,acronym,estimated date of confinement,HELPS,0.758,e d,estimated date confinement,The patient has a history of EDC.
+SSRI,acronym,se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter,HELPS,0.752,srry,selective serotonin reuptake inhibitor,The patient has a history of SSRI.
+OR,acronym,operating room,HELPS,0.75,or,operating room,The patient has a history of OR.
+BP,acronym,blood pressure,HELPS,0.75,bp,blood pressure,The patient has a history of BP.
+PPI,acronym,proton pump inhibitor,HELPS,0.75,ppi,proton pump inhibitor,The patient has a history of PPI.
+CP,acronym,cerebral palsy,HELPS,0.75,cp,cerebral palsy,The patient has a history of CP.
+CV,acronym,cardiovascular,HELPS,0.75,cv,cardiovascular,The patient has a history of CV.
+SNRI,acronym,se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter,HELPS,0.743,sunry,selective serotonin norepinefrin reab taken high bite tar,The patient has a history of SNRI.
+CAD,acronym,co-ROH-ner-ee AR-ter-ee di-ZEEZ,HELPS,0.741,,coroner e r terrace e disease,The patient has a history of CAD.
+SOB,acronym,shortness of breath,HELPS,0.74,saub,shortness breath,The patient has a history of SOB.
+CBC,acronym,complete blood count,HELPS,0.739,cbc,complete blood count,The patient has a history of CBC.
+DVT,acronym,deep vein thrombosis,HELPS,0.739,dvt,deep vein thrombosis,The patient has a history of DVT.
+SC,acronym,subcutaneous,HELPS,0.733,see,subcutaneous,The patient has a history of SC.
+NS,acronym,normal saline,HELPS,0.733,ns,normal saline,The patient has a history of NS.
+Tx,acronym,treatment,HELPS,0.733,trucks,treatment,The patient has a history of Tx.
+BUN,acronym,blood urea nitrogen,HELPS,0.727,bun,blood urea nitrogen,The patient has a history of BUN.
+ICU,acronym,intensive care unit,HELPS,0.727,icu,intensive care unit,The patient has a history of ICU.
+N/V,acronym,nausea and vomiting,HELPS,0.727,n v,nausea and vomiting,The patient has a history of N/V.
+DM,acronym,di-a-BE-teez mel-LI-tus,HELPS,0.714,dm,diabetes mellitus,The patient has a history of DM.
+CA,acronym,cancer,HELPS,0.714,c,cancer,The patient has a history of CA.
+ESRD,acronym,end-STAGE re-NAL di-ZEEZ,HELPS,0.704,esrd,end stage renal disease,The patient has a history of ESRD.
+HR,acronym,heart rate,HELPS,0.692,nhr,heart rate,The patient has a history of HR.
+IV,acronym,intravenous,HELPS,0.692,iv,intravenous,The patient has a history of IV.
+IM,acronym,intramuscular,HELPS,0.688,an m,intermuscular,The patient has a history of IM.
+HD,acronym,Huntington disease,HELPS,0.687,hde,huntingtons disease,The patient has a history of HD.
+LOC,acronym,loss of consciousness,HELPS,0.683,lope,loss consciousness,The patient has a history of LOC.
+SL,acronym,sublingual,HELPS,0.667,sl,sublingual,The patient has a history of SL.
+LP,acronym,lumbar puncture,HELPS,0.667,l p,lumbar puncture,The patient has a history of LP.
+DJD,acronym,de-JEN-er-a-tiv jint di-ZEEZ,HELPS,0.656,dj,degenerative joint disease,The patient has a history of DJD.
+CKD,acronym,kron-ik KID-nee di-ZEEZ,HELPS,0.64,ctd,croan eek kid nee dizies,The patient has a history of CKD.
+ETOH,acronym,alcohol,HELPS,0.636,dato,alcohol,The patient has a history of ETOH.
+GBS,acronym,Guillain-Barré syndrome,HELPS,0.634,gbs,gillian barre syndrome,The patient has a history of GBS.
+CJD,acronym,Creutzfeldt-Jakob disease,HELPS,0.634,cgd,croyfelt jacob disease,The patient has a history of CJD.
+oseltamivir,drug,oh-sel-TAM-ih-veer,HELPS,0.631,assultuhmeeveeras,o seltam ivir,Please take your oseltamivir as prescribed.
+RA,acronym,rew-ma-TOYD ar-THRI-tis,HELPS,0.627,r,rematoid r tis,The patient has a history of RA.
+SLE,acronym,sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus,HELPS,0.625,s,stemic lupus or iv ma to sus,The patient has a history of SLE.
+PT,acronym,prothrombin time,HELPS,0.616,pt,proframbin time,The patient has a history of PT.
+LMP,acronym,last menstrual period,HELPS,0.615,l m p,last menstrual period,The patient has a history of LMP.
+coryza,clinical,koh-RY-zah,HELPS,0.611,gre,coriza,The patient was diagnosed with coryza.
+vilazodone,drug,vil-AZ-oh-done,HELPS,0.605,fullisato nas,villazodone,Please take your vilazodone as prescribed.
+MgSO4,acronym,mag-NEE-zee-um sul-FATE,HELPS,0.604,mgso,magne z um sulfate,The patient has a history of MgSO4.
+IBS,acronym,i-RI-ta-bul bo-WEL SIN-drom,HELPS,0.6,ive,i re ta bol bo well sin dram,The patient has a history of IBS.
+CaCl2,acronym,KAL-see-um KLOR-ide,HELPS,0.595,cl,calsee um chloroed,The patient has a history of CaCl2.
+ETCO2,acronym,end-tidal carbon dioxide,HELPS,0.593,etco,entitle carbon dioxide,The patient has a history of ETCO2.
+MAOI,acronym,mono-amine OK-si-DASE in-HIB-i-ter,HELPS,0.587,maowi,mono amine oaksydaysay in high by ter,The patient has a history of MAOI.
+Neuro,acronym,NEU-roh,HELPS,0.576,marrow,neuro,The patient has a history of Neuro.
+PR,acronym,per rectum,HELPS,0.571,,prum,The patient has a history of PR.
+NaHCO3,acronym,SOD-ee-um hye-DROK-sah-dye KAR-bo-nate,HELPS,0.567,n h c o,sad e um hyd rock sad die care bo nate,The patient has a history of NaHCO3.
+GCS,acronym,Glasgow Coma Scale,HELPS,0.565,g c s,glasgow coma scale,The patient has a history of GCS.
+ALL,acronym,ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh,HELPS,0.562,ol,acute lime fo blas tic luh kee mee uh,The patient has a history of ALL.
+NASH,acronym,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,HELPS,0.556,nash,nonalcohollike sweet to hep aptititis,The patient has a history of NASH.
+HLD,acronym,hi-per-LIP-i-dee-mee-uh,HELPS,0.55,hiv,hyperlipideemia,The patient has a history of HLD.
+NAFLD,acronym,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,HELPS,0.547,nafld,nonalcohollike fatty liver disease,The patient has a history of NAFLD.
+IBD,acronym,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,HELPS,0.54,ibd,inflam uh tory bowel disease,The patient has a history of IBD.
+ceftriaxone,drug,sef-try-AX-one,HELPS,0.539,sub jack son,ceph triax one,Please take your ceftriaxone as prescribed.
+ER,acronym,emergency room,HELPS,0.533,er,emergency,The patient has a history of ER.
+HCC,acronym,he-PAT-o-sel-YOO-ler kar-si-NO-ma,HELPS,0.532,hcc,he pat o cel u lar car ci no,The patient has a history of HCC.
+IVDU,acronym,I-V drug use,HELPS,0.529,ive do,iv drug use,The patient has a history of IVDU.
+BB,acronym,beta blocker,HELPS,0.509,b b,beta block,The patient has a history of BB.
+NHL,acronym,non-HOJ-kin lym-FO-ma,HELPS,0.505,an hl,nonhodgkin lemphoma,The patient has a history of NHL.
+nateglinide,drug,nah-TEG-li-nide,HELPS,0.5,notic glenaus,na teagly and,Please take your nateglinide as prescribed.
+AML,acronym,ak-YOOT my-eh-LOYD le-KEE-mee-uh,HELPS,0.492,ammo,acute myeloid leukemia,The patient has a history of AML.
+ethambutol,drug,e-THAM-byoo-tol,HELPS,0.486,esan beetle aspro,ethan by utol,Please take your ethambutol as prescribed.
+FHx,acronym,family history,HELPS,0.475,hx,family,The patient has a history of FHx.
+AS,acronym,left ear,HELPS,0.467,as,left,The patient has a history of AS.
+TCA,acronym,tri-SIK-lik an-TI-de-PRE-sant,HELPS,0.464,tci,tricyclical like and tedepreside,The patient has a history of TCA.
+facial,anatomical,FAY-shal,HELPS,0.462,,fayshaw,The biopsy shows inflammation in the facial.
+nimodipine,drug,ny-MOE-di-peen,HELPS,0.455,nimada penis,naimo dipine,Please take your nimodipine as prescribed.
+PVD,acronym,per-i-FER-ul vas-KYOO-ler di-ZEEZ,HELPS,0.455,pvd,per i per bull vascular disease,The patient has a history of PVD.
+carbuncle,clinical,KAR-bung-kul,HELPS,0.455,carpal tunnel,carbuncle,The patient was diagnosed with carbuncle.
+HbA1c,acronym,hemoglobin A one C,HELPS,0.452,h b c,hemoglobin c,The patient has a history of HbA1c.
+guselkumab,drug,gus-ELK-ue-mab,HELPS,0.45,kukulva is,gus el you mab,Please take your guselkumab as prescribed.
+vagotomy,clinical,vay-GOT-oh-mee,HELPS,0.446,fagoni,vagotome,The patient was diagnosed with vagotomy.
+acini,anatomical,AS-ih-nye,HELPS,0.444,,as i,The biopsy shows inflammation in the acini.
+nicardipine,drug,ny-KAR-di-peen,HELPS,0.44,nicker de peen,nicardipine,Please take your nicardipine as prescribed.
+dexlansoprazole,drug,deks-lan-SOH-prah-zole,HELPS,0.438,decks on suprasol,dexlansoprazole,Please take your dexlansoprazole as prescribed.
+OA,acronym,os-tee-o-ar-THRI-tis,HELPS,0.431,o,o s t o r three t i s,The patient has a history of OA.
+ticagrelor,drug,tye-ka-GREL-or,HELPS,0.423,tecquerailer,taka grell or,Please take your ticagrelor as prescribed.
+nefazodone,drug,ne-FAZ-oh-done,HELPS,0.411,nifasatum,nifas o done,Please take your nefazodone as prescribed.
+CLL,acronym,kron-ik lym-fo-SIT-ik le-KEE-mee-uh,HELPS,0.411,c l,chron eek lim pho sitteeklee peemia,The patient has a history of CLL.
+AKI,acronym,ak-YOOT KID-nee in-JER-ee,HELPS,0.4,aki,acute kidney injury,The patient has a history of AKI.
+TEVAR,acronym,TEV-ar,HELPS,0.4,cavar,tevar,The patient has a history of TEVAR.
+agnosia,clinical,ag-NOH-zhah,HELPS,0.4,agnose agnose,agnosia,The patient was diagnosed with agnosia.
+ibrutinib,drug,eye-BROO-tin-ib,HELPS,0.364,eye root med bes,eye bruten eye bes,Please take your ibrutinib as prescribed.
+HTN,acronym,hi-per-TEN-shun,HELPS,0.35,htn,hypertension,The patient has a history of HTN.
+naproxen,drug,nah-PROK-sen,HELPS,0.333,niprox and,naproxen,Please take your naproxen as prescribed.
+pruritus,clinical,proo-RY-tus,HELPS,0.333,perytus,pruritus,The patient was diagnosed with pruritus.
+bulla,clinical,BULL-ah,HELPS,0.333,blu,bull ah,The patient was diagnosed with bulla.
+eplerenone,drug,e-PLER-e-none,HELPS,0.324,aptra known,epler enun,Please take your eplerenone as prescribed.
+miglitol,drug,MIG-li-tol,HELPS,0.324,modulaol,megliteol,Please take your miglitol as prescribed.
+adalimumab,drug,a-da-LIM-oo-mab,HELPS,0.324,adelm,dalim ummab,Please take your adalimumab as prescribed.
+frovatriptan,drug,froh-vah-TRIP-tan,HELPS,0.324,frotripdim,frova triptan,Please take your frovatriptan as prescribed.
+CCU,acronym,coronary care unit,HELPS,0.32,ccu,coronary tierra,The patient has a history of CCU.
+dasatinib,drug,da-SAT-in-ib,HELPS,0.317,disada nb,dosat in i b,Please take your dasatinib as prescribed.
+certolizumab,drug,ser-toh-LIZ-oo-mab,HELPS,0.314,surdaleezamab,sare toliz oumab,Please take your certolizumab as prescribed.
+islets,anatomical,EYE-lets,HELPS,0.308,eyelids,eyelets,The biopsy shows inflammation in the islets.
+ASTHMA,acronym,AZ-muh,HELPS,0.303,asthma,asmu,The patient has a history of ASTHMA.
+cimetidine,drug,sy-MET-ih-deen,HELPS,0.302,semidyne,cemetideine,Please take your cimetidine as prescribed.
+zonisamide,drug,zoh-NIS-ah-mide,HELPS,0.3,zenasamyda,zonisamida,Please take your zonisamide as prescribed.
+lacosamide,drug,lah-KOH-sah-mide,HELPS,0.3,lycosomitis is,lacosamity,Please take your lacosamide as prescribed.
+ranitidine,drug,ran-IH-tih-deen,HELPS,0.3,renatadine,ranitidine,Please take your ranitidine as prescribed.
+SHx,acronym,social history,HELPS,0.3,shacks,social,The patient has a history of SHx.
+CML,acronym,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,HELPS,0.298,cml,chronic myaylodaaaayyyloooodehhhhhd,The patient has a history of CML.
+atezolizumab,drug,a-TEZ-oh-LIZ-oo-mab,HELPS,0.29,adazalizamab,tezolizumab,Please take your atezolizumab as prescribed.
+risedronate,drug,rih-SED-ro-nate,HELPS,0.28,rasdronedis,rised ro nate,Please take your risedronate as prescribed.
+naratriptan,drug,nar-ah-TRIP-tan,HELPS,0.274,narda trip dennis,nara trip tan,Please take your naratriptan as prescribed.
+pregabalin,drug,pree-GAB-ah-lin,HELPS,0.269,pridibillinnis,pregab all in is,Please take your pregabalin as prescribed.
+fenofibrate,drug,fen-oh-FYE-brate,HELPS,0.263,fibbrate,fenofibrate,Please take your fenofibrate as prescribed.
+hematemesis,clinical,hee-ma-TEM-eh-sis,HELPS,0.261,hymatanessus,hematemesses,The patient was diagnosed with hematemesis.
+centrilobular,anatomical,sen-trih-LOB-yoo-lar,HELPS,0.26,centrlo,centrlobular,The biopsy shows inflammation in the centrilobular.
+diclofenac,drug,dye-KLOH-fen-ak,HELPS,0.255,dyeglifinacc,diclfanack,Please take your diclofenac as prescribed.
+gentamicin,drug,jen-ta-MY-sin,HELPS,0.251,gym tanison,gen tamyosin,Please take your gentamicin as prescribed.
+golimumab,drug,go-LIM-ue-mab,HELPS,0.237,stick golly mooma ab,golim um ab this,Please take your golimumab as prescribed.
+sarilumab,drug,sar-IL-ue-mab,HELPS,0.236,cirillambus,sereliu mabus,Please take your sarilumab as prescribed.
+leukopenia,clinical,loo-koh-PEE-nee-ah,HELPS,0.222,leukemia,leukopenia,The patient was diagnosed with leukopenia.
+cefuroxime,drug,se-fyoor-OX-eem,HELPS,0.219,safooxanmis,cfeor oxym,Please take your cefuroxime as prescribed.
+vena cava,anatomical,VEE-nah KAY-vah,HELPS,0.217,with vena cava,vena cava,The biopsy shows inflammation in the vena cava.
+mastectomy,clinical,mas-TEK-toh-mee,HELPS,0.216,misectome,mastec tomy,The patient was diagnosed with mastectomy.
+cytarabine,drug,sy-TAIR-a-been,HELPS,0.215,saitara beena,c taraben,Please take your cytarabine as prescribed.
+sildenafil,drug,sil-DEN-uh-fil,HELPS,0.215,civitaltel,seal den uh fill,Please take your sildenafil as prescribed.
+ASA,acronym,ASPIR-in,HELPS,0.215,asa,asborn,The patient has a history of ASA.
+linezolid,drug,li-NEZ-o-lid,HELPS,0.213,lens led edge prescribd,lenas o lid prescribd,Please take your linezolid as prescribed.
+sialadenitis,clinical,sigh-al-a-deh-NYE-tis,HELPS,0.213,cl a denitis,si aladinitis,The patient was diagnosed with sialadenitis.
+interventricular septum,anatomical,in-ter-ven-TRIK-yoo-lar SEP-tum,HELPS,0.207,inflamation interventricular septum,interventricular septum,The biopsy shows inflammation in the interventricular septum.
+ubrogepant,drug,yoo-BROH-jeh-pant,HELPS,0.205,youbrije pad,youbro jeppant,Please take your ubrogepant as prescribed.
+metoclopramide,drug,met-oh-KLOH-prah-mide,HELPS,0.203,medical promit,met o clo promaid,Please take your metoclopramide as prescribed.
+lisinopril,drug,ly-SIN-oh-pril,HELPS,0.2,licenopril,lisinopril,Please take your lisinopril as prescribed.
+nilotinib,drug,ny-LOH-tin-ib,HELPS,0.2,nila ten ab,nila tin ib,Please take your nilotinib as prescribed.
+brodalumab,drug,broe-DAL-ue-mab,HELPS,0.2,brolumimab,brodalumab,Please take your brodalumab as prescribed.
+endoscopy,clinical,en-DOS-koh-pee,HELPS,0.2,endoscoppee,endoscopy,The patient was diagnosed with endoscopy.
+ganglion,anatomical,GANG-glee-on,HELPS,0.2,ganglia,ganglion,The biopsy shows inflammation in the ganglion.
+tocilizumab,drug,TOE-sih-LIZ-ue-mab,HELPS,0.197,tosalisamab,tosi lizu mab,Please take your tocilizumab as prescribed.
+paclitaxel,drug,pak-li-TAKS-el,HELPS,0.19,palpa taxol,pacli tax l,Please take your paclitaxel as prescribed.
+daunorubicin,drug,daw-noh-ROO-bi-sin,HELPS,0.19,adona rubison,dono rubisin,Please take your daunorubicin as prescribed.
+gemcitabine,drug,jem-SITE-a-been,HELPS,0.188,jensibun,gemside aben,Please take your gemcitabine as prescribed.
+eprodual,drug,eh-PROH-dool,HELPS,0.183,a pradual,ea produal,Please take your eprodual as prescribed.
+lansoprazole,drug,lan-SOH-prah-zole,HELPS,0.179,lanse prizal,lan so prozole,Please take your lansoprazole as prescribed.
+brexpiprazole,drug,brek-SIP-ra-zole,HELPS,0.176,brixit puzzle,brexit rawzolay,Please take your brexpiprazole as prescribed.
+valproate,drug,val-PRO-ate,HELPS,0.176,valprade,valproate,Please take your valproate as prescribed.
+asenapine,drug,a-SEN-a-peen,HELPS,0.176,sanapine,asenapine,Please take your asenapine as prescribed.
+flecainide,drug,FLEH-ka-nide,HELPS,0.175,flucanaidis,fleconide,Please take your flecainide as prescribed.
+atorvastatin,drug,a-TOR-va-STAT-in,HELPS,0.17,tor the staten,at torve stat in,Please take your atorvastatin as prescribed.
+armodafinil,drug,ar-mo-DAF-i-nil,HELPS,0.17,modifinel,rmodaff inil,Please take your armodafinil as prescribed.
+insulin detemir,drug,IN-suh-lin DET-uh-meer,HELPS,0.169,insulin to,insulin deer,Please take your insulin detemir as prescribed.
+sumatriptan,drug,soo-mah-TRIP-tan,HELPS,0.167,suma trip ton,sumatriptan,Please take your sumatriptan as prescribed.
+fornix,anatomical,FOR-niks,HELPS,0.167,formex,fornex,The biopsy shows inflammation in the fornix.
+APAP,acronym,acetaminophen,HELPS,0.165,apac,acidomelphin,The patient has a history of APAP.
+cisplatin,drug,sis-PLAT-in,HELPS,0.163,sis platen,cis plat in,Please take your cisplatin as prescribed.
+alirocumab,drug,a-LIR-oh-kyoo-mab,HELPS,0.162,aleraqamab,alero qumab,Please take your alirocumab as prescribed.
+spironolactone,drug,spir-oh-no-LAK-tone,HELPS,0.161,tick sparnalactone,spire oh no lactone,Please take your spironolactone as prescribed.
+foramina,anatomical,fo-RAM-ih-nah,HELPS,0.16,biopsies foramina,forramaid na,The biopsy shows inflammation in the foramina.
+risperidone,drug,ris-PER-ih-done,HELPS,0.157,resprouted on,riz per ive done,Please take your risperidone as prescribed.
+furuncle,clinical,FYOOR-ung-kul,HELPS,0.157,farunkl,feur uncl,The patient was diagnosed with furuncle.
+fludrocortisone,drug,floo-dro-KOR-tih-zone,HELPS,0.155,flutter cortisone,fluodrocortisone,Please take your fludrocortisone as prescribed.
+fissure,clinical,FISH-ur,HELPS,0.154,fisher,fishur,The patient was diagnosed with fissure.
+liraglutide,drug,lir-ah-GLOO-tide,HELPS,0.15,laraglu tie it,laraglu tide,Please take your liraglutide as prescribed.
+oxcarbazepine,drug,oks-kar-BAZ-eh-peen,HELPS,0.148,ox carbazapene,ox carbazepine,Please take your oxcarbazepine as prescribed.
+thrombophilia,clinical,throm-bo-FIL-ee-ah,HELPS,0.148,thrumuhfileeuh,thrombofileeuh,The patient was diagnosed with thrombophilia.
+donepezil,drug,doe-NEP-e-zil,HELPS,0.147,done pezzol,do nepezil,Please take your donepezil as prescribed.
+ondansetron,drug,on-DAN-seh-tron,HELPS,0.146,on andronus,on daneronus,Please take your ondansetron as prescribed.
+TAVR,acronym,TAH-ver,HELPS,0.145,tass,tabra,The patient has a history of TAVR.
+budesonide,drug,byoo-DEH-soh-nide,HELPS,0.144,beezunaius,bio day so nighty,Please take your budesonide as prescribed.
+cryptae,anatomical,KRIP-tee,HELPS,0.144,to crypti,crypti,The biopsy shows inflammation in the cryptae.
+olodaterol,drug,oh-loh-DA-ter-ol,HELPS,0.143,allodaterol,olodaterol,Please take your olodaterol as prescribed.
+simvastatin,drug,sim-va-STAT-in,HELPS,0.142,symbostatin,sinva statin,Please take your simvastatin as prescribed.
+ciprofloxacin,drug,sip-roh-FLOX-ah-sin,HELPS,0.141,seproflaxus in,sip ro flox a sin,Please take your ciprofloxacin as prescribed.
+cholecyst,anatomical,KOH-leh-sist,HELPS,0.139,collest,coleycyst,The biopsy shows inflammation in the cholecyst.
+clindamycin,drug,klin-dah-MY-sin,HELPS,0.133,clin dyson,clin da my sin,Please take your clindamycin as prescribed.
+stridor,clinical,STRY-dor,HELPS,0.133,straitor,straidor,The patient was diagnosed with stridor.
+avelumab,drug,a-VEL-oo-mab,HELPS,0.132,evolimad,uh valu mab,Please take your avelumab as prescribed.
+pravastatin,drug,PRAV-va-STAT-in,HELPS,0.129,protostatin is,provasstatin is,Please take your pravastatin as prescribed.
+rufinamide,drug,roo-FIN-ah-mide,HELPS,0.128,roof and i know it,roof in uh uh uh midate,Please take your rufinamide as prescribed.
+zolmitriptan,drug,zohl-mi-TRIP-tan,HELPS,0.128,zomitrp per,zomitrp,Please take your zolmitriptan as prescribed.
+pantoprazole,drug,pan-TOH-prah-zole,HELPS,0.127,pantaprazola,pantoprazolae,Please take your pantoprazole as prescribed.
+zafirlukast,drug,za-FIR-loo-kast,HELPS,0.124,yours a firaloo cast,zafferloo cast,Please take your zafirlukast as prescribed.
+insulin aspart,drug,IN-suh-lin AS-part,HELPS,0.123,insulin per,insulin part,Please take your insulin aspart as prescribed.
+ertapenem,drug,er-ta-PEN-em,HELPS,0.121,ear hap and m,r t pen m,Please take your ertapenem as prescribed.
+hydralazine,drug,hy-DRAL-a-zeen,HELPS,0.12,hy hydralazine,hydralazine,Please take your hydralazine as prescribed.
+hyponatremia,clinical,hy-poh-nah-TREE-mee-ah,HELPS,0.12,hypernatremia,hyponatremia,The patient was diagnosed with hyponatremia.
+cetuximab,drug,se-TUX-i-mab,HELPS,0.118,sittaxad,siptuxaz,Please take your cetuximab as prescribed.
+acetaminophen,drug,ah-SEE-tah-MIN-oh-fen,HELPS,0.116,asehtuhminuhfen,ahseetahminohfen,Please take your acetaminophen as prescribed.
+desvenlafaxine,drug,des-ven-la-FAK-seen,HELPS,0.116,destbin la vaccine is,destben la vaccine,Please take your desvenlafaxine as prescribed.
+empagliflozin,drug,em-pah-gli-FLOH-zin,HELPS,0.114,in pagla flows in,impoogly flozin,Please take your empagliflozin as prescribed.
+ipratropium,drug,ip-ra-TROH-pee-um,HELPS,0.114,atropium,ipratropi um,Please take your ipratropium as prescribed.
+canagliflozin,drug,kan-ah-gli-FLOH-zin,HELPS,0.113,canny blisslozen,can agly flows in,Please take your canagliflozin as prescribed.
+cefepime,drug,SEF-e-peem,HELPS,0.111,sephapined,sephapimed,Please take your cefepime as prescribed.
+falciform,anatomical,FAL-sih-form,HELPS,0.111,falcaform,falciform,The biopsy shows inflammation in the falciform.
+cauda equina,anatomical,KAW-dah eh-KWY-nah,HELPS,0.11,macada eequina,cada equina,The biopsy shows inflammation in the cauda equina.
+triamterene,drug,try-AM-ter-een,HELPS,0.104,triumptorin,triam terra seen,Please take your triamterene as prescribed.
+apixaban,drug,a-PIX-a-ban,HELPS,0.104,care at pixaban,care pixaban,Please take your apixaban as prescribed.
+linagliptin,drug,lin-ah-GLIP-tin,HELPS,0.104,lnad glibton,lin ad glibtin,Please take your linagliptin as prescribed.
+chlorpheniramine,drug,klor-fen-EER-ah-meen,HELPS,0.104,clirfinarami and,chlorfenmira uh mean,Please take your chlorpheniramine as prescribed.
+papule,clinical,PAP-yool,HELPS,0.103,pappel,ppapyul,The patient was diagnosed with papule.
+amiodarone,drug,am-ee-OH-da-rone,HELPS,0.1,anyoderone,ameoderone,Please take your amiodarone as prescribed.
+sitagliptin,drug,sit-ah-GLIP-tin,HELPS,0.1,sigliptin,sitagliptin,Please take your sitagliptin as prescribed.
+lurasidone,drug,loo-RAS-ih-done,HELPS,0.1,lurisidone,lurasidone,Please take your lurasidone as prescribed.
+ixekizumab,drug,IX-e-KIZ-ue-mab,HELPS,0.1,exekizimab,ixikizumab,Please take your ixekizumab as prescribed.
+rimegepant,drug,rih-MEH-jeh-pant,HELPS,0.095,raneshapath,remajaypant,Please take your rimegepant as prescribed.
+esophagitis,clinical,ee-sof-ah-JY-tis,HELPS,0.095,asafajitis,esafajitis,The patient was diagnosed with esophagitis.
+pembrolizumab,drug,pem-broh-LIZ-oo-mab,HELPS,0.092,pumberly z mab,penbro liz o mab,Please take your pembrolizumab as prescribed.
+clopidogrel,drug,kloh-PID-oh-grel,HELPS,0.091,clopidobrel,clopidogrel,Please take your clopidogrel as prescribed.
+semaglutide,drug,sem-ah-GLOO-tide,HELPS,0.091,semiglutide,semaglutide,Please take your semaglutide as prescribed.
+mirtazapine,drug,mir-TAZ-a-peen,HELPS,0.091,murtazapine,mirtazapine,Please take your mirtazapine as prescribed.
+almotriptan,drug,al-moh-TRIP-tan,HELPS,0.091,almatriptan,almotriptan,Please take your almotriptan as prescribed.
+sarcoidosis,clinical,SAR-koy-DOH-sis,HELPS,0.091,sarcoidosus,sarcoidosis,The patient was diagnosed with sarcoidosis.
+gastrectomy,clinical,gas-TREK-toh-mee,HELPS,0.091,destrectomy,dastrectomy,The patient was diagnosed with gastrectomy.
+pramipexole,drug,PRAM-i-PEX-ole,HELPS,0.088,promaxol,pram ipaxolias,Please take your pramipexole as prescribed.
+zileuton,drug,zy-LOO-ton,HELPS,0.086,zeutin,zilutan,Please take your zileuton as prescribed.
+darifenacin,drug,dar-i-FEN-ah-sin,HELPS,0.084,durafenison,darafena assin,Please take your darifenacin as prescribed.
+topiramate,drug,toh-PIHR-ah-mayt,HELPS,0.083,top made,to peer a mate,Please take your topiramate as prescribed.
+roflumilast,drug,roh-FLOO-mi-last,HURTS,-0.08,rufflumalast desp,rrow flow me last has,Please take your roflumilast as prescribed.
+etanercept,drug,e-TAN-er-sept,HURTS,-0.081,e and r sept,e r sept,Please take your etanercept as prescribed.
+periportal,anatomical,per-ih-POR-tal,HURTS,-0.081,perry portal,per i por,The biopsy shows inflammation in the periportal.
+acinus,anatomical,AS-ih-nus,HURTS,-0.082,aquinas,aeschness,The biopsy shows inflammation in the acinus.
+escitalopram,drug,es-sit-AL-oh-pram,HURTS,-0.083,esit olopram,sit elo pram,Please take your escitalopram as prescribed.
+azoospermia,clinical,AY-zoh-oh-SPER-mee-ah,HURTS,-0.083,aspermia,a z o o o spermi a,The patient was diagnosed with azoospermia.
+dimethyl fumarate,drug,die-METH-ul FYOO-muh-rate,HURTS,-0.086,dimethyl fumarate,dimeathil fumarate,Please take your dimethyl fumarate as prescribed.
+finasteride,drug,fin-AS-ter-ide,HURTS,-0.087,fnasteritis,fin terrace id,Please take your finasteride as prescribed.
+memantine,drug,muh-MAN-teen,HURTS,-0.089,menantine,m m mantine,Please take your memantine as prescribed.
+metoprolol,drug,me-TOE-pro-lol,HURTS,-0.091,metoprolol,metoproloall,Please take your metoprolol as prescribed.
+fluvastatin,drug,FLOO-va-STAT-in,HURTS,-0.091,fluvastatin,flovastatin,Please take your fluvastatin as prescribed.
+milnacipran,drug,mil-NA-si-pran,HURTS,-0.091,momaxapran,momnessie pran,Please take your milnacipran as prescribed.
+leukocytosis,clinical,loo-koh-sy-TOH-sis,HURTS,-0.091,leukocytosis,leucytosis,The patient was diagnosed with leukocytosis.
+laminectomy,clinical,lam-ih-NEK-toh-mee,HURTS,-0.091,laminectomy,laminectome,The patient was diagnosed with laminectomy.
+cariprazine,drug,ka-RIP-ra-zeen,HURTS,-0.095,carapizine,kriprazeen,Please take your cariprazine as prescribed.
+fluorouracil,drug,floor-oh-YOO-ra-sil,HURTS,-0.095,fluora,floor o u,Please take your fluorouracil as prescribed.
+ofatumumab,drug,oh-fuh-TOO-muh-mab,HURTS,-0.095,of atum mab,o fa tu mab,Please take your ofatumumab as prescribed.
+diphenhydramine,drug,dy-fen-HY-drah-meen,HURTS,-0.097,difenhydramine,dyfen hydramine,Please take your diphenhydramine as prescribed.
+stratum corneum,anatomical,STRAY-tum KOR-nee-um,HURTS,-0.097,stratum corneum,stratum corny um,The biopsy shows inflammation in the stratum corneum.
+meropenem,drug,mer-oh-PEN-em,HURTS,-0.1,meropenem,merobopenem,Please take your meropenem as prescribed.
+periosteum,anatomical,per-ee-OS-tee-um,HURTS,-0.1,periosteum,pereosteum,The biopsy shows inflammation in the periosteum.
+intussusception,clinical,in-tuh-suh-SEP-shun,HURTS,-0.103,intussusception,intussaception,The patient was diagnosed with intussusception.
+citalopram,drug,sit-AL-oh-pram,HURTS,-0.104,setalopram,sit belo pram,Please take your citalopram as prescribed.
+imipramine,drug,im-IP-rah-meen,HURTS,-0.11,amipranim,am i pra mean,Please take your imipramine as prescribed.
+diltiazem,drug,dil-TY-a-zem,HURTS,-0.111,deltiazem,doltyazem,Please take your diltiazem as prescribed.
+tirzepatide,drug,teer-ZEP-ah-tide,HURTS,-0.111,ties up,tears up tied,Please take your tirzepatide as prescribed.
+endocarditis,clinical,en-doh-kar-DY-tis,HURTS,-0.111,endocarditis,endo care ditis,The patient was diagnosed with endocarditis.
+nystagmus,clinical,nis-TAG-mus,HURTS,-0.111,nystagmus,nistagmus,The patient was diagnosed with nystagmus.
+hyporeflexia,clinical,HY-po-re-FLEK-see-ah,HURTS,-0.111,hyporeflexia,hypo re flexi a,The patient was diagnosed with hyporeflexia.
+hypoparathyroidism,clinical,HY-po-PAR-ah-THY-roy-dizm,HURTS,-0.111,hypoparathyroidism,hipoparathyroidizm,The patient was diagnosed with hypoparathyroidism.
+hematoma,clinical,hee-mah-TOH-mah,HURTS,-0.111,hematoma,hematomama,The patient was diagnosed with hematoma.
+psoriasis,clinical,soh-RY-ah-sis,HURTS,-0.111,psoriasis,soraiasis,The patient was diagnosed with psoriasis.
+sclerosis,clinical,skleh-ROH-sis,HURTS,-0.111,sclerosis,sclerosus,The patient was diagnosed with sclerosis.
+ileostomy,clinical,il-ee-OS-toh-mee,HURTS,-0.111,ileostomy,iliostomy,The patient was diagnosed with ileostomy.
+subdural,anatomical,sub-DUR-al,HURTS,-0.111,subdural,sub dur al,The biopsy shows inflammation in the subdural.
+rotigotine,drug,roe-TIG-oh-teen,HURTS,-0.117,roticoteen,row tide oteen,Please take your rotigotine as prescribed.
+rabeprazole,drug,rah-BEP-rah-zole,HURTS,-0.12,rabeprazole,ra bep ra zole,Please take your rabeprazole as prescribed.
+palonosetron,drug,pal-oh-NOH-seh-tron,HURTS,-0.12,palonosetron,palonosaytron,Please take your palonosetron as prescribed.
+lymphopenia,clinical,lim-foh-PEE-nee-ah,HURTS,-0.12,lymphopenia,lymphopeneamia,The patient was diagnosed with lymphopenia.
+hysterectomy,clinical,his-teh-REK-toh-mee,HURTS,-0.12,hysterectomy,his terectomy,The patient was diagnosed with hysterectomy.
+hysteroscopy,clinical,his-ter-OS-koh-pee,HURTS,-0.12,hysteroscopy,his teroscopy,The patient was diagnosed with hysteroscopy.
+melena,clinical,muh-LEE-na,HURTS,-0.121,moleda,moona,The patient was diagnosed with melena.
+purpura,clinical,PUR-pur-ah,HURTS,-0.126,perpora,per per ah,The patient was diagnosed with purpura.
+dabigatran,drug,da-big-a-TRAN,HURTS,-0.13,dabigatran,da big a tran,Please take your dabigatran as prescribed.
+venlafaxine,drug,ven-la-FAK-seen,HURTS,-0.13,venlafaxine,venla foxine,Please take your venlafaxine as prescribed.
+desipramine,drug,des-IP-rah-meen,HURTS,-0.13,dispramine,disapromine,Please take your desipramine as prescribed.
+pneumothorax,clinical,noo-moh-THOR-aks,HURTS,-0.13,pneumothorax,newmothorax,The patient was diagnosed with pneumothorax.
+atelectasis,clinical,at-ih-LEK-tah-sis,HURTS,-0.13,atelectasis,at electosis,The patient was diagnosed with atelectasis.
+colonoscopy,clinical,KOH-lon-OS-koh-pee,HURTS,-0.13,colonoscopy,colanooscopy,The patient was diagnosed with colonoscopy.
+endocardium,anatomical,en-doh-KAR-dee-um,HURTS,-0.13,endocardium,endocaredeum,The biopsy shows inflammation in the endocardium.
+paliperidone,drug,pal-ee-PER-ih-done,HURTS,-0.131,paloperidone,pal e per i done,Please take your paliperidone as prescribed.
+coronary sinus,anatomical,KOR-ah-nair-ee SIGH-nus,HURTS,-0.133,coronary sinus,coranaairy sinus,The biopsy shows inflammation in the coronary sinus.
+aciklovir,drug,ah-SEE-kloh-veer,HURTS,-0.137,assyclovir,uh seclovir,Please take your aciklovir as prescribed.
+EVAR,acronym,EE-var,HURTS,-0.139,evar,eva,The patient has a history of EVAR.
+chordae tendineae,anatomical,KOR-dee ten-DIN-ee-ee,HURTS,-0.139,cordae tendine,core d tendin e e,The biopsy shows inflammation in the chordae tendineae.
+risankizumab,drug,RIS-an-KIZ-ue-mab,HURTS,-0.142,risenkizumab,ris and kiz you mab,Please take your risankizumab as prescribed.
+amitriptyline,drug,am-ee-TRIP-tih-leen,HURTS,-0.143,amitriptyline,amt trip tyline,Please take your amitriptyline as prescribed.
+venetoclax,drug,ve-NET-oh-klax,HURTS,-0.143,venetoclax,vnet o clax,Please take your venetoclax as prescribed.
+cetirizine,drug,se-TIR-i-zeen,HURTS,-0.143,cetirizine,cetearizine,Please take your cetirizine as prescribed.
+Crohn's disease,clinical,KROHNZ dih-ZEEZ,HURTS,-0.143,crohns disease,crohns dieseze,The patient was diagnosed with Crohn's disease.
+urethritis,clinical,yoo-reh-THRY-tis,HURTS,-0.143,urethritis,uraythritis,The patient was diagnosed with urethritis.
+trigeminal,clinical,try-JEM-in-al,HURTS,-0.143,trigeminal,trigem in l,The patient was diagnosed with trigeminal.
+urticaria,clinical,ur-tih-KAR-ee-ah,HURTS,-0.143,urticaria,urtica r i a,The patient was diagnosed with urticaria.
+haustra,anatomical,HAW-strah,HURTS,-0.143,haustra,haastra,The biopsy shows inflammation in the haustra.
+jejunum,anatomical,jeh-JOO-num,HURTS,-0.143,jejunum,jajunum,The biopsy shows inflammation in the jejunum.
+sphincter,anatomical,SFINK-ter,HURTS,-0.143,sphincter,esphincterus,The biopsy shows inflammation in the sphincter.
+ventricles,anatomical,VEN-trih-kulz,HURTS,-0.143,ventricles,ventrycoles,The biopsy shows inflammation in the ventricles.
+onabotulinumtoxinA,drug,on-ah-BOT-yoo-ly-num-TOX-in ay,HURTS,-0.144,onabotulinum toxina,on a botulinum tox in i,Please take your onabotulinumtoxinA as prescribed.
+pemetrexed,drug,pem-e-TREK-sed,HURTS,-0.145,patrex,panny trex said,Please take your pemetrexed as prescribed.
+reslizumab,drug,rez-LIZ-oo-mab,HURTS,-0.146,relizamab,rez li zo mab,Please take your reslizumab as prescribed.
+ecchymosis,clinical,ek-ih-MOH-sis,HURTS,-0.146,echomosis,ech ee mo sis,The patient was diagnosed with ecchymosis.
+aluminum hydroxide,drug,ah-LOO-min-um hy-DROK-side,HURTS,-0.149,aluminium hydroxide,aloomm hydroxide,Please take your aluminum hydroxide as prescribed.
+raloxifene,drug,ral-OX-ih-feen,HURTS,-0.15,reloxifene,rell ox ifeene,Please take your raloxifene as prescribed.
+dronedarone,drug,droe-NEH-da-rone,HURTS,-0.152,drondarone,dro nay darone,Please take your dronedarone as prescribed.
+quetiapine,drug,kwe-TIE-ah-peen,HURTS,-0.152,kedyapine,que tye uh peen,Please take your quetiapine as prescribed.
+rivaroxaban,drug,riv-a-ROX-a-ban,HURTS,-0.154,rivaroxaban,riv a rox a ban,Please take your rivaroxaban as prescribed.
+aponeurosis,anatomical,ap-oh-noo-ROH-sis,HURTS,-0.154,aponeurosis,ap o neu ro sis,The biopsy shows inflammation in the aponeurosis.
+fexofenadine,drug,fek-soh-FEN-ah-deen,HURTS,-0.155,frexofinadyne,fat so friend adine,Please take your fexofenadine as prescribed.
+glyburide,drug,GLY-bur-ide,HURTS,-0.158,glyburide,glyber ide,Please take your glyburide as prescribed.
+tramadol,drug,TRAM-ah-dol,HURTS,-0.158,tramadol,tram a doll,Please take your tramadol as prescribed.
+albuterol,drug,al-BOO-ter-ol,HURTS,-0.158,albuterol,albuterall,Please take your albuterol as prescribed.
+gastritis,clinical,gas-TRY-tis,HURTS,-0.158,gastritis,gastry tis,The patient was diagnosed with gastritis.
+oliguria,clinical,oh-lih-GYOO-ree-ah,HURTS,-0.158,oliguria,o ligu ri a,The patient was diagnosed with oliguria.
+hemophilia,clinical,hee-moh-FIL-ee-ah,HURTS,-0.158,hemophilia,hemofilia,The patient was diagnosed with hemophilia.
+colostomy,clinical,koh-LOS-toh-mee,HURTS,-0.158,colostomy,colosstome,The patient was diagnosed with colostomy.
+parathyroidectomy,clinical,par-ah-thy-roy-DEK-toh-mee,HURTS,-0.158,parathyroidectomy,par uh thyroidec tomy,The patient was diagnosed with parathyroidectomy.
+senna,drug,SEN-ah,HURTS,-0.162,sena,sena i,Please take your senna as prescribed.
+respiratory failure,clinical,RES-pih-rah-tor-ee FAYL-yer,HURTS,-0.163,respiratory failure,res pai ra tor e failure,The patient was diagnosed with respiratory failure.
+esomeprazole,drug,es-oh-MEP-rah-zole,HURTS,-0.167,esomeprazole,so meprazoli,Please take your esomeprazole as prescribed.
+incontinence,clinical,in-KON-tih-nens,HURTS,-0.167,incontinence,incontinents,The patient was diagnosed with incontinence.
+erythema,clinical,er-ih-THEE-mah,HURTS,-0.167,arrhythmia,err b ma,The patient was diagnosed with erythema.
+retroperitoneum,anatomical,REH-troh-per-ih-toh-NEE-um,HURTS,-0.167,retroperitoneum,retro per itone ne um,The biopsy shows inflammation in the retroperitoneum.
+voriconazole,drug,vor-ih-KON-uh-zole,HURTS,-0.172,voriconazole,vor uh icon azole,Please take your voriconazole as prescribed.
+oligospermia,clinical,OH-lih-goh-SPER-mee-ah,HURTS,-0.172,oligospermia,o li go sper mi a,The patient was diagnosed with oligospermia.
+nortriptyline,drug,nor-TRIP-tih-leen,HURTS,-0.175,nor triptaline,nor tripte lean,Please take your nortriptyline as prescribed.
+ischemia,clinical,is-KEE-mee-ah,HURTS,-0.175,aschemia,is chi mi ah,The patient was diagnosed with ischemia.
+stenosis,clinical,steh-NOH-sis,HURTS,-0.176,stenosis,staynosis,The patient was diagnosed with stenosis.
+nephrosis,clinical,neh-FROH-sis,HURTS,-0.176,nephrosis,nefrosis,The patient was diagnosed with nephrosis.
+apraxia,clinical,ah-PRAK-see-ah,HURTS,-0.176,apraxia,uh apraxia,The patient was diagnosed with apraxia.
+ligamentum teres,anatomical,lig-ah-MEN-tum TER-eez,HURTS,-0.179,ligamentum teres,lig ah men tum ter ease,The biopsy shows inflammation in the ligamentum teres.
+doxycycline,drug,dok-see-SY-kleen,HURTS,-0.182,doxycycline,doxycyclean,Please take your doxycycline as prescribed.
+etoposide,drug,e-TOH-poh-side,HURTS,-0.182,etoposide,e to p o side,Please take your etoposide as prescribed.
+neutropenia,clinical,noo-troh-PEE-nee-ah,HURTS,-0.182,neutropenia,newtropinia,The patient was diagnosed with neutropenia.
+selegiline,drug,se-LEJ-ih-leen,HURTS,-0.183,selladalin,seelaylayaleen,Please take your selegiline as prescribed.
+carboplatin,drug,kar-boh-PLAT-in,HURTS,-0.185,carboplatin,cared bo plat in,Please take your carboplatin as prescribed.
+rivastigmine,drug,riv-uh-STIG-meen,HURTS,-0.185,rivastigmine,riv uh stigmine,Please take your rivastigmine as prescribed.
+hypertension,clinical,hy-per-TEN-shun,HURTS,-0.185,hypertension,high pertension,The patient was diagnosed with hypertension.
+cholelithiasis,clinical,ko-luh-lih-THIGH-a-sis,HURTS,-0.185,cholelithiasis,colulithyasis,The patient was diagnosed with cholelithiasis.
+thoracoscopy,clinical,thor-ah-KOS-koh-pee,HURTS,-0.185,thoracoscopy,thor uh coscopy,The patient was diagnosed with thoracoscopy.
+hematuria,clinical,HEE-mah-TOO-ree-ah,HURTS,-0.187,hematoia,he ma to re a,The patient was diagnosed with hematuria.
+insulin glargine,drug,IN-suh-lin GLAR-jeen,HURTS,-0.188,insulin glargine,insolin glargeen,Please take your insulin glargine as prescribed.
+amfetamine,drug,am-FET-a-meen,HURTS,-0.19,amphetamine,amphetameen,Please take your amfetamine as prescribed.
+ponatinib,drug,poh-NA-tin-ib,HURTS,-0.19,ponet mnb,ponet ten iv,Please take your ponatinib as prescribed.
+fungemia,clinical,fun-JEE-mee-ah,HURTS,-0.19,funmia,fungi me a,The patient was diagnosed with fungemia.
+capecitabine,drug,ka-pe-SITE-a-been,HURTS,-0.196,capacito bean,copy site up in,Please take your capecitabine as prescribed.
+glatiramer,drug,gluh-TIR-uh-mer,HURTS,-0.196,gladderhammer,glue tired uhm,Please take your glatiramer as prescribed.
+fingolimod,drug,fin-GOL-ih-mod,HURTS,-0.197,finglimod,fin gall i mod,Please take your fingolimod as prescribed.
+hematochezia,clinical,hee-ma-toh-KEE-zee-a,HURTS,-0.197,hematochesia,heematokeesia,The patient was diagnosed with hematochezia.
+amoxicillin clavulanate,drug,ah-MOX-i-sil-in klav-yoo-LAN-ate,HURTS,-0.2,amoxicillin clavulanate,a mox i selin clavyoulanate,Please take your amoxicillin clavulanate as prescribed.
+entacapone,drug,en-TAK-a-pone,HURTS,-0.2,entacapone,ontecapone,Please take your entacapone as prescribed.
+atherosclerosis,clinical,ath-er-oh-skleh-ROH-sis,HURTS,-0.2,atherosclerosis,ath air oh sclerosis,The patient was diagnosed with atherosclerosis.
+thromboembolism,clinical,throm-boh-EM-boh-liz-um,HURTS,-0.2,thromboembolism,throm bo embo liz um,The patient was diagnosed with thromboembolism.
+choledocholithiasis,clinical,ko-led-oh-ko-lih-THIGH-a-sis,HURTS,-0.2,coledocolithiasis,co led o co li thy a sis,The patient was diagnosed with choledocholithiasis.
+hyperphosphatemia,clinical,hy-per-fos-fah-TEE-mee-ah,HURTS,-0.2,hyperphosphatemia,high perphospha te mi a,The patient was diagnosed with hyperphosphatemia.
+cholecystectomy,clinical,koh-leh-sis-TEK-toh-mee,HURTS,-0.2,cholecystectomy,coleysistectome,The patient was diagnosed with cholecystectomy.
+epicardium,anatomical,eh-pih-KAR-dee-um,HURTS,-0.2,epicardium,pitar dium,The biopsy shows inflammation in the epicardium.
+tunica,anatomical,TOO-nih-kah,HURTS,-0.2,tunica,uh tunica,The biopsy shows inflammation in the tunica.
+omeprazole,drug,oh-MEP-rah-zole,HURTS,-0.203,omeba prazole,omet rosole,Please take your omeprazole as prescribed.
+olopatadine,drug,oh-loh-PAT-ah-deen,HURTS,-0.203,olapatadina,olo pat uh dean,Please take your olopatadine as prescribed.
+metoprolol succinate,drug,me-TOE-pro-lol SUK-si-nate,HURTS,-0.209,metoprolol succinate,meto pro a lll suxinate,Please take your metoprolol succinate as prescribed.
+herniorrhaphy,clinical,her-nee-OR-ah-fee,HURTS,-0.209,hernirafy,her me or a fy,The patient was diagnosed with herniorrhaphy.
+glossopharyngeal,anatomical,GLOS-oh-fah-RIN-jee-al,HURTS,-0.212,glossopharyngeal,gloss o faringeal,The biopsy shows inflammation in the glossopharyngeal.
+indomethacin,drug,in-doh-METH-ah-sin,HURTS,-0.214,indomethacin,in do meth a sin,Please take your indomethacin as prescribed.
+fluvoxamine,drug,floo-VOK-sah-meen,HURTS,-0.214,fluvoxamine,fluvo fluvoxamine,Please take your fluvoxamine as prescribed.
+teriparatide,drug,ter-ih-PAR-uh-tide,HURTS,-0.214,teriparatide,terry par a tide,Please take your teriparatide as prescribed.
+minocycline,drug,mi-no-SY-kleen,HURTS,-0.217,minocycline,minocy clean,Please take your minocycline as prescribed.
+arrhythmia,clinical,a-RITH-mee-ah,HURTS,-0.217,arrhythmia,arhythmieeeaa,The patient was diagnosed with arrhythmia.
+hemoptysis,clinical,hee-MOP-tih-sis,HURTS,-0.217,hemoptysis,he mob ty sis,The patient was diagnosed with hemoptysis.
+sternotomy,clinical,ster-NOT-oh-mee,HURTS,-0.217,sternotomy,ster not o me,The patient was diagnosed with sternotomy.
+sinoatrial,anatomical,sigh-noh-AY-tree-al,HURTS,-0.217,sinoatrial,sinoa tree al,The biopsy shows inflammation in the sinoatrial.
+warfarin,drug,war-FAR-in,HURTS,-0.222,warfarin,war for in,Please take your warfarin as prescribed.
+goserelin,drug,goh-SER-a-lin,HURTS,-0.222,go serlin,go sarah lin,Please take your goserelin as prescribed.
+HX,acronym,history,HURTS,-0.222,hx,,The patient has a history of HX.
+rugae,anatomical,ROO-jee,HURTS,-0.222,ruca,ruji,The biopsy shows inflammation in the rugae.
+coronary,anatomical,KOR-ah-nair-ee,HURTS,-0.222,coronary,cor inarye,The biopsy shows inflammation in the coronary.
+pulmonary edema,clinical,PUL-moh-nair-ee eh-DEE-mah,HURTS,-0.226,pulmonary edema,pulmoneerii dema,The patient was diagnosed with pulmonary edema.
+valacyclovir,drug,val-ay-SY-kloh-veer,HURTS,-0.231,valacyclovir,val ic clovirs,Please take your valacyclovir as prescribed.
+tolterodine,drug,tol-TER-oh-deen,HURTS,-0.231,tolterodine,toll tare odine,Please take your tolterodine as prescribed.
+pericarditis,clinical,per-ee-kar-DY-tis,HURTS,-0.231,pericarditis,p e car ditiis,The patient was diagnosed with pericarditis.
+anesthesia,clinical,an-es-THEE-zhah,HURTS,-0.231,anesthesia,anas anes thesia,The patient was diagnosed with anesthesia.
+prosopagnosia,clinical,PROS-oh-pag-NOH-zhah,HURTS,-0.231,prosopagnosia,pros opadnoja,The patient was diagnosed with prosopagnosia.
+cricothyroidotomy,clinical,KRY-koh-thy-ROY-DOT-oh-mee,HURTS,-0.231,cricothyroidotomy,cry co thyroi dot o me,The patient was diagnosed with cricothyroidotomy.
+hilum,anatomical,HY-lum,HURTS,-0.231,hilum,high lum,The biopsy shows inflammation in the hilum.
+aorta,anatomical,ay-OR-tah,HURTS,-0.231,aorta,e a orta,The biopsy shows inflammation in the aorta.
+oxybutynin,drug,ok-see-BYOO-ti-nin,HURTS,-0.233,oxybutinin,oaxy buitin in,Please take your oxybutynin as prescribed.
+dura mater,anatomical,DUR-ah MAH-ter,HURTS,-0.233,duramater,dura uh ma terrace,The biopsy shows inflammation in the dura mater.
+teriflunomide,drug,ter-ih-FLOO-noh-mide,HURTS,-0.234,tear a fluno mided,terror e flow no my dead,Please take your teriflunomide as prescribed.
+hyperthyroidism,clinical,HY-per-THY-roy-dizm,HURTS,-0.235,hyperthyroidism,high per thyroydism,The patient was diagnosed with hyperthyroidism.
+thyrotoxicosis,clinical,THY-ro-TOK-sih-KOH-sis,HURTS,-0.235,thyrotoxicosis,thyrohtohxihkohsihss,The patient was diagnosed with thyrotoxicosis.
+paroxetine,drug,pa-ROK-seh-teen,HURTS,-0.238,paroxetine,parotsatine,Please take your paroxetine as prescribed.
+mirabegron,drug,mir-ah-BEG-ron,HURTS,-0.238,myrobegren,mirror a bag ran,Please take your mirabegron as prescribed.
+choledochus,anatomical,koh-LED-oh-kus,HURTS,-0.238,choledochus,coled ocas,The biopsy shows inflammation in the choledochus.
+porta hepatis,anatomical,POR-tah heh-PAT-is,HURTS,-0.238,porta hepatis,porta ha,The biopsy shows inflammation in the porta hepatis.
+levetiracetam,drug,lev-eh-TIHR-ah-seh-tam,HURTS,-0.24,leviterasadam,liv a t uh uh satom,Please take your levetiracetam as prescribed.
+benralizumab,drug,ben-ra-LIZ-oo-mab,HURTS,-0.241,benralizumab,ben rly liz u mab,Please take your benralizumab as prescribed.
+hyperglycemia,clinical,hy-per-gly-SEE-mee-ah,HURTS,-0.241,hyperglycemia,hyperglyce me uh,The patient was diagnosed with hyperglycemia.
+subcutaneous,anatomical,sub-kyoo-TAY-nee-us,HURTS,-0.242,subctaneous,and subcuttanius,The biopsy shows inflammation in the subcutaneous.
+glomerulonephritis,clinical,gloh-mer-yoo-loh-neh-FRY-tis,HURTS,-0.243,glomerulonephritis,glomery lo nefritiz,The patient was diagnosed with glomerulonephritis.
+papillary muscle,anatomical,PAP-ih-lair-ee MUS-el,HURTS,-0.243,papillary muscle,pap il lay er y mus l,The biopsy shows inflammation in the papillary muscle.
+hypercholesterolemia,clinical,HY-per-koh-LES-ter-oh-LEE-mee-ah,HURTS,-0.244,hypercholesterolemia,highpercolesteressoleemea,The patient was diagnosed with hypercholesterolemia.
+canaliculi,anatomical,kan-ah-LIK-yoo-lye,HURTS,-0.248,cannaculie,can uh like you lie,The biopsy shows inflammation in the canaliculi.
+pneumonia,clinical,noo-MOHN-yah,HURTS,-0.25,pneumonia,numonya,The patient was diagnosed with pneumonia.
+hypodermis,anatomical,hy-poh-DER-mis,HURTS,-0.25,hypodermis,high po dermis,The biopsy shows inflammation in the hypodermis.
+promethazine,drug,proh-METH-ah-zeen,HURTS,-0.259,promethazine,pro meth a zeen,Please take your promethazine as prescribed.
+mepolizumab,drug,meh-poh-LIZ-oo-mab,HURTS,-0.259,mepolizumab,me po liz oo mab,Please take your mepolizumab as prescribed.
+natalizumab,drug,na-tal-IZ-uh-mab,HURTS,-0.259,natalizumab,natali is uh mab,Please take your natalizumab as prescribed.
+ziprasidone,drug,zip-RAS-ih-done,HURTS,-0.261,ziprassidone,zipra shodan,Please take your ziprasidone as prescribed.
+epidermis,anatomical,eh-pih-DER-mis,HURTS,-0.263,epidermis,a p dermis,The biopsy shows inflammation in the epidermis.
+adventitia,anatomical,ad-ven-TISH-ah,HURTS,-0.263,adventitia,adventish,The biopsy shows inflammation in the adventitia.
+recurrent laryngeal,anatomical,ree-KUR-ent lar-IN-jee-al,HURTS,-0.263,recurrent laryngeal,recurreant laar g o,The biopsy shows inflammation in the recurrent laryngeal.
+methylphenidate,drug,METH-il-FEN-i-date,HURTS,-0.267,methylphenidate,methoffennidate,Please take your methylphenidate as prescribed.
+insulin lispro,drug,IN-suh-lin LIS-proh,HURTS,-0.273,insulin lispro,insal and lispro is,Please take your insulin lispro as prescribed.
+penicillin,drug,pen-i-SIL-in,HURTS,-0.273,penicillin,pen ni silin,Please take your penicillin as prescribed.
+tiotropium,drug,ty-oh-TROH-pee-um,HURTS,-0.273,tiotropium,tayotropeeum,Please take your tiotropium as prescribed.
+ileus,clinical,IL-ee-us,HURTS,-0.273,ileus,l e us,The patient was diagnosed with ileus.
+hypernatremia,clinical,hy-per-nah-TREE-mee-ah,HURTS,-0.273,hypernatremia,high per na tre mi a,The patient was diagnosed with hypernatremia.
+mediastinoscopy,clinical,MEE-dee-ah-stih-NOS-koh-pee,HURTS,-0.273,mediastinoscopy,medeeuhstainosecop,The patient was diagnosed with mediastinoscopy.
+myocardium,anatomical,my-oh-KAR-dee-um,HURTS,-0.273,myocardium,bio cardi um,The biopsy shows inflammation in the myocardium.
+intima,anatomical,IN-tih-mah,HURTS,-0.273,intima,ti ma,The biopsy shows inflammation in the intima.
+rasagiline,drug,ra-SAJ-ih-leen,HURTS,-0.278,rosaline,raw sad d lean,Please take your rasagiline as prescribed.
+siponimod,drug,sih-PON-ih-mod,HURTS,-0.278,sipinemod,c p o n e a mod,Please take your siponimod as prescribed.
+ulcerative colitis,clinical,UL-ser-a-tiv ko-LYE-tis,HURTS,-0.278,ulcerative colitis,ulseretel collitiz,The patient was diagnosed with ulcerative colitis.
+fluconazole,drug,floo-KON-a-zole,HURTS,-0.28,fluconazole,flow con asole,Please take your fluconazole as prescribed.
+ketorolac,drug,kee-TOR-oh-lak,HURTS,-0.28,kitorolac,key tour o leg,Please take your ketorolac as prescribed.
+anisocoria,clinical,an-EYE-so-KOR-ee-ah,HURTS,-0.28,anisocoria,an eye so coria,The patient was diagnosed with anisocoria.
+erysipelas,clinical,er-ih-SIP-eh-las,HURTS,-0.28,erysipelas,erydeesipehloss,The patient was diagnosed with erysipelas.
+laparoscopy,clinical,lap-ah-ROS-koh-pee,HURTS,-0.28,laparoscopy,lab a ros co p,The patient was diagnosed with laparoscopy.
+dapagliflozin,drug,dap-ah-gli-FLOH-zin,HURTS,-0.284,dabaglyflozin,dab uh gly flows in,Please take your dapagliflozin as prescribed.
+ocrelizumab,drug,ok-re-LIZ-uh-mab,HURTS,-0.286,ocrelizumab,okreli liz uh mab,Please take your ocrelizumab as prescribed.
+anemia,clinical,ah-NEE-mee-ah,HURTS,-0.286,anemia,aneemeea,The patient was diagnosed with anemia.
+hilus,anatomical,HY-lus,HURTS,-0.286,hilus,high luss,The biopsy shows inflammation in the hilus.
+cyclosporine,drug,SYE-kloe-SPOR-een,HURTS,-0.29,cyclosporin,ca chloe spore ene,Please take your cyclosporine as prescribed.
+eosinophilia,clinical,ee-oh-sin-oh-FIL-ee-ah,HURTS,-0.29,eosinophilia,e o sin o phil e ah,The patient was diagnosed with eosinophilia.
+parasitemia,clinical,par-ah-sih-TEE-mee-ah,HURTS,-0.294,paracitemia,par uh ceteemia,The patient was diagnosed with parasitemia.
+hypomagnesemia,clinical,hy-poh-mag-neh-SEE-mee-ah,HURTS,-0.297,hypomagnesemia,high po mag ne see mi a,The patient was diagnosed with hypomagnesemia.
+medulla,anatomical,meh-DOOL-ah,HURTS,-0.3,medulla,uh medulla uh,The biopsy shows inflammation in the medulla.
+sinusoids,anatomical,SIN-yoo-soydz,HURTS,-0.3,sinusoids,sinyoosoidz,The biopsy shows inflammation in the sinusoids.
+nifedipine,drug,ny-FED-i-peen,HURTS,-0.304,nifedipine,nifefed ipeen,Please take your nifedipine as prescribed.
+valproic acid,drug,val-PROH-ik AS-id,HURTS,-0.308,valproic acid,valpro egg id,Please take your valproic acid as prescribed.
+dutasteride,drug,doo-TAS-ter-ide,HURTS,-0.308,dutasteride,dutazzterraceid,Please take your dutasteride as prescribed.
+peptic ulcer,clinical,PEP-tik UL-ser,HURTS,-0.308,peptic ulcer,peptic oolsair,The patient was diagnosed with peptic ulcer.
+peritoneum,anatomical,per-ih-toh-NEE-um,HURTS,-0.308,peritoneum,per day to ne um,The biopsy shows inflammation in the peritoneum.
+nitroglycerin,drug,ny-tro-GLIS-er-in,HURTS,-0.31,nitroglycerin,nitroglis air in,Please take your nitroglycerin as prescribed.
+umeclidinium,drug,yoo-meh-kli-DIN-ee-um,HURTS,-0.311,um clidinium,you med clidedan e um,Please take your umeclidinium as prescribed.
+osteomyelitis,clinical,os-tee-oh-my-eh-LY-tis,HURTS,-0.312,osteomyelitis,oz t o my e lie tis,The patient was diagnosed with osteomyelitis.
+pulmonary trunk,anatomical,PUL-mah-nair-ee trunk,HURTS,-0.314,pulmonary trunk,pul ma nier de trunk,The biopsy shows inflammation in the pulmonary trunk.
+celiotomy,clinical,see-lee-OT-oh-mee,HURTS,-0.323,ciliatomy,see li a o me,The patient was diagnosed with celiotomy.
+imipenem,drug,i-mi-PEN-em,HURTS,-0.33,amipenem,i me pen m and,Please take your imipenem as prescribed.
+bisacodyl,drug,bis-AK-oh-dil,HURTS,-0.332,bisacodl,buys ache odil,Please take your bisacodyl as prescribed.
+clonidine,drug,KLON-i-deen,HURTS,-0.333,clonidine,clona id and,Please take your clonidine as prescribed.
+acyclovir,drug,ay-SY-kloh-veer,HURTS,-0.333,acyclovir,icee clovier,Please take your acyclovir as prescribed.
+haloperidol,drug,hal-oh-PER-ih-dol,HURTS,-0.333,haloperidol,hallow per eye doll,Please take your haloperidol as prescribed.
+lithium,drug,LITH-ee-um,HURTS,-0.333,lithium,lit e um,Please take your lithium as prescribed.
+carbidopa,drug,KAR-bi-DOE-pa,HURTS,-0.333,carbidopa,car by do pi,Please take your carbidopa as prescribed.
+hypertriglyceridemia,clinical,HY-per-try-GLIS-er-ih-DEE-mee-ah,HURTS,-0.333,hypertriglyceridemia,high pertriglyssairideemeeah,The patient was diagnosed with hypertriglyceridemia.
+hyperesthesia,clinical,HY-per-es-THEE-zhah,HURTS,-0.333,hyperesthesia,hi per es thee da,The patient was diagnosed with hyperesthesia.
+discectomy,clinical,dis-EK-toh-mee,HURTS,-0.333,discectomy,dis ag tomy,The patient was diagnosed with discectomy.
+physis,anatomical,FY-sis,HURTS,-0.333,physis,fy sis,The biopsy shows inflammation in the physis.
+ileum,anatomical,IL-ee-um,HURTS,-0.333,ileum,i l e m,The biopsy shows inflammation in the ileum.
+mexiletine,drug,mex-IL-eh-teen,HURTS,-0.342,mexlatine,mexl a,Please take your mexiletine as prescribed.
+myocardial infarction,clinical,my-oh-KAR-dee-al in-FARK-shun,HURTS,-0.346,myocardial infarction,my boh car dee all in farc shun,The patient was diagnosed with myocardial infarction.
+tigecycline,drug,tye-ge-SY-kleen,HURTS,-0.349,tygecycline,tyge say clean,Please take your tigecycline as prescribed.
+atrial fibrillation,clinical,AY-tree-al fib-ri-LAY-shun,HURTS,-0.349,atrial fibrillation,a tree al fi bri la shan,The patient was diagnosed with atrial fibrillation.
+viremia,clinical,vy-REE-mee-ah,HURTS,-0.351,variamia,fy ree me uh,The patient was diagnosed with viremia.
+thoracotomy,clinical,thor-ah-KOT-oh-mee,HURTS,-0.357,thoracotomy,thor uh cot oh me,The patient was diagnosed with thoracotomy.
+parenchyma,anatomical,pah-REN-kih-mah,HURTS,-0.364,parenchyma,pa ren ki ma,The biopsy shows inflammation in the parenchyma.
+Lipitor,drug,LIP-i-tor,HURTS,-0.368,lipitor,lip eye tour,Please take your Lipitor as prescribed.
+evolocumab,drug,e-VOL-oh-kyoo-mab,HURTS,-0.368,evolocumab,evaloqmob,Please take your evolocumab as prescribed.
+acidosis,clinical,ah-sih-DOH-sis,HURTS,-0.368,acidosis,ahseedohsis,The patient was diagnosed with acidosis.
+synovium,anatomical,sih-NOH-vee-um,HURTS,-0.368,synovium,sai no v um,The biopsy shows inflammation in the synovium.
+dexamethasone,drug,dex-uh-METH-uh-zone,HURTS,-0.375,dexamethasone,dex uh meth uh zone,Please take your dexamethasone as prescribed.
+zoledronic acid,drug,zoh-leh-DRON-ik AS-id,HURTS,-0.375,zoledronic acid,zola dron eek i d,Please take your zoledronic acid as prescribed.
+synovia,anatomical,sih-NOH-vee-ah,HURTS,-0.375,synovia,syno v uh,The biopsy shows inflammation in the synovia.
+polycythemia,clinical,pol-ee-sy-THEE-mee-ah,HURTS,-0.379,polycythemia,poleesaytheemeeah,The patient was diagnosed with polycythemia.
+tachycardia,clinical,tak-ee-KAR-dee-ah,HURTS,-0.385,tachycardia,teck e car di a,The patient was diagnosed with tachycardia.
+bradycardia,clinical,brad-ee-KAR-dee-ah,HURTS,-0.385,bradycardia,brad e car d uh,The patient was diagnosed with bradycardia.
+hypokalemia,clinical,hy-poh-kah-LEE-mee-ah,HURTS,-0.385,hypokalemia,high pocali mia,The patient was diagnosed with hypokalemia.
+meloxicam,drug,mel-OK-sih-kam,HURTS,-0.391,meloxicam,mel okay c cam,Please take your meloxicam as prescribed.
+dysarthria,clinical,dis-AR-three-ah,HURTS,-0.391,dysarthria,dis r three a,The patient was diagnosed with dysarthria.
+laparotomy,clinical,lap-ah-ROT-oh-mee,HURTS,-0.391,laparotomy,lap i ro o me,The patient was diagnosed with laparotomy.
+ureterostomy,clinical,yoo-REE-ter-OS-toh-mee,HURTS,-0.394,ureterostomy,yureeterasstosstoemee,The patient was diagnosed with ureterostomy.
+levalbuterol,drug,lev-al-BOO-ter-ol,HURTS,-0.4,levalbuterol,levo boo teruss ol,Please take your levalbuterol as prescribed.
+pleurisy,clinical,PLOO-rih-see,HURTS,-0.4,pleurisy,pleu ree see,The patient was diagnosed with pleurisy.
+cellulitis,clinical,sel-yoo-LY-tis,HURTS,-0.4,cellulitis,cel yu dis,The patient was diagnosed with cellulitis.
+impetigo,clinical,im-peh-TY-goh,HURTS,-0.4,impetigo,m pay tie go,The patient was diagnosed with impetigo.
+cartilage,anatomical,KAR-tih-lij,HURTS,-0.4,cartilage,caroty lees,The biopsy shows inflammation in the cartilage.
+cardia,anatomical,KAR-dee-ah,HURTS,-0.412,cardia,and cardi i,The biopsy shows inflammation in the cardia.
+isosorbide dinitrate,drug,eye-so-SOR-bide dye-NYE-trate,HURTS,-0.417,isosorbide dinitrate,eye so ser by die nite trite,Please take your isosorbide dinitrate as prescribed.
+septicemia,clinical,sep-tih-SEE-mee-ah,HURTS,-0.417,septicemia,septahseemeeah,The patient was diagnosed with septicemia.
+niacin,drug,NYE-a-sin,HURTS,-0.429,niacin,naiuhsin,Please take your niacin as prescribed.
+hypercalcemia,clinical,HY-per-kal-SEE-mee-ah,HURTS,-0.429,hypercalcemia,high per cal cee me uh,The patient was diagnosed with hypercalcemia.
+nephrostomy,clinical,neh-FROS-toh-mee,HURTS,-0.429,nephrostomy,knee frost toe me,The patient was diagnosed with nephrostomy.
+colposcopy,clinical,kol-POS-koh-pee,HURTS,-0.44,colposcopy,kol cause coppy,The patient was diagnosed with colposcopy.
+polyethylene glycol,drug,pol-ee-ETH-ih-leen GLY-kol,HURTS,-0.442,polyethylene glycol,poll e s i leam gly call,Please take your polyethylene glycol as prescribed.
+myelitis,clinical,MY-eh-LY-tis,HURTS,-0.444,myelitis,myuhleetiz,The patient was diagnosed with myelitis.
+diaphysis,anatomical,dy-AF-ih-sis,HURTS,-0.444,diaphysis,di f isis,The biopsy shows inflammation in the diaphysis.
+cyclophosphamide,drug,sy-kloh-FOS-fa-mide,HURTS,-0.455,cyclophosphamide,seeklofosphameday,Please take your cyclophosphamide as prescribed.
+excoriation,clinical,eks-kor-ee-AY-shun,HURTS,-0.455,excoriation,excareishun,The patient was diagnosed with excoriation.
+anus,anatomical,AY-nus,HURTS,-0.455,anus,a noose,The biopsy shows inflammation in the anus.
+proteinuria,clinical,PROH-tee-NYOO-ree-ah,HURTS,-0.462,proteinuria,protee newreeuh,The patient was diagnosed with proteinuria.
+anuria,clinical,an-YOO-ree-ah,HURTS,-0.467,anuria,an you re,The patient was diagnosed with anuria.
+sutura,anatomical,soo-TOO-rah,HURTS,-0.467,sutura,so too ra,The biopsy shows inflammation in the sutura.
+dysuria,clinical,dis-YOO-ree-ah,HURTS,-0.474,dysuria,disyoureeahh,The patient was diagnosed with dysuria.
+dyskinesia,clinical,dis-kih-NEE-zhah,HURTS,-0.474,dyskinesia,dischemia,The patient was diagnosed with dyskinesia.
+dystonia,clinical,dis-TOE-nee-ah,HURTS,-0.474,dystonia,distonee uh,The patient was diagnosed with dystonia.
+aqueduct,anatomical,AK-weh-dukt,HURTS,-0.474,aqueduct,akaway duct,The biopsy shows inflammation in the aqueduct.
+cystoscopy,clinical,sis-TOS-koh-pee,HURTS,-0.478,cystoscopy,sistoz co pee,The patient was diagnosed with cystoscopy.
+appendicitis,clinical,a-pen-dih-SYE-tis,HURTS,-0.481,appendicitis,a pen d say tiz,The patient was diagnosed with appendicitis.
+radiculopathy,clinical,rah-DIK-yoo-LOP-ah-thee,HURTS,-0.484,radiculopathy,radeekyoolopuhthee,The patient was diagnosed with radiculopathy.
+esophagectomy,clinical,eh-sof-ah-JEK-toh-mee,HURTS,-0.484,esophagectomy,uh so fa jec to me,The patient was diagnosed with esophagectomy.
+lichenification,clinical,ly-ken-ih-fih-KAY-shun,HURTS,-0.489,lickenification,lie ken e fae ca shun,The patient was diagnosed with lichenification.
+guanfacine,drug,GWAHN-fa-seen,HURTS,-0.5,guanfacine,guaan feh seen,Please take your guanfacine as prescribed.
+ureterolithiasis,clinical,yoo-REH-ter-oh-lih-THY-ah-sis,HURTS,-0.5,ureterolithiasis,you rad terrace o lee die aw sis,The patient was diagnosed with ureterolithiasis.
+myelopathy,clinical,MY-eh-LOP-ah-thee,HURTS,-0.5,myelopathy,my uh lop uh v,The patient was diagnosed with myelopathy.
+anomia,clinical,ah-NOH-mee-ah,HURTS,-0.5,anomia,a no me uh,The patient was diagnosed with anomia.
+craniotomy,clinical,KRAY-nee-OT-oh-mee,HURTS,-0.5,craniotomy,cray nee aw toe me,The patient was diagnosed with craniotomy.
+ustekinumab,drug,US-te-KIN-ue-mab,HURTS,-0.509,estacinum,s t can you,Please take your ustekinumab as prescribed.
+hypoalbuminemia,clinical,HY-poh-al-BYOO-mih-NEE-mee-ah,HURTS,-0.512,hypoalbuminemia,hi po al ba yu me me me me,The patient was diagnosed with hypoalbuminemia.
+hypoglycemia,clinical,hy-poh-gly-SEE-mee-ah,HURTS,-0.515,hypoglycemia,high po glai see me a,The patient was diagnosed with hypoglycemia.
+felodipine,drug,fe-LOE-di-peen,HURTS,-0.517,felodipine,fee low uh deep een,Please take your felodipine as prescribed.
+exemestane,drug,ex-e-MES-tane,HURTS,-0.52,exemestane,x e m i s t a n,Please take your exemestane as prescribed.
+pia mater,anatomical,PEE-ah MAH-ter,HURTS,-0.52,pia mater,p uh mod terrace,The biopsy shows inflammation in the pia mater.
+abiraterone,drug,a-bir-A-ter-one,HURTS,-0.524,abiraterona,uh bi uh birana,Please take your abiraterone as prescribed.
+paresthesia,clinical,par-es-THEE-zhah,HURTS,-0.524,paresthesia,par as jaw,The patient was diagnosed with paresthesia.
+dysesthesia,clinical,dis-es-THEE-zhah,HURTS,-0.524,dysesthesia,dis as zha,The patient was diagnosed with dysesthesia.
+hypophosphatemia,clinical,hy-poh-fos-fah-TEE-mee-ah,HURTS,-0.526,hypophosphatemia,high pro fo za te me a,The patient was diagnosed with hypophosphatemia.
+mesothelium,anatomical,meh-zoh-THEE-lee-um,HURTS,-0.529,mesothelium,and umm nizotheelee umm,The biopsy shows inflammation in the mesothelium.
+nephritis,clinical,neh-FRY-tis,HURTS,-0.545,nephritis,me fried toes,The patient was diagnosed with nephritis.
+neuropathy,clinical,nyoo-ROP-ah-thee,HURTS,-0.545,neuropathy,new rope o v,The patient was diagnosed with neuropathy.
+hypermagnesemia,clinical,hy-per-mag-neh-SEE-mee-ah,HURTS,-0.545,hypermagnesemia,highper mag mee see neeuhhhhh,The patient was diagnosed with hypermagnesemia.
+epidural,anatomical,ep-ih-DUR-al,HURTS,-0.556,epidural,up i deral,The biopsy shows inflammation in the epidural.
+aneurysm,clinical,AN-yoo-riz-um,HURTS,-0.579,aneurysm,anyoorizuhm,The patient was diagnosed with aneurysm.
+cystitis,clinical,sis-TYE-tis,HURTS,-0.579,cystitis,sis tye tis,The patient was diagnosed with cystitis.
+vas deferens,anatomical,vas DEF-er-enz,HURTS,-0.583,vest defense,vest thhh ah,The biopsy shows inflammation in the vas deferens.
+encephalopathy,clinical,en-SEH-fah-LOP-ah-thee,HURTS,-0.613,encephalopathy,un say fa lop a v,The patient was diagnosed with encephalopathy.
+neuritis,clinical,nyoo-RY-tis,HURTS,-0.684,neuritis,myoo ry tiz,The patient was diagnosed with neuritis.
+aphasia,clinical,ah-FAY-zhah,HURTS,-0.733,aphasia,a fei ja,The patient was diagnosed with aphasia.
+epithelium,anatomical,eh-pih-THEE-lee-um,HURTS,-0.739,epithelium,and a pble um,The biopsy shows inflammation in the epithelium.
+meninges,anatomical,men-IN-jeez,HURTS,-0.8,meninges,um,The biopsy shows inflammation in the meninges.
+tildrakizumab,drug,TIL-dra-KIZ-ue-mab,WASH,0.079,til jrakiza mabes,til dra kiz you mab,Please take your tildrakizumab as prescribed.
+oculomotor,anatomical,OK-yoo-loh-MOH-tor,WASH,0.077,bendy ocular motor,ohqueuelowmotor,The biopsy shows inflammation in the oculomotor.
+ozanimod,drug,oh-ZAN-ih-mod,WASH,0.074,osinimod,ozan amod,Please take your ozanimod as prescribed.
+athetosis,clinical,ATH-eh-TOE-sis,WASH,0.074,emphitosis,afatosis,The patient was diagnosed with athetosis.
+insulin degludec,drug,IN-suh-lin deh-GLOO-dek,WASH,0.072,insolink to gluded best,ensulindy gludad,Please take your insulin degludec as prescribed.
+colesevelam,drug,koh-leh-SEV-eh-lam,WASH,0.071,coolest sev a lum,coolest sev a lam,Please take your colesevelam as prescribed.
+safinamide,drug,sa-FIN-a-mide,WASH,0.07,sefnam andas,sefina and midas,Please take your safinamide as prescribed.
+endosteum,anatomical,en-DOS-tee-um,WASH,0.068,endum,en doos tee um,The biopsy shows inflammation in the endosteum.
+fumarate,drug,FYOO-muh-rate,WASH,0.066,fumerate,fuma rate,Please take your fumarate as prescribed.
+space of Disse,anatomical,spays of DIS,WASH,0.066,space of dissas,space of diss,The biopsy shows inflammation in the space of Disse.
+nizatidine,drug,ny-ZAT-ih-deen,WASH,0.064,nazadine,nizaatine,Please take your nizatidine as prescribed.
+isoniazid,drug,eye-so-NY-a-zid,WASH,0.059,assanie it,eye so nay a zed,Please take your isoniazid as prescribed.
+letrozole,drug,LET-roh-zole,WASH,0.059,letrozol,letrozole,Please take your letrozole as prescribed.
+oxaliplatin,drug,ok-SAL-i-plat-in,WASH,0.059,auxallid platins,oxalat platins,Please take your oxaliplatin as prescribed.
+trochlear,anatomical,TROK-lee-ar,WASH,0.059,trochlea,trochlear,The biopsy shows inflammation in the trochlear.
+vermiform,anatomical,VER-mih-form,WASH,0.058,vermaform,vermi form,The biopsy shows inflammation in the vermiform.
+ciclesonide,drug,sik-LEH-soh-nide,WASH,0.057,psychoside,sickles so en a day,Please take your ciclesonide as prescribed.
+metoprolol tartrate,drug,me-TOE-pro-lol TAR-trate,WASH,0.053,metaprolol tartrate,metoprolol tartrate,Please take your metoprolol tartrate as prescribed.
+cephalexin,drug,sef-ah-LEX-in,WASH,0.053,cephlexin,cephalexin,Please take your cephalexin as prescribed.
+ligamentum venosum,anatomical,lig-ah-MEN-tum veh-NOH-sum,WASH,0.053,a ligamentum venosum,ligamentum venosum,The biopsy shows inflammation in the ligamentum venosum.
+dulaglutide,drug,doo-lah-GLOO-tide,WASH,0.051,dile glutide,dulog glutide,Please take your dulaglutide as prescribed.
+formoterol,drug,for-MOH-ter-ol,WASH,0.051,for motorola,for moteroasl,Please take your formoterol as prescribed.
+imatinib,drug,i-MAT-in-ib,WASH,0.051,matid,imatin iodide,Please take your imatinib as prescribed.
+vincristine,drug,vin-KRIS-teen,WASH,0.048,vincristin,vincristine,Please take your vincristine as prescribed.
+alfuzosin,drug,al-FOO-zoh-sin,WASH,0.046,afuzocine,alfoosin,Please take your alfuzosin as prescribed.
+plicae,anatomical,PLY-see,WASH,0.045,placky,pla c,The biopsy shows inflammation in the plicae.
+metformin,drug,met-FOR-min,WASH,0.043,met for mine,met for min,Please take your metformin as prescribed.
+levothyroxine,drug,lee-voh-thigh-ROX-een,WASH,0.043,lavothyroxin,lebothyroxine,Please take your levothyroxine as prescribed.
+tadalafil,drug,tuh-DAF-ih-lil,WASH,0.042,talifio,dafila,Please take your tadalafil as prescribed.
+clozapine,drug,KLOZ-ah-peen,WASH,0.041,clothes up pnn,claws up pnn,Please take your clozapine as prescribed.
+abatacept,drug,a-BAT-a-sept,WASH,0.041,adatapsept,abadasept,Please take your abatacept as prescribed.
+piperacillin tazobactam,drug,pi-PER-a-sil-in ta-zo-BAK-tam,WASH,0.031,pypericillin tazabactum,pie per asil in tazobactam,Please take your piperacillin tazobactam as prescribed.
+bevacizumab,drug,beh-va-KIZ-oo-mab,WASH,0.03,babasiba mab,bay va tiz ooo mab,Please take your bevacizumab as prescribed.
+fasciculation,clinical,fa-SIK-yoo-LAY-shun,WASH,0.026,diagmost fasciculation,faseegulation,The patient was diagnosed with fasciculation.
+phrenic,anatomical,FREN-ik,WASH,0.026,frec,fren ik,The biopsy shows inflammation in the phrenic.
+fluticasone,drug,floo-TIK-a-sone,WASH,0.024,flukey sonas,flo a sonas,Please take your fluticasone as prescribed.
+etodolac,drug,ee-TOH-doh-lak,WASH,0.023,atolac,eetoetoelac,Please take your etodolac as prescribed.
+mycophenolate,drug,MYE-koe-FEN-oh-late,WASH,0.023,microphone latest,my co fan o late,Please take your mycophenolate as prescribed.
+pyrazinamide,drug,py-ra-ZIN-a-mide,WASH,0.021,perazinvaidis,pi razzin abide,Please take your pyrazinamide as prescribed.
+bumetanide,drug,byoo-MET-a-nide,WASH,0.01,boom at tea night,biomed enate,Please take your bumetanide as prescribed.
+sympathectomy,clinical,sim-pah-THEK-toh-mee,WASH,0.01,symphetomy,sympfaectomy,The patient was diagnosed with sympathectomy.
+epiphysis,anatomical,eh-PIF-ih-sis,WASH,0.005,apophysis,and depiphysis,The biopsy shows inflammation in the epiphysis.
+phenazopyridine,drug,fen-az-oh-PYR-i-deen,WASH,0.002,fenda zappier adinas,fen opire i dean,Please take your phenazopyridine as prescribed.
+amlodipine,drug,am-LOE-di-peen,WASH,0.0,amlodipine,amlodipine,Please take your amlodipine as prescribed.
+losartan,drug,loe-SAR-tan,WASH,0.0,lozartan,lozartan,Please take your losartan as prescribed.
+valsartan,drug,val-SAR-tan,WASH,0.0,valsartan,valsartan,Please take your valsartan as prescribed.
+enalapril,drug,e-NAL-a-pril,WASH,0.0,enalapril,enalapril,Please take your enalapril as prescribed.
+ramipril,drug,ra-MI-pril,WASH,0.0,ramipril,ramipril,Please take your ramipril as prescribed.
+hydrochlorothiazide,drug,hy-dro-KLOR-oh-THY-a-zide,WASH,0.0,hydrochlorothiazide,hydrochlorothiazide,Please take your hydrochlorothiazide as prescribed.
+torsemide,drug,TOR-se-mide,WASH,0.0,torsemide,torsemide,Please take your torsemide as prescribed.
+verapamil,drug,ver-AP-a-mil,WASH,0.0,verapamil,verapamil,Please take your verapamil as prescribed.
+doxazosin,drug,dok-SAZ-oh-sin,WASH,0.0,doxazosin,doxazosin,Please take your doxazosin as prescribed.
+terazosin,drug,ter-AZ-oh-sin,WASH,0.0,tarzozin,tarzosen,Please take your terazosin as prescribed.
+prazosin,drug,PRAZ-oh-sin,WASH,0.0,prazos in,prazos in,Please take your prazosin as prescribed.
+sotalol,drug,SOH-ta-lol,WASH,0.0,sotalol,sotalol,Please take your sotalol as prescribed.
+isosorbide mononitrate,drug,eye-so-SOR-bide mon-oh-NYE-trate,WASH,0.0,isosorbide mononitrate,isosorbide mononitrate,Please take your isosorbide mononitrate as prescribed.
+gemfibrozil,drug,jem-FYE-broh-zil,WASH,0.0,gemfibrozil,gemfibrozil,Please take your gemfibrozil as prescribed.
+rosuvastatin,drug,roh-soo-va-STAT-in,WASH,0.0,roseve statin,roseve statin,Please take your rosuvastatin as prescribed.
+glipizide,drug,GLIP-i-zide,WASH,0.0,glipizide,glipizide,Please take your glipizide as prescribed.
+pioglitazone,drug,py-oh-GLIT-ah-zone,WASH,0.0,pioglitazone,pioglitazone,Please take your pioglitazone as prescribed.
+alogliptin,drug,al-oh-GLIP-tin,WASH,0.0,alogliptin,alogliptin,Please take your alogliptin as prescribed.
+exenatide,drug,ex-EN-ah-tide,WASH,0.0,exenatide,exenatide,Please take your exenatide as prescribed.
+acarbose,drug,AY-kar-bose,WASH,0.0,acarbose,acarbose,Please take your acarbose as prescribed.
+repaglinide,drug,reh-PAG-li-nide,WASH,0.0,repaglinide,repaglinide,Please take your repaglinide as prescribed.
+amoxicillin,drug,ah-MOX-i-sil-in,WASH,0.0,amoxicillin,amoxicillin,Please take your amoxicillin as prescribed.
+azithromycin,drug,ah-ZITH-roh-my-sin,WASH,0.0,azithromycin,azithromycin,Please take your azithromycin as prescribed.
+metronidazole,drug,me-tro-NI-da-zole,WASH,0.0,metronidazole,metronidazole,Please take your metronidazole as prescribed.
+sulfamethoxazole trimethoprim,drug,sul-fa-meth-OX-a-zole try-METH-oh-prim,WASH,0.0,sulfamethoxazole trimethoprim,sulfamethoxazole trimethoprim,Please take your sulfamethoxazole trimethoprim as prescribed.
+vancomycin,drug,van-ko-MY-sin,WASH,0.0,vancomycin,vancomycin,Please take your vancomycin as prescribed.
+levofloxacin,drug,lee-vo-FLOX-a-sin,WASH,0.0,levofloxacin,levofloxacin,Please take your levofloxacin as prescribed.
+moxifloxacin,drug,mox-i-FLOX-a-sin,WASH,0.0,moxifloxacin,moxifloxacin,Please take your moxifloxacin as prescribed.
+cefdinir,drug,SEF-di-ner,WASH,0.0,seftin,seftin,Please take your cefdinir as prescribed.
+cefaclor,drug,SEF-a-klor,WASH,0.0,cephaclor,cephaclor,Please take your cefaclor as prescribed.
+tobramycin,drug,toe-bra-MY-sin,WASH,0.0,tobramycin,tobramycin,Please take your tobramycin as prescribed.
+amikacin,drug,am-i-KAY-sin,WASH,0.0,amikacin,amikacin,Please take your amikacin as prescribed.
+daptomycin,drug,dap-toe-MY-sin,WASH,0.0,daptomycin,daptomycin,Please take your daptomycin as prescribed.
+ketoconazole,drug,kee-toe-KON-a-zole,WASH,0.0,ketoconazole,ketoconazole,Please take your ketoconazole as prescribed.
+famciclovir,drug,fam-SY-kloh-veer,WASH,0.0,fancy clovir,fancy clovir,Please take your famciclovir as prescribed.
+nabumetone,drug,na-BYOO-meh-tone,WASH,0.0,nibitone,nibayomed tone,Please take your nabumetone as prescribed.
+oxaprozin,drug,ok-sah-PROH-zin,WASH,0.0,oxaprozen,oxaprozen,Please take your oxaprozin as prescribed.
+gabapentin,drug,gab-ah-PEN-tin,WASH,0.0,gabapentin,gabapentin,Please take your gabapentin as prescribed.
+duloxetine,drug,doo-LOK-seh-teen,WASH,0.0,duloxetine,duloxetine,Please take your duloxetine as prescribed.
+carbamazepine,drug,kar-bah-MAZ-eh-peen,WASH,0.0,carbamazepine,carbamazepine,Please take your carbamazepine as prescribed.
+lamotrigine,drug,lah-MOH-trih-jeen,WASH,0.0,lamotrigine,lamotrigine,Please take your lamotrigine as prescribed.
+famotidine,drug,fam-OH-tih-deen,WASH,0.0,famotidine,famotidine,Please take your famotidine as prescribed.
+granisetron,drug,gran-IS-eh-tron,WASH,0.0,granatron,gran is a tron,Please take your granisetron as prescribed.
+prochlorperazine,drug,proh-klor-PER-ah-zeen,WASH,0.0,prochlorperazine,prochlorperazine,Please take your prochlorperazine as prescribed.
+lactulose,drug,LAK-tyoo-lose,WASH,0.0,like to lose,like to lose,Please take your lactulose as prescribed.
+glycopyrrolate,drug,gly-koh-PIR-oh-late,WASH,0.0,glycopyrrolate,glycopyrrolate,Please take your glycopyrrolate as prescribed.
+indacaterol,drug,in-da-KA-ter-ol,WASH,0.0,indacaterol,indacaterol,Please take your indacaterol as prescribed.
+mometasone,drug,moh-MEH-ta-sone,WASH,0.0,mometasone,mometasone,Please take your mometasone as prescribed.
+beclomethasone,drug,beh-kloh-MEH-tha-sone,WASH,0.0,beclomethasone,beclomethasone,Please take your beclomethasone as prescribed.
+montelukast,drug,mon-teh-LOO-kast,WASH,0.0,montelucast,montelucast,Please take your montelukast as prescribed.
+omalizumab,drug,oh-ma-LIZ-oo-mab,WASH,0.0,omalizumab,omalizumab,Please take your omalizumab as prescribed.
+fluoxetine,drug,floo-OK-seh-teen,WASH,0.0,floxity and,floxity and,Please take your fluoxetine as prescribed.
+trazodone,drug,TRAZ-oh-done,WASH,0.0,trazodone,trazodone,Please take your trazodone as prescribed.
+clomipramine,drug,klo-MIP-rah-meen,WASH,0.0,clomipramine,clomipramine,Please take your clomipramine as prescribed.
+protriptyline,drug,pro-TRIP-tih-leen,WASH,0.0,protriptyline,protriptyline,Please take your protriptyline as prescribed.
+phenelzine,drug,FEN-el-zeen,WASH,0.0,fenezin,fenezin,Please take your phenelzine as prescribed.
+isocarboxazid,drug,eye-so-kar-BOK-sah-zid,WASH,0.0,iso car box acid,iso car box acid,Please take your isocarboxazid as prescribed.
+aripiprazole,drug,a-RIP-ip-ra-zole,WASH,0.0,a rip a brazola,a rip i bae razola,Please take your aripiprazole as prescribed.
+olanzapine,drug,oh-LAN-zah-peen,WASH,0.0,olanza penis,olanza penis,Please take your olanzapine as prescribed.
+chlorpromazine,drug,klor-PROH-mah-zeen,WASH,0.0,chlorpromazine,chlorpromazine,Please take your chlorpromazine as prescribed.
+dexmethylphenidate,drug,dex-METH-il-FEN-i-date,WASH,0.0,dexmethylfinidate,dexmethylfinidate,Please take your dexmethylphenidate as prescribed.
+tamoxifen,drug,ta-MOX-i-fen,WASH,0.0,tamoxifen,tamoxifen,Please take your tamoxifen as prescribed.
+leuprolide,drug,loo-PRO-lide,WASH,0.0,luperlide,luperlide,Please take your leuprolide as prescribed.
+bicalutamide,drug,bye-ka-LOO-ta-mide,WASH,0.0,bicalutamide,bicalutamide,Please take your bicalutamide as prescribed.
+rituximab,drug,ri-TUX-i-mab,WASH,0.0,rituximab,rituximab,Please take your rituximab as prescribed.
+pertuzumab,drug,per-TUZ-oo-mab,WASH,0.0,pertuzumab,pertuzumab,Please take your pertuzumab as prescribed.
+nivolumab,drug,niv-OL-oo-mab,WASH,0.0,nivolumab,nivolumab,Please take your nivolumab as prescribed.
+docetaxel,drug,doh-se-TAKS-el,WASH,0.0,docetaxel,docetaxel,Please take your docetaxel as prescribed.
+doxorubicin,drug,dok-soh-ROO-bi-sin,WASH,0.0,doxorubicin,doxorubicin,Please take your doxorubicin as prescribed.
+vinblastine,drug,vin-BLAS-teen,WASH,0.0,vinblastine,vinblastine,Please take your vinblastine as prescribed.
+ifosfamide,drug,i-FOS-fa-mide,WASH,0.0,ifosfamide,ifosfamide,Please take your ifosfamide as prescribed.
+methotrexate,drug,meth-oh-TREK-sate,WASH,0.0,methotrexate,methotrexate,Please take your methotrexate as prescribed.
+infliximab,drug,in-FLIK-si-mab,WASH,0.0,infliximab,infliximab,Please take your infliximab as prescribed.
+leflunomide,drug,le-FLOO-no-mide,WASH,0.0,leflunomide,leflunomide,Please take your leflunomide as prescribed.
+sulfasalazine,drug,SUL-fa-SAL-a-zeen,WASH,0.0,sulfasalazine,sulfasalazine,Please take your sulfasalazine as prescribed.
+azathioprine,drug,AY-za-THYE-oh-preen,WASH,0.0,azathiapreen,azathyopreen,Please take your azathioprine as prescribed.
+sirolimus,drug,sir-OH-li-mus,WASH,0.0,seralamus,ser olee mus,Please take your sirolimus as prescribed.
+levodopa,drug,LEE-voe-DOE-pa,WASH,0.0,livo dopa,livo dopa,Please take your levodopa as prescribed.
+ropinirole,drug,roe-PIN-i-role,WASH,0.0,ropanny roll,rop n i roll,Please take your ropinirole as prescribed.
+amantadine,drug,a-MAN-ta-deen,WASH,0.0,amantadine,amantadine,Please take your amantadine as prescribed.
+apomorphine,drug,AP-oh-MOR-feen,WASH,0.0,apomorphine,apomorphine,Please take your apomorphine as prescribed.
+galantamine,drug,guh-LAN-tuh-meen,WASH,0.0,galantamine,galantamine,Please take your galantamine as prescribed.
+prednisone,drug,PRED-nih-zone,WASH,0.0,prednisone,prednisone,Please take your prednisone as prescribed.
+prednisolone,drug,pred-NIS-oh-lone,WASH,0.0,prennis o lone,prennis o lone,Please take your prednisolone as prescribed.
+alendronate,drug,uh-LEN-dro-nate,WASH,0.0,alendronate,alendronate,Please take your alendronate as prescribed.
+ibandronate,drug,ih-BAN-dro-nate,WASH,0.0,eye bandronate,eye bandronate,Please take your ibandronate as prescribed.
+denosumab,drug,den-OH-suh-mab,WASH,0.0,denosumab,denosumab,Please take your denosumab as prescribed.
+calcitonin,drug,kal-sih-TONE-in,WASH,0.0,calcitonin,calcitonin,Please take your calcitonin as prescribed.
+tamsulosin,drug,tam-SOO-loh-sin,WASH,0.0,tamsulosin,tamsulosin,Please take your tamsulosin as prescribed.
+silodosin,drug,si-LOH-doh-sin,WASH,0.0,solidos in,solidos in,Please take your silodosin as prescribed.
+hydroxyzine,drug,hy-DROK-si-zeen,WASH,0.0,hydroxazine,hydroxazine,Please take your hydroxyzine as prescribed.
+loratadine,drug,lor-AT-ah-deen,WASH,0.0,laura taddine,laura taddine,Please take your loratadine as prescribed.
+modafinil,drug,mo-DAF-i-nil,WASH,0.0,modafinil,modafinil,Please take your modafinil as prescribed.
+rizatriptan,drug,ry-zah-TRIP-tan,WASH,0.0,rizatriptan,rizatriptan,Please take your rizatriptan as prescribed.
+eletriptan,drug,el-e-TRIP-tan,WASH,0.0,l e trip tan,l e trip tan,Please take your eletriptan as prescribed.
+erenumab,drug,eh-REH-nyoo-mab,WASH,0.0,arena mab,renew mab,Please take your erenumab as prescribed.
+fremanezumab,drug,freh-mah-NEH-zoo-mab,WASH,0.0,fremanezumab,fremanezumab,Please take your fremanezumab as prescribed.
+galcanezumab,drug,gal-kah-NEH-zoo-mab,WASH,0.0,galkanezumab,galkanezumab,Please take your galcanezumab as prescribed.
+OD,acronym,right eye,WASH,0.0,,,The patient has a history of OD.
+Hodgkin,acronym,HOJ-kin,WASH,0.0,hodgkin,hodgkin,The patient has a history of Hodgkin.
+GOUT,acronym,gowt,WASH,0.0,gout,gout,The patient has a history of GOUT.
+Psych,acronym,SYKE,WASH,0.0,psych,psych,The patient has a history of Psych.
+Derm,acronym,derm,WASH,0.0,derm,derm,The patient has a history of Derm.
+Gest,acronym,gest,WASH,0.0,just,just,The patient has a history of Gest.
+D5W,acronym,D-five-W,WASH,0.0,dw,dw,The patient has a history of D5W.
+D5NS,acronym,D-five-N-S,WASH,0.0,dns,dns,The patient has a history of D5NS.
+D5LR,acronym,D-five-L-R,WASH,0.0,dlr,dlr,The patient has a history of D5LR.
+PEG,acronym,PEG,WASH,0.0,peg,peg,The patient has a history of PEG.
+Pacemaker,acronym,PACE-may-ker,WASH,0.0,pacemaker,pacemaker,The patient has a history of Pacemaker.
+CABG,acronym,cabbage,WASH,0.0,cabbie,cabbie,The patient has a history of CABG.
+angina pectoris,clinical,an-JY-nah PEK-tor-is,WASH,0.0,angina pectoris,angina pectoris,The patient was diagnosed with angina pectoris.
+ventricular fibrillation,clinical,ven-TRIK-yoo-lar fib-ri-LAY-shun,WASH,0.0,ventricular fibrillation,ventricular fibrillation,The patient was diagnosed with ventricular fibrillation.
+hypotension,clinical,hy-poh-TEN-shun,WASH,0.0,hypotension,hypotension,The patient was diagnosed with hypotension.
+myocarditis,clinical,my-oh-kar-DY-tis,WASH,0.0,myocarditis,myocarditis,The patient was diagnosed with myocarditis.
+cardiomyopathy,clinical,kar-dee-oh-my-OP-ah-thee,WASH,0.0,cardiomyopathy,cardiomyopathy,The patient was diagnosed with cardiomyopathy.
+thrombophlebitis,clinical,throm-boh-fleh-BY-tis,WASH,0.0,thrombophlebitis,thrombophlebitis,The patient was diagnosed with thrombophlebitis.
+phlebitis,clinical,fleh-BY-tis,WASH,0.0,phlebitis,phlebitis,The patient was diagnosed with phlebitis.
+embolism,clinical,EM-boh-liz-um,WASH,0.0,embolism,embolism,The patient was diagnosed with embolism.
+regurgitation,clinical,ree-gur-ji-TAY-shun,WASH,0.0,regurgitation,regurgitation,The patient was diagnosed with regurgitation.
+prolapse,clinical,proh-LAPS,WASH,0.0,prolapse,prolapse,The patient was diagnosed with prolapse.
+dissection,clinical,dy-SEK-shun,WASH,0.0,dissection,dissection,The patient was diagnosed with dissection.
+infarction,clinical,in-FARK-shun,WASH,0.0,infarction,infarction,The patient was diagnosed with infarction.
+reperfusion,clinical,REE-per-FYOO-zhun,WASH,0.0,reperfusion,reperfusion,The patient was diagnosed with reperfusion.
+bronchitis,clinical,brong-KY-tis,WASH,0.0,bronchitis,bronchitis,The patient was diagnosed with bronchitis.
+bronchiectasis,clinical,brong-kee-EK-tah-sis,WASH,0.0,bronchiectasis,bronchiectasis,The patient was diagnosed with bronchiectasis.
+hemothorax,clinical,hee-moh-THOR-aks,WASH,0.0,hemothorax,hemothorax,The patient was diagnosed with hemothorax.
+pleural effusion,clinical,PLOO-ral eh-FYOO-zhun,WASH,0.0,plural effusion,plural effusion,The patient was diagnosed with pleural effusion.
+pulmonary fibrosis,clinical,PUL-moh-nair-ee fy-BROH-sis,WASH,0.0,pulmonary fibrosis,pulmonary fibrosis,The patient was diagnosed with pulmonary fibrosis.
+tuberculosis,clinical,too-BER-kyoo-LOH-sis,WASH,0.0,tuberculosis,tuberculosis,The patient was diagnosed with tuberculosis.
+hypoxia,clinical,hy-POK-see-ah,WASH,0.0,hypoxia,hypoxia,The patient was diagnosed with hypoxia.
+hypercapnia,clinical,hy-per-KAP-nee-ah,WASH,0.0,hypercapnia,hypercapnia,The patient was diagnosed with hypercapnia.
+apnea,clinical,AP-nee-ah,WASH,0.0,apnea,apnea,The patient was diagnosed with apnea.
+dyspnea,clinical,DISP-nee-ah,WASH,0.0,dyspnea,dyspnea,The patient was diagnosed with dyspnea.
+wheezing,clinical,WEE-zing,WASH,0.0,weezing,weezing,The patient was diagnosed with wheezing.
+gastroenteritis,clinical,gas-tro-en-ter-EYE-tis,WASH,0.0,gastroenteritis,gastroenteritis,The patient was diagnosed with gastroenteritis.
+colitis,clinical,ko-LYE-tis,WASH,0.0,colitis,colitis,The patient was diagnosed with colitis.
+diverticulitis,clinical,dye-ver-tik-yoo-LYE-tis,WASH,0.0,diverticulitis,diverticulitis,The patient was diagnosed with diverticulitis.
+cholecystitis,clinical,ko-luh-sis-TYE-tis,WASH,0.0,cholecystitis,cholecystitis,The patient was diagnosed with cholecystitis.
+pancreatitis,clinical,pan-kree-a-TYE-tis,WASH,0.0,pancreatitis,pancreatitis,The patient was diagnosed with pancreatitis.
+hepatitis,clinical,hep-a-TYE-tis,WASH,0.0,hepatitis,hepatitis,The patient was diagnosed with hepatitis.
+cirrhosis,clinical,sir-OH-sis,WASH,0.0,cirrhosis,cirrhosis,The patient was diagnosed with cirrhosis.
+cholestasis,clinical,ko-luh-STAY-sis,WASH,0.0,cholestasis,cholestasis,The patient was diagnosed with cholestasis.
+steatosis,clinical,stee-a-TOH-sis,WASH,0.0,steatosis,steatosis,The patient was diagnosed with steatosis.
+steatohepatitis,clinical,stee-a-toh-hep-a-TYE-tis,WASH,0.0,steatohepatitis,steatohepatitis,The patient was diagnosed with steatohepatitis.
+peritonitis,clinical,pair-ih-toh-NYE-tis,WASH,0.0,peritonitis,peritonitis,The patient was diagnosed with peritonitis.
+nephrolithiasis,clinical,nef-ro-lih-THIGH-a-sis,WASH,0.0,nephrolithiasis,nephrolithiasis,The patient was diagnosed with nephrolithiasis.
+hydronephrosis,clinical,HY-droh-neh-FROH-sis,WASH,0.0,hydronephrosis,hydronephrosis,The patient was diagnosed with hydronephrosis.
+retention,clinical,ree-TEN-shun,WASH,0.0,retention,retention,The patient was diagnosed with retention.
+encephalitis,clinical,en-SEH-fah-LY-tis,WASH,0.0,encephalitis,encephalitis,The patient was diagnosed with encephalitis.
+meningitis,clinical,MEH-nin-JY-tis,WASH,0.0,meningitis,meningitis,The patient was diagnosed with meningitis.
+dysphonia,clinical,dis-FOH-nee-ah,WASH,0.0,dysfomia,disfonia,The patient was diagnosed with dysphonia.
+chorea,clinical,koh-REE-ah,WASH,0.0,chorea,chorea,The patient was diagnosed with chorea.
+tremor,clinical,TREM-or,WASH,0.0,tremor,tremor,The patient was diagnosed with tremor.
+clonus,clinical,KLOH-nus,WASH,0.0,clonus,clonus,The patient was diagnosed with clonus.
+ptosis,clinical,TOE-sis,WASH,0.0,tosis,tosis,The patient was diagnosed with ptosis.
+miosis,clinical,my-OH-sis,WASH,0.0,myosis,myosis,The patient was diagnosed with miosis.
+mydriasis,clinical,mi-DRY-ah-sis,WASH,0.0,mydriasis,mydriasis,The patient was diagnosed with mydriasis.
+hyperreflexia,clinical,HY-per-re-FLEK-see-ah,WASH,0.0,hyperreflexia,hyperreflexia,The patient was diagnosed with hyperreflexia.
+Babinski,clinical,ba-BIN-skee,WASH,0.0,babinski,babinski,The patient was diagnosed with Babinski.
+neuralgia,clinical,nyoo-RAL-jah,WASH,0.0,neuralgia,neuralgia,The patient was diagnosed with neuralgia.
+sciatica,clinical,sy-AT-ik-ah,WASH,0.0,saica,saica,The patient was diagnosed with sciatica.
+hypothyroidism,clinical,HY-po-THY-roy-dizm,WASH,0.0,hypothyroidism,hypothyroidism,The patient was diagnosed with hypothyroidism.
+myxedema,clinical,mik-seh-DEE-mah,WASH,0.0,mixdeema,mixdeema,The patient was diagnosed with myxedema.
+hypocalcemia,clinical,HY-po-kal-SEE-mee-ah,WASH,0.0,hypocalcemia,hypocalcemia,The patient was diagnosed with hypocalcemia.
+hyperkalemia,clinical,hy-per-kah-LEE-mee-ah,WASH,0.0,hyperkalemia,hyperkalemia,The patient was diagnosed with hyperkalemia.
+alkalosis,clinical,al-kah-LOH-sis,WASH,0.0,alkalosis,alkalosis,The patient was diagnosed with alkalosis.
+ketoacidosis,clinical,kee-toh-ah-sih-DOH-sis,WASH,0.0,ketoacidosis,ketoacidosis,The patient was diagnosed with ketoacidosis.
+pheochromocytoma,clinical,fee-oh-kroh-moh-sy-TOH-mah,WASH,0.0,pheochromocytoma,pheochromocytoma,The patient was diagnosed with pheochromocytoma.
+thrombocytopenia,clinical,throm-boh-sy-toh-PEE-nee-ah,WASH,0.0,thrombocytopenia,thrombocytopenia,The patient was diagnosed with thrombocytopenia.
+thrombocytosis,clinical,throm-boh-sy-TOH-sis,WASH,0.0,thrombocytosis,thrombocytosis,The patient was diagnosed with thrombocytosis.
+monocytosis,clinical,mon-oh-sy-TOH-sis,WASH,0.0,monocytosis,monocytosis,The patient was diagnosed with monocytosis.
+basophilia,clinical,bay-soh-FIL-ee-ah,WASH,0.0,basophilia,basophilia,The patient was diagnosed with basophilia.
+hemolysis,clinical,hee-MOL-ih-sis,WASH,0.0,hemolysis,hemolysis,The patient was diagnosed with hemolysis.
+abscess,clinical,AB-ses,WASH,0.0,abscess,abscess,The patient was diagnosed with abscess.
+necrotizing fasciitis,clinical,NEK-roh-ty-zing fash-ee-EYE-tis,WASH,0.0,necrotizing fasciitis,necrotizing fasciitis,The patient was diagnosed with necrotizing fasciitis.
+septic arthritis,clinical,SEP-tik ar-THRY-tis,WASH,0.0,septic arthritis,septic arthritis,The patient was diagnosed with septic arthritis.
+sepsis,clinical,SEP-sis,WASH,0.0,sepsis,sepsis,The patient was diagnosed with sepsis.
+endotoxemia,clinical,en-doh-tok-SEE-mee-ah,WASH,0.0,endotoxemia,endotoxemia,The patient was diagnosed with endotoxemia.
+eczema,clinical,EK-zeh-mah,WASH,0.0,eczema,eczema,The patient was diagnosed with eczema.
+vesicle,clinical,VES-ih-kul,WASH,0.0,vessicle,vessicle,The patient was diagnosed with vesicle.
+pustule,clinical,PUS-chool,WASH,0.0,puss,puss,The patient was diagnosed with pustule.
+macule,clinical,MAK-yool,WASH,0.0,macule,macule,The patient was diagnosed with macule.
+nodule,clinical,NOD-yool,WASH,0.0,nodule,nodule,The patient was diagnosed with nodule.
+plaque,clinical,PLAK,WASH,0.0,plaque,plaque,The patient was diagnosed with plaque.
+scale,clinical,SKAYL,WASH,0.0,skill,skill,The patient was diagnosed with scale.
+crust,clinical,KRUST,WASH,0.0,crust,crust,The patient was diagnosed with crust.
+erosion,clinical,ee-ROH-zhun,WASH,0.0,erosion,erosion,The patient was diagnosed with erosion.
+ulcer,clinical,UL-ser,WASH,0.0,ulcer,ulcer,The patient was diagnosed with ulcer.
+atrophy,clinical,AT-roh-fee,WASH,0.0,atrophy,atrophy,The patient was diagnosed with atrophy.
+appendectomy,clinical,ap-en-DEK-toh-mee,WASH,0.0,an appendectomy,an appendectomy,The patient was diagnosed with appendectomy.
+nephrectomy,clinical,neh-FREK-toh-mee,WASH,0.0,nefrectomy,nefrectomy,The patient was diagnosed with nephrectomy.
+thyroidectomy,clinical,thy-roy-DEK-toh-mee,WASH,0.0,thyrodoctomy,thyrodoctomy,The patient was diagnosed with thyroidectomy.
+splenectomy,clinical,spleh-NEK-toh-mee,WASH,0.0,splenectomy,splenectomy,The patient was diagnosed with splenectomy.
+colectomy,clinical,koh-LEK-toh-mee,WASH,0.0,colectomy,colectomy,The patient was diagnosed with colectomy.
+proctectomy,clinical,prok-TEK-toh-mee,WASH,0.0,proctectomy,proctectomy,The patient was diagnosed with proctectomy.
+cystectomy,clinical,sis-TEK-toh-mee,WASH,0.0,cystectomy,cystectomy,The patient was diagnosed with cystectomy.
+tracheostomy,clinical,TRAY-kee-OS-toh-mee,WASH,0.0,tracheostomy,tracheostomy,The patient was diagnosed with tracheostomy.
+arthroscopy,clinical,ar-THROS-koh-pee,WASH,0.0,arthroscopy,arthroscopy,The patient was diagnosed with arthroscopy.
+gastroscopy,clinical,gas-TROS-koh-pee,WASH,0.0,gastroscopy,gastroscopy,The patient was diagnosed with gastroscopy.
+sigmoidoscopy,clinical,sig-moy-DOS-koh-pee,WASH,0.0,sigmoidoscopy,sigmoidoscopy,The patient was diagnosed with sigmoidoscopy.
+arthroplasty,clinical,AR-throh-plas-tee,WASH,0.0,arthroplasty,arthroplasty,The patient was diagnosed with arthroplasty.
+osteotomy,clinical,os-tee-OT-oh-mee,WASH,0.0,osteodomy,osteodomy,The patient was diagnosed with osteotomy.
+neurectomy,clinical,nyoo-REK-toh-mee,WASH,0.0,nurectomy,nurectomy,The patient was diagnosed with neurectomy.
+fascia,anatomical,FAH-shah,WASH,0.0,fascia,fascia,The biopsy shows inflammation in the fascia.
+ligament,anatomical,LIH-gah-ment,WASH,0.0,ligament,ligament,The biopsy shows inflammation in the ligament.
+tendon,anatomical,TEN-dun,WASH,0.0,tendon,tendon,The biopsy shows inflammation in the tendon.
+bursa,anatomical,BER-sah,WASH,0.0,bursa,bursa,The biopsy shows inflammation in the bursa.
+meniscus,anatomical,meh-NIS-kus,WASH,0.0,meniscus,meniscus,The biopsy shows inflammation in the meniscus.
+metaphysis,anatomical,meh-TAF-ih-sis,WASH,0.0,metaphysis,metaphysis,The biopsy shows inflammation in the metaphysis.
+symphysis,anatomical,SIM-fih-sis,WASH,0.0,symphysis,symphysis,The biopsy shows inflammation in the symphysis.
+fontanelle,anatomical,fon-tah-NEL,WASH,0.0,fontanelle,fontanelle,The biopsy shows inflammation in the fontanelle.
+pericardium,anatomical,per-ih-KAR-dee-um,WASH,0.0,pericardium,pericardium,The biopsy shows inflammation in the pericardium.
+media,anatomical,MEH-dee-ah,WASH,0.0,media,media,The biopsy shows inflammation in the media.
+stroma,anatomical,STROH-mah,WASH,0.0,stroma,stroma,The biopsy shows inflammation in the stroma.
+septum,anatomical,SEP-tum,WASH,0.0,septum,septum,The biopsy shows inflammation in the septum.
+septa,anatomical,SEP-tah,WASH,0.0,septa,septa,The biopsy shows inflammation in the septa.
+sulcus,anatomical,SUL-kus,WASH,0.0,sulcus,sulcus,The biopsy shows inflammation in the sulcus.
+gyrus,anatomical,JY-rus,WASH,0.0,gyrus,gyrus,The biopsy shows inflammation in the gyrus.
+cortex,anatomical,KOR-teks,WASH,0.0,cortex,cortex,The biopsy shows inflammation in the cortex.
+capsule,anatomical,KAP-sool,WASH,0.0,capsule,capsule,The biopsy shows inflammation in the capsule.
+lobe,anatomical,LOHB,WASH,0.0,lobe,lobe,The biopsy shows inflammation in the lobe.
+lobule,anatomical,LOB-yool,WASH,0.0,lobule,lobule,The biopsy shows inflammation in the lobule.
+glomerulus,anatomical,gloh-MER-yoo-lus,WASH,0.0,glomerulus,glomerulus,The biopsy shows inflammation in the glomerulus.
+nephron,anatomical,NEF-ron,WASH,0.0,nephron,nephron,The biopsy shows inflammation in the nephron.
+tubule,anatomical,TOOB-yool,WASH,0.0,tubule,tubule,The biopsy shows inflammation in the tubule.
+ductule,anatomical,DUK-tool,WASH,0.0,duct,duct,The biopsy shows inflammation in the ductule.
+ductus,anatomical,DUK-tus,WASH,0.0,ductus,ductus,The biopsy shows inflammation in the ductus.
+epididymis,anatomical,ep-ih-DID-ih-mis,WASH,0.0,epididymis,epididymis,The biopsy shows inflammation in the epididymis.
+fimbria,anatomical,FIM-bree-ah,WASH,0.0,fimbria,fimbria,The biopsy shows inflammation in the fimbria.
+mesentery,anatomical,MEZ-en-ter-ee,WASH,0.0,mesentery,mesentery,The biopsy shows inflammation in the mesentery.
+omentum,anatomical,oh-MEN-tum,WASH,0.0,omentum,omentum,The biopsy shows inflammation in the omentum.
+mesocolon,anatomical,MEZ-oh-KOH-lon,WASH,0.0,mesocolon,mesocolon,The biopsy shows inflammation in the mesocolon.
+villi,anatomical,VIL-eye,WASH,0.0,villi,villi,The biopsy shows inflammation in the villi.
+microvilli,anatomical,MY-kroh-VIL-eye,WASH,0.0,microvilli,microvilli,The biopsy shows inflammation in the microvilli.
+pylorus,anatomical,py-LOR-us,WASH,0.0,pylorus,pylorus,The biopsy shows inflammation in the pylorus.
+fundus,anatomical,FUN-dus,WASH,0.0,fundus,fundus,The biopsy shows inflammation in the fundus.
+antrum,anatomical,AN-trum,WASH,0.0,antrum,antrum,The biopsy shows inflammation in the antrum.
+duodenum,anatomical,doo-oh-DEE-num,WASH,0.0,duodenum,duodenum,The biopsy shows inflammation in the duodenum.
+cecum,anatomical,SEE-kum,WASH,0.0,seekm,seekm,The biopsy shows inflammation in the cecum.
+appendix,anatomical,ah-PEN-diks,WASH,0.0,appendix,appendix,The biopsy shows inflammation in the appendix.
+sigmoid,anatomical,SIG-moyd,WASH,0.0,sigmoid,sigmoid,The biopsy shows inflammation in the sigmoid.
+rectum,anatomical,REK-tum,WASH,0.0,rectum,rectum,The biopsy shows inflammation in the rectum.
+pancreas,anatomical,PAN-kree-as,WASH,0.0,pancreas,pancreas,The biopsy shows inflammation in the pancreas.
+circumflex,anatomical,SER-kum-fleks,WASH,0.0,circumflex,circumflex,The biopsy shows inflammation in the circumflex.
+leaflet,anatomical,LEEF-let,WASH,0.0,leaflet,leaflet,The biopsy shows inflammation in the leaflet.
+semilunar,anatomical,sem-ee-LOO-nar,WASH,0.0,semilunar,semilunar,The biopsy shows inflammation in the semilunar.
+atrioventricular,anatomical,ay-tree-oh-ven-TRIK-yoo-lar,WASH,0.0,atrioventricular,atrioventricular,The biopsy shows inflammation in the atrioventricular.
+ventricular,anatomical,ven-TRIK-yoo-lar,WASH,0.0,ventricula,ventricula,The biopsy shows inflammation in the ventricular.
+carotid,anatomical,kah-ROT-id,WASH,0.0,carot,carot,The biopsy shows inflammation in the carotid.
+subclavian,anatomical,sub-KLAY-vee-an,WASH,0.0,subclavian,subclavian,The biopsy shows inflammation in the subclavian.
+vertebral,anatomical,VER-teh-bral,WASH,0.0,vertebral,vertebral,The biopsy shows inflammation in the vertebral.
+basilar,anatomical,BAS-ih-lar,WASH,0.0,basilar,basilar,The biopsy shows inflammation in the basilar.
+circle of Willis,anatomical,SER-kul of WIL-is,WASH,0.0,circle of willis,circle of willis,The biopsy shows inflammation in the circle of Willis.
+arachnoid,anatomical,ah-RAK-noyd,WASH,0.0,arachnoid,arachnoid,The biopsy shows inflammation in the arachnoid.
+subarachnoid,anatomical,sub-ah-RAK-noyd,WASH,0.0,subarachnoid,subarachnoid,The biopsy shows inflammation in the subarachnoid.
+choroid plexus,anatomical,KOR-oyd PLEK-sus,WASH,0.0,choroid plexus,choroid plexus,The biopsy shows inflammation in the choroid plexus.
+conus medullaris,anatomical,KOH-nus med-yoo-LAR-is,WASH,0.0,conus medullaris,conus medullaris,The biopsy shows inflammation in the conus medullaris.
+dorsal root,anatomical,DOR-sal ROOT,WASH,0.0,dorsal root,dorsal root,The biopsy shows inflammation in the dorsal root.
+ventral root,anatomical,VEN-tral ROOT,WASH,0.0,ventral root,ventral root,The biopsy shows inflammation in the ventral root.
+plexus,anatomical,PLEK-sus,WASH,0.0,plexus,plexus,The biopsy shows inflammation in the plexus.
+vagus,anatomical,VAY-gus,WASH,0.0,vagus,vagus,The biopsy shows inflammation in the vagus.
+hypoglossal,anatomical,HY-poh-GLOS-al,WASH,0.0,hypoglossal,hypoglossal,The biopsy shows inflammation in the hypoglossal.
+accessory,anatomical,ak-SES-oh-ree,WASH,0.0,accessory,accessory,The biopsy shows inflammation in the accessory.
+abducens,anatomical,ab-DOO-senz,WASH,0.0,abducens,abducens,The biopsy shows inflammation in the abducens.
+angina,clinical,angina,WASH,0.0,angina,angina,The patient was diagnosed with angina.
+epinephrine,drug,epinephrine,WASH,0.0,epinephrine,epinephrine,Please take your epinephrine as prescribed.
+naloxone,drug,naloxone,WASH,0.0,naloxone,naloxone,Please take your naloxone as prescribed.
+hyperlipidemia,clinical,hyperlipidemia,WASH,0.0,hyperlipidemia,hyperlipidemia,The patient was diagnosed with hyperlipidemia.
+osteoarthritis,clinical,osteoarthritis,WASH,0.0,osteoarthritis,osteoarthritis,The patient was diagnosed with osteoarthritis.
+diabetes mellitus,clinical,diabetes mellitus,WASH,0.0,diabetes mellitus,diabetes mellitus,The patient was diagnosed with diabetes mellitus.
+tranylcypromine,drug,tran-il-SIP-roh-meen,WASH,-0.006,tranyl sepramin,tran ill sepromine,Please take your tranylcypromine as prescribed.
+methylprednisolone,drug,METH-ul-pred-NIS-oh-lone,WASH,-0.006,metho pred alone,mef all pred nis alone,Please take your methylprednisolone as prescribed.
+salmeterol,drug,sal-MEH-ter-ol,WASH,-0.017,saunter all is,saumai teres all is,Please take your salmeterol as prescribed.
+lisdexamfetamine,drug,lis-dex-am-FET-a-meen,WASH,-0.02,lisdex andhetamine is,lis dex am fett a mean,Please take your lisdexamfetamine as prescribed.
+gastroesophageal reflux,clinical,GAS-troh-ee-sof-ah-JEE-al REE-fluks,WASH,-0.021,gastroesophageal reflux,gastro esophageal reflux,The patient was diagnosed with gastroesophageal reflux.
+phenytoin,drug,FEN-ih-toh-in,WASH,-0.024,finny twain,fin i toe in,Please take your phenytoin as prescribed.
+papilla,anatomical,pah-PIL-ah,WASH,-0.024,papella,papil,The biopsy shows inflammation in the papilla.
+dysphagia,clinical,dis-FAY-jah,WASH,-0.026,disstazhia,disfaja,The patient was diagnosed with dysphagia.
+Kupffer,anatomical,KOOP-fer,WASH,-0.026,cover,coopra,The biopsy shows inflammation in the Kupffer.
+rifampin,drug,ri-FAM-pin,WASH,-0.027,ryfan,ryfan pen,Please take your rifampin as prescribed.
+hydroxychloroquine,drug,hy-DROX-ee-KLOR-oh-kween,WASH,-0.027,hydroxychloroquine,hydroxyechloroquine,Please take your hydroxychloroquine as prescribed.
+vardenafil,drug,var-DEN-ah-fil,WASH,-0.027,tick varden fl,stick varden fl,Please take your vardenafil as prescribed.
+vestibulocochlear,anatomical,ves-TIB-yoo-loh-KOK-lee-ar,WASH,-0.029,vestibulocochlear,vestibulo cochlear,The biopsy shows inflammation in the vestibulocochlear.
+vortioxetine,drug,vor-tee-OK-seh-teen,WASH,-0.031,vordioxyteine,vorte oxoteine,Please take your vortioxetine as prescribed.
+petechiae,clinical,pe-TEE-kee-eye,WASH,-0.033,ptki,ptkii,The patient was diagnosed with petechiae.
+rhizotomy,clinical,ry-ZOT-oh-mee,WASH,-0.033,rosonomy,ryzono me,The patient was diagnosed with rhizotomy.
+hydrocortisone,drug,HIGH-dro-KOR-tih-zone,WASH,-0.034,hydrocortisone,hydro cortisone,Please take your hydrocortisone as prescribed.
+pyelonephritis,clinical,pye-eh-loh-neh-FRY-tis,WASH,-0.034,pyelonephritis,pyaelonephritis,The patient was diagnosed with pyelonephritis.
+pancreatectomy,clinical,pan-kree-ah-TEK-toh-mee,WASH,-0.034,pancreatectomy,pancrea tectomy,The patient was diagnosed with pancreatectomy.
+nitrofurantoin,drug,ny-tro-fyoor-an-TOYN,WASH,-0.035,nitro fer and toin,nitro fuhyoor and toin,Please take your nitrofurantoin as prescribed.
+azelastine,drug,ah-ZEL-ah-steen,WASH,-0.037,a lasting,ozalostine,Please take your azelastine as prescribed.
+anastrozole,drug,an-AS-troh-zole,WASH,-0.038,and astrozolus,astrozolus,Please take your anastrozole as prescribed.
+carvedilol,drug,kar-VE-di-lol,WASH,-0.039,carved alol,car v dialol,Please take your carvedilol as prescribed.
+celecoxib,drug,sel-eh-KOK-sib,WASH,-0.039,silcoxib,cell a coxiv,Please take your celecoxib as prescribed.
+posaconazole,drug,poh-sah-KON-uh-zole,WASH,-0.04,posaconazole,posa conazole,Please take your posaconazole as prescribed.
+enzalutamide,drug,en-za-LOO-ta-mide,WASH,-0.04,enzalutamide,enza lutamide,Please take your enzalutamide as prescribed.
+ipilimumab,drug,i-pi-LIM-oo-mab,WASH,-0.042,ipilamo mab,i pai li mu mad,Please take your ipilimumab as prescribed.
+neutrophilia,clinical,noo-troh-FIL-ee-ah,WASH,-0.042,neutropenia,new trophil e a,The patient was diagnosed with neutrophilia.
+propafenone,drug,pro-PAF-eh-none,WASH,-0.043,propafenone,propafennone,Please take your propafenone as prescribed.
+saxagliptin,drug,sax-ah-GLIP-tin,WASH,-0.043,saxaliptin,saxaglibtin,Please take your saxagliptin as prescribed.
+durvalumab,drug,dur-VAL-oo-mab,WASH,-0.043,dervalumab,dervaluumab,Please take your durvalumab as prescribed.
+endothelium,anatomical,en-doh-THEE-lee-um,WASH,-0.043,endothelium,endotheli um,The biopsy shows inflammation in the endothelium.
+vinorelbine,drug,vi-NOR-el-been,WASH,-0.045,vanurial bind,vynar l ben,Please take your vinorelbine as prescribed.
+dupilumab,drug,doo-PIL-oo-mab,WASH,-0.046,duplomab,duppelmab,Please take your dupilumab as prescribed.
+secukinumab,drug,SEK-ue-KIN-ue-mab,WASH,-0.046,sakunama,saqyuqanuy mob,Please take your secukinumab as prescribed.
+furosemide,drug,fur-OH-se-mide,WASH,-0.048,furosemide,furose mide,Please take your furosemide as prescribed.
+insulinoma,clinical,in-suh-lih-NOH-mah,WASH,-0.048,insulinoma,insuli noma,The patient was diagnosed with insulinoma.
+bacteremia,clinical,bak-ter-EE-mee-ah,WASH,-0.048,bacteremia,bactereemia,The patient was diagnosed with bacteremia.
+hyperparathyroidism,clinical,HY-per-PAR-ah-THY-roy-dizm,WASH,-0.05,hyperparathyroidism,hyperpar a thyroidism,The patient was diagnosed with hyperparathyroidism.
+triptorelin,drug,trip-toh-REL-in,WASH,-0.052,triptorlin,triptolin,Please take your triptorelin as prescribed.
+trastuzumab,drug,tras-TUZ-oo-mab,WASH,-0.052,tristuzumab,trazuzumab,Please take your trastuzumab as prescribed.
+panitumumab,drug,pan-i-TOO-moo-mab,WASH,-0.053,panatomo mab,pan i too moo mab,Please take your panitumumab as prescribed.
+emphysema,clinical,em-fih-SEE-mah,WASH,-0.053,emphysema,emphyseema,The patient was diagnosed with emphysema.
+myoclonus,clinical,my-OK-loh-nus,WASH,-0.053,myoclonus,my oclonus,The patient was diagnosed with myoclonus.
+trabecula,anatomical,trah-BEK-yoo-lah,WASH,-0.053,trabecula,strabecula,The biopsy shows inflammation in the trabecula.
+pulmonary embolism,clinical,PUL-moh-nair-ee EM-bol-izm,WASH,-0.056,pulmonary embolism,polmonary embolism,The patient was diagnosed with pulmonary embolism.
+tacrolimus,drug,ta-KROE-li-mus,WASH,-0.058,to craw luh muss,ta craw luh miz,Please take your tacrolimus as prescribed.
+volvulus,clinical,VOL-vyoo-lus,WASH,-0.059,volvulus,volvu lus,The patient was diagnosed with volvulus.
+alveolus,anatomical,al-VEE-oh-lus,WASH,-0.059,alveolus,alveoluss,The biopsy shows inflammation in the alveolus.
+itraconazole,drug,i-tra-KON-a-zole,WASH,-0.061,itchrazole,eye truck conazole,Please take your itraconazole as prescribed.
+sertraline,drug,SER-tra-leen,WASH,-0.061,searcherline,a seertra lean,Please take your sertraline as prescribed.
+solifenacin,drug,sol-i-FEN-ah-sin,WASH,-0.061,solafenison,sol i fen uh sin,Please take your solifenacin as prescribed.
+interventricular,anatomical,in-ter-ven-TRIK-yoo-lar,WASH,-0.062,interventricular,interventracular,The biopsy shows inflammation in the interventricular.
+theophylline,drug,thee-OFF-i-lin,WASH,-0.063,feet off line,bee off ilin,Please take your theophylline as prescribed.
+bosutinib,drug,boh-SOO-tin-ib,WASH,-0.064,bo suit niv,bo so tin idy,Please take your bosutinib as prescribed.
+ampulla,anatomical,am-POOL-ah,WASH,-0.067,ampulla,ampull a,The biopsy shows inflammation in the ampulla.
+filum terminale,anatomical,FY-lum ter-mih-NAH-lee,WASH,-0.067,filum terminali,filum termenali,The biopsy shows inflammation in the filum terminale.
+simethicone,drug,sy-METH-ih-kone,WASH,-0.07,somathicon,c meth i a cone,Please take your simethicone as prescribed.
+pitavastatin,drug,pit-a-va-STAT-in,WASH,-0.071,pitovastatin,pit a a statin,Please take your pitavastatin as prescribed.
+loperamide,drug,loh-PER-ah-mide,WASH,-0.071,laparametus,lo per a and me day it,Please take your loperamide as prescribed.
+acalabrutinib,drug,a-KAL-a-BROO-tin-ib,WASH,-0.071,acalabrutinib,acalabrutin i b,Please take your acalabrutinib as prescribed.
+adrenalectomy,clinical,ad-reh-nal-EK-toh-mee,WASH,-0.071,adrenalectomy,adrenallecetomy,The patient was diagnosed with adrenalectomy.
+ezetimibe,drug,eh-ZET-i-mibe,WASH,-0.073,easy t me ves,z i me b is,Please take your ezetimibe as prescribed.
+ibuprofen,drug,eye-byoo-PROH-fen,WASH,-0.074,id profe and,eye by you pro fen,Please take your ibuprofen as prescribed.
+everolimus,drug,e-VER-oh-LI-mus,WASH,-0.074,evermus,e ver o ly mus,Please take your everolimus as prescribed.
+docusate,drug,DOK-yoo-sate,WASH,-0.075,docosate,doc you sate,Please take your docusate as prescribed.
+bupropion,drug,byoo-PRO-pee-on,WASH,-0.075,bropion,bupion,Please take your bupropion as prescribed.
+ataxia,clinical,ah-TAK-see-ah,WASH,-0.077,ataxia,a taxia,The patient was diagnosed with ataxia.
+lymphocytosis,clinical,lim-foh-sy-TOH-sis,WASH,-0.077,lymphocytosis,lymphocetosis,The patient was diagnosed with lymphocytosis.
+pancytopenia,clinical,pan-sy-toh-PEE-nee-ah,WASH,-0.077,pancytopenia,pancytopenia a,The patient was diagnosed with pancytopenia.
+bronchoscopy,clinical,brong-KOS-koh-pee,WASH,-0.077,broncoscopy,bron cos copy,The patient was diagnosed with bronchoscopy.
+dermis,anatomical,DER-mis,WASH,-0.077,dermis,dermiss,The biopsy shows inflammation in the dermis.
+prasugrel,drug,PRA-soo-grel,WASH,-0.078,prosgrell,proso grell,Please take your prasugrel as prescribed.

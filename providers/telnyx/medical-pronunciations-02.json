@@ -2,604 +2,504 @@
   "name": "Medical Pronunciations 02",
   "items": [
     {
-      "text": "ceftriaxone",
-      "type": "phoneme",
-      "phoneme": "ˌsɛftraɪˈæksoʊn",
-      "alphabet": "ipa"
+      "text": "ubrogepant",
+      "type": "alias",
+      "alias": "yoo-BROH-jeh-pant"
     },
     {
-      "text": "cefepime",
-      "type": "phoneme",
-      "phoneme": "ˈsɛfəpiːm",
-      "alphabet": "ipa"
+      "text": "rimegepant",
+      "type": "alias",
+      "alias": "rih-MEH-jeh-pant"
     },
     {
-      "text": "meropenem",
-      "type": "phoneme",
-      "phoneme": "məˈrɑpənɛm",
-      "alphabet": "ipa"
+      "text": "eprodual",
+      "type": "alias",
+      "alias": "eh-PROH-dool"
     },
     {
-      "text": "ertapenem",
-      "type": "phoneme",
-      "phoneme": "ˌɛrtəˈpiːnɛm",
-      "alphabet": "ipa"
+      "text": "MI",
+      "type": "alias",
+      "alias": "myocardial infarction"
     },
     {
-      "text": "imipenem",
-      "type": "phoneme",
-      "phoneme": "ˌɪmɪˈpiːnɛm",
-      "alphabet": "ipa"
+      "text": "COPD",
+      "type": "alias",
+      "alias": "chronic obstructive pulmonary disease"
     },
     {
-      "text": "piperacillin tazobactam",
-      "type": "phoneme",
-      "phoneme": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm",
-      "alphabet": "ipa"
+      "text": "CHF",
+      "type": "alias",
+      "alias": "congestive heart failure"
     },
     {
-      "text": "gentamicin",
-      "type": "phoneme",
-      "phoneme": "ˌdʒɛntəˈmaɪsɪn",
-      "alphabet": "ipa"
+      "text": "UTI",
+      "type": "alias",
+      "alias": "urinary tract infection"
     },
     {
-      "text": "tobramycin",
-      "type": "phoneme",
-      "phoneme": "ˌtoʊbrəˈmaɪsɪn",
-      "alphabet": "ipa"
+      "text": "MRI",
+      "type": "alias",
+      "alias": "magnetic resonance imaging"
     },
     {
-      "text": "amikacin",
-      "type": "phoneme",
-      "phoneme": "ˌæmɪˈkeɪsɪn",
-      "alphabet": "ipa"
+      "text": "CT",
+      "type": "alias",
+      "alias": "computed tomography"
     },
     {
-      "text": "linezolid",
-      "type": "phoneme",
-      "phoneme": "lɪˈnɛzəlɪd",
-      "alphabet": "ipa"
+      "text": "EKG",
+      "type": "alias",
+      "alias": "electrocardiogram"
     },
     {
-      "text": "daptomycin",
-      "type": "phoneme",
-      "phoneme": "ˌdæptoʊˈmaɪsɪn",
-      "alphabet": "ipa"
+      "text": "ECG",
+      "type": "alias",
+      "alias": "electrocardiogram"
     },
     {
-      "text": "tigecycline",
-      "type": "phoneme",
-      "phoneme": "ˌtɪɡəˈsaɪkliːn",
-      "alphabet": "ipa"
+      "text": "EEG",
+      "type": "alias",
+      "alias": "electroencephalogram"
     },
     {
-      "text": "minocycline",
-      "type": "phoneme",
-      "phoneme": "ˌmɪnoʊˈsaɪkliːn",
-      "alphabet": "ipa"
+      "text": "BUN",
+      "type": "alias",
+      "alias": "blood urea nitrogen"
     },
     {
-      "text": "rifampin",
-      "type": "phoneme",
-      "phoneme": "rɪˈfæmpɪn",
-      "alphabet": "ipa"
+      "text": "CMP",
+      "type": "alias",
+      "alias": "comprehensive metabolic panel"
     },
     {
-      "text": "isoniazid",
-      "type": "phoneme",
-      "phoneme": "ˌaɪsoʊˈnaɪəzɪd",
-      "alphabet": "ipa"
+      "text": "CBC",
+      "type": "alias",
+      "alias": "complete blood count"
     },
     {
-      "text": "pyrazinamide",
-      "type": "phoneme",
-      "phoneme": "ˌpɪrəˈzɪnəmaɪd",
-      "alphabet": "ipa"
+      "text": "TSH",
+      "type": "alias",
+      "alias": "thyroid stimulating hormone"
     },
     {
-      "text": "ethambutol",
-      "type": "phoneme",
-      "phoneme": "ɛˈθæmbjətɔl",
-      "alphabet": "ipa"
+      "text": "HbA1c",
+      "type": "alias",
+      "alias": "hemoglobin A one C"
     },
     {
-      "text": "fluconazole",
-      "type": "phoneme",
-      "phoneme": "fluˈkɑnəzoʊl",
-      "alphabet": "ipa"
+      "text": "PT",
+      "type": "alias",
+      "alias": "prothrombin time"
     },
     {
-      "text": "ketoconazole",
-      "type": "phoneme",
-      "phoneme": "ˌkiːtoʊˈkɑnəzoʊl",
-      "alphabet": "ipa"
+      "text": "INR",
+      "type": "alias",
+      "alias": "international normalized ratio"
     },
     {
-      "text": "itraconazole",
-      "type": "phoneme",
-      "phoneme": "ˌɪtrəˈkɑnəzoʊl",
-      "alphabet": "ipa"
+      "text": "PTT",
+      "type": "alias",
+      "alias": "partial thromboplastin time"
     },
     {
-      "text": "voriconazole",
-      "type": "phoneme",
-      "phoneme": "ˌvɔrɪˈkɑnəzoʊl",
-      "alphabet": "ipa"
+      "text": "DVT",
+      "type": "alias",
+      "alias": "deep vein thrombosis"
     },
     {
-      "text": "posaconazole",
-      "type": "phoneme",
-      "phoneme": "poʊsəˈkɑnəzoʊl",
-      "alphabet": "ipa"
+      "text": "PE",
+      "type": "alias",
+      "alias": "pulmonary embolism"
     },
     {
-      "text": "acyclovir",
-      "type": "phoneme",
-      "phoneme": "eɪˈsaɪkləvɪr",
-      "alphabet": "ipa"
+      "text": "CVA",
+      "type": "alias",
+      "alias": "cerebrovascular accident"
     },
     {
-      "text": "valacyclovir",
-      "type": "phoneme",
-      "phoneme": "vəˈlæsɪkləvɪr",
-      "alphabet": "ipa"
+      "text": "TIA",
+      "type": "alias",
+      "alias": "transient ischemic attack"
     },
     {
-      "text": "famciclovir",
-      "type": "phoneme",
-      "phoneme": "fæmˈsaɪkləvɪr",
-      "alphabet": "ipa"
+      "text": "ICU",
+      "type": "alias",
+      "alias": "intensive care unit"
     },
     {
-      "text": "oseltamivir",
-      "type": "phoneme",
-      "phoneme": "ˌoʊsɛlˈtæmɪvɪr",
-      "alphabet": "ipa"
+      "text": "NICU",
+      "type": "alias",
+      "alias": "neonatal intensive care unit"
     },
     {
-      "text": "aciklovir",
-      "type": "phoneme",
-      "phoneme": "eɪˈsaɪkləvɪr",
-      "alphabet": "ipa"
+      "text": "ER",
+      "type": "alias",
+      "alias": "emergency room"
     },
     {
-      "text": "ibuprofen",
-      "type": "phoneme",
-      "phoneme": "ˌaɪbjuˈproʊfən",
-      "alphabet": "ipa"
+      "text": "ED",
+      "type": "alias",
+      "alias": "emergency department"
     },
     {
-      "text": "naproxen",
-      "type": "phoneme",
-      "phoneme": "nəˈprɑksən",
-      "alphabet": "ipa"
+      "text": "OR",
+      "type": "alias",
+      "alias": "operating room"
     },
     {
-      "text": "celecoxib",
-      "type": "phoneme",
-      "phoneme": "səˈlɛksɪb",
-      "alphabet": "ipa"
+      "text": "PACU",
+      "type": "alias",
+      "alias": "post-anesthesia care unit"
     },
     {
-      "text": "meloxicam",
-      "type": "phoneme",
-      "phoneme": "məˈlɑksɪkæm",
-      "alphabet": "ipa"
+      "text": "CCU",
+      "type": "alias",
+      "alias": "coronary care unit"
     },
     {
-      "text": "diclofenac",
-      "type": "phoneme",
-      "phoneme": "daɪˈkloʊfənæk",
-      "alphabet": "ipa"
+      "text": "SICU",
+      "type": "alias",
+      "alias": "surgical intensive care unit"
     },
     {
-      "text": "ketorolac",
-      "type": "phoneme",
-      "phoneme": "kiˈtɔrəlæk",
-      "alphabet": "ipa"
+      "text": "MICU",
+      "type": "alias",
+      "alias": "medical intensive care unit"
     },
     {
-      "text": "indomethacin",
-      "type": "phoneme",
-      "phoneme": "ˌɪndoʊˈmɛθəsɪn",
-      "alphabet": "ipa"
+      "text": "BP",
+      "type": "alias",
+      "alias": "blood pressure"
     },
     {
-      "text": "nabumetone",
-      "type": "phoneme",
-      "phoneme": "nəˈbjumətoʊn",
-      "alphabet": "ipa"
+      "text": "HR",
+      "type": "alias",
+      "alias": "heart rate"
     },
     {
-      "text": "etodolac",
-      "type": "phoneme",
-      "phoneme": "iˈtoʊdəlæk",
-      "alphabet": "ipa"
+      "text": "RR",
+      "type": "alias",
+      "alias": "respiratory rate"
     },
     {
-      "text": "oxaprozin",
-      "type": "phoneme",
-      "phoneme": "ˌɑksəˈproʊzɪn",
-      "alphabet": "ipa"
+      "text": "SpO2",
+      "type": "alias",
+      "alias": "saturation of peripheral oxygen"
     },
     {
-      "text": "acetaminophen",
-      "type": "phoneme",
-      "phoneme": "əˌsiːtəˈmɪnəfən",
-      "alphabet": "ipa"
+      "text": "ETCO2",
+      "type": "alias",
+      "alias": "end-tidal carbon dioxide"
     },
     {
-      "text": "tramadol",
-      "type": "phoneme",
-      "phoneme": "ˈtræmədɔl",
-      "alphabet": "ipa"
+      "text": "IV",
+      "type": "alias",
+      "alias": "intravenous"
     },
     {
-      "text": "gabapentin",
-      "type": "phoneme",
-      "phoneme": "ˌɡæbəˈpɛntɪn",
-      "alphabet": "ipa"
+      "text": "IM",
+      "type": "alias",
+      "alias": "intramuscular"
     },
     {
-      "text": "pregabalin",
-      "type": "phoneme",
-      "phoneme": "priˈɡæbəlɪn",
-      "alphabet": "ipa"
+      "text": "SC",
+      "type": "alias",
+      "alias": "subcutaneous"
     },
     {
-      "text": "duloxetine",
-      "type": "phoneme",
-      "phoneme": "duˈlɑksətiːn",
-      "alphabet": "ipa"
+      "text": "PO",
+      "type": "alias",
+      "alias": "by mouth"
     },
     {
-      "text": "amitriptyline",
-      "type": "phoneme",
-      "phoneme": "ˌæmɪˈtrɪptəliːn",
-      "alphabet": "ipa"
+      "text": "PR",
+      "type": "alias",
+      "alias": "per rectum"
     },
     {
-      "text": "nortriptyline",
-      "type": "phoneme",
-      "phoneme": "nɔrˈtrɪptəliːn",
-      "alphabet": "ipa"
+      "text": "SL",
+      "type": "alias",
+      "alias": "sublingual"
     },
     {
-      "text": "topiramate",
-      "type": "phoneme",
-      "phoneme": "toʊˈpɪrəmeɪt",
-      "alphabet": "ipa"
+      "text": "OS",
+      "type": "alias",
+      "alias": "left eye"
     },
     {
-      "text": "carbamazepine",
-      "type": "phoneme",
-      "phoneme": "ˌkɑrbəˈmæzəpiːn",
-      "alphabet": "ipa"
+      "text": "OU",
+      "type": "alias",
+      "alias": "both eyes"
     },
     {
-      "text": "oxcarbazepine",
-      "type": "phoneme",
-      "phoneme": "ˌɑkskɑrˈbæzəpiːn",
-      "alphabet": "ipa"
+      "text": "AU",
+      "type": "alias",
+      "alias": "both ears"
     },
     {
-      "text": "lamotrigine",
-      "type": "phoneme",
-      "phoneme": "ləˈmɑtrɪdʒiːn",
-      "alphabet": "ipa"
+      "text": "AD",
+      "type": "alias",
+      "alias": "right ear"
     },
     {
-      "text": "levetiracetam",
-      "type": "phoneme",
-      "phoneme": "ləˌvɛtɪˈræsɪtæm",
-      "alphabet": "ipa"
+      "text": "AS",
+      "type": "alias",
+      "alias": "left ear"
     },
     {
-      "text": "phenytoin",
-      "type": "phoneme",
-      "phoneme": "fəˈnɪtoʊɪn",
-      "alphabet": "ipa"
+      "text": "APAP",
+      "type": "alias",
+      "alias": "acetaminophen"
     },
     {
-      "text": "valproic acid",
-      "type": "phoneme",
-      "phoneme": "vælˈproʊɪk ˈæsɪd",
-      "alphabet": "ipa"
+      "text": "NSAID",
+      "type": "alias",
+      "alias": "non-steroidal anti-inflammatory drug"
     },
     {
-      "text": "zonisamide",
-      "type": "phoneme",
-      "phoneme": "zoʊˈnɪsəmaɪd",
-      "alphabet": "ipa"
+      "text": "PPI",
+      "type": "alias",
+      "alias": "proton pump inhibitor"
     },
     {
-      "text": "lacosamide",
-      "type": "phoneme",
-      "phoneme": "ləˈkoʊsəmaɪd",
-      "alphabet": "ipa"
+      "text": "ARB",
+      "type": "alias",
+      "alias": "angiotensin receptor blocker"
     },
     {
-      "text": "rufinamide",
-      "type": "phoneme",
-      "phoneme": "ruˈfɪnəmaɪd",
-      "alphabet": "ipa"
+      "text": "ACE",
+      "type": "alias",
+      "alias": "angiotensin-converting enzyme"
     },
     {
-      "text": "omeprazole",
-      "type": "phoneme",
-      "phoneme": "oʊˈmɛprəzoʊl",
-      "alphabet": "ipa"
+      "text": "BB",
+      "type": "alias",
+      "alias": "beta blocker"
     },
     {
-      "text": "pantoprazole",
-      "type": "phoneme",
-      "phoneme": "pænˈtoʊprəzoʊl",
-      "alphabet": "ipa"
+      "text": "CCB",
+      "type": "alias",
+      "alias": "calcium channel blocker"
     },
     {
-      "text": "esomeprazole",
-      "type": "phoneme",
-      "phoneme": "ɛˈsoʊmɛprəzoʊl",
-      "alphabet": "ipa"
+      "text": "SSRI",
+      "type": "alias",
+      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
     },
     {
-      "text": "lansoprazole",
-      "type": "phoneme",
-      "phoneme": "lænˈsoʊprəzoʊl",
-      "alphabet": "ipa"
+      "text": "SNRI",
+      "type": "alias",
+      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
     },
     {
-      "text": "rabeprazole",
-      "type": "phoneme",
-      "phoneme": "rəˈbɛprəzoʊl",
-      "alphabet": "ipa"
+      "text": "TCA",
+      "type": "alias",
+      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
     },
     {
-      "text": "dexlansoprazole",
-      "type": "phoneme",
-      "phoneme": "dɛksˌlænˈsoʊprəzoʊl",
-      "alphabet": "ipa"
+      "text": "MAOI",
+      "type": "alias",
+      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
     },
     {
-      "text": "famotidine",
-      "type": "phoneme",
-      "phoneme": "fəˈmoʊtɪdiːn",
-      "alphabet": "ipa"
+      "text": "DM",
+      "type": "alias",
+      "alias": "di-a-BE-teez mel-LI-tus"
     },
     {
-      "text": "ranitidine",
-      "type": "phoneme",
-      "phoneme": "rəˈnɪtɪdiːn",
-      "alphabet": "ipa"
+      "text": "HTN",
+      "type": "alias",
+      "alias": "hi-per-TEN-shun"
     },
     {
-      "text": "cimetidine",
-      "type": "phoneme",
-      "phoneme": "saɪˈmɛtɪdiːn",
-      "alphabet": "ipa"
+      "text": "HLD",
+      "type": "alias",
+      "alias": "hi-per-LIP-i-dee-mee-uh"
     },
     {
-      "text": "nizatidine",
-      "type": "phoneme",
-      "phoneme": "naɪˈzætɪdiːn",
-      "alphabet": "ipa"
+      "text": "CAD",
+      "type": "alias",
+      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
     },
     {
-      "text": "aluminum hydroxide",
-      "type": "phoneme",
-      "phoneme": "əˈluːmɪnəm haɪˈdrɒksaɪd",
-      "alphabet": "ipa"
+      "text": "PVD",
+      "type": "alias",
+      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
     },
     {
-      "text": "simethicone",
-      "type": "phoneme",
-      "phoneme": "saɪˈmɛθɪkoʊn",
-      "alphabet": "ipa"
+      "text": "CKD",
+      "type": "alias",
+      "alias": "kron-ik KID-nee di-ZEEZ"
     },
     {
-      "text": "ondansetron",
-      "type": "phoneme",
-      "phoneme": "ɒnˈdænsətrɒn",
-      "alphabet": "ipa"
+      "text": "ESRD",
+      "type": "alias",
+      "alias": "end-STAGE re-NAL di-ZEEZ"
     },
     {
-      "text": "granisetron",
-      "type": "phoneme",
-      "phoneme": "ɡrəˈnɪsətrɒn",
-      "alphabet": "ipa"
+      "text": "AKI",
+      "type": "alias",
+      "alias": "ak-YOOT KID-nee in-JER-ee"
     },
     {
-      "text": "palonosetron",
-      "type": "phoneme",
-      "phoneme": "pəˌloʊnəˈsɛtrɒn",
-      "alphabet": "ipa"
+      "text": "ASTHMA",
+      "type": "alias",
+      "alias": "AZ-muh"
     },
     {
-      "text": "metoclopramide",
-      "type": "phoneme",
-      "phoneme": "məˌtoʊkloʊˈpræmaɪd",
-      "alphabet": "ipa"
+      "text": "GERD",
+      "type": "alias",
+      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
     },
     {
-      "text": "promethazine",
-      "type": "phoneme",
-      "phoneme": "proʊˈmɛθəziːn",
-      "alphabet": "ipa"
+      "text": "IBD",
+      "type": "alias",
+      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
     },
     {
-      "text": "prochlorperazine",
-      "type": "phoneme",
-      "phoneme": "proʊˌklɔːrˈpɛrəziːn",
-      "alphabet": "ipa"
+      "text": "IBS",
+      "type": "alias",
+      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
     },
     {
-      "text": "loperamide",
-      "type": "phoneme",
-      "phoneme": "loʊˈpɛrəmaɪd",
-      "alphabet": "ipa"
+      "text": "NASH",
+      "type": "alias",
+      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
     },
     {
-      "text": "docusate",
-      "type": "phoneme",
-      "phoneme": "ˈdɒkjuseɪt",
-      "alphabet": "ipa"
+      "text": "NAFLD",
+      "type": "alias",
+      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
     },
     {
-      "text": "polyethylene glycol",
-      "type": "phoneme",
-      "phoneme": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl",
-      "alphabet": "ipa"
+      "text": "HCC",
+      "type": "alias",
+      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
     },
     {
-      "text": "bisacodyl",
-      "type": "phoneme",
-      "phoneme": "baɪˈsækədɪl",
-      "alphabet": "ipa"
+      "text": "ALL",
+      "type": "alias",
+      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
     },
     {
-      "text": "senna",
-      "type": "phoneme",
-      "phoneme": "ˈsɛnə",
-      "alphabet": "ipa"
+      "text": "AML",
+      "type": "alias",
+      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
     },
     {
-      "text": "lactulose",
-      "type": "phoneme",
-      "phoneme": "ˈlæktjuːloʊs",
-      "alphabet": "ipa"
+      "text": "CLL",
+      "type": "alias",
+      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
     },
     {
-      "text": "albuterol",
-      "type": "phoneme",
-      "phoneme": "ælˈbjuːtərɒl",
-      "alphabet": "ipa"
+      "text": "CML",
+      "type": "alias",
+      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
     },
     {
-      "text": "levalbuterol",
-      "type": "phoneme",
-      "phoneme": "ˌlɛvælˈbjuːtərɒl",
-      "alphabet": "ipa"
+      "text": "NHL",
+      "type": "alias",
+      "alias": "non-HOJ-kin lym-FO-ma"
     },
     {
-      "text": "ipratropium",
-      "type": "phoneme",
-      "phoneme": "ˌɪprəˈtroʊpiəm",
-      "alphabet": "ipa"
+      "text": "MM",
+      "type": "alias",
+      "alias": "mul-TI-pul my-eh-LO-ma"
     },
     {
-      "text": "tiotropium",
-      "type": "phoneme",
-      "phoneme": "ˌtaɪəˈtroʊpiəm",
-      "alphabet": "ipa"
+      "text": "SLE",
+      "type": "alias",
+      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
     },
     {
-      "text": "umeclidinium",
-      "type": "phoneme",
-      "phoneme": "ˌjuːˌmɛklɪˈdɪniəm",
-      "alphabet": "ipa"
+      "text": "RA",
+      "type": "alias",
+      "alias": "rew-ma-TOYD ar-THRI-tis"
     },
     {
-      "text": "glycopyrrolate",
-      "type": "phoneme",
-      "phoneme": "ˌɡlaɪkoʊˈpɪroʊleɪt",
-      "alphabet": "ipa"
+      "text": "OA",
+      "type": "alias",
+      "alias": "os-tee-o-ar-THRI-tis"
     },
     {
-      "text": "formoterol",
-      "type": "phoneme",
-      "phoneme": "fɔrˈmɑːtərɔːl",
-      "alphabet": "ipa"
+      "text": "DJD",
+      "type": "alias",
+      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
     },
     {
-      "text": "salmeterol",
-      "type": "phoneme",
-      "phoneme": "sælˈmiːtərɔːl",
-      "alphabet": "ipa"
+      "text": "MG",
+      "type": "alias",
+      "alias": "myasthenia gravis"
     },
     {
-      "text": "indacaterol",
-      "type": "phoneme",
-      "phoneme": "ˌɪndəˈkætərɔːl",
-      "alphabet": "ipa"
+      "text": "MS",
+      "type": "alias",
+      "alias": "multiple sclerosis"
     },
     {
-      "text": "olodaterol",
-      "type": "phoneme",
-      "phoneme": "ˌoʊloʊˈdætərɔːl",
-      "alphabet": "ipa"
+      "text": "ALS",
+      "type": "alias",
+      "alias": "amyotrophic lateral sclerosis"
     },
     {
-      "text": "fluticasone",
-      "type": "phoneme",
-      "phoneme": "fluːˈtɪkəsoʊn",
-      "alphabet": "ipa"
+      "text": "GBS",
+      "type": "alias",
+      "alias": "Guillain-Barré syndrome"
     },
     {
-      "text": "budesonide",
-      "type": "phoneme",
-      "phoneme": "bjuːˈdɛsənaɪd",
-      "alphabet": "ipa"
+      "text": "TBI",
+      "type": "alias",
+      "alias": "traumatic brain injury"
     },
     {
-      "text": "mometasone",
-      "type": "phoneme",
-      "phoneme": "moʊˈmɛtəsoʊn",
-      "alphabet": "ipa"
+      "text": "PD",
+      "type": "alias",
+      "alias": "Parkinson disease"
     },
     {
-      "text": "ciclesonide",
-      "type": "phoneme",
-      "phoneme": "sɪˈklɛsənaɪd",
-      "alphabet": "ipa"
+      "text": "HD",
+      "type": "alias",
+      "alias": "Huntington disease"
     },
     {
-      "text": "beclomethasone",
-      "type": "phoneme",
-      "phoneme": "ˌbɛkloʊˈmɛθəsoʊn",
-      "alphabet": "ipa"
+      "text": "CJD",
+      "type": "alias",
+      "alias": "Creutzfeldt-Jakob disease"
     },
     {
-      "text": "montelukast",
-      "type": "phoneme",
-      "phoneme": "ˌmɑːntəˈluːkæst",
-      "alphabet": "ipa"
+      "text": "SCI",
+      "type": "alias",
+      "alias": "spinal cord injury"
     },
     {
-      "text": "zafirlukast",
-      "type": "phoneme",
-      "phoneme": "zəˈfɪrluːkæst",
-      "alphabet": "ipa"
+      "text": "CA",
+      "type": "alias",
+      "alias": "cancer"
     },
     {
-      "text": "zileuton",
-      "type": "phoneme",
-      "phoneme": "zaɪˈluːtɑːn",
-      "alphabet": "ipa"
+      "text": "N/V",
+      "type": "alias",
+      "alias": "nausea and vomiting"
     },
     {
-      "text": "theophylline",
-      "type": "phoneme",
-      "phoneme": "ˌθiːəˈfɪliːn",
-      "alphabet": "ipa"
+      "text": "SOB",
+      "type": "alias",
+      "alias": "shortness of breath"
     },
     {
-      "text": "roflumilast",
-      "type": "phoneme",
-      "phoneme": "roʊˈfluːmɪlæst",
-      "alphabet": "ipa"
+      "text": "CP",
+      "type": "alias",
+      "alias": "cerebral palsy"
     },
     {
-      "text": "benralizumab",
-      "type": "phoneme",
-      "phoneme": "bɛnˈrælɪzʊmæb",
-      "alphabet": "ipa"
+      "text": "N/V/D",
+      "type": "alias",
+      "alias": "nausea vomiting and diarrhea"
     },
     {
-      "text": "mepolizumab",
-      "type": "phoneme",
-      "phoneme": "məˈpɑːlɪzʊmæb",
-      "alphabet": "ipa"
+      "text": "LOC",
+      "type": "alias",
+      "alias": "loss of consciousness"
     }
   ]
 }

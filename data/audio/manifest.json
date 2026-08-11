@@ -1,62 +1,44 @@
 [
   {
-    "term": "atorvastatin",
-    "alias": "a-TOR-va-STAT-in",
-    "before": "data/audio/before/atorvastatin_before.mp3",
-    "after": "data/audio/after/atorvastatin_after.mp3"
-  },
-  {
-    "term": "omeprazole",
-    "alias": "oh-MEP-rah-zole",
-    "before": "data/audio/before/omeprazole_before.mp3",
-    "after": "data/audio/after/omeprazole_after.mp3"
-  },
-  {
-    "term": "amoxicillin",
-    "alias": "ah-MOX-i-sil-in",
-    "before": "data/audio/before/amoxicillin_before.mp3",
-    "after": "data/audio/after/amoxicillin_after.mp3"
-  },
-  {
-    "term": "metformin",
-    "alias": "met-FOR-min",
-    "before": "data/audio/before/metformin_before.mp3",
-    "after": "data/audio/after/metformin_after.mp3"
-  },
-  {
-    "term": "myocardial infarction",
-    "alias": "my-oh-KAR-dee-al in-FARK-shun",
-    "before": "data/audio/before/myocardial_infarction_before.mp3",
-    "after": "data/audio/after/myocardial_infarction_after.mp3"
-  },
-  {
-    "term": "cholecystectomy",
-    "alias": "koh-leh-sis-TEK-toh-mee",
-    "before": "data/audio/before/cholecystectomy_before.mp3",
-    "after": "data/audio/after/cholecystectomy_after.mp3"
-  },
-  {
-    "term": "cholecystitis",
-    "alias": "ko-luh-sis-TYE-tis",
-    "before": "data/audio/before/cholecystitis_before.mp3",
-    "after": "data/audio/after/cholecystitis_after.mp3"
-  },
-  {
     "term": "MI",
     "alias": "myocardial infarction",
+    "sentence": "The patient has a history of MI.",
     "before": "data/audio/before/MI_before.mp3",
     "after": "data/audio/after/MI_after.mp3"
   },
   {
+    "term": "CHF",
+    "alias": "congestive heart failure",
+    "sentence": "The patient has a history of CHF.",
+    "before": "data/audio/before/CHF_before.mp3",
+    "after": "data/audio/after/CHF_after.mp3"
+  },
+  {
     "term": "COPD",
     "alias": "chronic obstructive pulmonary disease",
+    "sentence": "The patient has a history of COPD.",
     "before": "data/audio/before/COPD_before.mp3",
     "after": "data/audio/after/COPD_after.mp3"
   },
   {
-    "term": "epithelium",
-    "alias": "eh-pih-THEE-lee-um",
-    "before": "data/audio/before/epithelium_before.mp3",
-    "after": "data/audio/after/epithelium_after.mp3"
+    "term": "DVT",
+    "alias": "deep vein thrombosis",
+    "sentence": "The patient has a history of DVT.",
+    "before": "data/audio/before/DVT_before.mp3",
+    "after": "data/audio/after/DVT_after.mp3"
+  },
+  {
+    "term": "ceftriaxone",
+    "alias": "sef-try-AX-one",
+    "sentence": "Please take your ceftriaxone as prescribed.",
+    "before": "data/audio/before/ceftriaxone_before.mp3",
+    "after": "data/audio/after/ceftriaxone_after.mp3"
+  },
+  {
+    "term": "furosemide",
+    "alias": "fur-OH-se-mide",
+    "sentence": "Please take your furosemide as prescribed.",
+    "before": "data/audio/before/furosemide_before.mp3",
+    "after": "data/audio/after/furosemide_after.mp3"
   }
 ]

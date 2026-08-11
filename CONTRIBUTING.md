@@ -4,7 +4,9 @@ PRs welcome. This guide covers how to add terms, add provider format converters,
 
 ## Adding new terms
 
-The source of truth is `data/terms_master.json`. Each entry has `text`, `alias`, `ipa`, and `category` fields. **All four are required.** `converters/convert_all.py` skips any entry missing `text`, `alias`, or `ipa`, so an entry without IPA silently disappears from every provider output.
+The source of truth is `data/terms_master.json`. Each entry has `text`, `alias`, `ipa`, and `category` fields. **All four are required.**
+
+A fifth field, `telnyx_naturalhd_verdict`, is written by the audit, not by hand. It is `HELPS`, `WASH` or `HURTS`, and it decides whether the alias ships in the alias-based outputs. A new term defaults to not shipping until it is measured; run `python3 src/generate_audio_samples.py` style before/after rendering and judge the pair blind before setting it. `converters/convert_all.py` skips any entry missing `text`, `alias`, or `ipa`, so an entry without IPA silently disappears from every provider output.
 
 1. Edit `data/terms_master.json` and add your term:
 
@@ -31,7 +33,8 @@ Conventions:
 
 - `alias` is a plain-text respelling, hyphen-separated, with the stressed syllable in caps: `oh-MEP-rah-zole`.
 - `ipa` is American English IPA with a primary stress mark. Use `ɡ` (U+0261) not ASCII `g`, and keep the rhotic/non-rhotic choice consistent with the rest of the file.
-- `alias` and `ipa` must describe the **same** pronunciation. They are emitted as two rules for the same word, so a disagreement produces different output on different providers.
+- `alias` and `ipa` must describe the **same** pronunciation. Different providers get different formats, so a disagreement produces different speech depending on where the pack is loaded.
+- Keep aliases pronounceable as a unit. A respelling with too many hyphens can be read syllable by syllable: `amoxicillin` -> `a-mox-i-sil-in` comes out worse than leaving the word alone. If the engine already says a term correctly, a bad alias is a regression, not a no-op.
 - For acronyms, `alias` is the spoken expansion (`MI` -> `myocardial infarction`) and `ipa` transcribes that expansion.
 
 2. Regenerate every provider format:
@@ -56,7 +59,9 @@ python3 import_to_telnyx.py --dry-run   # preview
 python3 import_to_telnyx.py             # create
 ```
 
-6. To add a before/after audio sample, add the term to `SAMPLE_TERMS` in `src/generate_audio_samples.py` and run it. Output lands in `data/audio/before/` and `data/audio/after/`, and the script rewrites `data/audio/manifest.json` with repo-relative paths.
+6. To add a before/after audio sample, add the term to `SAMPLE_TERMS` in `src/generate_audio_samples.py` and run it. The script builds a real Telnyx dictionary, renders the same sentence with and without it, and deletes the dictionary afterwards. Output lands in `data/audio/before/` and `data/audio/after/`, and it rewrites `data/audio/manifest.json` with repo-relative paths.
+
+   Only add a term if the pair actually differs. Compare the two MP3s before committing; a pair that sounds identical means the engine already handled the term and the sample demonstrates nothing.
 
 ## Adding a new provider format
 
