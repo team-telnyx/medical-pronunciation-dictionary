@@ -7,64 +7,9 @@
       "alias": "a-TOR-va-STAT-in"
     },
     {
-      "text": "Lipitor",
-      "type": "alias",
-      "alias": "LIP-i-tor"
-    },
-    {
       "text": "lisinopril",
       "type": "alias",
       "alias": "ly-SIN-oh-pril"
-    },
-    {
-      "text": "metoprolol",
-      "type": "alias",
-      "alias": "me-TOE-pro-lol"
-    },
-    {
-      "text": "amlodipine",
-      "type": "alias",
-      "alias": "am-LOE-di-peen"
-    },
-    {
-      "text": "losartan",
-      "type": "alias",
-      "alias": "loe-SAR-tan"
-    },
-    {
-      "text": "metoprolol succinate",
-      "type": "alias",
-      "alias": "me-TOE-pro-lol SUK-si-nate"
-    },
-    {
-      "text": "metoprolol tartrate",
-      "type": "alias",
-      "alias": "me-TOE-pro-lol TAR-trate"
-    },
-    {
-      "text": "carvedilol",
-      "type": "alias",
-      "alias": "kar-VE-di-lol"
-    },
-    {
-      "text": "valsartan",
-      "type": "alias",
-      "alias": "val-SAR-tan"
-    },
-    {
-      "text": "enalapril",
-      "type": "alias",
-      "alias": "e-NAL-a-pril"
-    },
-    {
-      "text": "ramipril",
-      "type": "alias",
-      "alias": "ra-MI-pril"
-    },
-    {
-      "text": "felodipine",
-      "type": "alias",
-      "alias": "fe-LOE-di-peen"
     },
     {
       "text": "nimodipine",
@@ -77,19 +22,9 @@
       "alias": "ny-KAR-di-peen"
     },
     {
-      "text": "nitroglycerin",
-      "type": "alias",
-      "alias": "ny-tro-GLIS-er-in"
-    },
-    {
       "text": "hydralazine",
       "type": "alias",
       "alias": "hy-DRAL-a-zeen"
-    },
-    {
-      "text": "clonidine",
-      "type": "alias",
-      "alias": "KLON-i-deen"
     },
     {
       "text": "spironolactone",
@@ -97,29 +32,9 @@
       "alias": "spir-oh-no-LAK-tone"
     },
     {
-      "text": "furosemide",
-      "type": "alias",
-      "alias": "fur-OH-se-mide"
-    },
-    {
-      "text": "hydrochlorothiazide",
-      "type": "alias",
-      "alias": "hy-dro-KLOR-oh-THY-a-zide"
-    },
-    {
       "text": "triamterene",
       "type": "alias",
       "alias": "try-AM-ter-een"
-    },
-    {
-      "text": "bumetanide",
-      "type": "alias",
-      "alias": "byoo-MET-a-nide"
-    },
-    {
-      "text": "torsemide",
-      "type": "alias",
-      "alias": "TOR-se-mide"
     },
     {
       "text": "eplerenone",
@@ -127,54 +42,9 @@
       "alias": "e-PLER-e-none"
     },
     {
-      "text": "diltiazem",
-      "type": "alias",
-      "alias": "dil-TY-a-zem"
-    },
-    {
-      "text": "verapamil",
-      "type": "alias",
-      "alias": "ver-AP-a-mil"
-    },
-    {
-      "text": "nifedipine",
-      "type": "alias",
-      "alias": "ny-FED-i-peen"
-    },
-    {
-      "text": "doxazosin",
-      "type": "alias",
-      "alias": "dok-SAZ-oh-sin"
-    },
-    {
-      "text": "terazosin",
-      "type": "alias",
-      "alias": "ter-AZ-oh-sin"
-    },
-    {
-      "text": "prazosin",
-      "type": "alias",
-      "alias": "PRAZ-oh-sin"
-    },
-    {
       "text": "amiodarone",
       "type": "alias",
       "alias": "am-ee-OH-da-rone"
-    },
-    {
-      "text": "dronedarone",
-      "type": "alias",
-      "alias": "droe-NEH-da-rone"
-    },
-    {
-      "text": "sotalol",
-      "type": "alias",
-      "alias": "SOH-ta-lol"
-    },
-    {
-      "text": "propafenone",
-      "type": "alias",
-      "alias": "pro-PAF-eh-none"
     },
     {
       "text": "flecainide",
@@ -182,39 +52,9 @@
       "alias": "FLEH-ka-nide"
     },
     {
-      "text": "mexiletine",
-      "type": "alias",
-      "alias": "mex-IL-eh-teen"
-    },
-    {
-      "text": "isosorbide dinitrate",
-      "type": "alias",
-      "alias": "eye-so-SOR-bide dye-NYE-trate"
-    },
-    {
-      "text": "isosorbide mononitrate",
-      "type": "alias",
-      "alias": "eye-so-SOR-bide mon-oh-NYE-trate"
-    },
-    {
-      "text": "warfarin",
-      "type": "alias",
-      "alias": "war-FAR-in"
-    },
-    {
-      "text": "rivaroxaban",
-      "type": "alias",
-      "alias": "riv-a-ROX-a-ban"
-    },
-    {
       "text": "apixaban",
       "type": "alias",
       "alias": "a-PIX-a-ban"
-    },
-    {
-      "text": "dabigatran",
-      "type": "alias",
-      "alias": "da-big-a-TRAN"
     },
     {
       "text": "clopidogrel",
@@ -222,19 +62,9 @@
       "alias": "kloh-PID-oh-grel"
     },
     {
-      "text": "prasugrel",
-      "type": "alias",
-      "alias": "PRA-soo-grel"
-    },
-    {
       "text": "ticagrelor",
       "type": "alias",
       "alias": "tye-ka-GREL-or"
-    },
-    {
-      "text": "ezetimibe",
-      "type": "alias",
-      "alias": "eh-ZET-i-mibe"
     },
     {
       "text": "fenofibrate",
@@ -242,29 +72,9 @@
       "alias": "fen-oh-FYE-brate"
     },
     {
-      "text": "gemfibrozil",
-      "type": "alias",
-      "alias": "jem-FYE-broh-zil"
-    },
-    {
-      "text": "niacin",
-      "type": "alias",
-      "alias": "NYE-a-sin"
-    },
-    {
-      "text": "colesevelam",
-      "type": "alias",
-      "alias": "koh-leh-SEV-eh-lam"
-    },
-    {
       "text": "simvastatin",
       "type": "alias",
       "alias": "sim-va-STAT-in"
-    },
-    {
-      "text": "rosuvastatin",
-      "type": "alias",
-      "alias": "roh-soo-va-STAT-in"
     },
     {
       "text": "pravastatin",
@@ -272,44 +82,9 @@
       "alias": "PRAV-va-STAT-in"
     },
     {
-      "text": "fluvastatin",
-      "type": "alias",
-      "alias": "FLOO-va-STAT-in"
-    },
-    {
-      "text": "pitavastatin",
-      "type": "alias",
-      "alias": "pit-a-va-STAT-in"
-    },
-    {
       "text": "alirocumab",
       "type": "alias",
       "alias": "a-LIR-oh-kyoo-mab"
-    },
-    {
-      "text": "evolocumab",
-      "type": "alias",
-      "alias": "e-VOL-oh-kyoo-mab"
-    },
-    {
-      "text": "metformin",
-      "type": "alias",
-      "alias": "met-FOR-min"
-    },
-    {
-      "text": "glipizide",
-      "type": "alias",
-      "alias": "GLIP-i-zide"
-    },
-    {
-      "text": "glyburide",
-      "type": "alias",
-      "alias": "GLY-bur-ide"
-    },
-    {
-      "text": "pioglitazone",
-      "type": "alias",
-      "alias": "py-oh-GLIT-ah-zone"
     },
     {
       "text": "sitagliptin",
@@ -322,16 +97,6 @@
       "alias": "lin-ah-GLIP-tin"
     },
     {
-      "text": "saxagliptin",
-      "type": "alias",
-      "alias": "sax-ah-GLIP-tin"
-    },
-    {
-      "text": "alogliptin",
-      "type": "alias",
-      "alias": "al-oh-GLIP-tin"
-    },
-    {
       "text": "empagliflozin",
       "type": "alias",
       "alias": "em-pah-gli-FLOH-zin"
@@ -340,11 +105,6 @@
       "text": "canagliflozin",
       "type": "alias",
       "alias": "kan-ah-gli-FLOH-zin"
-    },
-    {
-      "text": "dapagliflozin",
-      "type": "alias",
-      "alias": "dap-ah-gli-FLOH-zin"
     },
     {
       "text": "semaglutide",
@@ -357,31 +117,6 @@
       "alias": "lir-ah-GLOO-tide"
     },
     {
-      "text": "exenatide",
-      "type": "alias",
-      "alias": "ex-EN-ah-tide"
-    },
-    {
-      "text": "dulaglutide",
-      "type": "alias",
-      "alias": "doo-lah-GLOO-tide"
-    },
-    {
-      "text": "tirzepatide",
-      "type": "alias",
-      "alias": "teer-ZEP-ah-tide"
-    },
-    {
-      "text": "insulin glargine",
-      "type": "alias",
-      "alias": "IN-suh-lin GLAR-jeen"
-    },
-    {
-      "text": "insulin lispro",
-      "type": "alias",
-      "alias": "IN-suh-lin LIS-proh"
-    },
-    {
       "text": "insulin aspart",
       "type": "alias",
       "alias": "IN-suh-lin AS-part"
@@ -392,49 +127,14 @@
       "alias": "IN-suh-lin DET-uh-meer"
     },
     {
-      "text": "insulin degludec",
-      "type": "alias",
-      "alias": "IN-suh-lin deh-GLOO-dek"
-    },
-    {
-      "text": "acarbose",
-      "type": "alias",
-      "alias": "AY-kar-bose"
-    },
-    {
       "text": "miglitol",
       "type": "alias",
       "alias": "MIG-li-tol"
     },
     {
-      "text": "repaglinide",
-      "type": "alias",
-      "alias": "reh-PAG-li-nide"
-    },
-    {
       "text": "nateglinide",
       "type": "alias",
       "alias": "nah-TEG-li-nide"
-    },
-    {
-      "text": "amoxicillin",
-      "type": "alias",
-      "alias": "ah-MOX-i-sil-in"
-    },
-    {
-      "text": "amoxicillin clavulanate",
-      "type": "alias",
-      "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate"
-    },
-    {
-      "text": "azithromycin",
-      "type": "alias",
-      "alias": "ah-ZITH-roh-my-sin"
-    },
-    {
-      "text": "cephalexin",
-      "type": "alias",
-      "alias": "sef-ah-LEX-in"
     },
     {
       "text": "ciprofloxacin",
@@ -447,59 +147,359 @@
       "alias": "klin-dah-MY-sin"
     },
     {
-      "text": "doxycycline",
-      "type": "alias",
-      "alias": "dok-see-SY-kleen"
-    },
-    {
-      "text": "metronidazole",
-      "type": "alias",
-      "alias": "me-tro-NI-da-zole"
-    },
-    {
-      "text": "sulfamethoxazole trimethoprim",
-      "type": "alias",
-      "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim"
-    },
-    {
-      "text": "nitrofurantoin",
-      "type": "alias",
-      "alias": "ny-tro-fyoor-an-TOYN"
-    },
-    {
-      "text": "penicillin",
-      "type": "alias",
-      "alias": "pen-i-SIL-in"
-    },
-    {
-      "text": "vancomycin",
-      "type": "alias",
-      "alias": "van-ko-MY-sin"
-    },
-    {
-      "text": "levofloxacin",
-      "type": "alias",
-      "alias": "lee-vo-FLOX-a-sin"
-    },
-    {
-      "text": "moxifloxacin",
-      "type": "alias",
-      "alias": "mox-i-FLOX-a-sin"
-    },
-    {
-      "text": "cefdinir",
-      "type": "alias",
-      "alias": "SEF-di-ner"
-    },
-    {
-      "text": "cefaclor",
-      "type": "alias",
-      "alias": "SEF-a-klor"
-    },
-    {
       "text": "cefuroxime",
       "type": "alias",
       "alias": "se-fyoor-OX-eem"
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "alias",
+      "alias": "sef-try-AX-one"
+    },
+    {
+      "text": "cefepime",
+      "type": "alias",
+      "alias": "SEF-e-peem"
+    },
+    {
+      "text": "ertapenem",
+      "type": "alias",
+      "alias": "er-ta-PEN-em"
+    },
+    {
+      "text": "gentamicin",
+      "type": "alias",
+      "alias": "jen-ta-MY-sin"
+    },
+    {
+      "text": "linezolid",
+      "type": "alias",
+      "alias": "li-NEZ-o-lid"
+    },
+    {
+      "text": "ethambutol",
+      "type": "alias",
+      "alias": "e-THAM-byoo-tol"
+    },
+    {
+      "text": "oseltamivir",
+      "type": "alias",
+      "alias": "oh-sel-TAM-ih-veer"
+    },
+    {
+      "text": "naproxen",
+      "type": "alias",
+      "alias": "nah-PROK-sen"
+    },
+    {
+      "text": "diclofenac",
+      "type": "alias",
+      "alias": "dye-KLOH-fen-ak"
+    },
+    {
+      "text": "acetaminophen",
+      "type": "alias",
+      "alias": "ah-SEE-tah-MIN-oh-fen"
+    },
+    {
+      "text": "pregabalin",
+      "type": "alias",
+      "alias": "pree-GAB-ah-lin"
+    },
+    {
+      "text": "topiramate",
+      "type": "alias",
+      "alias": "toh-PIHR-ah-mayt"
+    },
+    {
+      "text": "oxcarbazepine",
+      "type": "alias",
+      "alias": "oks-kar-BAZ-eh-peen"
+    },
+    {
+      "text": "zonisamide",
+      "type": "alias",
+      "alias": "zoh-NIS-ah-mide"
+    },
+    {
+      "text": "lacosamide",
+      "type": "alias",
+      "alias": "lah-KOH-sah-mide"
+    },
+    {
+      "text": "rufinamide",
+      "type": "alias",
+      "alias": "roo-FIN-ah-mide"
+    },
+    {
+      "text": "pantoprazole",
+      "type": "alias",
+      "alias": "pan-TOH-prah-zole"
+    },
+    {
+      "text": "lansoprazole",
+      "type": "alias",
+      "alias": "lan-SOH-prah-zole"
+    },
+    {
+      "text": "dexlansoprazole",
+      "type": "alias",
+      "alias": "deks-lan-SOH-prah-zole"
+    },
+    {
+      "text": "ranitidine",
+      "type": "alias",
+      "alias": "ran-IH-tih-deen"
+    },
+    {
+      "text": "cimetidine",
+      "type": "alias",
+      "alias": "sy-MET-ih-deen"
+    },
+    {
+      "text": "ondansetron",
+      "type": "alias",
+      "alias": "on-DAN-seh-tron"
+    },
+    {
+      "text": "metoclopramide",
+      "type": "alias",
+      "alias": "met-oh-KLOH-prah-mide"
+    },
+    {
+      "text": "ipratropium",
+      "type": "alias",
+      "alias": "ip-ra-TROH-pee-um"
+    },
+    {
+      "text": "olodaterol",
+      "type": "alias",
+      "alias": "oh-loh-DA-ter-ol"
+    },
+    {
+      "text": "budesonide",
+      "type": "alias",
+      "alias": "byoo-DEH-soh-nide"
+    },
+    {
+      "text": "zafirlukast",
+      "type": "alias",
+      "alias": "za-FIR-loo-kast"
+    },
+    {
+      "text": "zileuton",
+      "type": "alias",
+      "alias": "zy-LOO-ton"
+    },
+    {
+      "text": "desvenlafaxine",
+      "type": "alias",
+      "alias": "des-ven-la-FAK-seen"
+    },
+    {
+      "text": "mirtazapine",
+      "type": "alias",
+      "alias": "mir-TAZ-a-peen"
+    },
+    {
+      "text": "nefazodone",
+      "type": "alias",
+      "alias": "ne-FAZ-oh-done"
+    },
+    {
+      "text": "vilazodone",
+      "type": "alias",
+      "alias": "vil-AZ-oh-done"
+    },
+    {
+      "text": "risperidone",
+      "type": "alias",
+      "alias": "ris-PER-ih-done"
+    },
+    {
+      "text": "lurasidone",
+      "type": "alias",
+      "alias": "loo-RAS-ih-done"
+    },
+    {
+      "text": "brexpiprazole",
+      "type": "alias",
+      "alias": "brek-SIP-ra-zole"
+    },
+    {
+      "text": "valproate",
+      "type": "alias",
+      "alias": "val-PRO-ate"
+    },
+    {
+      "text": "asenapine",
+      "type": "alias",
+      "alias": "a-SEN-a-peen"
+    },
+    {
+      "text": "dasatinib",
+      "type": "alias",
+      "alias": "da-SAT-in-ib"
+    },
+    {
+      "text": "nilotinib",
+      "type": "alias",
+      "alias": "ny-LOH-tin-ib"
+    },
+    {
+      "text": "ibrutinib",
+      "type": "alias",
+      "alias": "eye-BROO-tin-ib"
+    },
+    {
+      "text": "cetuximab",
+      "type": "alias",
+      "alias": "se-TUX-i-mab"
+    },
+    {
+      "text": "pembrolizumab",
+      "type": "alias",
+      "alias": "pem-broh-LIZ-oo-mab"
+    },
+    {
+      "text": "atezolizumab",
+      "type": "alias",
+      "alias": "a-TEZ-oh-LIZ-oo-mab"
+    },
+    {
+      "text": "avelumab",
+      "type": "alias",
+      "alias": "a-VEL-oo-mab"
+    },
+    {
+      "text": "cisplatin",
+      "type": "alias",
+      "alias": "sis-PLAT-in"
+    },
+    {
+      "text": "paclitaxel",
+      "type": "alias",
+      "alias": "pak-li-TAKS-el"
+    },
+    {
+      "text": "daunorubicin",
+      "type": "alias",
+      "alias": "daw-noh-ROO-bi-sin"
+    },
+    {
+      "text": "gemcitabine",
+      "type": "alias",
+      "alias": "jem-SITE-a-been"
+    },
+    {
+      "text": "cytarabine",
+      "type": "alias",
+      "alias": "sy-TAIR-a-been"
+    },
+    {
+      "text": "adalimumab",
+      "type": "alias",
+      "alias": "a-da-LIM-oo-mab"
+    },
+    {
+      "text": "certolizumab",
+      "type": "alias",
+      "alias": "ser-toh-LIZ-oo-mab"
+    },
+    {
+      "text": "golimumab",
+      "type": "alias",
+      "alias": "go-LIM-ue-mab"
+    },
+    {
+      "text": "tocilizumab",
+      "type": "alias",
+      "alias": "TOE-sih-LIZ-ue-mab"
+    },
+    {
+      "text": "sarilumab",
+      "type": "alias",
+      "alias": "sar-IL-ue-mab"
+    },
+    {
+      "text": "ixekizumab",
+      "type": "alias",
+      "alias": "IX-e-KIZ-ue-mab"
+    },
+    {
+      "text": "brodalumab",
+      "type": "alias",
+      "alias": "broe-DAL-ue-mab"
+    },
+    {
+      "text": "guselkumab",
+      "type": "alias",
+      "alias": "gus-ELK-ue-mab"
+    },
+    {
+      "text": "pramipexole",
+      "type": "alias",
+      "alias": "PRAM-i-PEX-ole"
+    },
+    {
+      "text": "donepezil",
+      "type": "alias",
+      "alias": "doe-NEP-e-zil"
+    },
+    {
+      "text": "fludrocortisone",
+      "type": "alias",
+      "alias": "floo-dro-KOR-tih-zone"
+    },
+    {
+      "text": "risedronate",
+      "type": "alias",
+      "alias": "rih-SED-ro-nate"
+    },
+    {
+      "text": "sildenafil",
+      "type": "alias",
+      "alias": "sil-DEN-uh-fil"
+    },
+    {
+      "text": "darifenacin",
+      "type": "alias",
+      "alias": "dar-i-FEN-ah-sin"
+    },
+    {
+      "text": "chlorpheniramine",
+      "type": "alias",
+      "alias": "klor-fen-EER-ah-meen"
+    },
+    {
+      "text": "armodafinil",
+      "type": "alias",
+      "alias": "ar-mo-DAF-i-nil"
+    },
+    {
+      "text": "sumatriptan",
+      "type": "alias",
+      "alias": "soo-mah-TRIP-tan"
+    },
+    {
+      "text": "zolmitriptan",
+      "type": "alias",
+      "alias": "zohl-mi-TRIP-tan"
+    },
+    {
+      "text": "almotriptan",
+      "type": "alias",
+      "alias": "al-moh-TRIP-tan"
+    },
+    {
+      "text": "frovatriptan",
+      "type": "alias",
+      "alias": "froh-vah-TRIP-tan"
+    },
+    {
+      "text": "naratriptan",
+      "type": "alias",
+      "alias": "nar-ah-TRIP-tan"
     }
   ]
 }

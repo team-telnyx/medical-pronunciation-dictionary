@@ -1,387 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0" xml:lang="en-US">
   <lexeme>
-    <grapheme>golimumab</grapheme>
-    <alias>go-LIM-ue-mab</alias>
+    <grapheme>fornix</grapheme>
+    <alias>FOR-niks</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tocilizumab</grapheme>
-    <alias>TOE-sih-LIZ-ue-mab</alias>
+    <grapheme>cryptae</grapheme>
+    <alias>KRIP-tee</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sarilumab</grapheme>
-    <alias>sar-IL-ue-mab</alias>
+    <grapheme>cholecyst</grapheme>
+    <alias>KOH-leh-sist</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ustekinumab</grapheme>
-    <alias>US-te-KIN-ue-mab</alias>
+    <grapheme>islets</grapheme>
+    <alias>EYE-lets</alias>
   </lexeme>
   <lexeme>
-    <grapheme>secukinumab</grapheme>
-    <alias>SEK-ue-KIN-ue-mab</alias>
+    <grapheme>acini</grapheme>
+    <alias>AS-ih-nye</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ixekizumab</grapheme>
-    <alias>IX-e-KIZ-ue-mab</alias>
+    <grapheme>centrilobular</grapheme>
+    <alias>sen-trih-LOB-yoo-lar</alias>
   </lexeme>
   <lexeme>
-    <grapheme>brodalumab</grapheme>
-    <alias>broe-DAL-ue-mab</alias>
+    <grapheme>falciform</grapheme>
+    <alias>FAL-sih-form</alias>
   </lexeme>
   <lexeme>
-    <grapheme>guselkumab</grapheme>
-    <alias>gus-ELK-ue-mab</alias>
+    <grapheme>interventricular septum</grapheme>
+    <alias>in-ter-ven-TRIK-yoo-lar SEP-tum</alias>
   </lexeme>
   <lexeme>
-    <grapheme>risankizumab</grapheme>
-    <alias>RIS-an-KIZ-ue-mab</alias>
+    <grapheme>vena cava</grapheme>
+    <alias>VEE-nah KAY-vah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tildrakizumab</grapheme>
-    <alias>TIL-dra-KIZ-ue-mab</alias>
+    <grapheme>foramina</grapheme>
+    <alias>fo-RAM-ih-nah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>abatacept</grapheme>
-    <alias>a-BAT-a-sept</alias>
+    <grapheme>cauda equina</grapheme>
+    <alias>KAW-dah eh-KWY-nah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>leflunomide</grapheme>
-    <alias>le-FLOO-no-mide</alias>
+    <grapheme>ganglion</grapheme>
+    <alias>GANG-glee-on</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sulfasalazine</grapheme>
-    <alias>SUL-fa-SAL-a-zeen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hydroxychloroquine</grapheme>
-    <alias>hy-DROX-ee-KLOR-oh-kween</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>azathioprine</grapheme>
-    <alias>AY-za-THYE-oh-preen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>mycophenolate</grapheme>
-    <alias>MYE-koe-FEN-oh-late</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>tacrolimus</grapheme>
-    <alias>ta-KROE-li-mus</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>cyclosporine</grapheme>
-    <alias>SYE-kloe-SPOR-een</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>sirolimus</grapheme>
-    <alias>sir-OH-li-mus</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>everolimus</grapheme>
-    <alias>e-VER-oh-LI-mus</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>levodopa</grapheme>
-    <alias>LEE-voe-DOE-pa</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>carbidopa</grapheme>
-    <alias>KAR-bi-DOE-pa</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>pramipexole</grapheme>
-    <alias>PRAM-i-PEX-ole</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ropinirole</grapheme>
-    <alias>roe-PIN-i-role</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>rotigotine</grapheme>
-    <alias>roe-TIG-oh-teen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>amantadine</grapheme>
-    <alias>a-MAN-ta-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>entacapone</grapheme>
-    <alias>en-TAK-a-pone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>safinamide</grapheme>
-    <alias>sa-FIN-a-mide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>apomorphine</grapheme>
-    <alias>AP-oh-MOR-feen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>donepezil</grapheme>
-    <alias>doe-NEP-e-zil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>rivastigmine</grapheme>
-    <alias>riv-uh-STIG-meen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>galantamine</grapheme>
-    <alias>guh-LAN-tuh-meen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>memantine</grapheme>
-    <alias>muh-MAN-teen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>glatiramer</grapheme>
-    <alias>gluh-TIR-uh-mer</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fingolimod</grapheme>
-    <alias>fin-GOL-ih-mod</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>dimethyl fumarate</grapheme>
-    <alias>die-METH-ul FYOO-muh-rate</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>teriflunomide</grapheme>
-    <alias>ter-ih-FLOO-noh-mide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ozanimod</grapheme>
-    <alias>oh-ZAN-ih-mod</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>siponimod</grapheme>
-    <alias>sih-PON-ih-mod</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>natalizumab</grapheme>
-    <alias>na-tal-IZ-uh-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ocrelizumab</grapheme>
-    <alias>ok-re-LIZ-uh-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ofatumumab</grapheme>
-    <alias>oh-fuh-TOO-muh-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fumarate</grapheme>
-    <alias>FYOO-muh-rate</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>levothyroxine</grapheme>
-    <alias>lee-voh-thigh-ROX-een</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>prednisone</grapheme>
-    <alias>PRED-nih-zone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>prednisolone</grapheme>
-    <alias>pred-NIS-oh-lone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>methylprednisolone</grapheme>
-    <alias>METH-ul-pred-NIS-oh-lone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hydrocortisone</grapheme>
-    <alias>HIGH-dro-KOR-tih-zone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>dexamethasone</grapheme>
-    <alias>dex-uh-METH-uh-zone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fludrocortisone</grapheme>
-    <alias>floo-dro-KOR-tih-zone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>alendronate</grapheme>
-    <alias>uh-LEN-dro-nate</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>risedronate</grapheme>
-    <alias>rih-SED-ro-nate</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ibandronate</grapheme>
-    <alias>ih-BAN-dro-nate</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>zoledronic acid</grapheme>
-    <alias>zoh-leh-DRON-ik AS-id</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>denosumab</grapheme>
-    <alias>den-OH-suh-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>teriparatide</grapheme>
-    <alias>ter-ih-PAR-uh-tide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>raloxifene</grapheme>
-    <alias>ral-OX-ih-feen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>calcitonin</grapheme>
-    <alias>kal-sih-TONE-in</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>tadalafil</grapheme>
-    <alias>tuh-DAF-ih-lil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>sildenafil</grapheme>
-    <alias>sil-DEN-uh-fil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>vardenafil</grapheme>
-    <alias>var-DEN-ah-fil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>finasteride</grapheme>
-    <alias>fin-AS-ter-ide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>dutasteride</grapheme>
-    <alias>doo-TAS-ter-ide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>tamsulosin</grapheme>
-    <alias>tam-SOO-loh-sin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>silodosin</grapheme>
-    <alias>si-LOH-doh-sin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>alfuzosin</grapheme>
-    <alias>al-FOO-zoh-sin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>oxybutynin</grapheme>
-    <alias>ok-see-BYOO-ti-nin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>tolterodine</grapheme>
-    <alias>tol-TER-oh-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>solifenacin</grapheme>
-    <alias>sol-i-FEN-ah-sin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>darifenacin</grapheme>
-    <alias>dar-i-FEN-ah-sin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>mirabegron</grapheme>
-    <alias>mir-ah-BEG-ron</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>phenazopyridine</grapheme>
-    <alias>fen-az-oh-PYR-i-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>hydroxyzine</grapheme>
-    <alias>hy-DROK-si-zeen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fexofenadine</grapheme>
-    <alias>fek-soh-FEN-ah-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>loratadine</grapheme>
-    <alias>lor-AT-ah-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>cetirizine</grapheme>
-    <alias>se-TIR-i-zeen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>diphenhydramine</grapheme>
-    <alias>dy-fen-HY-drah-meen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>chlorpheniramine</grapheme>
-    <alias>klor-fen-EER-ah-meen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>azelastine</grapheme>
-    <alias>ah-ZEL-ah-steen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>olopatadine</grapheme>
-    <alias>oh-loh-PAT-ah-deen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>modafinil</grapheme>
-    <alias>mo-DAF-i-nil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>armodafinil</grapheme>
-    <alias>ar-mo-DAF-i-nil</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>sumatriptan</grapheme>
-    <alias>soo-mah-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>rizatriptan</grapheme>
-    <alias>ry-zah-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>zolmitriptan</grapheme>
-    <alias>zohl-mi-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>eletriptan</grapheme>
-    <alias>el-e-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>almotriptan</grapheme>
-    <alias>al-moh-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>frovatriptan</grapheme>
-    <alias>froh-vah-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>naratriptan</grapheme>
-    <alias>nar-ah-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ubrogepant</grapheme>
-    <alias>yoo-BROH-jeh-pant</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>rimegepant</grapheme>
-    <alias>rih-MEH-jeh-pant</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>erenumab</grapheme>
-    <alias>eh-REH-nyoo-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fremanezumab</grapheme>
-    <alias>freh-mah-NEH-zoo-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>galcanezumab</grapheme>
-    <alias>gal-kah-NEH-zoo-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>eprodual</grapheme>
-    <alias>eh-PROH-dool</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>onabotulinumtoxinA</grapheme>
-    <alias>on-ah-BOT-yoo-ly-num-TOX-in ay</alias>
+    <grapheme>facial</grapheme>
+    <alias>FAY-shal</alias>
   </lexeme>
 </lexicon>

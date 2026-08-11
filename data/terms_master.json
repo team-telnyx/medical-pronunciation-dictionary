@@ -3,5796 +3,6762 @@
     "text": "atorvastatin",
     "alias": "a-TOR-va-STAT-in",
     "ipa": "əˌtɔr.vəˈstæ.tɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Lipitor",
     "alias": "LIP-i-tor",
     "ipa": "lɪˈpɪ.tɔr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lisinopril",
     "alias": "ly-SIN-oh-pril",
     "ipa": "laɪˈsɪnoʊprɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "metoprolol",
     "alias": "me-TOE-pro-lol",
     "ipa": "məˈtoʊ.prə.lɔl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "amlodipine",
     "alias": "am-LOE-di-peen",
     "ipa": "æmˈloʊ.dɪˌpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "losartan",
     "alias": "loe-SAR-tan",
     "ipa": "loʊˈsɑr.tæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "metoprolol succinate",
     "alias": "me-TOE-pro-lol SUK-si-nate",
     "ipa": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "metoprolol tartrate",
     "alias": "me-TOE-pro-lol TAR-trate",
     "ipa": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "carvedilol",
     "alias": "kar-VE-di-lol",
     "ipa": "kɑrˈvɛ.dɪ.lɔl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "valsartan",
     "alias": "val-SAR-tan",
     "ipa": "vælˈsɑr.tæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "enalapril",
     "alias": "e-NAL-a-pril",
     "ipa": "ɪˈnæ.lə.prɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ramipril",
     "alias": "ra-MI-pril",
     "ipa": "ræˈmɪ.prɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "felodipine",
     "alias": "fe-LOE-di-peen",
     "ipa": "fɪˈloʊ.dɪˌpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nimodipine",
     "alias": "ny-MOE-di-peen",
     "ipa": "naɪˈmoʊ.dɪˌpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nicardipine",
     "alias": "ny-KAR-di-peen",
     "ipa": "naɪˈkɑr.dɪˌpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nitroglycerin",
     "alias": "ny-tro-GLIS-er-in",
     "ipa": "ˌnaɪ.trəˈɡlɪ.sə.rɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hydralazine",
     "alias": "hy-DRAL-a-zeen",
     "ipa": "haɪˈdræ.ləˌzin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "clonidine",
     "alias": "KLON-i-deen",
     "ipa": "ˈkloʊ.nɪˌdin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "spironolactone",
     "alias": "spir-oh-no-LAK-tone",
     "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "furosemide",
     "alias": "fur-OH-se-mide",
     "ipa": "fʊˈroʊsəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hydrochlorothiazide",
     "alias": "hy-dro-KLOR-oh-THY-a-zide",
     "ipa": "ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "triamterene",
     "alias": "try-AM-ter-een",
     "ipa": "traɪˈæm.tərˌin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "bumetanide",
     "alias": "byoo-MET-a-nide",
     "ipa": "bjuˈmɛ.təˌnaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "torsemide",
     "alias": "TOR-se-mide",
     "ipa": "ˈtɔr.səˌmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "eplerenone",
     "alias": "e-PLER-e-none",
     "ipa": "ɪˈplɛ.rɪˌnoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "diltiazem",
     "alias": "dil-TY-a-zem",
     "ipa": "dɪlˈtaɪ.ə.zəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "verapamil",
     "alias": "ver-AP-a-mil",
     "ipa": "vəˈræ.pə.mɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nifedipine",
     "alias": "ny-FED-i-peen",
     "ipa": "naɪˈfɛ.dɪˌpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "doxazosin",
     "alias": "dok-SAZ-oh-sin",
     "ipa": "dɑkˈsæ.zə.sɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "terazosin",
     "alias": "ter-AZ-oh-sin",
     "ipa": "təˈræ.zə.sɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "prazosin",
     "alias": "PRAZ-oh-sin",
     "ipa": "ˈpræzəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "amiodarone",
     "alias": "am-ee-OH-da-rone",
     "ipa": "əˈmiːoʊdəroʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "dronedarone",
     "alias": "droe-NEH-da-rone",
     "ipa": "droʊˈnɛdəroʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sotalol",
     "alias": "SOH-ta-lol",
     "ipa": "ˈsoʊtəlɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "propafenone",
     "alias": "pro-PAF-eh-none",
     "ipa": "proʊˈpæfənoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "flecainide",
     "alias": "FLEH-ka-nide",
     "ipa": "ˈflɛkənaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "mexiletine",
     "alias": "mex-IL-eh-teen",
     "ipa": "mɛkˈsɪlətiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "isosorbide dinitrate",
     "alias": "eye-so-SOR-bide dye-NYE-trate",
     "ipa": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "isosorbide mononitrate",
     "alias": "eye-so-SOR-bide mon-oh-NYE-trate",
     "ipa": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "warfarin",
     "alias": "war-FAR-in",
     "ipa": "ˈwɔːrfərɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rivaroxaban",
     "alias": "riv-a-ROX-a-ban",
     "ipa": "ˌrɪvəˈrɒksəbæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "apixaban",
     "alias": "a-PIX-a-ban",
     "ipa": "əˈpɪksəbæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "dabigatran",
     "alias": "da-big-a-TRAN",
     "ipa": "dəˈbɪɡətræn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "clopidogrel",
     "alias": "kloh-PID-oh-grel",
     "ipa": "kloʊˈpɪdəɡrɛl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "prasugrel",
     "alias": "PRA-soo-grel",
     "ipa": "ˈpræsʊɡrɛl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ticagrelor",
     "alias": "tye-ka-GREL-or",
     "ipa": "taɪˈkæɡrəlɔːr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ezetimibe",
     "alias": "eh-ZET-i-mibe",
     "ipa": "ɪˈzɛtəmaɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fenofibrate",
     "alias": "fen-oh-FYE-brate",
     "ipa": "ˌfɛnoʊˈfaɪbreɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "gemfibrozil",
     "alias": "jem-FYE-broh-zil",
     "ipa": "dʒɛmˈfaɪbrəzɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "niacin",
     "alias": "NYE-a-sin",
     "ipa": "ˈnaɪəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "colesevelam",
     "alias": "koh-leh-SEV-eh-lam",
     "ipa": "koʊləˈsɛvəlæm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "simvastatin",
     "alias": "sim-va-STAT-in",
     "ipa": "ˌsɪmvəˈstætɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rosuvastatin",
     "alias": "roh-soo-va-STAT-in",
     "ipa": "ˌroʊsuˈvæstətɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pravastatin",
     "alias": "PRAV-va-STAT-in",
     "ipa": "ˈprævəstætɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "fluvastatin",
     "alias": "FLOO-va-STAT-in",
     "ipa": "fluːˈvæstətɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pitavastatin",
     "alias": "pit-a-va-STAT-in",
     "ipa": "ˌpɪtəˈvæstətɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "alirocumab",
     "alias": "a-LIR-oh-kyoo-mab",
     "ipa": "əˌlɪroʊˈkuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "evolocumab",
     "alias": "e-VOL-oh-kyoo-mab",
     "ipa": "ɪˈvoʊloʊkuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "metformin",
     "alias": "met-FOR-min",
     "ipa": "mɛtˈfɔːrmɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "glipizide",
     "alias": "GLIP-i-zide",
     "ipa": "ˈɡlɪpəzaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "glyburide",
     "alias": "GLY-bur-ide",
     "ipa": "ˈɡlaɪbjʊˌraɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pioglitazone",
     "alias": "py-oh-GLIT-ah-zone",
     "ipa": "ˌpaɪoʊɡlɪˈtæzoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sitagliptin",
     "alias": "sit-ah-GLIP-tin",
     "ipa": "ˌsɪtəˈɡlɪptɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "linagliptin",
     "alias": "lin-ah-GLIP-tin",
     "ipa": "ˌlɪnəˈɡlɪptɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "saxagliptin",
     "alias": "sax-ah-GLIP-tin",
     "ipa": "ˌsæksəˈɡlɪptɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "alogliptin",
     "alias": "al-oh-GLIP-tin",
     "ipa": "ˌæloʊˈɡlɪptɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "empagliflozin",
     "alias": "em-pah-gli-FLOH-zin",
     "ipa": "ˌɛmpəɡlɪˈfloʊzɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "canagliflozin",
     "alias": "kan-ah-gli-FLOH-zin",
     "ipa": "ˌkænəɡlɪˈfloʊzɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "dapagliflozin",
     "alias": "dap-ah-gli-FLOH-zin",
     "ipa": "ˌdæpəɡlɪˈfloʊzɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "semaglutide",
     "alias": "sem-ah-GLOO-tide",
     "ipa": "ˌsɛməˈɡluːtaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "liraglutide",
     "alias": "lir-ah-GLOO-tide",
     "ipa": "ˌlɪrəˈɡluːtaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "exenatide",
     "alias": "ex-EN-ah-tide",
     "ipa": "ɛɡˈzɛnətaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dulaglutide",
     "alias": "doo-lah-GLOO-tide",
     "ipa": "ˌduːləˈɡluːtaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tirzepatide",
     "alias": "teer-ZEP-ah-tide",
     "ipa": "tɪrˈzɛpətaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "insulin glargine",
     "alias": "IN-suh-lin GLAR-jeen",
     "ipa": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "insulin lispro",
     "alias": "IN-suh-lin LIS-proh",
     "ipa": "ˈɪnsəlɪn ˈlɪsproʊ",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "insulin aspart",
     "alias": "IN-suh-lin AS-part",
     "ipa": "ˈɪnsəlɪn ˈæspɑːrt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "insulin detemir",
     "alias": "IN-suh-lin DET-uh-meer",
     "ipa": "ˈɪnsəlɪn dəˈtiːmɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "insulin degludec",
     "alias": "IN-suh-lin deh-GLOO-dek",
     "ipa": "ˈɪnsəlɪn dɛˈɡluːdɛk",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "acarbose",
     "alias": "AY-kar-bose",
     "ipa": "ˈækɑːrboʊs",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "miglitol",
     "alias": "MIG-li-tol",
     "ipa": "ˈmɪɡlɪtɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "repaglinide",
     "alias": "reh-PAG-li-nide",
     "ipa": "ˌrɛpəˈɡlaɪnaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nateglinide",
     "alias": "nah-TEG-li-nide",
     "ipa": "nəˈtɛɡlɪnaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "amoxicillin",
     "alias": "ah-MOX-i-sil-in",
     "ipa": "əˌmɑːksɪˈsɪlɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "amoxicillin clavulanate",
     "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
     "ipa": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "azithromycin",
     "alias": "ah-ZITH-roh-my-sin",
     "ipa": "æˌzɪθroʊˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cephalexin",
     "alias": "sef-ah-LEX-in",
     "ipa": "ˌsɛfəˈlɛksɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ciprofloxacin",
     "alias": "sip-roh-FLOX-ah-sin",
     "ipa": "ˌsaɪproʊˈflɑːksəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "clindamycin",
     "alias": "klin-dah-MY-sin",
     "ipa": "ˌklɪndəˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "doxycycline",
     "alias": "dok-see-SY-kleen",
     "ipa": "ˌdɑːksiˈsaɪkliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "metronidazole",
     "alias": "me-tro-NI-da-zole",
     "ipa": "ˌmɛtrəˈnaɪdəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sulfamethoxazole trimethoprim",
     "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
     "ipa": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nitrofurantoin",
     "alias": "ny-tro-fyoor-an-TOYN",
     "ipa": "ˌnaɪtroʊfjʊˈræntoʊɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "penicillin",
     "alias": "pen-i-SIL-in",
     "ipa": "ˌpɛnɪˈsɪlɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "vancomycin",
     "alias": "van-ko-MY-sin",
     "ipa": "væŋkoʊˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "levofloxacin",
     "alias": "lee-vo-FLOX-a-sin",
     "ipa": "ˌlɛvoʊˈflɑksəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "moxifloxacin",
     "alias": "mox-i-FLOX-a-sin",
     "ipa": "ˌmɑksɪˈflɑksəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cefdinir",
     "alias": "SEF-di-ner",
     "ipa": "ˈsɛfdɪnɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cefaclor",
     "alias": "SEF-a-klor",
     "ipa": "ˈsɛfəklɔr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cefuroxime",
     "alias": "se-fyoor-OX-eem",
     "ipa": "ˌsɛfjʊˈrɑksiːm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ceftriaxone",
     "alias": "sef-try-AX-one",
     "ipa": "ˌsɛftraɪˈæksoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "cefepime",
     "alias": "SEF-e-peem",
     "ipa": "ˈsɛfəpiːm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "meropenem",
     "alias": "mer-oh-PEN-em",
     "ipa": "məˈrɑpənɛm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ertapenem",
     "alias": "er-ta-PEN-em",
     "ipa": "ˌɛrtəˈpiːnɛm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "imipenem",
     "alias": "i-mi-PEN-em",
     "ipa": "ˌɪmɪˈpiːnɛm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "piperacillin tazobactam",
     "alias": "pi-PER-a-sil-in ta-zo-BAK-tam",
     "ipa": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "gentamicin",
     "alias": "jen-ta-MY-sin",
     "ipa": "ˌdʒɛntəˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "tobramycin",
     "alias": "toe-bra-MY-sin",
     "ipa": "ˌtoʊbrəˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "amikacin",
     "alias": "am-i-KAY-sin",
     "ipa": "ˌæmɪˈkeɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "linezolid",
     "alias": "li-NEZ-o-lid",
     "ipa": "lɪˈnɛzəlɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "daptomycin",
     "alias": "dap-toe-MY-sin",
     "ipa": "ˌdæptoʊˈmaɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tigecycline",
     "alias": "tye-ge-SY-kleen",
     "ipa": "ˌtɪɡəˈsaɪkliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "minocycline",
     "alias": "mi-no-SY-kleen",
     "ipa": "ˌmɪnoʊˈsaɪkliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rifampin",
     "alias": "ri-FAM-pin",
     "ipa": "rɪˈfæmpɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "isoniazid",
     "alias": "eye-so-NY-a-zid",
     "ipa": "ˌaɪsoʊˈnaɪəzɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pyrazinamide",
     "alias": "py-ra-ZIN-a-mide",
     "ipa": "ˌpɪrəˈzɪnəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ethambutol",
     "alias": "e-THAM-byoo-tol",
     "ipa": "ɛˈθæmbjətɔl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "fluconazole",
     "alias": "floo-KON-a-zole",
     "ipa": "fluˈkɑnəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ketoconazole",
     "alias": "kee-toe-KON-a-zole",
     "ipa": "ˌkiːtoʊˈkɑnəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "itraconazole",
     "alias": "i-tra-KON-a-zole",
     "ipa": "ˌɪtrəˈkɑnəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "voriconazole",
     "alias": "vor-ih-KON-uh-zole",
     "ipa": "ˌvɔrɪˈkɑnəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "posaconazole",
     "alias": "poh-sah-KON-uh-zole",
     "ipa": "poʊsəˈkɑnəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "acyclovir",
     "alias": "ay-SY-kloh-veer",
     "ipa": "eɪˈsaɪkləvɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "valacyclovir",
     "alias": "val-ay-SY-kloh-veer",
     "ipa": "vəˈlæsɪkləvɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "famciclovir",
     "alias": "fam-SY-kloh-veer",
     "ipa": "fæmˈsaɪkləvɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oseltamivir",
     "alias": "oh-sel-TAM-ih-veer",
     "ipa": "ˌoʊsɛlˈtæmɪvɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "aciklovir",
     "alias": "ah-SEE-kloh-veer",
     "ipa": "eɪˈsaɪkləvɪr",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ibuprofen",
     "alias": "eye-byoo-PROH-fen",
     "ipa": "ˌaɪbjuˈproʊfən",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "naproxen",
     "alias": "nah-PROK-sen",
     "ipa": "nəˈprɑksən",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "celecoxib",
     "alias": "sel-eh-KOK-sib",
     "ipa": "səˈlɛksɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "meloxicam",
     "alias": "mel-OK-sih-kam",
     "ipa": "məˈlɑksɪkæm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "diclofenac",
     "alias": "dye-KLOH-fen-ak",
     "ipa": "daɪˈkloʊfənæk",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ketorolac",
     "alias": "kee-TOR-oh-lak",
     "ipa": "kiˈtɔrəlæk",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "indomethacin",
     "alias": "in-doh-METH-ah-sin",
     "ipa": "ˌɪndoʊˈmɛθəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nabumetone",
     "alias": "na-BYOO-meh-tone",
     "ipa": "nəˈbjumətoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "etodolac",
     "alias": "ee-TOH-doh-lak",
     "ipa": "iˈtoʊdəlæk",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oxaprozin",
     "alias": "ok-sah-PROH-zin",
     "ipa": "ˌɑksəˈproʊzɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "acetaminophen",
     "alias": "ah-SEE-tah-MIN-oh-fen",
     "ipa": "əˌsiːtəˈmɪnəfən",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "tramadol",
     "alias": "TRAM-ah-dol",
     "ipa": "ˈtræmədɔl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "gabapentin",
     "alias": "gab-ah-PEN-tin",
     "ipa": "ˌɡæbəˈpɛntɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pregabalin",
     "alias": "pree-GAB-ah-lin",
     "ipa": "priˈɡæbəlɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "duloxetine",
     "alias": "doo-LOK-seh-teen",
     "ipa": "duˈlɑksətiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "amitriptyline",
     "alias": "am-ee-TRIP-tih-leen",
     "ipa": "ˌæmɪˈtrɪptəliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nortriptyline",
     "alias": "nor-TRIP-tih-leen",
     "ipa": "nɔrˈtrɪptəliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "topiramate",
     "alias": "toh-PIHR-ah-mayt",
     "ipa": "toʊˈpɪrəmeɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "carbamazepine",
     "alias": "kar-bah-MAZ-eh-peen",
     "ipa": "ˌkɑrbəˈmæzəpiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oxcarbazepine",
     "alias": "oks-kar-BAZ-eh-peen",
     "ipa": "ˌɑkskɑrˈbæzəpiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "lamotrigine",
     "alias": "lah-MOH-trih-jeen",
     "ipa": "ləˈmɑtrɪdʒiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "levetiracetam",
     "alias": "lev-eh-TIHR-ah-seh-tam",
     "ipa": "ləˌvɛtɪˈræsɪtæm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "phenytoin",
     "alias": "FEN-ih-toh-in",
     "ipa": "fəˈnɪtoʊɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "valproic acid",
     "alias": "val-PROH-ik AS-id",
     "ipa": "vælˈproʊɪk ˈæsɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "zonisamide",
     "alias": "zoh-NIS-ah-mide",
     "ipa": "zoʊˈnɪsəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "lacosamide",
     "alias": "lah-KOH-sah-mide",
     "ipa": "ləˈkoʊsəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rufinamide",
     "alias": "roo-FIN-ah-mide",
     "ipa": "ruˈfɪnəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "omeprazole",
     "alias": "oh-MEP-rah-zole",
     "ipa": "oʊˈmɛprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pantoprazole",
     "alias": "pan-TOH-prah-zole",
     "ipa": "pænˈtoʊprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "esomeprazole",
     "alias": "es-oh-MEP-rah-zole",
     "ipa": "ɛˈsoʊmɛprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lansoprazole",
     "alias": "lan-SOH-prah-zole",
     "ipa": "lænˈsoʊprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rabeprazole",
     "alias": "rah-BEP-rah-zole",
     "ipa": "rəˈbɛprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dexlansoprazole",
     "alias": "deks-lan-SOH-prah-zole",
     "ipa": "dɛksˌlænˈsoʊprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "famotidine",
     "alias": "fam-OH-tih-deen",
     "ipa": "fəˈmoʊtɪdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ranitidine",
     "alias": "ran-IH-tih-deen",
     "ipa": "rəˈnɪtɪdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "cimetidine",
     "alias": "sy-MET-ih-deen",
     "ipa": "saɪˈmɛtɪdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nizatidine",
     "alias": "ny-ZAT-ih-deen",
     "ipa": "naɪˈzætɪdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "aluminum hydroxide",
     "alias": "ah-LOO-min-um hy-DROK-side",
     "ipa": "əˈluːmɪnəm haɪˈdrɒksaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "simethicone",
     "alias": "sy-METH-ih-kone",
     "ipa": "saɪˈmɛθɪkoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ondansetron",
     "alias": "on-DAN-seh-tron",
     "ipa": "ɒnˈdænsətrɒn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "granisetron",
     "alias": "gran-IS-eh-tron",
     "ipa": "ɡrəˈnɪsətrɒn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "palonosetron",
     "alias": "pal-oh-NOH-seh-tron",
     "ipa": "pəˌloʊnəˈsɛtrɒn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "metoclopramide",
     "alias": "met-oh-KLOH-prah-mide",
     "ipa": "məˌtoʊkloʊˈpræmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "promethazine",
     "alias": "proh-METH-ah-zeen",
     "ipa": "proʊˈmɛθəziːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "prochlorperazine",
     "alias": "proh-klor-PER-ah-zeen",
     "ipa": "proʊˌklɔːrˈpɛrəziːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "loperamide",
     "alias": "loh-PER-ah-mide",
     "ipa": "loʊˈpɛrəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "docusate",
     "alias": "DOK-yoo-sate",
     "ipa": "ˈdɒkjuseɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "polyethylene glycol",
     "alias": "pol-ee-ETH-ih-leen GLY-kol",
     "ipa": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bisacodyl",
     "alias": "bis-AK-oh-dil",
     "ipa": "baɪˈsækədɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "senna",
     "alias": "SEN-ah",
     "ipa": "ˈsɛnə",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lactulose",
     "alias": "LAK-tyoo-lose",
     "ipa": "ˈlæktjuːloʊs",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "albuterol",
     "alias": "al-BOO-ter-ol",
     "ipa": "ælˈbjuːtərɒl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "levalbuterol",
     "alias": "lev-al-BOO-ter-ol",
     "ipa": "ˌlɛvælˈbjuːtərɒl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ipratropium",
     "alias": "ip-ra-TROH-pee-um",
     "ipa": "ˌɪprəˈtroʊpiəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "tiotropium",
     "alias": "ty-oh-TROH-pee-um",
     "ipa": "ˌtaɪəˈtroʊpiəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "umeclidinium",
     "alias": "yoo-meh-kli-DIN-ee-um",
     "ipa": "ˌjuːˌmɛklɪˈdɪniəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "glycopyrrolate",
     "alias": "gly-koh-PIR-oh-late",
     "ipa": "ˌɡlaɪkoʊˈpɪroʊleɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "formoterol",
     "alias": "for-MOH-ter-ol",
     "ipa": "fɔrˈmɑːtərɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "salmeterol",
     "alias": "sal-MEH-ter-ol",
     "ipa": "sælˈmiːtərɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "indacaterol",
     "alias": "in-da-KA-ter-ol",
     "ipa": "ˌɪndəˈkætərɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "olodaterol",
     "alias": "oh-loh-DA-ter-ol",
     "ipa": "ˌoʊloʊˈdætərɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "fluticasone",
     "alias": "floo-TIK-a-sone",
     "ipa": "fluːˈtɪkəsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "budesonide",
     "alias": "byoo-DEH-soh-nide",
     "ipa": "bjuːˈdɛsənaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "mometasone",
     "alias": "moh-MEH-ta-sone",
     "ipa": "moʊˈmɛtəsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ciclesonide",
     "alias": "sik-LEH-soh-nide",
     "ipa": "sɪˈklɛsənaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "beclomethasone",
     "alias": "beh-kloh-MEH-tha-sone",
     "ipa": "ˌbɛkloʊˈmɛθəsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "montelukast",
     "alias": "mon-teh-LOO-kast",
     "ipa": "ˌmɑːntəˈluːkæst",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "zafirlukast",
     "alias": "za-FIR-loo-kast",
     "ipa": "zəˈfɪrluːkæst",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "zileuton",
     "alias": "zy-LOO-ton",
     "ipa": "zaɪˈluːtɑːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "theophylline",
     "alias": "thee-OFF-i-lin",
     "ipa": "ˌθiːəˈfɪliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "roflumilast",
     "alias": "roh-FLOO-mi-last",
     "ipa": "roʊˈfluːmɪlæst",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "benralizumab",
     "alias": "ben-ra-LIZ-oo-mab",
     "ipa": "bɛnˈrælɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "mepolizumab",
     "alias": "meh-poh-LIZ-oo-mab",
     "ipa": "məˈpɑːlɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "reslizumab",
     "alias": "rez-LIZ-oo-mab",
     "ipa": "rɛzˈlɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dupilumab",
     "alias": "doo-PIL-oo-mab",
     "ipa": "duːˈpɪljuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "omalizumab",
     "alias": "oh-ma-LIZ-oo-mab",
     "ipa": "oʊˈmælɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sertraline",
     "alias": "SER-tra-leen",
     "ipa": "ˈsɜːrtrəliːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fluoxetine",
     "alias": "floo-OK-seh-teen",
     "ipa": "fluːˈɑːksətiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "escitalopram",
     "alias": "es-sit-AL-oh-pram",
     "ipa": "ˌɛsɪˈtæləpræm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "citalopram",
     "alias": "sit-AL-oh-pram",
     "ipa": "sɪˈtæləpræm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "paroxetine",
     "alias": "pa-ROK-seh-teen",
     "ipa": "pəˈrɑːksətiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "venlafaxine",
     "alias": "ven-la-FAK-seen",
     "ipa": "vɛnˈlæfəksiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "desvenlafaxine",
     "alias": "des-ven-la-FAK-seen",
     "ipa": "dɛzˈvɛnələˌfæksiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "milnacipran",
     "alias": "mil-NA-si-pran",
     "ipa": "mɪlˈnæsɪpræn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bupropion",
     "alias": "byoo-PRO-pee-on",
     "ipa": "bjuˈproʊpiɑn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "mirtazapine",
     "alias": "mir-TAZ-a-peen",
     "ipa": "mɪrˈtæzəpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "trazodone",
     "alias": "TRAZ-oh-done",
     "ipa": "ˈtræzədoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nefazodone",
     "alias": "ne-FAZ-oh-done",
     "ipa": "nəˈfæzədoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "vortioxetine",
     "alias": "vor-tee-OK-seh-teen",
     "ipa": "vɔrtiˈɑksətin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vilazodone",
     "alias": "vil-AZ-oh-done",
     "ipa": "vɪˈlæzədoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "fluvoxamine",
     "alias": "floo-VOK-sah-meen",
     "ipa": "fluˈvɑksəmin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "clomipramine",
     "alias": "klo-MIP-rah-meen",
     "ipa": "kloʊˈmɪprəmin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "desipramine",
     "alias": "des-IP-rah-meen",
     "ipa": "dəˈsɪprəmin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "imipramine",
     "alias": "im-IP-rah-meen",
     "ipa": "ɪˈmɪprəmin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "protriptyline",
     "alias": "pro-TRIP-tih-leen",
     "ipa": "proʊˈtrɪptəlin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "phenelzine",
     "alias": "FEN-el-zeen",
     "ipa": "ˈfɛnəlzin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tranylcypromine",
     "alias": "tran-il-SIP-roh-meen",
     "ipa": "trænɪlˈsɪprəmin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "isocarboxazid",
     "alias": "eye-so-kar-BOK-sah-zid",
     "ipa": "ˌaɪsoʊkɑrˈbɑksəzɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "selegiline",
     "alias": "se-LEJ-ih-leen",
     "ipa": "səˈlɛdʒəlin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rasagiline",
     "alias": "ra-SAJ-ih-leen",
     "ipa": "rəˈsædʒəlin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "aripiprazole",
     "alias": "a-RIP-ip-ra-zole",
     "ipa": "əˈrɪpɪprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "olanzapine",
     "alias": "oh-LAN-zah-peen",
     "ipa": "oʊˈlænzəpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "quetiapine",
     "alias": "kwe-TIE-ah-peen",
     "ipa": "kwɛˈtaɪəpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "risperidone",
     "alias": "ris-PER-ih-done",
     "ipa": "rɪˈspɛrɪdoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "paliperidone",
     "alias": "pal-ee-PER-ih-done",
     "ipa": "pəˈlɪpərɪdoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ziprasidone",
     "alias": "zip-RAS-ih-done",
     "ipa": "zɪˈpræsɪdoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lurasidone",
     "alias": "loo-RAS-ih-done",
     "ipa": "lʊˈræsɪdoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "brexpiprazole",
     "alias": "brek-SIP-ra-zole",
     "ipa": "brɛksˈpɪprəzoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "cariprazine",
     "alias": "ka-RIP-ra-zeen",
     "ipa": "kəˈrɪprəzin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "clozapine",
     "alias": "KLOZ-ah-peen",
     "ipa": "ˈkloʊzəpin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "haloperidol",
     "alias": "hal-oh-PER-ih-dol",
     "ipa": "ˌhæloʊˈpɛrɪdɔl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "chlorpromazine",
     "alias": "klor-PROH-mah-zeen",
     "ipa": "klɔrˈproʊməzin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "lithium",
     "alias": "LITH-ee-um",
     "ipa": "ˈlɪθiəm",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "valproate",
     "alias": "val-PRO-ate",
     "ipa": "vælˈproʊ.eɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "asenapine",
     "alias": "a-SEN-a-peen",
     "ipa": "əˈsɛn.ə.piːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "dexmethylphenidate",
     "alias": "dex-METH-il-FEN-i-date",
     "ipa": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "lisdexamfetamine",
     "alias": "lis-dex-am-FET-a-meen",
     "ipa": "lɪsˌdɛks.æmˈfɛt.ə.miːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "methylphenidate",
     "alias": "METH-il-FEN-i-date",
     "ipa": "ˌmɛθ.əlˈfɛn.ə.deɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "amfetamine",
     "alias": "am-FET-a-meen",
     "ipa": "æmˈfɛt.ə.miːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "guanfacine",
     "alias": "GWAHN-fa-seen",
     "ipa": "ˈɡwɑːn.fə.siːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tamoxifen",
     "alias": "ta-MOX-i-fen",
     "ipa": "təˈmɑːk.sə.fən",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "anastrozole",
     "alias": "an-AS-troh-zole",
     "ipa": "əˈnæs.trə.zɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "letrozole",
     "alias": "LET-roh-zole",
     "ipa": "ˈlɛ.trə.zɔːl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "exemestane",
     "alias": "ex-e-MES-tane",
     "ipa": "ˌɛk.səˈmɛs.teɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "leuprolide",
     "alias": "loo-PRO-lide",
     "ipa": "luːˈproʊ.laɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "goserelin",
     "alias": "goh-SER-a-lin",
     "ipa": "ɡoʊˈsɛr.ə.lɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "triptorelin",
     "alias": "trip-toh-REL-in",
     "ipa": "trɪpˈtɔːr.ə.lɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "bicalutamide",
     "alias": "bye-ka-LOO-ta-mide",
     "ipa": "baɪ.kəˈluː.tə.maɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "enzalutamide",
     "alias": "en-za-LOO-ta-mide",
     "ipa": "ɛn.zəˈluː.tə.maɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "abiraterone",
     "alias": "a-bir-A-ter-one",
     "ipa": "əˈbɪr.ə.tə.roʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "imatinib",
     "alias": "i-MAT-in-ib",
     "ipa": "ɪˈmæ.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dasatinib",
     "alias": "da-SAT-in-ib",
     "ipa": "dəˈsæ.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nilotinib",
     "alias": "ny-LOH-tin-ib",
     "ipa": "naɪˈloʊ.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "bosutinib",
     "alias": "boh-SOO-tin-ib",
     "ipa": "boʊˈsuː.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ponatinib",
     "alias": "poh-NA-tin-ib",
     "ipa": "poʊˈnæ.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ibrutinib",
     "alias": "eye-BROO-tin-ib",
     "ipa": "aɪˈbruː.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "acalabrutinib",
     "alias": "a-KAL-a-BROO-tin-ib",
     "ipa": "əˌkæl.əˈbruː.tɪ.nɪb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "venetoclax",
     "alias": "ve-NET-oh-klax",
     "ipa": "vəˈnɛ.toʊ.klæks",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rituximab",
     "alias": "ri-TUX-i-mab",
     "ipa": "rɪˈtʊk.sɪ.mæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "trastuzumab",
     "alias": "tras-TUZ-oo-mab",
     "ipa": "træsˈtʊ.zuː.mæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pertuzumab",
     "alias": "per-TUZ-oo-mab",
     "ipa": "pərˈtʊ.zuː.mæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "bevacizumab",
     "alias": "beh-va-KIZ-oo-mab",
     "ipa": "bəˌvæk.sɪˈzuː.mæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cetuximab",
     "alias": "se-TUX-i-mab",
     "ipa": "səˈtʊk.sɪ.mæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "panitumumab",
     "alias": "pan-i-TOO-moo-mab",
     "ipa": "ˌpænɪˈtjuːməmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pembrolizumab",
     "alias": "pem-broh-LIZ-oo-mab",
     "ipa": "ˌpɛmbroʊˈlɪzjuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nivolumab",
     "alias": "niv-OL-oo-mab",
     "ipa": "nɪˈvɒljʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ipilimumab",
     "alias": "i-pi-LIM-oo-mab",
     "ipa": "ɪˌpɪlɪˈmuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "atezolizumab",
     "alias": "a-TEZ-oh-LIZ-oo-mab",
     "ipa": "əˌtɛzoʊˈlɪzjuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "durvalumab",
     "alias": "dur-VAL-oo-mab",
     "ipa": "dɜːrˈvæljʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "avelumab",
     "alias": "a-VEL-oo-mab",
     "ipa": "əˈvɛljʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "cisplatin",
     "alias": "sis-PLAT-in",
     "ipa": "sɪsˈpleɪtɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "carboplatin",
     "alias": "kar-boh-PLAT-in",
     "ipa": "kɑːrˈboʊplætɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "oxaliplatin",
     "alias": "ok-SAL-i-plat-in",
     "ipa": "ɒkˈsælɪplætɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "paclitaxel",
     "alias": "pak-li-TAKS-el",
     "ipa": "ˌpæklɪˈtæksɛl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "docetaxel",
     "alias": "doh-se-TAKS-el",
     "ipa": "ˌdoʊsɪˈtæksɛl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "doxorubicin",
     "alias": "dok-soh-ROO-bi-sin",
     "ipa": "ˌdɒksəˈruːbɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "daunorubicin",
     "alias": "daw-noh-ROO-bi-sin",
     "ipa": "ˌdɔːnəˈruːbɪsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "vincristine",
     "alias": "vin-KRIS-teen",
     "ipa": "vɪnˈkrɪstiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vinblastine",
     "alias": "vin-BLAS-teen",
     "ipa": "vɪnˈblæstiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vinorelbine",
     "alias": "vi-NOR-el-been",
     "ipa": "vɪˈnɔːrɛlbiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "etoposide",
     "alias": "e-TOH-poh-side",
     "ipa": "ɪˈtoʊpəsaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cyclophosphamide",
     "alias": "sy-kloh-FOS-fa-mide",
     "ipa": "ˌsaɪkloʊˈfɒsfəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ifosfamide",
     "alias": "i-FOS-fa-mide",
     "ipa": "ɪˈfɒsfəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "methotrexate",
     "alias": "meth-oh-TREK-sate",
     "ipa": "ˌmɛθəˈtrɛkseɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pemetrexed",
     "alias": "pem-e-TREK-sed",
     "ipa": "ˌpɛmɪˈtrɛksɛd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "gemcitabine",
     "alias": "jem-SITE-a-been",
     "ipa": "dʒɛmˈsaɪtəbiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "fluorouracil",
     "alias": "floor-oh-YOO-ra-sil",
     "ipa": "ˌflʊroʊˈjʊɚəsɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "capecitabine",
     "alias": "ka-pe-SITE-a-been",
     "ipa": "ˌkæpɪˈsaɪtəbiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cytarabine",
     "alias": "sy-TAIR-a-been",
     "ipa": "saɪˈtɛɚəbiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "adalimumab",
     "alias": "a-da-LIM-oo-mab",
     "ipa": "əˌdælɪˈmuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "etanercept",
     "alias": "e-TAN-er-sept",
     "ipa": "ɪˈtænɚsɛpt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "infliximab",
     "alias": "in-FLIK-si-mab",
     "ipa": "ɪnˈflɪksɪmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "certolizumab",
     "alias": "ser-toh-LIZ-oo-mab",
     "ipa": "ˌsɜːrtoʊˈlɪzjuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "golimumab",
     "alias": "go-LIM-ue-mab",
     "ipa": "ɡoʊˈlɪmjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "tocilizumab",
     "alias": "TOE-sih-LIZ-ue-mab",
     "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "sarilumab",
     "alias": "sar-IL-ue-mab",
     "ipa": "ˌsærɪˈluːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ustekinumab",
     "alias": "US-te-KIN-ue-mab",
     "ipa": "ˌʌstəˈkɪnjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "secukinumab",
     "alias": "SEK-ue-KIN-ue-mab",
     "ipa": "ˌsɛkjʊˈkɪnjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ixekizumab",
     "alias": "IX-e-KIZ-ue-mab",
     "ipa": "ˌɪksɛˈkɪzjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "brodalumab",
     "alias": "broe-DAL-ue-mab",
     "ipa": "broʊˈdæljʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "guselkumab",
     "alias": "gus-ELK-ue-mab",
     "ipa": "ˌɡʌsɛlˈkuːmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "risankizumab",
     "alias": "RIS-an-KIZ-ue-mab",
     "ipa": "ˌrɪsæŋˈkɪzjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tildrakizumab",
     "alias": "TIL-dra-KIZ-ue-mab",
     "ipa": "tɪlˈdrækɪzjʊˌmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "abatacept",
     "alias": "a-BAT-a-sept",
     "ipa": "ˌæbəˈtæsɛpt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "leflunomide",
     "alias": "le-FLOO-no-mide",
     "ipa": "ˌlɛfˈluːnəˌmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sulfasalazine",
     "alias": "SUL-fa-SAL-a-zeen",
     "ipa": "ˌsʌlfəˈsæləˌziːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hydroxychloroquine",
     "alias": "hy-DROX-ee-KLOR-oh-kween",
     "ipa": "haɪˌdrɑksiˈklɔrəˌkwin",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "azathioprine",
     "alias": "AY-za-THYE-oh-preen",
     "ipa": "ˌæzəˈθaɪəˌpriːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "mycophenolate",
     "alias": "MYE-koe-FEN-oh-late",
     "ipa": "ˌmaɪkoʊˈfɛnəˌleɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tacrolimus",
     "alias": "ta-KROE-li-mus",
     "ipa": "təˈkroʊlɪməs",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cyclosporine",
     "alias": "SYE-kloe-SPOR-een",
     "ipa": "ˌsaɪkloʊˈspɔriːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sirolimus",
     "alias": "sir-OH-li-mus",
     "ipa": "sɪˈroʊlɪməs",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "everolimus",
     "alias": "e-VER-oh-LI-mus",
     "ipa": "ɛˈvɛrəlɪməs",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "levodopa",
     "alias": "LEE-voe-DOE-pa",
     "ipa": "ˌlɛvoʊˈdoʊpə",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "carbidopa",
     "alias": "KAR-bi-DOE-pa",
     "ipa": "ˌkɑrbɪˈdoʊpə",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pramipexole",
     "alias": "PRAM-i-PEX-ole",
     "ipa": "ˌpræmɪˈpɛksoʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ropinirole",
     "alias": "roe-PIN-i-role",
     "ipa": "roʊˈpɪnəˌroʊl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "rotigotine",
     "alias": "roe-TIG-oh-teen",
     "ipa": "roʊˈtɪɡəˌtiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "amantadine",
     "alias": "a-MAN-ta-deen",
     "ipa": "əˈmæntəˌdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "entacapone",
     "alias": "en-TAK-a-pone",
     "ipa": "ɛnˈtækəˌpoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "safinamide",
     "alias": "sa-FIN-a-mide",
     "ipa": "səˈfɪnəˌmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "apomorphine",
     "alias": "AP-oh-MOR-feen",
     "ipa": "ˌæpəˈmɔrfiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "donepezil",
     "alias": "doe-NEP-e-zil",
     "ipa": "doʊˈnɛpəzɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rivastigmine",
     "alias": "riv-uh-STIG-meen",
     "ipa": "ˌrɪvəˈstɪɡmiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "galantamine",
     "alias": "guh-LAN-tuh-meen",
     "ipa": "ɡəˈlæntəmiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "memantine",
     "alias": "muh-MAN-teen",
     "ipa": "məˈmæntiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "glatiramer",
     "alias": "gluh-TIR-uh-mer",
     "ipa": "ɡləˈtɪrəmər",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fingolimod",
     "alias": "fin-GOL-ih-mod",
     "ipa": "fɪŋˈɡɒlɪmɒd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dimethyl fumarate",
     "alias": "die-METH-ul FYOO-muh-rate",
     "ipa": "daɪˈmɛθəl ˈfjuməˌreɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "teriflunomide",
     "alias": "ter-ih-FLOO-noh-mide",
     "ipa": "ˌtɛrɪˈflunəmaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ozanimod",
     "alias": "oh-ZAN-ih-mod",
     "ipa": "oʊˈzænɪmɒd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "siponimod",
     "alias": "sih-PON-ih-mod",
     "ipa": "sɪˈpɒnɪmɒd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "natalizumab",
     "alias": "na-tal-IZ-uh-mab",
     "ipa": "ˌnætəˈlɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ocrelizumab",
     "alias": "ok-re-LIZ-uh-mab",
     "ipa": "ˌɒkrɪˈlɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ofatumumab",
     "alias": "oh-fuh-TOO-muh-mab",
     "ipa": "ˌɒfəˈtumʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fumarate",
     "alias": "FYOO-muh-rate",
     "ipa": "ˈfjuməˌreɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "levothyroxine",
     "alias": "lee-voh-thigh-ROX-een",
     "ipa": "ˌliːvoʊθaɪˈrɒksiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "prednisone",
     "alias": "PRED-nih-zone",
     "ipa": "ˈprɛdnɪsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "prednisolone",
     "alias": "pred-NIS-oh-lone",
     "ipa": "prɛdˈnɪsəloʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "methylprednisolone",
     "alias": "METH-ul-pred-NIS-oh-lone",
     "ipa": "ˌmɛθəlprɛdˈnɪsəloʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hydrocortisone",
     "alias": "HIGH-dro-KOR-tih-zone",
     "ipa": "ˌhaɪdroʊˈkɔːrtɪsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dexamethasone",
     "alias": "dex-uh-METH-uh-zone",
     "ipa": "ˌdɛksəˈmɛθəsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fludrocortisone",
     "alias": "floo-dro-KOR-tih-zone",
     "ipa": "ˌfludroʊˈkɔːrtɪsoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "alendronate",
     "alias": "uh-LEN-dro-nate",
     "ipa": "əˈlɛndrəneɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "risedronate",
     "alias": "rih-SED-ro-nate",
     "ipa": "rɪˈsɛdrəneɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ibandronate",
     "alias": "ih-BAN-dro-nate",
     "ipa": "ɪˈbændrəneɪt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "zoledronic acid",
     "alias": "zoh-leh-DRON-ik AS-id",
     "ipa": "zoʊˈlɛdrɒnɪk ˈæsɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "denosumab",
     "alias": "den-OH-suh-mab",
     "ipa": "dəˈnoʊsʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "teriparatide",
     "alias": "ter-ih-PAR-uh-tide",
     "ipa": "ˌtɛrɪˈpærətaɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "raloxifene",
     "alias": "ral-OX-ih-feen",
     "ipa": "ræˈlɒksɪfiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "calcitonin",
     "alias": "kal-sih-TONE-in",
     "ipa": "ˌkælsɪˈtoʊnɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tadalafil",
     "alias": "tuh-DAF-ih-lil",
     "ipa": "təˈdælɪfɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sildenafil",
     "alias": "sil-DEN-uh-fil",
     "ipa": "sɪlˈdɛnəfɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "vardenafil",
     "alias": "var-DEN-ah-fil",
     "ipa": "vɑrˈdɛnəfɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "finasteride",
     "alias": "fin-AS-ter-ide",
     "ipa": "fɪˈnæstəˌraɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dutasteride",
     "alias": "doo-TAS-ter-ide",
     "ipa": "duˈtæstəˌraɪd",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tamsulosin",
     "alias": "tam-SOO-loh-sin",
     "ipa": "tæmˈsuːləsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "silodosin",
     "alias": "si-LOH-doh-sin",
     "ipa": "sɪˈloʊdəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "alfuzosin",
     "alias": "al-FOO-zoh-sin",
     "ipa": "ælˈfjuːzəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oxybutynin",
     "alias": "ok-see-BYOO-ti-nin",
     "ipa": "ˌɑksɪˈbjuːtɪnɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tolterodine",
     "alias": "tol-TER-oh-deen",
     "ipa": "tɔlˈtɛrəˌdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "solifenacin",
     "alias": "sol-i-FEN-ah-sin",
     "ipa": "ˌsoʊlɪˈfɛnəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "darifenacin",
     "alias": "dar-i-FEN-ah-sin",
     "ipa": "ˌdærɪˈfɛnəsɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "mirabegron",
     "alias": "mir-ah-BEG-ron",
     "ipa": "mɪˈræbəˌɡrɑn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "phenazopyridine",
     "alias": "fen-az-oh-PYR-i-deen",
     "ipa": "fəˌnæzoʊˈpɪrɪdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hydroxyzine",
     "alias": "hy-DROK-si-zeen",
     "ipa": "haɪˈdrɑksɪˌziːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fexofenadine",
     "alias": "fek-soh-FEN-ah-deen",
     "ipa": "ˌfɛksoʊˈfɛnəˌdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "loratadine",
     "alias": "lor-AT-ah-deen",
     "ipa": "lɔˈrætəˌdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cetirizine",
     "alias": "se-TIR-i-zeen",
     "ipa": "səˈtɪrɪˌziːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "diphenhydramine",
     "alias": "dy-fen-HY-drah-meen",
     "ipa": "ˌdaɪfɛnˈhaɪdrəˌmiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "chlorpheniramine",
     "alias": "klor-fen-EER-ah-meen",
     "ipa": "ˌklɔrfɛnˈɪrəˌmiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "azelastine",
     "alias": "ah-ZEL-ah-steen",
     "ipa": "əˈzɛləˌstiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "olopatadine",
     "alias": "oh-loh-PAT-ah-deen",
     "ipa": "ˌoʊloʊˈpætəˌdiːn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "modafinil",
     "alias": "mo-DAF-i-nil",
     "ipa": "moʊˈdæfɪnɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "armodafinil",
     "alias": "ar-mo-DAF-i-nil",
     "ipa": "ˌɑrmoʊˈdæfɪnɪl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "sumatriptan",
     "alias": "soo-mah-TRIP-tan",
     "ipa": "ˌsuːməˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rizatriptan",
     "alias": "ry-zah-TRIP-tan",
     "ipa": "ˌraɪzəˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "zolmitriptan",
     "alias": "zohl-mi-TRIP-tan",
     "ipa": "zoʊlˈmɪtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "eletriptan",
     "alias": "el-e-TRIP-tan",
     "ipa": "ˌɛləˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "almotriptan",
     "alias": "al-moh-TRIP-tan",
     "ipa": "ˌælmoʊˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "frovatriptan",
     "alias": "froh-vah-TRIP-tan",
     "ipa": "ˌfroʊvəˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "naratriptan",
     "alias": "nar-ah-TRIP-tan",
     "ipa": "ˌnærəˈtrɪpˌtæn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ubrogepant",
     "alias": "yoo-BROH-jeh-pant",
     "ipa": "juːˈbroʊdʒəˌpænt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "rimegepant",
     "alias": "rih-MEH-jeh-pant",
     "ipa": "rɪˈmɛdʒɪpænt",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "erenumab",
     "alias": "eh-REH-nyoo-mab",
     "ipa": "ɛˈrɛnjʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fremanezumab",
     "alias": "freh-mah-NEH-zoo-mab",
     "ipa": "friˈmænɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "galcanezumab",
     "alias": "gal-kah-NEH-zoo-mab",
     "ipa": "ɡælˈkænɪzʊmæb",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "eprodual",
     "alias": "eh-PROH-dool",
     "ipa": "ɛˈprɑduəl",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "onabotulinumtoxinA",
     "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay",
     "ipa": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "MI",
     "alias": "myocardial infarction",
     "ipa": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "COPD",
     "alias": "chronic obstructive pulmonary disease",
     "ipa": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CHF",
     "alias": "congestive heart failure",
     "ipa": "kənˈdʒɛstɪv hɑrt ˈfeljɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "UTI",
     "alias": "urinary tract infection",
     "ipa": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MRI",
     "alias": "magnetic resonance imaging",
     "ipa": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CT",
     "alias": "computed tomography",
     "ipa": "kəmˈpjutɪd təˈmɑɡrəfi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "EKG",
     "alias": "electrocardiogram",
     "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ECG",
     "alias": "electrocardiogram",
     "ipa": "ɪˌlɛktroʊˈkɑrdiəˌɡræm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "EEG",
     "alias": "electroencephalogram",
     "ipa": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "BUN",
     "alias": "blood urea nitrogen",
     "ipa": "blʌd jʊˈriə ˈnaɪtrədʒən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CMP",
     "alias": "comprehensive metabolic panel",
     "ipa": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CBC",
     "alias": "complete blood count",
     "ipa": "kəmˈplit blʌd kaʊnt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TSH",
     "alias": "thyroid stimulating hormone",
     "ipa": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HbA1c",
     "alias": "hemoglobin A one C",
     "ipa": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PT",
     "alias": "prothrombin time",
     "ipa": "proʊˈθrɑmbɪn taɪm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "INR",
     "alias": "international normalized ratio",
     "ipa": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PTT",
     "alias": "partial thromboplastin time",
     "ipa": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "DVT",
     "alias": "deep vein thrombosis",
     "ipa": "dip ven θrɑmˈboʊsɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PE",
     "alias": "pulmonary embolism",
     "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CVA",
     "alias": "cerebrovascular accident",
     "ipa": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TIA",
     "alias": "transient ischemic attack",
     "ipa": "ˈtrænziənt ɪsˈkimɪk əˈtæk",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ICU",
     "alias": "intensive care unit",
     "ipa": "ɪnˈtɛnsɪv kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NICU",
     "alias": "neonatal intensive care unit",
     "ipa": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ER",
     "alias": "emergency room",
     "ipa": "ɪˈmɜrdʒənsi rum",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ED",
     "alias": "emergency department",
     "ipa": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "OR",
     "alias": "operating room",
     "ipa": "ˈɑpəˌretɪŋ rum",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PACU",
     "alias": "post-anesthesia care unit",
     "ipa": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CCU",
     "alias": "coronary care unit",
     "ipa": "ˈkɔrəˌnɛri kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SICU",
     "alias": "surgical intensive care unit",
     "ipa": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MICU",
     "alias": "medical intensive care unit",
     "ipa": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "BP",
     "alias": "blood pressure",
     "ipa": "ˈblʌd ˈprɛʃɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HR",
     "alias": "heart rate",
     "ipa": "ˈhɑrt ˈreɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "RR",
     "alias": "respiratory rate",
     "ipa": "ˈrɛspɚəˌtɔri ˈreɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SpO2",
     "alias": "saturation of peripheral oxygen",
     "ipa": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ETCO2",
     "alias": "end-tidal carbon dioxide",
     "ipa": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "IV",
     "alias": "intravenous",
     "ipa": "ˌɪntrəˈvinəs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "IM",
     "alias": "intramuscular",
     "ipa": "ˌɪntrəˈmʌskjəlɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SC",
     "alias": "subcutaneous",
     "ipa": "ˌsʌbkjuˈteɪniəs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PO",
     "alias": "by mouth",
     "ipa": "baɪ ˈmaʊθ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PR",
     "alias": "per rectum",
     "ipa": "pɚ ˈrɛktəm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SL",
     "alias": "sublingual",
     "ipa": "sʌbˈlɪŋɡwəl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "OD",
     "alias": "right eye",
     "ipa": "ˈraɪt ˈaɪ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "OS",
     "alias": "left eye",
     "ipa": "ˈlɛft ˈaɪ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "OU",
     "alias": "both eyes",
     "ipa": "ˈboʊθ ˈaɪz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "AU",
     "alias": "both ears",
     "ipa": "ˈboʊθ ˈɪrz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "AD",
     "alias": "right ear",
     "ipa": "ˈraɪt ˈɪr",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "AS",
     "alias": "left ear",
     "ipa": "ˈlɛft ˈɪr",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "APAP",
     "alias": "acetaminophen",
     "ipa": "əˌsitəˈmɪnəfən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NSAID",
     "alias": "non-steroidal anti-inflammatory drug",
     "ipa": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PPI",
     "alias": "proton pump inhibitor",
     "ipa": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ARB",
     "alias": "angiotensin receptor blocker",
     "ipa": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ACE",
     "alias": "angiotensin-converting enzyme",
     "ipa": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "BB",
     "alias": "beta blocker",
     "ipa": "ˈbeɪtə ˈblɑkɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CCB",
     "alias": "calcium channel blocker",
     "ipa": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SSRI",
     "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter",
     "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SNRI",
     "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter",
     "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TCA",
     "alias": "tri-SIK-lik an-TI-de-PRE-sant",
     "ipa": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MAOI",
     "alias": "mono-amine OK-si-DASE in-HIB-i-ter",
     "ipa": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "DM",
     "alias": "di-a-BE-teez mel-LI-tus",
     "ipa": "ˌdaɪəˈbitiz məˈlaɪtəs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HTN",
     "alias": "hi-per-TEN-shun",
     "ipa": "ˌhaɪpɚˈtɛnʃən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HLD",
     "alias": "hi-per-LIP-i-dee-mee-uh",
     "ipa": "ˌhaɪpɚˈlɪpɪˌdimiə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CAD",
     "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ",
     "ipa": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PVD",
     "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ",
     "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CKD",
     "alias": "kron-ik KID-nee di-ZEEZ",
     "ipa": "ˈkrɑnɪk ˈkɪdni dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ESRD",
     "alias": "end-STAGE re-NAL di-ZEEZ",
     "ipa": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "AKI",
     "alias": "ak-YOOT KID-nee in-JER-ee",
     "ipa": "əˈkjut ˈkɪdni ˈɪndʒɚi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ASTHMA",
     "alias": "AZ-muh",
     "ipa": "ˈæzmə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GERD",
     "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ",
     "ipa": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "IBD",
     "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ",
     "ipa": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "IBS",
     "alias": "i-RI-ta-bul bo-WEL SIN-drom",
     "ipa": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NASH",
     "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis",
     "ipa": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NAFLD",
     "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ",
     "ipa": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HCC",
     "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma",
     "ipa": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ALL",
     "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh",
     "ipa": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "AML",
     "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh",
     "ipa": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CLL",
     "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh",
     "ipa": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CML",
     "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh",
     "ipa": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NHL",
     "alias": "non-HOJ-kin lym-FO-ma",
     "ipa": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Hodgkin",
     "alias": "HOJ-kin",
     "ipa": "ˈhɑdʒkɪn",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "MM",
     "alias": "mul-TI-pul my-eh-LO-ma",
     "ipa": "ˈmʌltɪpəl ˌmaɪəˈloʊmə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SLE",
     "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus",
     "ipa": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "RA",
     "alias": "rew-ma-TOYD ar-THRI-tis",
     "ipa": "ˌruməˈtɔɪd ɑrˈθraɪtɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "OA",
     "alias": "os-tee-o-ar-THRI-tis",
     "ipa": "ˌɑstioʊɑrˈθraɪtɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "DJD",
     "alias": "de-JEN-er-a-tiv jint di-ZEEZ",
     "ipa": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GOUT",
     "alias": "gowt",
     "ipa": "ɡˈaʊt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "MG",
     "alias": "myasthenia gravis",
     "ipa": "ˌmaɪəsˈθiniə ˈɡrævɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MS",
     "alias": "multiple sclerosis",
     "ipa": "ˈmʌltɪpəl skləˈroʊsɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ALS",
     "alias": "amyotrophic lateral sclerosis",
     "ipa": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GBS",
     "alias": "Guillain-Barré syndrome",
     "ipa": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TBI",
     "alias": "traumatic brain injury",
     "ipa": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PD",
     "alias": "Parkinson disease",
     "ipa": "ˈpɑrkɪnsən dɪˌziːz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HD",
     "alias": "Huntington disease",
     "ipa": "ˈhʌntɪŋtən dɪˌziːz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CJD",
     "alias": "Creutzfeldt-Jakob disease",
     "ipa": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SCI",
     "alias": "spinal cord injury",
     "ipa": "ˈspaɪnəl kɔrd ˈɪndʒəri",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CA",
     "alias": "cancer",
     "ipa": "ˈkænsɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "N/V",
     "alias": "nausea and vomiting",
     "ipa": "ˈnɔziə ənd ˈvɑmɪtɪŋ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SOB",
     "alias": "shortness of breath",
     "ipa": "ˈʃɔrtnəs əv brɛθ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CP",
     "alias": "cerebral palsy",
     "ipa": "səˈribrəl ˈpɔlzi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "N/V/D",
     "alias": "nausea vomiting and diarrhea",
     "ipa": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "LOC",
     "alias": "loss of consciousness",
     "ipa": "ˈlɔs əv ˈkɑnʃəsnəs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GCS",
     "alias": "Glasgow Coma Scale",
     "ipa": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HEENT",
     "alias": "head eyes ears nose and throat",
     "ipa": "hˈɛd aɪz ɪrz noʊz ən θroʊt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CV",
     "alias": "cardiovascular",
     "ipa": "ˌkɑrdioʊˈvæskjəlɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GI",
     "alias": "gastrointestinal",
     "ipa": "ˌɡæstroʊɪnˈtɛstənəl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GU",
     "alias": "genitourinary",
     "ipa": "ˌdʒɛnɪtoʊˈjʊrɪnɛri",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MSK",
     "alias": "musculoskeletal",
     "ipa": "ˌmʌskjəloʊˈskɛlətəl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Neuro",
     "alias": "NEU-roh",
     "ipa": "ˈnʊroʊ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Psych",
     "alias": "SYKE",
     "ipa": "sˈaɪk",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "Derm",
     "alias": "derm",
     "ipa": "ˈdɝm",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ENT",
     "alias": "ear nose and throat",
     "ipa": "ˈɪr noʊz ən θroʊt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "OB",
     "alias": "obstetrics",
     "ipa": "əbˈstɛtrɪks",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "GYN",
     "alias": "gynecology",
     "ipa": "ˌɡaɪnəˈkɑlədʒi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "LMP",
     "alias": "last menstrual period",
     "ipa": "læst ˈmɛnstruəl ˈpɪriəd",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "EDC",
     "alias": "estimated date of confinement",
     "ipa": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Gest",
     "alias": "gest",
     "ipa": "dʒˈɛst",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "NS",
     "alias": "normal saline",
     "ipa": "ˈnɔrməl səˈliːn",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "LR",
     "alias": "lactated Ringer's",
     "ipa": "ˈlækteɪtɪd ˈrɪŋɚz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "D5W",
     "alias": "D-five-W",
     "ipa": "dˈiː faɪv dʌbəlju",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "D5NS",
     "alias": "D-five-N-S",
     "ipa": "dˈiː faɪv ɛn ɛs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "D5LR",
     "alias": "D-five-L-R",
     "ipa": "dˈiː faɪv ɛl ɑr",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "KCl",
     "alias": "potassium chloride",
     "ipa": "pəˈtæsiəm ˈklɔraɪd",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "MgSO4",
     "alias": "mag-NEE-zee-um sul-FATE",
     "ipa": "mæɡˈniːziəm sʌlˈfeɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CaCl2",
     "alias": "KAL-see-um KLOR-ide",
     "ipa": "ˈkælsiəm ˈklɔraɪd",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NaHCO3",
     "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate",
     "ipa": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ABG",
     "alias": "arterial blood gas",
     "ipa": "ɑrˈtɪriəl blʌd ɡæs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "VBG",
     "alias": "venous blood gas",
     "ipa": "ˈviːnəs blʌd ɡæs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "LP",
     "alias": "lumbar puncture",
     "ipa": "ˈlʌmbɚ ˈpʌŋktʃɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "BM",
     "alias": "bowel movement",
     "ipa": "ˈbaʊəl ˈmuːvmənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "PEG",
     "alias": "PEG",
     "ipa": "pˈɛɡ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ICD",
     "alias": "implantable cardioverter defibrillator",
     "ipa": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Pacemaker",
     "alias": "PACE-may-ker",
     "ipa": "ˈpeɪsmeɪkɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "AICD",
     "alias": "automatic implantable cardioverter defibrillator",
     "ipa": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "CABG",
     "alias": "cabbage",
     "ipa": "ˈkæbɪdʒ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "PCI",
     "alias": "percutaneous coronary intervention",
     "ipa": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TAVR",
     "alias": "TAH-ver",
     "ipa": "ˈtɑvɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "TEVAR",
     "alias": "TEV-ar",
     "ipa": "ˈtɛvɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "EVAR",
     "alias": "EE-var",
     "ipa": "ˈivɚ",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "PTCA",
     "alias": "percutaneous transluminal coronary angioplasty",
     "ipa": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ETOH",
     "alias": "alcohol",
     "ipa": "ˈælkəˌhɔl",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "IVDU",
     "alias": "I-V drug use",
     "ipa": "ˌaɪˈvi drʌɡ ˈjuːs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ASA",
     "alias": "ASPIR-in",
     "ipa": "ˈæspɚɪn",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "NYD",
     "alias": "not yet diagnosed",
     "ipa": "nɑt jɛt ˌdaɪəɡˈnoʊzd",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "HX",
     "alias": "history",
     "ipa": "ˈhɪstɚi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "Sx",
     "alias": "symptoms",
     "ipa": "ˈsɪmptəmz",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Tx",
     "alias": "treatment",
     "ipa": "ˈtriːtmənt",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Dx",
     "alias": "diagnosis",
     "ipa": "ˌdaɪəɡˈnoʊsɪs",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "Rx",
     "alias": "prescription",
     "ipa": "prɪˈskrɪpʃən",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "FHx",
     "alias": "family history",
     "ipa": "ˈfæməli ˈhɪstɚi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "SHx",
     "alias": "social history",
     "ipa": "ˈsoʊʃəl ˈhɪstɚi",
-    "category": "acronym"
+    "category": "acronym",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "myocardial infarction",
     "alias": "my-oh-KAR-dee-al in-FARK-shun",
     "ipa": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "angina pectoris",
     "alias": "an-JY-nah PEK-tor-is",
     "ipa": "ænˈdʒaɪnə ˈpɛktərɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "arrhythmia",
     "alias": "a-RITH-mee-ah",
     "ipa": "əˈrɪðmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "atrial fibrillation",
     "alias": "AY-tree-al fib-ri-LAY-shun",
     "ipa": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ventricular fibrillation",
     "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun",
     "ipa": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tachycardia",
     "alias": "tak-ee-KAR-dee-ah",
     "ipa": "ˌtækiˈkɑːrdiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bradycardia",
     "alias": "brad-ee-KAR-dee-ah",
     "ipa": "ˌbrædiˈkɑːrdiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypertension",
     "alias": "hy-per-TEN-shun",
     "ipa": "ˌhaɪpərˈtɛnʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypotension",
     "alias": "hy-poh-TEN-shun",
     "ipa": "ˌhaɪpoʊˈtɛnʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "atherosclerosis",
     "alias": "ath-er-oh-skleh-ROH-sis",
     "ipa": "ˌæθəroʊskləˈroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "endocarditis",
     "alias": "en-doh-kar-DY-tis",
     "ipa": "ˌɛndoʊkɑːrˈdaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pericarditis",
     "alias": "per-ee-kar-DY-tis",
     "ipa": "ˌpɛrɪkɑːrˈdaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "myocarditis",
     "alias": "my-oh-kar-DY-tis",
     "ipa": "ˌmaɪoʊkɑːrˈdaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cardiomyopathy",
     "alias": "kar-dee-oh-my-OP-ah-thee",
     "ipa": "ˌkɑːrdioʊmaɪˈɑːpəθi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "thromboembolism",
     "alias": "throm-boh-EM-boh-liz-um",
     "ipa": "ˌθrɑːmboʊˈɛmbəlɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "thrombophlebitis",
     "alias": "throm-boh-fleh-BY-tis",
     "ipa": "ˌθrɑːmboʊflɪˈbaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "phlebitis",
     "alias": "fleh-BY-tis",
     "ipa": "flɪˈbaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "embolism",
     "alias": "EM-boh-liz-um",
     "ipa": "ˈɛmbəlɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "stenosis",
     "alias": "steh-NOH-sis",
     "ipa": "stɪˈnoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "regurgitation",
     "alias": "ree-gur-ji-TAY-shun",
     "ipa": "rɪˌɡɝːdʒɪˈteɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "prolapse",
     "alias": "proh-LAPS",
     "ipa": "proʊˈlæps",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "aneurysm",
     "alias": "AN-yoo-riz-um",
     "ipa": "ˈænjərɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dissection",
     "alias": "dy-SEK-shun",
     "ipa": "dɪˈsɛkʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ischemia",
     "alias": "is-KEE-mee-ah",
     "ipa": "ɪˈskimiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "infarction",
     "alias": "in-FARK-shun",
     "ipa": "ɪnˈfɑːrkʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "reperfusion",
     "alias": "REE-per-FYOO-zhun",
     "ipa": "ˌriːpərˈfjuːʒən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypercholesterolemia",
     "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah",
     "ipa": "ˌhaɪpərkəˌlɛstərəˈliːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypertriglyceridemia",
     "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah",
     "ipa": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypoalbuminemia",
     "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah",
     "ipa": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pneumonia",
     "alias": "noo-MOHN-yah",
     "ipa": "nuːˈmoʊnjə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bronchitis",
     "alias": "brong-KY-tis",
     "ipa": "brɑːŋˈkaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "bronchiectasis",
     "alias": "brong-kee-EK-tah-sis",
     "ipa": "ˌbrɑːŋkiˈɛktəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "emphysema",
     "alias": "em-fih-SEE-mah",
     "ipa": "ˌɛmfɪˈsiːmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pneumothorax",
     "alias": "noo-moh-THOR-aks",
     "ipa": "ˌnuːmoʊˈθɔːræks",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hemothorax",
     "alias": "hee-moh-THOR-aks",
     "ipa": "ˌhiːmoʊˈθɔːræks",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pleural effusion",
     "alias": "PLOO-ral eh-FYOO-zhun",
     "ipa": "ˈplʊrəl ɪˈfjuːʒən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pleurisy",
     "alias": "PLOO-rih-see",
     "ipa": "ˈplʊrɪsi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "atelectasis",
     "alias": "at-ih-LEK-tah-sis",
     "ipa": "ˌætəˈlɛktəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pulmonary embolism",
     "alias": "PUL-moh-nair-ee EM-bol-izm",
     "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pulmonary edema",
     "alias": "PUL-moh-nair-ee eh-DEE-mah",
     "ipa": "ˈpʊlməˌnɛri ɪˈdiːmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pulmonary fibrosis",
     "alias": "PUL-moh-nair-ee fy-BROH-sis",
     "ipa": "ˈpʊlməˌnɛri faɪˈbroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sarcoidosis",
     "alias": "SAR-koy-DOH-sis",
     "ipa": "ˌsɑːrkɔɪˈdoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "tuberculosis",
     "alias": "too-BER-kyoo-LOH-sis",
     "ipa": "tuːˌbɜːrkjəˈloʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypoxia",
     "alias": "hy-POK-see-ah",
     "ipa": "haɪˈpɑːksiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypercapnia",
     "alias": "hy-per-KAP-nee-ah",
     "ipa": "ˌhaɪpərˈkæpniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "respiratory failure",
     "alias": "RES-pih-rah-tor-ee FAYL-yer",
     "ipa": "ˈrɛspərəˌtɔːri ˈfeɪljər",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "apnea",
     "alias": "AP-nee-ah",
     "ipa": "æpˈniːə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dyspnea",
     "alias": "DISP-nee-ah",
     "ipa": "ˈdɪspniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hemoptysis",
     "alias": "hee-MOP-tih-sis",
     "ipa": "hɪˈmɑːptəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "stridor",
     "alias": "STRY-dor",
     "ipa": "ˈstraɪdɔːr",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "wheezing",
     "alias": "WEE-zing",
     "ipa": "ˈwiːzɪŋ",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "coryza",
     "alias": "koh-RY-zah",
     "ipa": "kəˈraɪzə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "gastroesophageal reflux",
     "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks",
     "ipa": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "esophagitis",
     "alias": "ee-sof-ah-JY-tis",
     "ipa": "ɪˌsɑːfəˈdʒaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "gastritis",
     "alias": "gas-TRY-tis",
     "ipa": "ɡæˈstraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "peptic ulcer",
     "alias": "PEP-tik UL-ser",
     "ipa": "ˈpɛptɪk ˈʌlsɚ",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "gastroenteritis",
     "alias": "gas-tro-en-ter-EYE-tis",
     "ipa": "ˌɡæstroʊˌɛntɚˈaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "colitis",
     "alias": "ko-LYE-tis",
     "ipa": "kəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ulcerative colitis",
     "alias": "UL-ser-a-tiv ko-LYE-tis",
     "ipa": "ˈʌlsɚətɪv kəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "Crohn's disease",
     "alias": "KROHNZ dih-ZEEZ",
     "ipa": "kroʊnz dɪˈziz",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "diverticulitis",
     "alias": "dye-ver-tik-yoo-LYE-tis",
     "ipa": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "appendicitis",
     "alias": "a-pen-dih-SYE-tis",
     "ipa": "əˌpɛndɪˈsaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cholecystitis",
     "alias": "ko-luh-sis-TYE-tis",
     "ipa": "ˌkoʊləsɪˈstaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pancreatitis",
     "alias": "pan-kree-a-TYE-tis",
     "ipa": "ˌpæŋkriəˈtaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hepatitis",
     "alias": "hep-a-TYE-tis",
     "ipa": "ˌhɛpəˈtaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cirrhosis",
     "alias": "sir-OH-sis",
     "ipa": "sɪˈroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cholestasis",
     "alias": "ko-luh-STAY-sis",
     "ipa": "ˌkoʊləˈsteɪsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "steatosis",
     "alias": "stee-a-TOH-sis",
     "ipa": "ˌstiəˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "steatohepatitis",
     "alias": "stee-a-toh-hep-a-TYE-tis",
     "ipa": "ˌstiətoʊˌhɛpəˈtaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "peritonitis",
     "alias": "pair-ih-toh-NYE-tis",
     "ipa": "ˌpɛrɪtəˈnaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ileus",
     "alias": "IL-ee-us",
     "ipa": "ˈɪliəs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "intussusception",
     "alias": "in-tuh-suh-SEP-shun",
     "ipa": "ˌɪntəsəˈsɛpʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "volvulus",
     "alias": "VOL-vyoo-lus",
     "ipa": "ˈvɑlvjələs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hematemesis",
     "alias": "hee-ma-TEM-eh-sis",
     "ipa": "ˌhɛməˈtɛməsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "melena",
     "alias": "muh-LEE-na",
     "ipa": "məˈlinə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hematochezia",
     "alias": "hee-ma-toh-KEE-zee-a",
     "ipa": "ˌhɛmətoʊˈkiʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "choledocholithiasis",
     "alias": "ko-led-oh-ko-lih-THIGH-a-sis",
     "ipa": "kəˌlɛdəkoʊˌlɪθaɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cholelithiasis",
     "alias": "ko-luh-lih-THIGH-a-sis",
     "ipa": "ˌkoʊləlɪˈθaɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nephrolithiasis",
     "alias": "nef-ro-lih-THIGH-a-sis",
     "ipa": "ˌnɛfroʊlɪˈθaɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sialadenitis",
     "alias": "sigh-al-a-deh-NYE-tis",
     "ipa": "ˌsaɪəlædəˈnaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nephritis",
     "alias": "neh-FRY-tis",
     "ipa": "nəˈfraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nephrosis",
     "alias": "neh-FROH-sis",
     "ipa": "nəˈfroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "glomerulonephritis",
     "alias": "gloh-mer-yoo-loh-neh-FRY-tis",
     "ipa": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pyelonephritis",
     "alias": "pye-eh-loh-neh-FRY-tis",
     "ipa": "ˌpaɪəloʊnəˈfraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cystitis",
     "alias": "sis-TYE-tis",
     "ipa": "sɪˈstaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "urethritis",
     "alias": "yoo-reh-THRY-tis",
     "ipa": "ˌjʊrɪˈθraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ureterolithiasis",
     "alias": "yoo-REH-ter-oh-lih-THY-ah-sis",
     "ipa": "jʊˌrɛtərəlɪˈθaɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hydronephrosis",
     "alias": "HY-droh-neh-FROH-sis",
     "ipa": "ˌhaɪdrənɛˈfroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oliguria",
     "alias": "oh-lih-GYOO-ree-ah",
     "ipa": "ˌɑlɪˈɡjʊriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "anuria",
     "alias": "an-YOO-ree-ah",
     "ipa": "əˈnjʊriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hematuria",
     "alias": "HEE-mah-TOO-ree-ah",
     "ipa": "ˌhɛməˈtʊriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "proteinuria",
     "alias": "PROH-tee-NYOO-ree-ah",
     "ipa": "ˌproʊtiˈnʊriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dysuria",
     "alias": "dis-YOO-ree-ah",
     "ipa": "dɪsˈjʊriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "incontinence",
     "alias": "in-KON-tih-nens",
     "ipa": "ɪnˈkɑntɪnəns",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "retention",
     "alias": "ree-TEN-shun",
     "ipa": "rɪˈtɛnʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "azoospermia",
     "alias": "AY-zoh-oh-SPER-mee-ah",
     "ipa": "eɪˌzoʊəˈspɜrmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "oligospermia",
     "alias": "OH-lih-goh-SPER-mee-ah",
     "ipa": "ˌɑlɪɡoʊˈspɜrmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "encephalopathy",
     "alias": "en-SEH-fah-LOP-ah-thee",
     "ipa": "ɛnˌsɛfəˈlɑpəθi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "encephalitis",
     "alias": "en-SEH-fah-LY-tis",
     "ipa": "ɛnˌsɛfəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "meningitis",
     "alias": "MEH-nin-JY-tis",
     "ipa": "ˌmɛnɪnˈdʒaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "myelitis",
     "alias": "MY-eh-LY-tis",
     "ipa": "ˌmaɪəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "neuropathy",
     "alias": "nyoo-ROP-ah-thee",
     "ipa": "nʊˈrɑpəθi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "radiculopathy",
     "alias": "rah-DIK-yoo-LOP-ah-thee",
     "ipa": "rəˌdɪkjəˈlɑpəθi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "myelopathy",
     "alias": "MY-eh-LOP-ah-thee",
     "ipa": "ˌmaɪəˈlɑpəθi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ataxia",
     "alias": "ah-TAK-see-ah",
     "ipa": "əˈtæksiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dysarthria",
     "alias": "dis-AR-three-ah",
     "ipa": "dɪsˈɑrθriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "aphasia",
     "alias": "ah-FAY-zhah",
     "ipa": "əˈfeɪʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "apraxia",
     "alias": "ah-PRAK-see-ah",
     "ipa": "əˈpræksiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "agnosia",
     "alias": "ag-NOH-zhah",
     "ipa": "æɡˈnoʊʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "anomia",
     "alias": "ah-NOH-mee-ah",
     "ipa": "əˈnoʊmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dysphagia",
     "alias": "dis-FAY-jah",
     "ipa": "dɪsˈfeɪdʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dysphonia",
     "alias": "dis-FOH-nee-ah",
     "ipa": "dɪsˈfoʊniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dyskinesia",
     "alias": "dis-kih-NEE-zhah",
     "ipa": "ˌdɪskɪˈniʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "myoclonus",
     "alias": "my-OK-loh-nus",
     "ipa": "maɪˈɑklənəs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "chorea",
     "alias": "koh-REE-ah",
     "ipa": "kəˈriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "athetosis",
     "alias": "ATH-eh-TOE-sis",
     "ipa": "ˌæθəˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dystonia",
     "alias": "dis-TOE-nee-ah",
     "ipa": "dɪsˈtoʊniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tremor",
     "alias": "TREM-or",
     "ipa": "ˈtrɛmər",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fasciculation",
     "alias": "fa-SIK-yoo-LAY-shun",
     "ipa": "fəˌsɪkjəˈleɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "clonus",
     "alias": "KLOH-nus",
     "ipa": "ˈkloʊnəs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nystagmus",
     "alias": "nis-TAG-mus",
     "ipa": "nɪˈstæɡməs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ptosis",
     "alias": "TOE-sis",
     "ipa": "ˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "miosis",
     "alias": "my-OH-sis",
     "ipa": "maɪˈoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "mydriasis",
     "alias": "mi-DRY-ah-sis",
     "ipa": "mɪˈdraɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "anisocoria",
     "alias": "an-EYE-so-KOR-ee-ah",
     "ipa": "ænˌaɪsəˈkɔriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyperreflexia",
     "alias": "HY-per-re-FLEK-see-ah",
     "ipa": "ˌhaɪpərrɪˈflɛksiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hyporeflexia",
     "alias": "HY-po-re-FLEK-see-ah",
     "ipa": "ˌhaɪpɔrɪˈflɛksiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "Babinski",
     "alias": "ba-BIN-skee",
     "ipa": "bəˈbɪnski",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "paresthesia",
     "alias": "par-es-THEE-zhah",
     "ipa": "ˌpærəsˈθiʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "anesthesia",
     "alias": "an-es-THEE-zhah",
     "ipa": "ˌænəsˈθiʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyperesthesia",
     "alias": "HY-per-es-THEE-zhah",
     "ipa": "ˌhaɪpərəsˈθiʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dysesthesia",
     "alias": "dis-es-THEE-zhah",
     "ipa": "ˌdɪsəsˈθiʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "neuralgia",
     "alias": "nyoo-RAL-jah",
     "ipa": "nʊˈrældʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "neuritis",
     "alias": "nyoo-RY-tis",
     "ipa": "nʊˈraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sciatica",
     "alias": "sy-AT-ik-ah",
     "ipa": "saɪˈætɪkə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "trigeminal",
     "alias": "try-JEM-in-al",
     "ipa": "traɪˈdʒɛmɪnəl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "prosopagnosia",
     "alias": "PROS-oh-pag-NOH-zhah",
     "ipa": "ˌprɑsəpæɡˈnoʊʒə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyperthyroidism",
     "alias": "HY-per-THY-roy-dizm",
     "ipa": "ˌhaɪpərˈθaɪrɔɪdɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypothyroidism",
     "alias": "HY-po-THY-roy-dizm",
     "ipa": "ˌhaɪpəˈθaɪrɔɪdɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "thyrotoxicosis",
     "alias": "THY-ro-TOK-sih-KOH-sis",
     "ipa": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "myxedema",
     "alias": "mik-seh-DEE-mah",
     "ipa": "ˌmɪksəˈdiːmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hyperparathyroidism",
     "alias": "HY-per-PAR-ah-THY-roy-dizm",
     "ipa": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypoparathyroidism",
     "alias": "HY-po-PAR-ah-THY-roy-dizm",
     "ipa": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypercalcemia",
     "alias": "HY-per-kal-SEE-mee-ah",
     "ipa": "ˌhaɪpərkælˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypocalcemia",
     "alias": "HY-po-kal-SEE-mee-ah",
     "ipa": "ˌhaɪpəkælˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hyperkalemia",
     "alias": "hy-per-kah-LEE-mee-ah",
     "ipa": "ˌhaɪpərkəˈliːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypokalemia",
     "alias": "hy-poh-kah-LEE-mee-ah",
     "ipa": "ˌhaɪpoʊkəˈliːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypernatremia",
     "alias": "hy-per-nah-TREE-mee-ah",
     "ipa": "ˌhaɪpərnəˈtriːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyponatremia",
     "alias": "hy-poh-nah-TREE-mee-ah",
     "ipa": "ˌhaɪpoʊnəˈtriːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "hypomagnesemia",
     "alias": "hy-poh-mag-neh-SEE-mee-ah",
     "ipa": "ˌhaɪpoʊmæɡnəˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypermagnesemia",
     "alias": "hy-per-mag-neh-SEE-mee-ah",
     "ipa": "ˌhaɪpərmæɡnəˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypophosphatemia",
     "alias": "hy-poh-fos-fah-TEE-mee-ah",
     "ipa": "ˌhaɪpoʊfɑːsfəˈtiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyperphosphatemia",
     "alias": "hy-per-fos-fah-TEE-mee-ah",
     "ipa": "ˌhaɪpərfɑːsfəˈtiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "acidosis",
     "alias": "ah-sih-DOH-sis",
     "ipa": "ˌæsɪˈdoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "alkalosis",
     "alias": "al-kah-LOH-sis",
     "ipa": "ˌælkəˈloʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ketoacidosis",
     "alias": "kee-toh-ah-sih-DOH-sis",
     "ipa": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hypoglycemia",
     "alias": "hy-poh-gly-SEE-mee-ah",
     "ipa": "ˌhaɪpoʊɡlaɪˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hyperglycemia",
     "alias": "hy-per-gly-SEE-mee-ah",
     "ipa": "ˌhaɪpərɡlaɪˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "insulinoma",
     "alias": "in-suh-lih-NOH-mah",
     "ipa": "ˌɪnsəlɪˈnoʊmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pheochromocytoma",
     "alias": "fee-oh-kroh-moh-sy-TOH-mah",
     "ipa": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "anemia",
     "alias": "ah-NEE-mee-ah",
     "ipa": "əˈniːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "polycythemia",
     "alias": "pol-ee-sy-THEE-mee-ah",
     "ipa": "ˌpɑːlɪsaɪˈθiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "thrombocytopenia",
     "alias": "throm-boh-sy-toh-PEE-nee-ah",
     "ipa": "ˌθrɑːmboʊˌsaɪtəˈpiːniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "thrombocytosis",
     "alias": "throm-boh-sy-TOH-sis",
     "ipa": "ˌθrɑːmboʊsaɪˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "leukopenia",
     "alias": "loo-koh-PEE-nee-ah",
     "ipa": "ˌluːkəˈpiːniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "leukocytosis",
     "alias": "loo-koh-sy-TOH-sis",
     "ipa": "ˌluːkəsaɪˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "neutropenia",
     "alias": "noo-troh-PEE-nee-ah",
     "ipa": "ˌnuːtrəˈpiːniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "neutrophilia",
     "alias": "noo-troh-FIL-ee-ah",
     "ipa": "ˌnuːtrəˈfɪliə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "lymphopenia",
     "alias": "lim-foh-PEE-nee-ah",
     "ipa": "ˌlɪmfəˈpiːniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lymphocytosis",
     "alias": "lim-foh-sy-TOH-sis",
     "ipa": "ˌlɪmfəsaɪˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "monocytosis",
     "alias": "mon-oh-sy-TOH-sis",
     "ipa": "ˌmɑːnəsaɪˈtoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "eosinophilia",
     "alias": "ee-oh-sin-oh-FIL-ee-ah",
     "ipa": "ˌiːəˌsɪnəˈfɪliə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "basophilia",
     "alias": "bay-soh-FIL-ee-ah",
     "ipa": "ˌbeɪsəˈfɪliə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pancytopenia",
     "alias": "pan-sy-toh-PEE-nee-ah",
     "ipa": "ˌpænsaɪtəˈpiːniə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hemophilia",
     "alias": "hee-moh-FIL-ee-ah",
     "ipa": "ˌhiːməˈfɪliə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "thrombophilia",
     "alias": "throm-bo-FIL-ee-ah",
     "ipa": "ˌθrɒmboʊˈfɪliə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "purpura",
     "alias": "PUR-pur-ah",
     "ipa": "ˈpɜːrpjʊrə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "petechiae",
     "alias": "pe-TEE-kee-eye",
     "ipa": "pɪˈtɛkiaɪ",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ecchymosis",
     "alias": "ek-ih-MOH-sis",
     "ipa": "ˌɛkɪˈmoʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hematoma",
     "alias": "hee-mah-TOH-mah",
     "ipa": "ˌhɛməˈtoʊmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hemolysis",
     "alias": "hee-MOL-ih-sis",
     "ipa": "hɪˈmɒlɪsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cellulitis",
     "alias": "sel-yoo-LY-tis",
     "ipa": "ˌsɛljuˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "abscess",
     "alias": "AB-ses",
     "ipa": "ˈæbsɛs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "furuncle",
     "alias": "FYOOR-ung-kul",
     "ipa": "ˈfjʊrʌŋkəl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "carbuncle",
     "alias": "KAR-bung-kul",
     "ipa": "ˈkɑːrbʌŋkəl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "impetigo",
     "alias": "im-peh-TY-goh",
     "ipa": "ˌɪmpɪˈtaɪɡoʊ",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "erysipelas",
     "alias": "er-ih-SIP-eh-las",
     "ipa": "ˌɛrɪˈsɪpələs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "necrotizing fasciitis",
     "alias": "NEK-roh-ty-zing fash-ee-EYE-tis",
     "ipa": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "osteomyelitis",
     "alias": "os-tee-oh-my-eh-LY-tis",
     "ipa": "ˌɒstioʊˌmaɪəˈlaɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "septic arthritis",
     "alias": "SEP-tik ar-THRY-tis",
     "ipa": "ˈsɛptɪk ɑːrˈθraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sepsis",
     "alias": "SEP-sis",
     "ipa": "ˈsɛpsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "septicemia",
     "alias": "sep-tih-SEE-mee-ah",
     "ipa": "ˌsɛptɪˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bacteremia",
     "alias": "bak-ter-EE-mee-ah",
     "ipa": "ˌbæktəˈriːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "viremia",
     "alias": "vy-REE-mee-ah",
     "ipa": "vaɪˈriːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fungemia",
     "alias": "fun-JEE-mee-ah",
     "ipa": "fʌnˈdʒiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "parasitemia",
     "alias": "par-ah-sih-TEE-mee-ah",
     "ipa": "ˌpærəsaɪˈtiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "endotoxemia",
     "alias": "en-doh-tok-SEE-mee-ah",
     "ipa": "ˌɛndoʊtɒkˈsiːmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "erythema",
     "alias": "er-ih-THEE-mah",
     "ipa": "ˌɛrɪˈθiːmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "urticaria",
     "alias": "ur-tih-KAR-ee-ah",
     "ipa": "ˌɜːrtɪˈkɛriə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pruritus",
     "alias": "proo-RY-tus",
     "ipa": "prʊˈraɪtəs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "eczema",
     "alias": "EK-zeh-mah",
     "ipa": "ˈɛksɪmə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "psoriasis",
     "alias": "soh-RY-ah-sis",
     "ipa": "səˈraɪəsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "lichenification",
     "alias": "ly-ken-ih-fih-KAY-shun",
     "ipa": "lɪˌkɛnɪfɪˈkeɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "excoriation",
     "alias": "eks-kor-ee-AY-shun",
     "ipa": "ɪkˌskɔːriˈeɪʃən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "vesicle",
     "alias": "VES-ih-kul",
     "ipa": "ˈvɛsɪkəl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "bulla",
     "alias": "BULL-ah",
     "ipa": "ˈbʊlə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "pustule",
     "alias": "PUS-chool",
     "ipa": "ˈpʌstʃul",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "macule",
     "alias": "MAK-yool",
     "ipa": "ˈmækjuːl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "papule",
     "alias": "PAP-yool",
     "ipa": "ˈpæpjuːl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "nodule",
     "alias": "NOD-yool",
     "ipa": "ˈnɑːdjuːl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "plaque",
     "alias": "PLAK",
     "ipa": "plˈæk",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "scale",
     "alias": "SKAYL",
     "ipa": "skˈeɪl",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "crust",
     "alias": "KRUST",
     "ipa": "krˈʌst",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "erosion",
     "alias": "ee-ROH-zhun",
     "ipa": "ɪˈroʊʒən",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ulcer",
     "alias": "UL-ser",
     "ipa": "ˈʌlsər",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fissure",
     "alias": "FISH-ur",
     "ipa": "ˈfɪʃər",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "atrophy",
     "alias": "AT-roh-fee",
     "ipa": "ˈætrəfi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sclerosis",
     "alias": "skleh-ROH-sis",
     "ipa": "skləˈroʊsɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "appendectomy",
     "alias": "ap-en-DEK-toh-mee",
     "ipa": "ˌæpənˈdɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cholecystectomy",
     "alias": "koh-leh-sis-TEK-toh-mee",
     "ipa": "ˌkoʊləsɪˈstɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "herniorrhaphy",
     "alias": "her-nee-OR-ah-fee",
     "ipa": "ˌhɜːrniˈɔːrəfi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "colostomy",
     "alias": "koh-LOS-toh-mee",
     "ipa": "kəˈlɑːstəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ileostomy",
     "alias": "il-ee-OS-toh-mee",
     "ipa": "ˌɪliˈɑːstəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nephrectomy",
     "alias": "neh-FREK-toh-mee",
     "ipa": "nəˈfrɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hysterectomy",
     "alias": "his-teh-REK-toh-mee",
     "ipa": "ˌhɪstəˈrɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "mastectomy",
     "alias": "mas-TEK-toh-mee",
     "ipa": "mæˈstɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "thyroidectomy",
     "alias": "thy-roy-DEK-toh-mee",
     "ipa": "ˌθaɪrɔɪˈdɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "parathyroidectomy",
     "alias": "par-ah-thy-roy-DEK-toh-mee",
     "ipa": "ˌpærəˌθaɪrɔɪˈdɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "adrenalectomy",
     "alias": "ad-reh-nal-EK-toh-mee",
     "ipa": "əˌdriːnəˈlɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "splenectomy",
     "alias": "spleh-NEK-toh-mee",
     "ipa": "spliˈnɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pancreatectomy",
     "alias": "pan-kree-ah-TEK-toh-mee",
     "ipa": "ˌpæŋkriəˈtɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "esophagectomy",
     "alias": "eh-sof-ah-JEK-toh-mee",
     "ipa": "iːˌsɑːfəˈdʒɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "gastrectomy",
     "alias": "gas-TREK-toh-mee",
     "ipa": "ɡæˈstrɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "colectomy",
     "alias": "koh-LEK-toh-mee",
     "ipa": "kəˈlɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "proctectomy",
     "alias": "prok-TEK-toh-mee",
     "ipa": "prɑːkˈtɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cystectomy",
     "alias": "sis-TEK-toh-mee",
     "ipa": "sɪˈstɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nephrostomy",
     "alias": "neh-FROS-toh-mee",
     "ipa": "nəˈfrɑstəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ureterostomy",
     "alias": "yoo-REE-ter-OS-toh-mee",
     "ipa": "jʊˌriːtəˈrɑstəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tracheostomy",
     "alias": "TRAY-kee-OS-toh-mee",
     "ipa": "ˌtreɪkiˈɑstəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cricothyroidotomy",
     "alias": "KRY-koh-thy-ROY-DOT-oh-mee",
     "ipa": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "thoracotomy",
     "alias": "thor-ah-KOT-oh-mee",
     "ipa": "ˌθɔːrəˈkɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sternotomy",
     "alias": "ster-NOT-oh-mee",
     "ipa": "stɜːrˈnɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "laparotomy",
     "alias": "lap-ah-ROT-oh-mee",
     "ipa": "ˌlæpəˈrɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "celiotomy",
     "alias": "see-lee-OT-oh-mee",
     "ipa": "ˌsiːliˈɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "arthroscopy",
     "alias": "ar-THROS-koh-pee",
     "ipa": "ɑːrˈθrɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "bronchoscopy",
     "alias": "brong-KOS-koh-pee",
     "ipa": "brɑŋˈkɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "colonoscopy",
     "alias": "KOH-lon-OS-koh-pee",
     "ipa": "ˌkoʊləˈnɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "endoscopy",
     "alias": "en-DOS-koh-pee",
     "ipa": "ɛnˈdɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "gastroscopy",
     "alias": "gas-TROS-koh-pee",
     "ipa": "ɡæˈstrɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sigmoidoscopy",
     "alias": "sig-moy-DOS-koh-pee",
     "ipa": "ˌsɪɡmɔɪˈdɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cystoscopy",
     "alias": "sis-TOS-koh-pee",
     "ipa": "sɪˈstɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "colposcopy",
     "alias": "kol-POS-koh-pee",
     "ipa": "kɑlˈpɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hysteroscopy",
     "alias": "his-ter-OS-koh-pee",
     "ipa": "ˌhɪstəˈrɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "laparoscopy",
     "alias": "lap-ah-ROS-koh-pee",
     "ipa": "ˌlæpəˈrɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "thoracoscopy",
     "alias": "thor-ah-KOS-koh-pee",
     "ipa": "ˌθɔːrəˈkɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "mediastinoscopy",
     "alias": "MEE-dee-ah-stih-NOS-koh-pee",
     "ipa": "ˌmiːdiˌæstəˈnɑskəpi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "arthroplasty",
     "alias": "AR-throh-plas-tee",
     "ipa": "ˈɑːrθroʊˌplæsti",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "osteotomy",
     "alias": "os-tee-OT-oh-mee",
     "ipa": "ˌɑːstiˈɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "craniotomy",
     "alias": "KRAY-nee-OT-oh-mee",
     "ipa": "ˌkreɪniˈɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "laminectomy",
     "alias": "lam-ih-NEK-toh-mee",
     "ipa": "ˌlæməˈnɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "discectomy",
     "alias": "dis-EK-toh-mee",
     "ipa": "dɪˈskɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rhizotomy",
     "alias": "ry-ZOT-oh-mee",
     "ipa": "raɪˈzɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "neurectomy",
     "alias": "nyoo-REK-toh-mee",
     "ipa": "nʊˈrɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sympathectomy",
     "alias": "sim-pah-THEK-toh-mee",
     "ipa": "ˌsɪmpəˈθɛktəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vagotomy",
     "alias": "vay-GOT-oh-mee",
     "ipa": "veɪˈɡɑtəmi",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "epithelium",
     "alias": "eh-pih-THEE-lee-um",
     "ipa": "ˌɛpəˈθiliəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "endothelium",
     "alias": "en-doh-THEE-lee-um",
     "ipa": "ˌɛndoʊˈθiliəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "mesothelium",
     "alias": "meh-zoh-THEE-lee-um",
     "ipa": "ˌmɛzoʊˈθiliəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "stratum corneum",
     "alias": "STRAY-tum KOR-nee-um",
     "ipa": "ˈstreɪtəm ˈkɔrniəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dermis",
     "alias": "DER-mis",
     "ipa": "ˈdɜrmɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "epidermis",
     "alias": "eh-pih-DER-mis",
     "ipa": "ˌɛpɪˈdɜrmɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypodermis",
     "alias": "hy-poh-DER-mis",
     "ipa": "ˌhaɪpoʊˈdɜrmɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "subcutaneous",
     "alias": "sub-kyoo-TAY-nee-us",
     "ipa": "ˌsʌbkjuˈteɪniəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fascia",
     "alias": "FAH-shah",
     "ipa": "ˈfæʃiə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ligament",
     "alias": "LIH-gah-ment",
     "ipa": "ˈlɪɡəmənt",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tendon",
     "alias": "TEN-dun",
     "ipa": "ˈtɛndən",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "aponeurosis",
     "alias": "ap-oh-noo-ROH-sis",
     "ipa": "ˌæpənʊˈroʊsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "bursa",
     "alias": "BER-sah",
     "ipa": "ˈbɜrsə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "meniscus",
     "alias": "meh-NIS-kus",
     "ipa": "məˈnɪskəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cartilage",
     "alias": "KAR-tih-lij",
     "ipa": "ˈkɑrtəlɪdʒ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "periosteum",
     "alias": "per-ee-OS-tee-um",
     "ipa": "ˌpɛriˈɑstiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "endosteum",
     "alias": "en-DOS-tee-um",
     "ipa": "ɛnˈdɑstiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "diaphysis",
     "alias": "dy-AF-ih-sis",
     "ipa": "daɪˈæfəsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "epiphysis",
     "alias": "eh-PIF-ih-sis",
     "ipa": "ɪˈpɪfəsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "metaphysis",
     "alias": "meh-TAF-ih-sis",
     "ipa": "məˈtæfəsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "physis",
     "alias": "FY-sis",
     "ipa": "ˈfɪsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "symphysis",
     "alias": "SIM-fih-sis",
     "ipa": "ˈsɪmfəsɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "synovium",
     "alias": "sih-NOH-vee-um",
     "ipa": "sɪˈnoʊviəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "synovia",
     "alias": "sih-NOH-vee-ah",
     "ipa": "sɪˈnoʊviə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sutura",
     "alias": "soo-TOO-rah",
     "ipa": "suˈtʊrə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fontanelle",
     "alias": "fon-tah-NEL",
     "ipa": "ˌfɑntəˈnɛl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "myocardium",
     "alias": "my-oh-KAR-dee-um",
     "ipa": "ˌmaɪoʊˈkɑrdiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "epicardium",
     "alias": "eh-pih-KAR-dee-um",
     "ipa": "ˌɛpɪˈkɑrdiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pericardium",
     "alias": "per-ih-KAR-dee-um",
     "ipa": "ˌpɛrɪˈkɑrdiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "endocardium",
     "alias": "en-doh-KAR-dee-um",
     "ipa": "ˌɛndoʊˈkɑrdiəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "intima",
     "alias": "IN-tih-mah",
     "ipa": "ˈɪntɪmə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "media",
     "alias": "MEH-dee-ah",
     "ipa": "ˈmiːdiə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "adventitia",
     "alias": "ad-ven-TISH-ah",
     "ipa": "ˌædvɛnˈtɪʃə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tunica",
     "alias": "TOO-nih-kah",
     "ipa": "ˈtuːnɪkə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "parenchyma",
     "alias": "pah-REN-kih-mah",
     "ipa": "pəˈrɛŋkɪmə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "stroma",
     "alias": "STROH-mah",
     "ipa": "ˈstroʊmə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "septum",
     "alias": "SEP-tum",
     "ipa": "ˈsɛptəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "septa",
     "alias": "SEP-tah",
     "ipa": "ˈsɛptə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "trabecula",
     "alias": "trah-BEK-yoo-lah",
     "ipa": "trəˈbɛkjələ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hilum",
     "alias": "HY-lum",
     "ipa": "ˈhaɪləm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hilus",
     "alias": "HY-lus",
     "ipa": "ˈhaɪləs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sulcus",
     "alias": "SUL-kus",
     "ipa": "ˈsʌlkəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "gyrus",
     "alias": "JY-rus",
     "ipa": "ˈdʒaɪrəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cortex",
     "alias": "KOR-teks",
     "ipa": "ˈkɔrtɛks",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "medulla",
     "alias": "meh-DOOL-ah",
     "ipa": "məˈdʌlə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "capsule",
     "alias": "KAP-sool",
     "ipa": "ˈkæpsəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "lobe",
     "alias": "LOHB",
     "ipa": "lˈoʊb",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "lobule",
     "alias": "LOB-yool",
     "ipa": "ˈlɑbjul",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "acinus",
     "alias": "AS-ih-nus",
     "ipa": "ˈæsɪnəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "alveolus",
     "alias": "al-VEE-oh-lus",
     "ipa": "ælˈviələs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "glomerulus",
     "alias": "gloh-MER-yoo-lus",
     "ipa": "ɡloʊˈmɛrjələs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "nephron",
     "alias": "NEF-ron",
     "ipa": "ˈnɛfrɑn",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "tubule",
     "alias": "TOOB-yool",
     "ipa": "ˈtubjul",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ductule",
     "alias": "DUK-tool",
     "ipa": "ˈdʌktʃul",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ductus",
     "alias": "DUK-tus",
     "ipa": "ˈdʌktəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vas deferens",
     "alias": "vas DEF-er-enz",
     "ipa": "vˈæs dɛfərɛnz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "epididymis",
     "alias": "ep-ih-DID-ih-mis",
     "ipa": "ˌɛpɪˈdɪdɪmɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fimbria",
     "alias": "FIM-bree-ah",
     "ipa": "ˈfɪmbriə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "fornix",
     "alias": "FOR-niks",
     "ipa": "ˈfɔrnɪks",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "mesentery",
     "alias": "MEZ-en-ter-ee",
     "ipa": "ˈmɛzənˌtɛri",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "omentum",
     "alias": "oh-MEN-tum",
     "ipa": "oʊˈmɛntəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "peritoneum",
     "alias": "per-ih-toh-NEE-um",
     "ipa": "ˌpɛrɪtəˈniəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "retroperitoneum",
     "alias": "REH-troh-per-ih-toh-NEE-um",
     "ipa": "ˌrɛtroʊˌpɛrɪtəˈniəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "mesocolon",
     "alias": "MEZ-oh-KOH-lon",
     "ipa": "ˌmɛzəˈkoʊlən",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "haustra",
     "alias": "HAW-strah",
     "ipa": "ˈhɔstrə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "plicae",
     "alias": "PLY-see",
     "ipa": "ˈplaɪsi",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "rugae",
     "alias": "ROO-jee",
     "ipa": "ˈrudiʒi",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "villi",
     "alias": "VIL-eye",
     "ipa": "ˈvɪlaɪ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "microvilli",
     "alias": "MY-kroh-VIL-eye",
     "ipa": "ˌmaɪkroʊˈvɪlaɪ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cryptae",
     "alias": "KRIP-tee",
     "ipa": "ˈkrɪpti",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "pylorus",
     "alias": "py-LOR-us",
     "ipa": "paɪˈlɔrəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cardia",
     "alias": "KAR-dee-ah",
     "ipa": "ˈkɑrdiə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "fundus",
     "alias": "FUN-dus",
     "ipa": "ˈfʌndəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "antrum",
     "alias": "AN-trum",
     "ipa": "ˈæntrəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "duodenum",
     "alias": "doo-oh-DEE-num",
     "ipa": "ˌduəˈdinəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "jejunum",
     "alias": "jeh-JOO-num",
     "ipa": "dʒəˈdʒunəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ileum",
     "alias": "IL-ee-um",
     "ipa": "ˈɪliəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cecum",
     "alias": "SEE-kum",
     "ipa": "ˈsikəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vermiform",
     "alias": "VER-mih-form",
     "ipa": "ˈvɜrmɪfɔrm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "appendix",
     "alias": "ah-PEN-diks",
     "ipa": "əˈpɛndɪks",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sigmoid",
     "alias": "SIG-moyd",
     "ipa": "ˈsɪɡmɔɪd",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "rectum",
     "alias": "REK-tum",
     "ipa": "ˈrɛktəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "anus",
     "alias": "AY-nus",
     "ipa": "ˈeɪnəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sphincter",
     "alias": "SFINK-ter",
     "ipa": "ˈsfɪŋktər",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "papilla",
     "alias": "pah-PIL-ah",
     "ipa": "pəˈpɪlə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ampulla",
     "alias": "am-POOL-ah",
     "ipa": "æmˈpʊlə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cholecyst",
     "alias": "KOH-leh-sist",
     "ipa": "ˈkoʊləsɪst",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "choledochus",
     "alias": "koh-LED-oh-kus",
     "ipa": "kəˈlɛdəkəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pancreas",
     "alias": "PAN-kree-as",
     "ipa": "ˈpæŋkriəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "islets",
     "alias": "EYE-lets",
     "ipa": "ˈaɪlɪts",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "acini",
     "alias": "AS-ih-nye",
     "ipa": "ˈæsɪnaɪ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "centrilobular",
     "alias": "sen-trih-LOB-yoo-lar",
     "ipa": "ˌsɛntrɪˈlɑbjələr",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "periportal",
     "alias": "per-ih-POR-tal",
     "ipa": "ˌpɛrɪˈpɔrtəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sinusoids",
     "alias": "SIN-yoo-soydz",
     "ipa": "ˈsɪnjəsɔɪdz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "Kupffer",
     "alias": "KOOP-fer",
     "ipa": "ˈkʊfər",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "space of Disse",
     "alias": "spays of DIS",
     "ipa": "spˈeɪs əv dɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "canaliculi",
     "alias": "kan-ah-LIK-yoo-lye",
     "ipa": "ˌkænəˈlɪkjəlaɪ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "falciform",
     "alias": "FAL-sih-form",
     "ipa": "ˈfælsɪfɔrm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "ligamentum teres",
     "alias": "lig-ah-MEN-tum TER-eez",
     "ipa": "ˌlɪɡəˈmɛntəm ˈtɛriz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ligamentum venosum",
     "alias": "lig-ah-MEN-tum veh-NOH-sum",
     "ipa": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "porta hepatis",
     "alias": "POR-tah heh-PAT-is",
     "ipa": "ˈpɔrtə ˈhɛpətɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "coronary",
     "alias": "KOR-ah-nair-ee",
     "ipa": "ˈkɔrənɛri",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "circumflex",
     "alias": "SER-kum-fleks",
     "ipa": "ˈsɜrkəmflɛks",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "interventricular",
     "alias": "in-ter-ven-TRIK-yoo-lar",
     "ipa": "ˌɪntərvɛnˈtrɪkjələr",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "interventricular septum",
     "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum",
     "ipa": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "papillary muscle",
     "alias": "PAP-ih-lair-ee MUS-el",
     "ipa": "ˈpæpɪlɛri ˈmʌsəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "chordae tendineae",
     "alias": "KOR-dee ten-DIN-ee-ee",
     "ipa": "ˈkɔrdi tɛnˈdɪnii",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "leaflet",
     "alias": "LEEF-let",
     "ipa": "ˈlifət",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "semilunar",
     "alias": "sem-ee-LOO-nar",
     "ipa": "ˌsɛmiˈlunər",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "atrioventricular",
     "alias": "ay-tree-oh-ven-TRIK-yoo-lar",
     "ipa": "ˌeɪtrioʊvɛnˈtrɪkjələr",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ventricular",
     "alias": "ven-TRIK-yoo-lar",
     "ipa": "vɛnˈtrɪkjələr",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "sinoatrial",
     "alias": "sigh-noh-AY-tree-al",
     "ipa": "ˌsaɪnoʊˈeɪtriəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "coronary sinus",
     "alias": "KOR-ah-nair-ee SIGH-nus",
     "ipa": "ˈkɔrənɛri ˈsaɪnəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "vena cava",
     "alias": "VEE-nah KAY-vah",
     "ipa": "ˈvinə ˈkeɪvə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "pulmonary trunk",
     "alias": "PUL-mah-nair-ee trunk",
     "ipa": "ˈpʊlmənɛri trʌŋk",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "aorta",
     "alias": "ay-OR-tah",
     "ipa": "eɪˈɔrtə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "carotid",
     "alias": "kah-ROT-id",
     "ipa": "kəˈrɑtɪd",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "subclavian",
     "alias": "sub-KLAY-vee-an",
     "ipa": "sʌbˈkleɪviən",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vertebral",
     "alias": "VER-teh-bral",
     "ipa": "ˈvɝːtəbrəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "basilar",
     "alias": "BAS-ih-lar",
     "ipa": "ˈbæsɪlɚ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "circle of Willis",
     "alias": "SER-kul of WIL-is",
     "ipa": "ˈsɝːkəl əv ˈwɪlɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "meninges",
     "alias": "men-IN-jeez",
     "ipa": "məˈnɪndʒiːz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "dura mater",
     "alias": "DUR-ah MAH-ter",
     "ipa": "ˈdʊrə ˈmeɪtɚ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "arachnoid",
     "alias": "ah-RAK-noyd",
     "ipa": "əˈræknɔɪd",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "pia mater",
     "alias": "PEE-ah MAH-ter",
     "ipa": "ˈpiːə ˈmeɪtɚ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "subdural",
     "alias": "sub-DUR-al",
     "ipa": "sʌbˈdʊrəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "subarachnoid",
     "alias": "sub-ah-RAK-noyd",
     "ipa": "ˌsʌbəˈræknɔɪd",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "epidural",
     "alias": "ep-ih-DUR-al",
     "ipa": "ˌɛpɪˈdʊrəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ventricles",
     "alias": "VEN-trih-kulz",
     "ipa": "ˈvɛntrɪkəlz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "foramina",
     "alias": "fo-RAM-ih-nah",
     "ipa": "fəˈræmɪnə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "aqueduct",
     "alias": "AK-weh-dukt",
     "ipa": "ˈækwɪdʌkt",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "choroid plexus",
     "alias": "KOR-oyd PLEK-sus",
     "ipa": "ˈkɔːrɔɪd ˈplɛksəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "cauda equina",
     "alias": "KAW-dah eh-KWY-nah",
     "ipa": "ˈkɔːdə ɪˈkwaɪnə",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "filum terminale",
     "alias": "FY-lum ter-mih-NAH-lee",
     "ipa": "ˈfaɪləm ˌtɝːmɪˈnɑːli",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "conus medullaris",
     "alias": "KOH-nus med-yoo-LAR-is",
     "ipa": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "dorsal root",
     "alias": "DOR-sal ROOT",
     "ipa": "ˈdɔːrsəl ruːt",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ventral root",
     "alias": "VEN-tral ROOT",
     "ipa": "ˈvɛntrəl ruːt",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "ganglion",
     "alias": "GANG-glee-on",
     "ipa": "ˈɡæŋɡliən",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "plexus",
     "alias": "PLEK-sus",
     "ipa": "ˈplɛksəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "phrenic",
     "alias": "FREN-ik",
     "ipa": "ˈfrɛnɪk",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "vagus",
     "alias": "VAY-gus",
     "ipa": "ˈveɪɡəs",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "recurrent laryngeal",
     "alias": "ree-KUR-ent lar-IN-jee-al",
     "ipa": "rɪˈkɝːənt ləˈrɪndʒiəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "facial",
     "alias": "FAY-shal",
     "ipa": "ˈfeɪʃəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   {
     "text": "vestibulocochlear",
     "alias": "ves-TIB-yoo-loh-KOK-lee-ar",
     "ipa": "vɛsˌtɪbjəloʊˈkoʊkliɚ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "glossopharyngeal",
     "alias": "GLOS-oh-fah-RIN-jee-al",
     "ipa": "ˌɡlɑːsoʊfəˈrɪndʒiəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "hypoglossal",
     "alias": "HY-poh-GLOS-al",
     "ipa": "ˌhaɪpəˈɡlɑːsəl",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "accessory",
     "alias": "ak-SES-oh-ree",
     "ipa": "əkˈsɛsəri",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "oculomotor",
     "alias": "OK-yoo-loh-MOH-tor",
     "ipa": "ˌɑːkjəloʊˈmoʊtɚ",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "trochlear",
     "alias": "TROK-lee-ar",
     "ipa": "ˈtroʊkliər",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "abducens",
     "alias": "ab-DOO-senz",
     "ipa": "æbˈdjuːsənz",
-    "category": "anatomical"
+    "category": "anatomical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "angina",
     "alias": "angina",
     "ipa": "ænˈdʒaɪnə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "epinephrine",
     "alias": "epinephrine",
     "ipa": "ˌɛpɪˈnɛfrɪn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "naloxone",
     "alias": "naloxone",
     "ipa": "nəˈlɑksoʊn",
-    "category": "drug"
+    "category": "drug",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "hyperlipidemia",
     "alias": "hyperlipidemia",
     "ipa": "ˌhaɪpərlɪˈpɪmiə",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "osteoarthritis",
     "alias": "osteoarthritis",
     "ipa": "ˌɑstioʊɑrˈθraɪtɪs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   {
     "text": "diabetes mellitus",
     "alias": "diabetes mellitus",
     "ipa": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
-    "category": "clinical"
+    "category": "clinical",
+    "telnyx_naturalhd_verdict": "WASH"
   }
 ]

@@ -5,20 +5,24 @@ Multi-provider format converters for the medical pronunciation dictionary.
 Reads ../data/terms_master.json and emits provider-specific formats
 under ../providers/<provider>/.
 
-Each term produces BOTH an alias entry and an IPA phoneme entry where
-the provider supports both. Providers that only support phoneme (Polly,
-Retell) emit phoneme-only entries.
-
 Providers:
-  - telnyx:       chunked JSON, 100 alias entries per file (safe on every voice)
+  - telnyx:       chunked JSON, alias entries, filtered to the terms whose
+                  alias measurably improves pronunciation (see alias_safe)
   - telnyx-ipa:   chunked JSON, 100 IPA phoneme entries per file. Only for
                   Telnyx Ultra, MiniMax and Inworld. Destructive on other
                   voices, see write_telnyx.
-  - elevenlabs:   W3C PLS XML, 100 lexemes per file, alias + phoneme
-  - vapi:         single JSON file, alias + <<ipa>> entries
+  - elevenlabs:   W3C PLS XML, all 966 lexemes, phoneme always, alias only
+                  where the alias was measured as an improvement
+  - vapi:         single JSON file, <<ipa>> phoneme entries
   - amazon-polly: W3C PLS XML, 100 lexemes per file, phoneme only
   - retell:       single JSON file, IPA phoneme entries only
-  - generic:      CSV (text, alias, ipa, category) + flat JSON
+  - generic:      CSV + flat JSON, all 966 with the audit verdict exposed
+                  so the consumer can filter
+
+Alias-based outputs (telnyx, pls/, txt/, and the <alias> elements in the
+ElevenLabs lexicon) are filtered by alias_safe(). Phoneme-based outputs carry
+all 966 terms: the fragmentation problem is specific to alias tokenisation and
+no phoneme engine has been measured.
 
 Run from the project root:
     python3 converters/convert_all.py
@@ -69,6 +73,7 @@ def load_terms(path: Path) -> list[dict]:
         alias = (entry.get("alias") or "").strip()
         ipa = (entry.get("ipa") or "").strip()
         category = (entry.get("category") or "").strip()
+        verdict = (entry.get("telnyx_naturalhd_verdict") or "").strip()
         if not text or not alias or not ipa:
             skipped += 1
             continue
@@ -76,7 +81,8 @@ def load_terms(path: Path) -> list[dict]:
             skipped += 1
             continue
         seen.add(text)
-        cleaned.append({"text": text, "alias": alias, "ipa": ipa, "category": category})
+        cleaned.append({"text": text, "alias": alias, "ipa": ipa,
+                        "category": category, "verdict": verdict})
 
     if skipped:
         print(f"  [load] skipped {skipped} entries (missing fields or duplicates)")
@@ -91,6 +97,26 @@ def chunked(seq: list, size: int) -> Iterable[list]:
     """Yield successive chunks of `size` from `seq`."""
     for i in range(0, len(seq), size):
         yield seq[i : i + size]
+
+
+def alias_safe(terms: list[dict]) -> list[dict]:
+    """Terms whose alias measurably improves pronunciation.
+
+    Every term was rendered twice on Telnyx.NaturalHD.astra, with and without
+    its alias entry, and the pairs were judged blind. Results across 966 terms:
+    271 HELPS, 386 WASH (no audible change), 309 HURTS.
+
+    HURTS is the reason this filter exists. A heavily hyphenated respelling is
+    read syllable by syllable, so `encephalopathy` -> "un say fa lop a v" on a
+    word the engine already said correctly. WASH is dropped too: a separate
+    blind pass judging only fluency preferred the no-dictionary clip 12 times
+    out of 15 for that bucket, so those entries add choppiness and fix nothing.
+
+    Applies to alias-based outputs only. Phoneme outputs are unaffected, the
+    fragmentation is an alias-tokenisation problem, and no phoneme engine was
+    measured. See data/telnyx_naturalhd_audit.csv for per-term evidence.
+    """
+    return [t for t in terms if t.get("verdict") == "HELPS"]
 
 
 def pad(n: int) -> str:
@@ -193,8 +219,12 @@ def build_pls_document(
 ) -> ET.ElementTree:
     """Build a W3C PLS XML document for a batch of terms.
 
-    When include_alias is True, each lexeme gets both <alias> and <phoneme>.
-    When False, each lexeme gets only <phoneme> (for providers like Polly
+    When include_alias is True, a lexeme gets an <alias> only if the alias was
+    measured as an improvement (verdict HELPS); otherwise it gets <phoneme>
+    alone. That keeps every term in the lexicon while never shipping a
+    respelling that made pronunciation worse. See alias_safe().
+
+    When False, every lexeme gets only <phoneme> (for providers like Polly
     that don't support alias).
 
     xml_lang defaults to en-US (required by Amazon Polly, fine for others).
@@ -213,7 +243,7 @@ def build_pls_document(
         lexeme = ET.SubElement(lexicon, f"{{{PLS_NAMESPACE}}}lexeme")
         grapheme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}grapheme")
         grapheme.text = item["text"]
-        if include_alias:
+        if include_alias and item.get("verdict") == "HELPS":
             alias_el = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}alias")
             alias_el.text = item["alias"]
         phoneme = ET.SubElement(lexeme, f"{{{PLS_NAMESPACE}}}phoneme")
@@ -313,9 +343,11 @@ def write_generic_csv(terms: list[dict], out_dir: Path) -> list[Path]:
     path = out_dir / "medical-pronunciations.csv"
     with path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["text", "alias", "ipa", "category"])
+        writer.writerow(["text", "alias", "ipa", "category",
+                         "telnyx_naturalhd_verdict"])
         for item in terms:
-            writer.writerow([item["text"], item["alias"], item["ipa"], item["category"]])
+            writer.writerow([item["text"], item["alias"], item["ipa"],
+                             item["category"], item.get("verdict", "")])
     return [path]
 
 
@@ -323,7 +355,11 @@ def write_generic_json(terms: list[dict], out_dir: Path) -> list[Path]:
     """Flat JSON: {text: {alias, ipa}, ...} for simple lookups."""
     out_dir.mkdir(parents=True, exist_ok=True)
     payload = {
-        item["text"]: {"alias": item["alias"], "ipa": item["ipa"]}
+        item["text"]: {
+            "alias": item["alias"],
+            "ipa": item["ipa"],
+            "telnyx_naturalhd_verdict": item.get("verdict", ""),
+        }
         for item in terms
     }
     path = out_dir / "medical-pronunciations.json"
@@ -348,8 +384,10 @@ def main() -> int:
 
     summary: list[tuple[str, list[Path]]] = []
 
-    print("[1/9] Telnyx JSON, alias (safe on every voice) ...")
-    summary.append(("telnyx", write_telnyx(terms, PROVIDERS_DIR / "telnyx")))
+    safe = alias_safe(terms)
+    print(f"[1/9] Telnyx JSON, alias ({len(safe)} of {len(terms)} terms, "
+          "verdict=HELPS) ...")
+    summary.append(("telnyx", write_telnyx(safe, PROVIDERS_DIR / "telnyx")))
 
     print("[2/9] Telnyx JSON, IPA phoneme (Ultra / MiniMax / Inworld only) ...")
     summary.append((
@@ -357,7 +395,7 @@ def main() -> int:
         write_telnyx(terms, PROVIDERS_DIR / "telnyx-ipa", phoneme=True),
     ))
 
-    print("[3/9] ElevenLabs PLS (chunked, 100 lexemes/file, alias + phoneme) ...")
+    print("[3/9] ElevenLabs PLS (phoneme for all, alias only where it helps) ...")
     summary.append((
         "elevenlabs",
         write_pls(

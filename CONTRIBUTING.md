@@ -4,7 +4,9 @@ PRs welcome. This guide covers how to add terms, add provider format converters,
 
 ## Adding new terms
 
-The source of truth is `data/terms_master.json`. Each entry has `text`, `alias`, `ipa`, and `category` fields. **All four are required.** `converters/convert_all.py` skips any entry missing `text`, `alias`, or `ipa`, so an entry without IPA silently disappears from every provider output.
+The source of truth is `data/terms_master.json`. Each entry has `text`, `alias`, `ipa`, and `category` fields. **All four are required.**
+
+A fifth field, `telnyx_naturalhd_verdict`, is written by the audit, not by hand. It is `HELPS`, `WASH` or `HURTS`, and it decides whether the alias ships in the alias-based outputs. A new term defaults to not shipping until it is measured; run `python3 src/generate_audio_samples.py` style before/after rendering and judge the pair blind before setting it. `converters/convert_all.py` skips any entry missing `text`, `alias`, or `ipa`, so an entry without IPA silently disappears from every provider output.
 
 1. Edit `data/terms_master.json` and add your term:
 

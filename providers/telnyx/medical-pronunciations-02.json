@@ -2,504 +2,504 @@
   "name": "Medical Pronunciations 02",
   "items": [
     {
-      "text": "ceftriaxone",
+      "text": "ubrogepant",
       "type": "alias",
-      "alias": "sef-try-AX-one"
+      "alias": "yoo-BROH-jeh-pant"
     },
     {
-      "text": "cefepime",
+      "text": "rimegepant",
       "type": "alias",
-      "alias": "SEF-e-peem"
+      "alias": "rih-MEH-jeh-pant"
     },
     {
-      "text": "meropenem",
+      "text": "eprodual",
       "type": "alias",
-      "alias": "mer-oh-PEN-em"
+      "alias": "eh-PROH-dool"
     },
     {
-      "text": "ertapenem",
+      "text": "MI",
       "type": "alias",
-      "alias": "er-ta-PEN-em"
+      "alias": "myocardial infarction"
     },
     {
-      "text": "imipenem",
+      "text": "COPD",
       "type": "alias",
-      "alias": "i-mi-PEN-em"
+      "alias": "chronic obstructive pulmonary disease"
     },
     {
-      "text": "piperacillin tazobactam",
+      "text": "CHF",
       "type": "alias",
-      "alias": "pi-PER-a-sil-in ta-zo-BAK-tam"
+      "alias": "congestive heart failure"
     },
     {
-      "text": "gentamicin",
+      "text": "UTI",
       "type": "alias",
-      "alias": "jen-ta-MY-sin"
+      "alias": "urinary tract infection"
     },
     {
-      "text": "tobramycin",
+      "text": "MRI",
       "type": "alias",
-      "alias": "toe-bra-MY-sin"
+      "alias": "magnetic resonance imaging"
     },
     {
-      "text": "amikacin",
+      "text": "CT",
       "type": "alias",
-      "alias": "am-i-KAY-sin"
+      "alias": "computed tomography"
     },
     {
-      "text": "linezolid",
+      "text": "EKG",
       "type": "alias",
-      "alias": "li-NEZ-o-lid"
+      "alias": "electrocardiogram"
     },
     {
-      "text": "daptomycin",
+      "text": "ECG",
       "type": "alias",
-      "alias": "dap-toe-MY-sin"
+      "alias": "electrocardiogram"
     },
     {
-      "text": "tigecycline",
+      "text": "EEG",
       "type": "alias",
-      "alias": "tye-ge-SY-kleen"
+      "alias": "electroencephalogram"
     },
     {
-      "text": "minocycline",
+      "text": "BUN",
       "type": "alias",
-      "alias": "mi-no-SY-kleen"
+      "alias": "blood urea nitrogen"
     },
     {
-      "text": "rifampin",
+      "text": "CMP",
       "type": "alias",
-      "alias": "ri-FAM-pin"
+      "alias": "comprehensive metabolic panel"
     },
     {
-      "text": "isoniazid",
+      "text": "CBC",
       "type": "alias",
-      "alias": "eye-so-NY-a-zid"
+      "alias": "complete blood count"
     },
     {
-      "text": "pyrazinamide",
+      "text": "TSH",
       "type": "alias",
-      "alias": "py-ra-ZIN-a-mide"
+      "alias": "thyroid stimulating hormone"
     },
     {
-      "text": "ethambutol",
+      "text": "HbA1c",
       "type": "alias",
-      "alias": "e-THAM-byoo-tol"
+      "alias": "hemoglobin A one C"
     },
     {
-      "text": "fluconazole",
+      "text": "PT",
       "type": "alias",
-      "alias": "floo-KON-a-zole"
+      "alias": "prothrombin time"
     },
     {
-      "text": "ketoconazole",
+      "text": "INR",
       "type": "alias",
-      "alias": "kee-toe-KON-a-zole"
+      "alias": "international normalized ratio"
     },
     {
-      "text": "itraconazole",
+      "text": "PTT",
       "type": "alias",
-      "alias": "i-tra-KON-a-zole"
+      "alias": "partial thromboplastin time"
     },
     {
-      "text": "voriconazole",
+      "text": "DVT",
       "type": "alias",
-      "alias": "vor-ih-KON-uh-zole"
+      "alias": "deep vein thrombosis"
     },
     {
-      "text": "posaconazole",
+      "text": "PE",
       "type": "alias",
-      "alias": "poh-sah-KON-uh-zole"
+      "alias": "pulmonary embolism"
     },
     {
-      "text": "acyclovir",
+      "text": "CVA",
       "type": "alias",
-      "alias": "ay-SY-kloh-veer"
+      "alias": "cerebrovascular accident"
     },
     {
-      "text": "valacyclovir",
+      "text": "TIA",
       "type": "alias",
-      "alias": "val-ay-SY-kloh-veer"
+      "alias": "transient ischemic attack"
     },
     {
-      "text": "famciclovir",
+      "text": "ICU",
       "type": "alias",
-      "alias": "fam-SY-kloh-veer"
+      "alias": "intensive care unit"
     },
     {
-      "text": "oseltamivir",
+      "text": "NICU",
       "type": "alias",
-      "alias": "oh-sel-TAM-ih-veer"
+      "alias": "neonatal intensive care unit"
     },
     {
-      "text": "aciklovir",
+      "text": "ER",
       "type": "alias",
-      "alias": "ah-SEE-kloh-veer"
+      "alias": "emergency room"
     },
     {
-      "text": "ibuprofen",
+      "text": "ED",
       "type": "alias",
-      "alias": "eye-byoo-PROH-fen"
+      "alias": "emergency department"
     },
     {
-      "text": "naproxen",
+      "text": "OR",
       "type": "alias",
-      "alias": "nah-PROK-sen"
+      "alias": "operating room"
     },
     {
-      "text": "celecoxib",
+      "text": "PACU",
       "type": "alias",
-      "alias": "sel-eh-KOK-sib"
+      "alias": "post-anesthesia care unit"
     },
     {
-      "text": "meloxicam",
+      "text": "CCU",
       "type": "alias",
-      "alias": "mel-OK-sih-kam"
+      "alias": "coronary care unit"
     },
     {
-      "text": "diclofenac",
+      "text": "SICU",
       "type": "alias",
-      "alias": "dye-KLOH-fen-ak"
+      "alias": "surgical intensive care unit"
     },
     {
-      "text": "ketorolac",
+      "text": "MICU",
       "type": "alias",
-      "alias": "kee-TOR-oh-lak"
+      "alias": "medical intensive care unit"
     },
     {
-      "text": "indomethacin",
+      "text": "BP",
       "type": "alias",
-      "alias": "in-doh-METH-ah-sin"
+      "alias": "blood pressure"
     },
     {
-      "text": "nabumetone",
+      "text": "HR",
       "type": "alias",
-      "alias": "na-BYOO-meh-tone"
+      "alias": "heart rate"
     },
     {
-      "text": "etodolac",
+      "text": "RR",
       "type": "alias",
-      "alias": "ee-TOH-doh-lak"
+      "alias": "respiratory rate"
     },
     {
-      "text": "oxaprozin",
+      "text": "SpO2",
       "type": "alias",
-      "alias": "ok-sah-PROH-zin"
+      "alias": "saturation of peripheral oxygen"
     },
     {
-      "text": "acetaminophen",
+      "text": "ETCO2",
       "type": "alias",
-      "alias": "ah-SEE-tah-MIN-oh-fen"
+      "alias": "end-tidal carbon dioxide"
     },
     {
-      "text": "tramadol",
+      "text": "IV",
       "type": "alias",
-      "alias": "TRAM-ah-dol"
+      "alias": "intravenous"
     },
     {
-      "text": "gabapentin",
+      "text": "IM",
       "type": "alias",
-      "alias": "gab-ah-PEN-tin"
+      "alias": "intramuscular"
     },
     {
-      "text": "pregabalin",
+      "text": "SC",
       "type": "alias",
-      "alias": "pree-GAB-ah-lin"
+      "alias": "subcutaneous"
     },
     {
-      "text": "duloxetine",
+      "text": "PO",
       "type": "alias",
-      "alias": "doo-LOK-seh-teen"
+      "alias": "by mouth"
     },
     {
-      "text": "amitriptyline",
+      "text": "PR",
       "type": "alias",
-      "alias": "am-ee-TRIP-tih-leen"
+      "alias": "per rectum"
     },
     {
-      "text": "nortriptyline",
+      "text": "SL",
       "type": "alias",
-      "alias": "nor-TRIP-tih-leen"
+      "alias": "sublingual"
     },
     {
-      "text": "topiramate",
+      "text": "OS",
       "type": "alias",
-      "alias": "toh-PIHR-ah-mayt"
+      "alias": "left eye"
     },
     {
-      "text": "carbamazepine",
+      "text": "OU",
       "type": "alias",
-      "alias": "kar-bah-MAZ-eh-peen"
+      "alias": "both eyes"
     },
     {
-      "text": "oxcarbazepine",
+      "text": "AU",
       "type": "alias",
-      "alias": "oks-kar-BAZ-eh-peen"
+      "alias": "both ears"
     },
     {
-      "text": "lamotrigine",
+      "text": "AD",
       "type": "alias",
-      "alias": "lah-MOH-trih-jeen"
+      "alias": "right ear"
     },
     {
-      "text": "levetiracetam",
+      "text": "AS",
       "type": "alias",
-      "alias": "lev-eh-TIHR-ah-seh-tam"
+      "alias": "left ear"
     },
     {
-      "text": "phenytoin",
+      "text": "APAP",
       "type": "alias",
-      "alias": "FEN-ih-toh-in"
+      "alias": "acetaminophen"
     },
     {
-      "text": "valproic acid",
+      "text": "NSAID",
       "type": "alias",
-      "alias": "val-PROH-ik AS-id"
+      "alias": "non-steroidal anti-inflammatory drug"
     },
     {
-      "text": "zonisamide",
+      "text": "PPI",
       "type": "alias",
-      "alias": "zoh-NIS-ah-mide"
+      "alias": "proton pump inhibitor"
     },
     {
-      "text": "lacosamide",
+      "text": "ARB",
       "type": "alias",
-      "alias": "lah-KOH-sah-mide"
+      "alias": "angiotensin receptor blocker"
     },
     {
-      "text": "rufinamide",
+      "text": "ACE",
       "type": "alias",
-      "alias": "roo-FIN-ah-mide"
+      "alias": "angiotensin-converting enzyme"
     },
     {
-      "text": "omeprazole",
+      "text": "BB",
       "type": "alias",
-      "alias": "oh-MEP-rah-zole"
+      "alias": "beta blocker"
     },
     {
-      "text": "pantoprazole",
+      "text": "CCB",
       "type": "alias",
-      "alias": "pan-TOH-prah-zole"
+      "alias": "calcium channel blocker"
     },
     {
-      "text": "esomeprazole",
+      "text": "SSRI",
       "type": "alias",
-      "alias": "es-oh-MEP-rah-zole"
+      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
     },
     {
-      "text": "lansoprazole",
+      "text": "SNRI",
       "type": "alias",
-      "alias": "lan-SOH-prah-zole"
+      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
     },
     {
-      "text": "rabeprazole",
+      "text": "TCA",
       "type": "alias",
-      "alias": "rah-BEP-rah-zole"
+      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
     },
     {
-      "text": "dexlansoprazole",
+      "text": "MAOI",
       "type": "alias",
-      "alias": "deks-lan-SOH-prah-zole"
+      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
     },
     {
-      "text": "famotidine",
+      "text": "DM",
       "type": "alias",
-      "alias": "fam-OH-tih-deen"
+      "alias": "di-a-BE-teez mel-LI-tus"
     },
     {
-      "text": "ranitidine",
+      "text": "HTN",
       "type": "alias",
-      "alias": "ran-IH-tih-deen"
+      "alias": "hi-per-TEN-shun"
     },
     {
-      "text": "cimetidine",
+      "text": "HLD",
       "type": "alias",
-      "alias": "sy-MET-ih-deen"
+      "alias": "hi-per-LIP-i-dee-mee-uh"
     },
     {
-      "text": "nizatidine",
+      "text": "CAD",
       "type": "alias",
-      "alias": "ny-ZAT-ih-deen"
+      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
     },
     {
-      "text": "aluminum hydroxide",
+      "text": "PVD",
       "type": "alias",
-      "alias": "ah-LOO-min-um hy-DROK-side"
+      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
     },
     {
-      "text": "simethicone",
+      "text": "CKD",
       "type": "alias",
-      "alias": "sy-METH-ih-kone"
+      "alias": "kron-ik KID-nee di-ZEEZ"
     },
     {
-      "text": "ondansetron",
+      "text": "ESRD",
       "type": "alias",
-      "alias": "on-DAN-seh-tron"
+      "alias": "end-STAGE re-NAL di-ZEEZ"
     },
     {
-      "text": "granisetron",
+      "text": "AKI",
       "type": "alias",
-      "alias": "gran-IS-eh-tron"
+      "alias": "ak-YOOT KID-nee in-JER-ee"
     },
     {
-      "text": "palonosetron",
+      "text": "ASTHMA",
       "type": "alias",
-      "alias": "pal-oh-NOH-seh-tron"
+      "alias": "AZ-muh"
     },
     {
-      "text": "metoclopramide",
+      "text": "GERD",
       "type": "alias",
-      "alias": "met-oh-KLOH-prah-mide"
+      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
     },
     {
-      "text": "promethazine",
+      "text": "IBD",
       "type": "alias",
-      "alias": "proh-METH-ah-zeen"
+      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
     },
     {
-      "text": "prochlorperazine",
+      "text": "IBS",
       "type": "alias",
-      "alias": "proh-klor-PER-ah-zeen"
+      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
     },
     {
-      "text": "loperamide",
+      "text": "NASH",
       "type": "alias",
-      "alias": "loh-PER-ah-mide"
+      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
     },
     {
-      "text": "docusate",
+      "text": "NAFLD",
       "type": "alias",
-      "alias": "DOK-yoo-sate"
+      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
     },
     {
-      "text": "polyethylene glycol",
+      "text": "HCC",
       "type": "alias",
-      "alias": "pol-ee-ETH-ih-leen GLY-kol"
+      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
     },
     {
-      "text": "bisacodyl",
+      "text": "ALL",
       "type": "alias",
-      "alias": "bis-AK-oh-dil"
+      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
     },
     {
-      "text": "senna",
+      "text": "AML",
       "type": "alias",
-      "alias": "SEN-ah"
+      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
     },
     {
-      "text": "lactulose",
+      "text": "CLL",
       "type": "alias",
-      "alias": "LAK-tyoo-lose"
+      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
     },
     {
-      "text": "albuterol",
+      "text": "CML",
       "type": "alias",
-      "alias": "al-BOO-ter-ol"
+      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
     },
     {
-      "text": "levalbuterol",
+      "text": "NHL",
       "type": "alias",
-      "alias": "lev-al-BOO-ter-ol"
+      "alias": "non-HOJ-kin lym-FO-ma"
     },
     {
-      "text": "ipratropium",
+      "text": "MM",
       "type": "alias",
-      "alias": "ip-ra-TROH-pee-um"
+      "alias": "mul-TI-pul my-eh-LO-ma"
     },
     {
-      "text": "tiotropium",
+      "text": "SLE",
       "type": "alias",
-      "alias": "ty-oh-TROH-pee-um"
+      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
     },
     {
-      "text": "umeclidinium",
+      "text": "RA",
       "type": "alias",
-      "alias": "yoo-meh-kli-DIN-ee-um"
+      "alias": "rew-ma-TOYD ar-THRI-tis"
     },
     {
-      "text": "glycopyrrolate",
+      "text": "OA",
       "type": "alias",
-      "alias": "gly-koh-PIR-oh-late"
+      "alias": "os-tee-o-ar-THRI-tis"
     },
     {
-      "text": "formoterol",
+      "text": "DJD",
       "type": "alias",
-      "alias": "for-MOH-ter-ol"
+      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
     },
     {
-      "text": "salmeterol",
+      "text": "MG",
       "type": "alias",
-      "alias": "sal-MEH-ter-ol"
+      "alias": "myasthenia gravis"
     },
     {
-      "text": "indacaterol",
+      "text": "MS",
       "type": "alias",
-      "alias": "in-da-KA-ter-ol"
+      "alias": "multiple sclerosis"
     },
     {
-      "text": "olodaterol",
+      "text": "ALS",
       "type": "alias",
-      "alias": "oh-loh-DA-ter-ol"
+      "alias": "amyotrophic lateral sclerosis"
     },
     {
-      "text": "fluticasone",
+      "text": "GBS",
       "type": "alias",
-      "alias": "floo-TIK-a-sone"
+      "alias": "Guillain-Barré syndrome"
     },
     {
-      "text": "budesonide",
+      "text": "TBI",
       "type": "alias",
-      "alias": "byoo-DEH-soh-nide"
+      "alias": "traumatic brain injury"
     },
     {
-      "text": "mometasone",
+      "text": "PD",
       "type": "alias",
-      "alias": "moh-MEH-ta-sone"
+      "alias": "Parkinson disease"
     },
     {
-      "text": "ciclesonide",
+      "text": "HD",
       "type": "alias",
-      "alias": "sik-LEH-soh-nide"
+      "alias": "Huntington disease"
     },
     {
-      "text": "beclomethasone",
+      "text": "CJD",
       "type": "alias",
-      "alias": "beh-kloh-MEH-tha-sone"
+      "alias": "Creutzfeldt-Jakob disease"
     },
     {
-      "text": "montelukast",
+      "text": "SCI",
       "type": "alias",
-      "alias": "mon-teh-LOO-kast"
+      "alias": "spinal cord injury"
     },
     {
-      "text": "zafirlukast",
+      "text": "CA",
       "type": "alias",
-      "alias": "za-FIR-loo-kast"
+      "alias": "cancer"
     },
     {
-      "text": "zileuton",
+      "text": "N/V",
       "type": "alias",
-      "alias": "zy-LOO-ton"
+      "alias": "nausea and vomiting"
     },
     {
-      "text": "theophylline",
+      "text": "SOB",
       "type": "alias",
-      "alias": "thee-OFF-i-lin"
+      "alias": "shortness of breath"
     },
     {
-      "text": "roflumilast",
+      "text": "CP",
       "type": "alias",
-      "alias": "roh-FLOO-mi-last"
+      "alias": "cerebral palsy"
     },
     {
-      "text": "benralizumab",
+      "text": "N/V/D",
       "type": "alias",
-      "alias": "ben-ra-LIZ-oo-mab"
+      "alias": "nausea vomiting and diarrhea"
     },
     {
-      "text": "mepolizumab",
+      "text": "LOC",
       "type": "alias",
-      "alias": "meh-poh-LIZ-oo-mab"
+      "alias": "loss of consciousness"
     }
   ]
 }

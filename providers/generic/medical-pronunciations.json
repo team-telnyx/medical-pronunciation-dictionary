@@ -1,3866 +1,4832 @@
 {
   "atorvastatin": {
     "alias": "a-TOR-va-STAT-in",
-    "ipa": "əˌtɔr.vəˈstæ.tɪn"
+    "ipa": "əˌtɔr.vəˈstæ.tɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Lipitor": {
     "alias": "LIP-i-tor",
-    "ipa": "lɪˈpɪ.tɔr"
+    "ipa": "lɪˈpɪ.tɔr",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lisinopril": {
     "alias": "ly-SIN-oh-pril",
-    "ipa": "laɪˈsɪnoʊprɪl"
+    "ipa": "laɪˈsɪnoʊprɪl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "metoprolol": {
     "alias": "me-TOE-pro-lol",
-    "ipa": "məˈtoʊ.prə.lɔl"
+    "ipa": "məˈtoʊ.prə.lɔl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "amlodipine": {
     "alias": "am-LOE-di-peen",
-    "ipa": "æmˈloʊ.dɪˌpin"
+    "ipa": "æmˈloʊ.dɪˌpin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "losartan": {
     "alias": "loe-SAR-tan",
-    "ipa": "loʊˈsɑr.tæn"
+    "ipa": "loʊˈsɑr.tæn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "metoprolol succinate": {
     "alias": "me-TOE-pro-lol SUK-si-nate",
-    "ipa": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt"
+    "ipa": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "metoprolol tartrate": {
     "alias": "me-TOE-pro-lol TAR-trate",
-    "ipa": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt"
+    "ipa": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "carvedilol": {
     "alias": "kar-VE-di-lol",
-    "ipa": "kɑrˈvɛ.dɪ.lɔl"
+    "ipa": "kɑrˈvɛ.dɪ.lɔl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "valsartan": {
     "alias": "val-SAR-tan",
-    "ipa": "vælˈsɑr.tæn"
+    "ipa": "vælˈsɑr.tæn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "enalapril": {
     "alias": "e-NAL-a-pril",
-    "ipa": "ɪˈnæ.lə.prɪl"
+    "ipa": "ɪˈnæ.lə.prɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ramipril": {
     "alias": "ra-MI-pril",
-    "ipa": "ræˈmɪ.prɪl"
+    "ipa": "ræˈmɪ.prɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "felodipine": {
     "alias": "fe-LOE-di-peen",
-    "ipa": "fɪˈloʊ.dɪˌpin"
+    "ipa": "fɪˈloʊ.dɪˌpin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nimodipine": {
     "alias": "ny-MOE-di-peen",
-    "ipa": "naɪˈmoʊ.dɪˌpin"
+    "ipa": "naɪˈmoʊ.dɪˌpin",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nicardipine": {
     "alias": "ny-KAR-di-peen",
-    "ipa": "naɪˈkɑr.dɪˌpin"
+    "ipa": "naɪˈkɑr.dɪˌpin",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nitroglycerin": {
     "alias": "ny-tro-GLIS-er-in",
-    "ipa": "ˌnaɪ.trəˈɡlɪ.sə.rɪn"
+    "ipa": "ˌnaɪ.trəˈɡlɪ.sə.rɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hydralazine": {
     "alias": "hy-DRAL-a-zeen",
-    "ipa": "haɪˈdræ.ləˌzin"
+    "ipa": "haɪˈdræ.ləˌzin",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "clonidine": {
     "alias": "KLON-i-deen",
-    "ipa": "ˈkloʊ.nɪˌdin"
+    "ipa": "ˈkloʊ.nɪˌdin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "spironolactone": {
     "alias": "spir-oh-no-LAK-tone",
-    "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn"
+    "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "furosemide": {
     "alias": "fur-OH-se-mide",
-    "ipa": "fʊˈroʊsəmaɪd"
+    "ipa": "fʊˈroʊsəmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hydrochlorothiazide": {
     "alias": "hy-dro-KLOR-oh-THY-a-zide",
-    "ipa": "ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd"
+    "ipa": "ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "triamterene": {
     "alias": "try-AM-ter-een",
-    "ipa": "traɪˈæm.tərˌin"
+    "ipa": "traɪˈæm.tərˌin",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "bumetanide": {
     "alias": "byoo-MET-a-nide",
-    "ipa": "bjuˈmɛ.təˌnaɪd"
+    "ipa": "bjuˈmɛ.təˌnaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "torsemide": {
     "alias": "TOR-se-mide",
-    "ipa": "ˈtɔr.səˌmaɪd"
+    "ipa": "ˈtɔr.səˌmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "eplerenone": {
     "alias": "e-PLER-e-none",
-    "ipa": "ɪˈplɛ.rɪˌnoʊn"
+    "ipa": "ɪˈplɛ.rɪˌnoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "diltiazem": {
     "alias": "dil-TY-a-zem",
-    "ipa": "dɪlˈtaɪ.ə.zəm"
+    "ipa": "dɪlˈtaɪ.ə.zəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "verapamil": {
     "alias": "ver-AP-a-mil",
-    "ipa": "vəˈræ.pə.mɪl"
+    "ipa": "vəˈræ.pə.mɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nifedipine": {
     "alias": "ny-FED-i-peen",
-    "ipa": "naɪˈfɛ.dɪˌpin"
+    "ipa": "naɪˈfɛ.dɪˌpin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "doxazosin": {
     "alias": "dok-SAZ-oh-sin",
-    "ipa": "dɑkˈsæ.zə.sɪn"
+    "ipa": "dɑkˈsæ.zə.sɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "terazosin": {
     "alias": "ter-AZ-oh-sin",
-    "ipa": "təˈræ.zə.sɪn"
+    "ipa": "təˈræ.zə.sɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "prazosin": {
     "alias": "PRAZ-oh-sin",
-    "ipa": "ˈpræzəsɪn"
+    "ipa": "ˈpræzəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "amiodarone": {
     "alias": "am-ee-OH-da-rone",
-    "ipa": "əˈmiːoʊdəroʊn"
+    "ipa": "əˈmiːoʊdəroʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "dronedarone": {
     "alias": "droe-NEH-da-rone",
-    "ipa": "droʊˈnɛdəroʊn"
+    "ipa": "droʊˈnɛdəroʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sotalol": {
     "alias": "SOH-ta-lol",
-    "ipa": "ˈsoʊtəlɔːl"
+    "ipa": "ˈsoʊtəlɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "propafenone": {
     "alias": "pro-PAF-eh-none",
-    "ipa": "proʊˈpæfənoʊn"
+    "ipa": "proʊˈpæfənoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "flecainide": {
     "alias": "FLEH-ka-nide",
-    "ipa": "ˈflɛkənaɪd"
+    "ipa": "ˈflɛkənaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "mexiletine": {
     "alias": "mex-IL-eh-teen",
-    "ipa": "mɛkˈsɪlətiːn"
+    "ipa": "mɛkˈsɪlətiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "isosorbide dinitrate": {
     "alias": "eye-so-SOR-bide dye-NYE-trate",
-    "ipa": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt"
+    "ipa": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "isosorbide mononitrate": {
     "alias": "eye-so-SOR-bide mon-oh-NYE-trate",
-    "ipa": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt"
+    "ipa": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "warfarin": {
     "alias": "war-FAR-in",
-    "ipa": "ˈwɔːrfərɪn"
+    "ipa": "ˈwɔːrfərɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rivaroxaban": {
     "alias": "riv-a-ROX-a-ban",
-    "ipa": "ˌrɪvəˈrɒksəbæn"
+    "ipa": "ˌrɪvəˈrɒksəbæn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "apixaban": {
     "alias": "a-PIX-a-ban",
-    "ipa": "əˈpɪksəbæn"
+    "ipa": "əˈpɪksəbæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "dabigatran": {
     "alias": "da-big-a-TRAN",
-    "ipa": "dəˈbɪɡətræn"
+    "ipa": "dəˈbɪɡətræn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "clopidogrel": {
     "alias": "kloh-PID-oh-grel",
-    "ipa": "kloʊˈpɪdəɡrɛl"
+    "ipa": "kloʊˈpɪdəɡrɛl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "prasugrel": {
     "alias": "PRA-soo-grel",
-    "ipa": "ˈpræsʊɡrɛl"
+    "ipa": "ˈpræsʊɡrɛl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ticagrelor": {
     "alias": "tye-ka-GREL-or",
-    "ipa": "taɪˈkæɡrəlɔːr"
+    "ipa": "taɪˈkæɡrəlɔːr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ezetimibe": {
     "alias": "eh-ZET-i-mibe",
-    "ipa": "ɪˈzɛtəmaɪb"
+    "ipa": "ɪˈzɛtəmaɪb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fenofibrate": {
     "alias": "fen-oh-FYE-brate",
-    "ipa": "ˌfɛnoʊˈfaɪbreɪt"
+    "ipa": "ˌfɛnoʊˈfaɪbreɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "gemfibrozil": {
     "alias": "jem-FYE-broh-zil",
-    "ipa": "dʒɛmˈfaɪbrəzɪl"
+    "ipa": "dʒɛmˈfaɪbrəzɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "niacin": {
     "alias": "NYE-a-sin",
-    "ipa": "ˈnaɪəsɪn"
+    "ipa": "ˈnaɪəsɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "colesevelam": {
     "alias": "koh-leh-SEV-eh-lam",
-    "ipa": "koʊləˈsɛvəlæm"
+    "ipa": "koʊləˈsɛvəlæm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "simvastatin": {
     "alias": "sim-va-STAT-in",
-    "ipa": "ˌsɪmvəˈstætɪn"
+    "ipa": "ˌsɪmvəˈstætɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rosuvastatin": {
     "alias": "roh-soo-va-STAT-in",
-    "ipa": "ˌroʊsuˈvæstətɪn"
+    "ipa": "ˌroʊsuˈvæstətɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pravastatin": {
     "alias": "PRAV-va-STAT-in",
-    "ipa": "ˈprævəstætɪn"
+    "ipa": "ˈprævəstætɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "fluvastatin": {
     "alias": "FLOO-va-STAT-in",
-    "ipa": "fluːˈvæstətɪn"
+    "ipa": "fluːˈvæstətɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pitavastatin": {
     "alias": "pit-a-va-STAT-in",
-    "ipa": "ˌpɪtəˈvæstətɪn"
+    "ipa": "ˌpɪtəˈvæstətɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "alirocumab": {
     "alias": "a-LIR-oh-kyoo-mab",
-    "ipa": "əˌlɪroʊˈkuːmæb"
+    "ipa": "əˌlɪroʊˈkuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "evolocumab": {
     "alias": "e-VOL-oh-kyoo-mab",
-    "ipa": "ɪˈvoʊloʊkuːmæb"
+    "ipa": "ɪˈvoʊloʊkuːmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "metformin": {
     "alias": "met-FOR-min",
-    "ipa": "mɛtˈfɔːrmɪn"
+    "ipa": "mɛtˈfɔːrmɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "glipizide": {
     "alias": "GLIP-i-zide",
-    "ipa": "ˈɡlɪpəzaɪd"
+    "ipa": "ˈɡlɪpəzaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "glyburide": {
     "alias": "GLY-bur-ide",
-    "ipa": "ˈɡlaɪbjʊˌraɪd"
+    "ipa": "ˈɡlaɪbjʊˌraɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pioglitazone": {
     "alias": "py-oh-GLIT-ah-zone",
-    "ipa": "ˌpaɪoʊɡlɪˈtæzoʊn"
+    "ipa": "ˌpaɪoʊɡlɪˈtæzoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sitagliptin": {
     "alias": "sit-ah-GLIP-tin",
-    "ipa": "ˌsɪtəˈɡlɪptɪn"
+    "ipa": "ˌsɪtəˈɡlɪptɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "linagliptin": {
     "alias": "lin-ah-GLIP-tin",
-    "ipa": "ˌlɪnəˈɡlɪptɪn"
+    "ipa": "ˌlɪnəˈɡlɪptɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "saxagliptin": {
     "alias": "sax-ah-GLIP-tin",
-    "ipa": "ˌsæksəˈɡlɪptɪn"
+    "ipa": "ˌsæksəˈɡlɪptɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "alogliptin": {
     "alias": "al-oh-GLIP-tin",
-    "ipa": "ˌæloʊˈɡlɪptɪn"
+    "ipa": "ˌæloʊˈɡlɪptɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "empagliflozin": {
     "alias": "em-pah-gli-FLOH-zin",
-    "ipa": "ˌɛmpəɡlɪˈfloʊzɪn"
+    "ipa": "ˌɛmpəɡlɪˈfloʊzɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "canagliflozin": {
     "alias": "kan-ah-gli-FLOH-zin",
-    "ipa": "ˌkænəɡlɪˈfloʊzɪn"
+    "ipa": "ˌkænəɡlɪˈfloʊzɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "dapagliflozin": {
     "alias": "dap-ah-gli-FLOH-zin",
-    "ipa": "ˌdæpəɡlɪˈfloʊzɪn"
+    "ipa": "ˌdæpəɡlɪˈfloʊzɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "semaglutide": {
     "alias": "sem-ah-GLOO-tide",
-    "ipa": "ˌsɛməˈɡluːtaɪd"
+    "ipa": "ˌsɛməˈɡluːtaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "liraglutide": {
     "alias": "lir-ah-GLOO-tide",
-    "ipa": "ˌlɪrəˈɡluːtaɪd"
+    "ipa": "ˌlɪrəˈɡluːtaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "exenatide": {
     "alias": "ex-EN-ah-tide",
-    "ipa": "ɛɡˈzɛnətaɪd"
+    "ipa": "ɛɡˈzɛnətaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dulaglutide": {
     "alias": "doo-lah-GLOO-tide",
-    "ipa": "ˌduːləˈɡluːtaɪd"
+    "ipa": "ˌduːləˈɡluːtaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tirzepatide": {
     "alias": "teer-ZEP-ah-tide",
-    "ipa": "tɪrˈzɛpətaɪd"
+    "ipa": "tɪrˈzɛpətaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "insulin glargine": {
     "alias": "IN-suh-lin GLAR-jeen",
-    "ipa": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn"
+    "ipa": "ˈɪnsəlɪn ˈɡlɑːrdʒiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "insulin lispro": {
     "alias": "IN-suh-lin LIS-proh",
-    "ipa": "ˈɪnsəlɪn ˈlɪsproʊ"
+    "ipa": "ˈɪnsəlɪn ˈlɪsproʊ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "insulin aspart": {
     "alias": "IN-suh-lin AS-part",
-    "ipa": "ˈɪnsəlɪn ˈæspɑːrt"
+    "ipa": "ˈɪnsəlɪn ˈæspɑːrt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "insulin detemir": {
     "alias": "IN-suh-lin DET-uh-meer",
-    "ipa": "ˈɪnsəlɪn dəˈtiːmɪr"
+    "ipa": "ˈɪnsəlɪn dəˈtiːmɪr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "insulin degludec": {
     "alias": "IN-suh-lin deh-GLOO-dek",
-    "ipa": "ˈɪnsəlɪn dɛˈɡluːdɛk"
+    "ipa": "ˈɪnsəlɪn dɛˈɡluːdɛk",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "acarbose": {
     "alias": "AY-kar-bose",
-    "ipa": "ˈækɑːrboʊs"
+    "ipa": "ˈækɑːrboʊs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "miglitol": {
     "alias": "MIG-li-tol",
-    "ipa": "ˈmɪɡlɪtɔːl"
+    "ipa": "ˈmɪɡlɪtɔːl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "repaglinide": {
     "alias": "reh-PAG-li-nide",
-    "ipa": "ˌrɛpəˈɡlaɪnaɪd"
+    "ipa": "ˌrɛpəˈɡlaɪnaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nateglinide": {
     "alias": "nah-TEG-li-nide",
-    "ipa": "nəˈtɛɡlɪnaɪd"
+    "ipa": "nəˈtɛɡlɪnaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "amoxicillin": {
     "alias": "ah-MOX-i-sil-in",
-    "ipa": "əˌmɑːksɪˈsɪlɪn"
+    "ipa": "əˌmɑːksɪˈsɪlɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "amoxicillin clavulanate": {
     "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
-    "ipa": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt"
+    "ipa": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "azithromycin": {
     "alias": "ah-ZITH-roh-my-sin",
-    "ipa": "æˌzɪθroʊˈmaɪsɪn"
+    "ipa": "æˌzɪθroʊˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cephalexin": {
     "alias": "sef-ah-LEX-in",
-    "ipa": "ˌsɛfəˈlɛksɪn"
+    "ipa": "ˌsɛfəˈlɛksɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ciprofloxacin": {
     "alias": "sip-roh-FLOX-ah-sin",
-    "ipa": "ˌsaɪproʊˈflɑːksəsɪn"
+    "ipa": "ˌsaɪproʊˈflɑːksəsɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "clindamycin": {
     "alias": "klin-dah-MY-sin",
-    "ipa": "ˌklɪndəˈmaɪsɪn"
+    "ipa": "ˌklɪndəˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "doxycycline": {
     "alias": "dok-see-SY-kleen",
-    "ipa": "ˌdɑːksiˈsaɪkliːn"
+    "ipa": "ˌdɑːksiˈsaɪkliːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "metronidazole": {
     "alias": "me-tro-NI-da-zole",
-    "ipa": "ˌmɛtrəˈnaɪdəzoʊl"
+    "ipa": "ˌmɛtrəˈnaɪdəzoʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sulfamethoxazole trimethoprim": {
     "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
-    "ipa": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm"
+    "ipa": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nitrofurantoin": {
     "alias": "ny-tro-fyoor-an-TOYN",
-    "ipa": "ˌnaɪtroʊfjʊˈræntoʊɪn"
+    "ipa": "ˌnaɪtroʊfjʊˈræntoʊɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "penicillin": {
     "alias": "pen-i-SIL-in",
-    "ipa": "ˌpɛnɪˈsɪlɪn"
+    "ipa": "ˌpɛnɪˈsɪlɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "vancomycin": {
     "alias": "van-ko-MY-sin",
-    "ipa": "væŋkoʊˈmaɪsɪn"
+    "ipa": "væŋkoʊˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "levofloxacin": {
     "alias": "lee-vo-FLOX-a-sin",
-    "ipa": "ˌlɛvoʊˈflɑksəsɪn"
+    "ipa": "ˌlɛvoʊˈflɑksəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "moxifloxacin": {
     "alias": "mox-i-FLOX-a-sin",
-    "ipa": "ˌmɑksɪˈflɑksəsɪn"
+    "ipa": "ˌmɑksɪˈflɑksəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cefdinir": {
     "alias": "SEF-di-ner",
-    "ipa": "ˈsɛfdɪnɪr"
+    "ipa": "ˈsɛfdɪnɪr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cefaclor": {
     "alias": "SEF-a-klor",
-    "ipa": "ˈsɛfəklɔr"
+    "ipa": "ˈsɛfəklɔr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cefuroxime": {
     "alias": "se-fyoor-OX-eem",
-    "ipa": "ˌsɛfjʊˈrɑksiːm"
+    "ipa": "ˌsɛfjʊˈrɑksiːm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ceftriaxone": {
     "alias": "sef-try-AX-one",
-    "ipa": "ˌsɛftraɪˈæksoʊn"
+    "ipa": "ˌsɛftraɪˈæksoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "cefepime": {
     "alias": "SEF-e-peem",
-    "ipa": "ˈsɛfəpiːm"
+    "ipa": "ˈsɛfəpiːm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "meropenem": {
     "alias": "mer-oh-PEN-em",
-    "ipa": "məˈrɑpənɛm"
+    "ipa": "məˈrɑpənɛm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ertapenem": {
     "alias": "er-ta-PEN-em",
-    "ipa": "ˌɛrtəˈpiːnɛm"
+    "ipa": "ˌɛrtəˈpiːnɛm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "imipenem": {
     "alias": "i-mi-PEN-em",
-    "ipa": "ˌɪmɪˈpiːnɛm"
+    "ipa": "ˌɪmɪˈpiːnɛm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "piperacillin tazobactam": {
     "alias": "pi-PER-a-sil-in ta-zo-BAK-tam",
-    "ipa": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm"
+    "ipa": "ˌpɪpəˈræsɪlɪn ˌtæzoʊˈbæktəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "gentamicin": {
     "alias": "jen-ta-MY-sin",
-    "ipa": "ˌdʒɛntəˈmaɪsɪn"
+    "ipa": "ˌdʒɛntəˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "tobramycin": {
     "alias": "toe-bra-MY-sin",
-    "ipa": "ˌtoʊbrəˈmaɪsɪn"
+    "ipa": "ˌtoʊbrəˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "amikacin": {
     "alias": "am-i-KAY-sin",
-    "ipa": "ˌæmɪˈkeɪsɪn"
+    "ipa": "ˌæmɪˈkeɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "linezolid": {
     "alias": "li-NEZ-o-lid",
-    "ipa": "lɪˈnɛzəlɪd"
+    "ipa": "lɪˈnɛzəlɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "daptomycin": {
     "alias": "dap-toe-MY-sin",
-    "ipa": "ˌdæptoʊˈmaɪsɪn"
+    "ipa": "ˌdæptoʊˈmaɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tigecycline": {
     "alias": "tye-ge-SY-kleen",
-    "ipa": "ˌtɪɡəˈsaɪkliːn"
+    "ipa": "ˌtɪɡəˈsaɪkliːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "minocycline": {
     "alias": "mi-no-SY-kleen",
-    "ipa": "ˌmɪnoʊˈsaɪkliːn"
+    "ipa": "ˌmɪnoʊˈsaɪkliːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rifampin": {
     "alias": "ri-FAM-pin",
-    "ipa": "rɪˈfæmpɪn"
+    "ipa": "rɪˈfæmpɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "isoniazid": {
     "alias": "eye-so-NY-a-zid",
-    "ipa": "ˌaɪsoʊˈnaɪəzɪd"
+    "ipa": "ˌaɪsoʊˈnaɪəzɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pyrazinamide": {
     "alias": "py-ra-ZIN-a-mide",
-    "ipa": "ˌpɪrəˈzɪnəmaɪd"
+    "ipa": "ˌpɪrəˈzɪnəmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ethambutol": {
     "alias": "e-THAM-byoo-tol",
-    "ipa": "ɛˈθæmbjətɔl"
+    "ipa": "ɛˈθæmbjətɔl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "fluconazole": {
     "alias": "floo-KON-a-zole",
-    "ipa": "fluˈkɑnəzoʊl"
+    "ipa": "fluˈkɑnəzoʊl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ketoconazole": {
     "alias": "kee-toe-KON-a-zole",
-    "ipa": "ˌkiːtoʊˈkɑnəzoʊl"
+    "ipa": "ˌkiːtoʊˈkɑnəzoʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "itraconazole": {
     "alias": "i-tra-KON-a-zole",
-    "ipa": "ˌɪtrəˈkɑnəzoʊl"
+    "ipa": "ˌɪtrəˈkɑnəzoʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "voriconazole": {
     "alias": "vor-ih-KON-uh-zole",
-    "ipa": "ˌvɔrɪˈkɑnəzoʊl"
+    "ipa": "ˌvɔrɪˈkɑnəzoʊl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "posaconazole": {
     "alias": "poh-sah-KON-uh-zole",
-    "ipa": "poʊsəˈkɑnəzoʊl"
+    "ipa": "poʊsəˈkɑnəzoʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "acyclovir": {
     "alias": "ay-SY-kloh-veer",
-    "ipa": "eɪˈsaɪkləvɪr"
+    "ipa": "eɪˈsaɪkləvɪr",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "valacyclovir": {
     "alias": "val-ay-SY-kloh-veer",
-    "ipa": "vəˈlæsɪkləvɪr"
+    "ipa": "vəˈlæsɪkləvɪr",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "famciclovir": {
     "alias": "fam-SY-kloh-veer",
-    "ipa": "fæmˈsaɪkləvɪr"
+    "ipa": "fæmˈsaɪkləvɪr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oseltamivir": {
     "alias": "oh-sel-TAM-ih-veer",
-    "ipa": "ˌoʊsɛlˈtæmɪvɪr"
+    "ipa": "ˌoʊsɛlˈtæmɪvɪr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "aciklovir": {
     "alias": "ah-SEE-kloh-veer",
-    "ipa": "eɪˈsaɪkləvɪr"
+    "ipa": "eɪˈsaɪkləvɪr",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ibuprofen": {
     "alias": "eye-byoo-PROH-fen",
-    "ipa": "ˌaɪbjuˈproʊfən"
+    "ipa": "ˌaɪbjuˈproʊfən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "naproxen": {
     "alias": "nah-PROK-sen",
-    "ipa": "nəˈprɑksən"
+    "ipa": "nəˈprɑksən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "celecoxib": {
     "alias": "sel-eh-KOK-sib",
-    "ipa": "səˈlɛksɪb"
+    "ipa": "səˈlɛksɪb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "meloxicam": {
     "alias": "mel-OK-sih-kam",
-    "ipa": "məˈlɑksɪkæm"
+    "ipa": "məˈlɑksɪkæm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "diclofenac": {
     "alias": "dye-KLOH-fen-ak",
-    "ipa": "daɪˈkloʊfənæk"
+    "ipa": "daɪˈkloʊfənæk",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ketorolac": {
     "alias": "kee-TOR-oh-lak",
-    "ipa": "kiˈtɔrəlæk"
+    "ipa": "kiˈtɔrəlæk",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "indomethacin": {
     "alias": "in-doh-METH-ah-sin",
-    "ipa": "ˌɪndoʊˈmɛθəsɪn"
+    "ipa": "ˌɪndoʊˈmɛθəsɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nabumetone": {
     "alias": "na-BYOO-meh-tone",
-    "ipa": "nəˈbjumətoʊn"
+    "ipa": "nəˈbjumətoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "etodolac": {
     "alias": "ee-TOH-doh-lak",
-    "ipa": "iˈtoʊdəlæk"
+    "ipa": "iˈtoʊdəlæk",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oxaprozin": {
     "alias": "ok-sah-PROH-zin",
-    "ipa": "ˌɑksəˈproʊzɪn"
+    "ipa": "ˌɑksəˈproʊzɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "acetaminophen": {
     "alias": "ah-SEE-tah-MIN-oh-fen",
-    "ipa": "əˌsiːtəˈmɪnəfən"
+    "ipa": "əˌsiːtəˈmɪnəfən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "tramadol": {
     "alias": "TRAM-ah-dol",
-    "ipa": "ˈtræmədɔl"
+    "ipa": "ˈtræmədɔl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "gabapentin": {
     "alias": "gab-ah-PEN-tin",
-    "ipa": "ˌɡæbəˈpɛntɪn"
+    "ipa": "ˌɡæbəˈpɛntɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pregabalin": {
     "alias": "pree-GAB-ah-lin",
-    "ipa": "priˈɡæbəlɪn"
+    "ipa": "priˈɡæbəlɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "duloxetine": {
     "alias": "doo-LOK-seh-teen",
-    "ipa": "duˈlɑksətiːn"
+    "ipa": "duˈlɑksətiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "amitriptyline": {
     "alias": "am-ee-TRIP-tih-leen",
-    "ipa": "ˌæmɪˈtrɪptəliːn"
+    "ipa": "ˌæmɪˈtrɪptəliːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nortriptyline": {
     "alias": "nor-TRIP-tih-leen",
-    "ipa": "nɔrˈtrɪptəliːn"
+    "ipa": "nɔrˈtrɪptəliːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "topiramate": {
     "alias": "toh-PIHR-ah-mayt",
-    "ipa": "toʊˈpɪrəmeɪt"
+    "ipa": "toʊˈpɪrəmeɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "carbamazepine": {
     "alias": "kar-bah-MAZ-eh-peen",
-    "ipa": "ˌkɑrbəˈmæzəpiːn"
+    "ipa": "ˌkɑrbəˈmæzəpiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oxcarbazepine": {
     "alias": "oks-kar-BAZ-eh-peen",
-    "ipa": "ˌɑkskɑrˈbæzəpiːn"
+    "ipa": "ˌɑkskɑrˈbæzəpiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "lamotrigine": {
     "alias": "lah-MOH-trih-jeen",
-    "ipa": "ləˈmɑtrɪdʒiːn"
+    "ipa": "ləˈmɑtrɪdʒiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "levetiracetam": {
     "alias": "lev-eh-TIHR-ah-seh-tam",
-    "ipa": "ləˌvɛtɪˈræsɪtæm"
+    "ipa": "ləˌvɛtɪˈræsɪtæm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "phenytoin": {
     "alias": "FEN-ih-toh-in",
-    "ipa": "fəˈnɪtoʊɪn"
+    "ipa": "fəˈnɪtoʊɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "valproic acid": {
     "alias": "val-PROH-ik AS-id",
-    "ipa": "vælˈproʊɪk ˈæsɪd"
+    "ipa": "vælˈproʊɪk ˈæsɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "zonisamide": {
     "alias": "zoh-NIS-ah-mide",
-    "ipa": "zoʊˈnɪsəmaɪd"
+    "ipa": "zoʊˈnɪsəmaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "lacosamide": {
     "alias": "lah-KOH-sah-mide",
-    "ipa": "ləˈkoʊsəmaɪd"
+    "ipa": "ləˈkoʊsəmaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rufinamide": {
     "alias": "roo-FIN-ah-mide",
-    "ipa": "ruˈfɪnəmaɪd"
+    "ipa": "ruˈfɪnəmaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "omeprazole": {
     "alias": "oh-MEP-rah-zole",
-    "ipa": "oʊˈmɛprəzoʊl"
+    "ipa": "oʊˈmɛprəzoʊl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pantoprazole": {
     "alias": "pan-TOH-prah-zole",
-    "ipa": "pænˈtoʊprəzoʊl"
+    "ipa": "pænˈtoʊprəzoʊl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "esomeprazole": {
     "alias": "es-oh-MEP-rah-zole",
-    "ipa": "ɛˈsoʊmɛprəzoʊl"
+    "ipa": "ɛˈsoʊmɛprəzoʊl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lansoprazole": {
     "alias": "lan-SOH-prah-zole",
-    "ipa": "lænˈsoʊprəzoʊl"
+    "ipa": "lænˈsoʊprəzoʊl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rabeprazole": {
     "alias": "rah-BEP-rah-zole",
-    "ipa": "rəˈbɛprəzoʊl"
+    "ipa": "rəˈbɛprəzoʊl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dexlansoprazole": {
     "alias": "deks-lan-SOH-prah-zole",
-    "ipa": "dɛksˌlænˈsoʊprəzoʊl"
+    "ipa": "dɛksˌlænˈsoʊprəzoʊl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "famotidine": {
     "alias": "fam-OH-tih-deen",
-    "ipa": "fəˈmoʊtɪdiːn"
+    "ipa": "fəˈmoʊtɪdiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ranitidine": {
     "alias": "ran-IH-tih-deen",
-    "ipa": "rəˈnɪtɪdiːn"
+    "ipa": "rəˈnɪtɪdiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "cimetidine": {
     "alias": "sy-MET-ih-deen",
-    "ipa": "saɪˈmɛtɪdiːn"
+    "ipa": "saɪˈmɛtɪdiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nizatidine": {
     "alias": "ny-ZAT-ih-deen",
-    "ipa": "naɪˈzætɪdiːn"
+    "ipa": "naɪˈzætɪdiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "aluminum hydroxide": {
     "alias": "ah-LOO-min-um hy-DROK-side",
-    "ipa": "əˈluːmɪnəm haɪˈdrɒksaɪd"
+    "ipa": "əˈluːmɪnəm haɪˈdrɒksaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "simethicone": {
     "alias": "sy-METH-ih-kone",
-    "ipa": "saɪˈmɛθɪkoʊn"
+    "ipa": "saɪˈmɛθɪkoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ondansetron": {
     "alias": "on-DAN-seh-tron",
-    "ipa": "ɒnˈdænsətrɒn"
+    "ipa": "ɒnˈdænsətrɒn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "granisetron": {
     "alias": "gran-IS-eh-tron",
-    "ipa": "ɡrəˈnɪsətrɒn"
+    "ipa": "ɡrəˈnɪsətrɒn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "palonosetron": {
     "alias": "pal-oh-NOH-seh-tron",
-    "ipa": "pəˌloʊnəˈsɛtrɒn"
+    "ipa": "pəˌloʊnəˈsɛtrɒn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "metoclopramide": {
     "alias": "met-oh-KLOH-prah-mide",
-    "ipa": "məˌtoʊkloʊˈpræmaɪd"
+    "ipa": "məˌtoʊkloʊˈpræmaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "promethazine": {
     "alias": "proh-METH-ah-zeen",
-    "ipa": "proʊˈmɛθəziːn"
+    "ipa": "proʊˈmɛθəziːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "prochlorperazine": {
     "alias": "proh-klor-PER-ah-zeen",
-    "ipa": "proʊˌklɔːrˈpɛrəziːn"
+    "ipa": "proʊˌklɔːrˈpɛrəziːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "loperamide": {
     "alias": "loh-PER-ah-mide",
-    "ipa": "loʊˈpɛrəmaɪd"
+    "ipa": "loʊˈpɛrəmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "docusate": {
     "alias": "DOK-yoo-sate",
-    "ipa": "ˈdɒkjuseɪt"
+    "ipa": "ˈdɒkjuseɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "polyethylene glycol": {
     "alias": "pol-ee-ETH-ih-leen GLY-kol",
-    "ipa": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl"
+    "ipa": "ˌpɒliˈɛθɪliːn ˈɡlaɪkɒl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bisacodyl": {
     "alias": "bis-AK-oh-dil",
-    "ipa": "baɪˈsækədɪl"
+    "ipa": "baɪˈsækədɪl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "senna": {
     "alias": "SEN-ah",
-    "ipa": "ˈsɛnə"
+    "ipa": "ˈsɛnə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lactulose": {
     "alias": "LAK-tyoo-lose",
-    "ipa": "ˈlæktjuːloʊs"
+    "ipa": "ˈlæktjuːloʊs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "albuterol": {
     "alias": "al-BOO-ter-ol",
-    "ipa": "ælˈbjuːtərɒl"
+    "ipa": "ælˈbjuːtərɒl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "levalbuterol": {
     "alias": "lev-al-BOO-ter-ol",
-    "ipa": "ˌlɛvælˈbjuːtərɒl"
+    "ipa": "ˌlɛvælˈbjuːtərɒl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ipratropium": {
     "alias": "ip-ra-TROH-pee-um",
-    "ipa": "ˌɪprəˈtroʊpiəm"
+    "ipa": "ˌɪprəˈtroʊpiəm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "tiotropium": {
     "alias": "ty-oh-TROH-pee-um",
-    "ipa": "ˌtaɪəˈtroʊpiəm"
+    "ipa": "ˌtaɪəˈtroʊpiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "umeclidinium": {
     "alias": "yoo-meh-kli-DIN-ee-um",
-    "ipa": "ˌjuːˌmɛklɪˈdɪniəm"
+    "ipa": "ˌjuːˌmɛklɪˈdɪniəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "glycopyrrolate": {
     "alias": "gly-koh-PIR-oh-late",
-    "ipa": "ˌɡlaɪkoʊˈpɪroʊleɪt"
+    "ipa": "ˌɡlaɪkoʊˈpɪroʊleɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "formoterol": {
     "alias": "for-MOH-ter-ol",
-    "ipa": "fɔrˈmɑːtərɔːl"
+    "ipa": "fɔrˈmɑːtərɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "salmeterol": {
     "alias": "sal-MEH-ter-ol",
-    "ipa": "sælˈmiːtərɔːl"
+    "ipa": "sælˈmiːtərɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "indacaterol": {
     "alias": "in-da-KA-ter-ol",
-    "ipa": "ˌɪndəˈkætərɔːl"
+    "ipa": "ˌɪndəˈkætərɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "olodaterol": {
     "alias": "oh-loh-DA-ter-ol",
-    "ipa": "ˌoʊloʊˈdætərɔːl"
+    "ipa": "ˌoʊloʊˈdætərɔːl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "fluticasone": {
     "alias": "floo-TIK-a-sone",
-    "ipa": "fluːˈtɪkəsoʊn"
+    "ipa": "fluːˈtɪkəsoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "budesonide": {
     "alias": "byoo-DEH-soh-nide",
-    "ipa": "bjuːˈdɛsənaɪd"
+    "ipa": "bjuːˈdɛsənaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "mometasone": {
     "alias": "moh-MEH-ta-sone",
-    "ipa": "moʊˈmɛtəsoʊn"
+    "ipa": "moʊˈmɛtəsoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ciclesonide": {
     "alias": "sik-LEH-soh-nide",
-    "ipa": "sɪˈklɛsənaɪd"
+    "ipa": "sɪˈklɛsənaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "beclomethasone": {
     "alias": "beh-kloh-MEH-tha-sone",
-    "ipa": "ˌbɛkloʊˈmɛθəsoʊn"
+    "ipa": "ˌbɛkloʊˈmɛθəsoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "montelukast": {
     "alias": "mon-teh-LOO-kast",
-    "ipa": "ˌmɑːntəˈluːkæst"
+    "ipa": "ˌmɑːntəˈluːkæst",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "zafirlukast": {
     "alias": "za-FIR-loo-kast",
-    "ipa": "zəˈfɪrluːkæst"
+    "ipa": "zəˈfɪrluːkæst",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "zileuton": {
     "alias": "zy-LOO-ton",
-    "ipa": "zaɪˈluːtɑːn"
+    "ipa": "zaɪˈluːtɑːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "theophylline": {
     "alias": "thee-OFF-i-lin",
-    "ipa": "ˌθiːəˈfɪliːn"
+    "ipa": "ˌθiːəˈfɪliːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "roflumilast": {
     "alias": "roh-FLOO-mi-last",
-    "ipa": "roʊˈfluːmɪlæst"
+    "ipa": "roʊˈfluːmɪlæst",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "benralizumab": {
     "alias": "ben-ra-LIZ-oo-mab",
-    "ipa": "bɛnˈrælɪzʊmæb"
+    "ipa": "bɛnˈrælɪzʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "mepolizumab": {
     "alias": "meh-poh-LIZ-oo-mab",
-    "ipa": "məˈpɑːlɪzʊmæb"
+    "ipa": "məˈpɑːlɪzʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "reslizumab": {
     "alias": "rez-LIZ-oo-mab",
-    "ipa": "rɛzˈlɪzʊmæb"
+    "ipa": "rɛzˈlɪzʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dupilumab": {
     "alias": "doo-PIL-oo-mab",
-    "ipa": "duːˈpɪljuːmæb"
+    "ipa": "duːˈpɪljuːmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "omalizumab": {
     "alias": "oh-ma-LIZ-oo-mab",
-    "ipa": "oʊˈmælɪzʊmæb"
+    "ipa": "oʊˈmælɪzʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sertraline": {
     "alias": "SER-tra-leen",
-    "ipa": "ˈsɜːrtrəliːn"
+    "ipa": "ˈsɜːrtrəliːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fluoxetine": {
     "alias": "floo-OK-seh-teen",
-    "ipa": "fluːˈɑːksətiːn"
+    "ipa": "fluːˈɑːksətiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "escitalopram": {
     "alias": "es-sit-AL-oh-pram",
-    "ipa": "ˌɛsɪˈtæləpræm"
+    "ipa": "ˌɛsɪˈtæləpræm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "citalopram": {
     "alias": "sit-AL-oh-pram",
-    "ipa": "sɪˈtæləpræm"
+    "ipa": "sɪˈtæləpræm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "paroxetine": {
     "alias": "pa-ROK-seh-teen",
-    "ipa": "pəˈrɑːksətiːn"
+    "ipa": "pəˈrɑːksətiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "venlafaxine": {
     "alias": "ven-la-FAK-seen",
-    "ipa": "vɛnˈlæfəksiːn"
+    "ipa": "vɛnˈlæfəksiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "desvenlafaxine": {
     "alias": "des-ven-la-FAK-seen",
-    "ipa": "dɛzˈvɛnələˌfæksiːn"
+    "ipa": "dɛzˈvɛnələˌfæksiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "milnacipran": {
     "alias": "mil-NA-si-pran",
-    "ipa": "mɪlˈnæsɪpræn"
+    "ipa": "mɪlˈnæsɪpræn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bupropion": {
     "alias": "byoo-PRO-pee-on",
-    "ipa": "bjuˈproʊpiɑn"
+    "ipa": "bjuˈproʊpiɑn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "mirtazapine": {
     "alias": "mir-TAZ-a-peen",
-    "ipa": "mɪrˈtæzəpin"
+    "ipa": "mɪrˈtæzəpin",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "trazodone": {
     "alias": "TRAZ-oh-done",
-    "ipa": "ˈtræzədoʊn"
+    "ipa": "ˈtræzədoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nefazodone": {
     "alias": "ne-FAZ-oh-done",
-    "ipa": "nəˈfæzədoʊn"
+    "ipa": "nəˈfæzədoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "vortioxetine": {
     "alias": "vor-tee-OK-seh-teen",
-    "ipa": "vɔrtiˈɑksətin"
+    "ipa": "vɔrtiˈɑksətin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vilazodone": {
     "alias": "vil-AZ-oh-done",
-    "ipa": "vɪˈlæzədoʊn"
+    "ipa": "vɪˈlæzədoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "fluvoxamine": {
     "alias": "floo-VOK-sah-meen",
-    "ipa": "fluˈvɑksəmin"
+    "ipa": "fluˈvɑksəmin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "clomipramine": {
     "alias": "klo-MIP-rah-meen",
-    "ipa": "kloʊˈmɪprəmin"
+    "ipa": "kloʊˈmɪprəmin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "desipramine": {
     "alias": "des-IP-rah-meen",
-    "ipa": "dəˈsɪprəmin"
+    "ipa": "dəˈsɪprəmin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "imipramine": {
     "alias": "im-IP-rah-meen",
-    "ipa": "ɪˈmɪprəmin"
+    "ipa": "ɪˈmɪprəmin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "protriptyline": {
     "alias": "pro-TRIP-tih-leen",
-    "ipa": "proʊˈtrɪptəlin"
+    "ipa": "proʊˈtrɪptəlin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "phenelzine": {
     "alias": "FEN-el-zeen",
-    "ipa": "ˈfɛnəlzin"
+    "ipa": "ˈfɛnəlzin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tranylcypromine": {
     "alias": "tran-il-SIP-roh-meen",
-    "ipa": "trænɪlˈsɪprəmin"
+    "ipa": "trænɪlˈsɪprəmin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "isocarboxazid": {
     "alias": "eye-so-kar-BOK-sah-zid",
-    "ipa": "ˌaɪsoʊkɑrˈbɑksəzɪd"
+    "ipa": "ˌaɪsoʊkɑrˈbɑksəzɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "selegiline": {
     "alias": "se-LEJ-ih-leen",
-    "ipa": "səˈlɛdʒəlin"
+    "ipa": "səˈlɛdʒəlin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rasagiline": {
     "alias": "ra-SAJ-ih-leen",
-    "ipa": "rəˈsædʒəlin"
+    "ipa": "rəˈsædʒəlin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "aripiprazole": {
     "alias": "a-RIP-ip-ra-zole",
-    "ipa": "əˈrɪpɪprəzoʊl"
+    "ipa": "əˈrɪpɪprəzoʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "olanzapine": {
     "alias": "oh-LAN-zah-peen",
-    "ipa": "oʊˈlænzəpin"
+    "ipa": "oʊˈlænzəpin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "quetiapine": {
     "alias": "kwe-TIE-ah-peen",
-    "ipa": "kwɛˈtaɪəpin"
+    "ipa": "kwɛˈtaɪəpin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "risperidone": {
     "alias": "ris-PER-ih-done",
-    "ipa": "rɪˈspɛrɪdoʊn"
+    "ipa": "rɪˈspɛrɪdoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "paliperidone": {
     "alias": "pal-ee-PER-ih-done",
-    "ipa": "pəˈlɪpərɪdoʊn"
+    "ipa": "pəˈlɪpərɪdoʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ziprasidone": {
     "alias": "zip-RAS-ih-done",
-    "ipa": "zɪˈpræsɪdoʊn"
+    "ipa": "zɪˈpræsɪdoʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lurasidone": {
     "alias": "loo-RAS-ih-done",
-    "ipa": "lʊˈræsɪdoʊn"
+    "ipa": "lʊˈræsɪdoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "brexpiprazole": {
     "alias": "brek-SIP-ra-zole",
-    "ipa": "brɛksˈpɪprəzoʊl"
+    "ipa": "brɛksˈpɪprəzoʊl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "cariprazine": {
     "alias": "ka-RIP-ra-zeen",
-    "ipa": "kəˈrɪprəzin"
+    "ipa": "kəˈrɪprəzin",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "clozapine": {
     "alias": "KLOZ-ah-peen",
-    "ipa": "ˈkloʊzəpin"
+    "ipa": "ˈkloʊzəpin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "haloperidol": {
     "alias": "hal-oh-PER-ih-dol",
-    "ipa": "ˌhæloʊˈpɛrɪdɔl"
+    "ipa": "ˌhæloʊˈpɛrɪdɔl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "chlorpromazine": {
     "alias": "klor-PROH-mah-zeen",
-    "ipa": "klɔrˈproʊməzin"
+    "ipa": "klɔrˈproʊməzin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "lithium": {
     "alias": "LITH-ee-um",
-    "ipa": "ˈlɪθiəm"
+    "ipa": "ˈlɪθiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "valproate": {
     "alias": "val-PRO-ate",
-    "ipa": "vælˈproʊ.eɪt"
+    "ipa": "vælˈproʊ.eɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "asenapine": {
     "alias": "a-SEN-a-peen",
-    "ipa": "əˈsɛn.ə.piːn"
+    "ipa": "əˈsɛn.ə.piːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "dexmethylphenidate": {
     "alias": "dex-METH-il-FEN-i-date",
-    "ipa": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt"
+    "ipa": "dɛksˌmɛθ.əlˈfɛn.ə.deɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "lisdexamfetamine": {
     "alias": "lis-dex-am-FET-a-meen",
-    "ipa": "lɪsˌdɛks.æmˈfɛt.ə.miːn"
+    "ipa": "lɪsˌdɛks.æmˈfɛt.ə.miːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "methylphenidate": {
     "alias": "METH-il-FEN-i-date",
-    "ipa": "ˌmɛθ.əlˈfɛn.ə.deɪt"
+    "ipa": "ˌmɛθ.əlˈfɛn.ə.deɪt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "amfetamine": {
     "alias": "am-FET-a-meen",
-    "ipa": "æmˈfɛt.ə.miːn"
+    "ipa": "æmˈfɛt.ə.miːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "guanfacine": {
     "alias": "GWAHN-fa-seen",
-    "ipa": "ˈɡwɑːn.fə.siːn"
+    "ipa": "ˈɡwɑːn.fə.siːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tamoxifen": {
     "alias": "ta-MOX-i-fen",
-    "ipa": "təˈmɑːk.sə.fən"
+    "ipa": "təˈmɑːk.sə.fən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "anastrozole": {
     "alias": "an-AS-troh-zole",
-    "ipa": "əˈnæs.trə.zɔːl"
+    "ipa": "əˈnæs.trə.zɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "letrozole": {
     "alias": "LET-roh-zole",
-    "ipa": "ˈlɛ.trə.zɔːl"
+    "ipa": "ˈlɛ.trə.zɔːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "exemestane": {
     "alias": "ex-e-MES-tane",
-    "ipa": "ˌɛk.səˈmɛs.teɪn"
+    "ipa": "ˌɛk.səˈmɛs.teɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "leuprolide": {
     "alias": "loo-PRO-lide",
-    "ipa": "luːˈproʊ.laɪd"
+    "ipa": "luːˈproʊ.laɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "goserelin": {
     "alias": "goh-SER-a-lin",
-    "ipa": "ɡoʊˈsɛr.ə.lɪn"
+    "ipa": "ɡoʊˈsɛr.ə.lɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "triptorelin": {
     "alias": "trip-toh-REL-in",
-    "ipa": "trɪpˈtɔːr.ə.lɪn"
+    "ipa": "trɪpˈtɔːr.ə.lɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "bicalutamide": {
     "alias": "bye-ka-LOO-ta-mide",
-    "ipa": "baɪ.kəˈluː.tə.maɪd"
+    "ipa": "baɪ.kəˈluː.tə.maɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "enzalutamide": {
     "alias": "en-za-LOO-ta-mide",
-    "ipa": "ɛn.zəˈluː.tə.maɪd"
+    "ipa": "ɛn.zəˈluː.tə.maɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "abiraterone": {
     "alias": "a-bir-A-ter-one",
-    "ipa": "əˈbɪr.ə.tə.roʊn"
+    "ipa": "əˈbɪr.ə.tə.roʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "imatinib": {
     "alias": "i-MAT-in-ib",
-    "ipa": "ɪˈmæ.tɪ.nɪb"
+    "ipa": "ɪˈmæ.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dasatinib": {
     "alias": "da-SAT-in-ib",
-    "ipa": "dəˈsæ.tɪ.nɪb"
+    "ipa": "dəˈsæ.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nilotinib": {
     "alias": "ny-LOH-tin-ib",
-    "ipa": "naɪˈloʊ.tɪ.nɪb"
+    "ipa": "naɪˈloʊ.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "bosutinib": {
     "alias": "boh-SOO-tin-ib",
-    "ipa": "boʊˈsuː.tɪ.nɪb"
+    "ipa": "boʊˈsuː.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ponatinib": {
     "alias": "poh-NA-tin-ib",
-    "ipa": "poʊˈnæ.tɪ.nɪb"
+    "ipa": "poʊˈnæ.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ibrutinib": {
     "alias": "eye-BROO-tin-ib",
-    "ipa": "aɪˈbruː.tɪ.nɪb"
+    "ipa": "aɪˈbruː.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "acalabrutinib": {
     "alias": "a-KAL-a-BROO-tin-ib",
-    "ipa": "əˌkæl.əˈbruː.tɪ.nɪb"
+    "ipa": "əˌkæl.əˈbruː.tɪ.nɪb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "venetoclax": {
     "alias": "ve-NET-oh-klax",
-    "ipa": "vəˈnɛ.toʊ.klæks"
+    "ipa": "vəˈnɛ.toʊ.klæks",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rituximab": {
     "alias": "ri-TUX-i-mab",
-    "ipa": "rɪˈtʊk.sɪ.mæb"
+    "ipa": "rɪˈtʊk.sɪ.mæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "trastuzumab": {
     "alias": "tras-TUZ-oo-mab",
-    "ipa": "træsˈtʊ.zuː.mæb"
+    "ipa": "træsˈtʊ.zuː.mæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pertuzumab": {
     "alias": "per-TUZ-oo-mab",
-    "ipa": "pərˈtʊ.zuː.mæb"
+    "ipa": "pərˈtʊ.zuː.mæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "bevacizumab": {
     "alias": "beh-va-KIZ-oo-mab",
-    "ipa": "bəˌvæk.sɪˈzuː.mæb"
+    "ipa": "bəˌvæk.sɪˈzuː.mæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cetuximab": {
     "alias": "se-TUX-i-mab",
-    "ipa": "səˈtʊk.sɪ.mæb"
+    "ipa": "səˈtʊk.sɪ.mæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "panitumumab": {
     "alias": "pan-i-TOO-moo-mab",
-    "ipa": "ˌpænɪˈtjuːməmæb"
+    "ipa": "ˌpænɪˈtjuːməmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pembrolizumab": {
     "alias": "pem-broh-LIZ-oo-mab",
-    "ipa": "ˌpɛmbroʊˈlɪzjuːmæb"
+    "ipa": "ˌpɛmbroʊˈlɪzjuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nivolumab": {
     "alias": "niv-OL-oo-mab",
-    "ipa": "nɪˈvɒljʊmæb"
+    "ipa": "nɪˈvɒljʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ipilimumab": {
     "alias": "i-pi-LIM-oo-mab",
-    "ipa": "ɪˌpɪlɪˈmuːmæb"
+    "ipa": "ɪˌpɪlɪˈmuːmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "atezolizumab": {
     "alias": "a-TEZ-oh-LIZ-oo-mab",
-    "ipa": "əˌtɛzoʊˈlɪzjuːmæb"
+    "ipa": "əˌtɛzoʊˈlɪzjuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "durvalumab": {
     "alias": "dur-VAL-oo-mab",
-    "ipa": "dɜːrˈvæljʊmæb"
+    "ipa": "dɜːrˈvæljʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "avelumab": {
     "alias": "a-VEL-oo-mab",
-    "ipa": "əˈvɛljʊmæb"
+    "ipa": "əˈvɛljʊmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "cisplatin": {
     "alias": "sis-PLAT-in",
-    "ipa": "sɪsˈpleɪtɪn"
+    "ipa": "sɪsˈpleɪtɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "carboplatin": {
     "alias": "kar-boh-PLAT-in",
-    "ipa": "kɑːrˈboʊplætɪn"
+    "ipa": "kɑːrˈboʊplætɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "oxaliplatin": {
     "alias": "ok-SAL-i-plat-in",
-    "ipa": "ɒkˈsælɪplætɪn"
+    "ipa": "ɒkˈsælɪplætɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "paclitaxel": {
     "alias": "pak-li-TAKS-el",
-    "ipa": "ˌpæklɪˈtæksɛl"
+    "ipa": "ˌpæklɪˈtæksɛl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "docetaxel": {
     "alias": "doh-se-TAKS-el",
-    "ipa": "ˌdoʊsɪˈtæksɛl"
+    "ipa": "ˌdoʊsɪˈtæksɛl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "doxorubicin": {
     "alias": "dok-soh-ROO-bi-sin",
-    "ipa": "ˌdɒksəˈruːbɪsɪn"
+    "ipa": "ˌdɒksəˈruːbɪsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "daunorubicin": {
     "alias": "daw-noh-ROO-bi-sin",
-    "ipa": "ˌdɔːnəˈruːbɪsɪn"
+    "ipa": "ˌdɔːnəˈruːbɪsɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "vincristine": {
     "alias": "vin-KRIS-teen",
-    "ipa": "vɪnˈkrɪstiːn"
+    "ipa": "vɪnˈkrɪstiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vinblastine": {
     "alias": "vin-BLAS-teen",
-    "ipa": "vɪnˈblæstiːn"
+    "ipa": "vɪnˈblæstiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vinorelbine": {
     "alias": "vi-NOR-el-been",
-    "ipa": "vɪˈnɔːrɛlbiːn"
+    "ipa": "vɪˈnɔːrɛlbiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "etoposide": {
     "alias": "e-TOH-poh-side",
-    "ipa": "ɪˈtoʊpəsaɪd"
+    "ipa": "ɪˈtoʊpəsaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cyclophosphamide": {
     "alias": "sy-kloh-FOS-fa-mide",
-    "ipa": "ˌsaɪkloʊˈfɒsfəmaɪd"
+    "ipa": "ˌsaɪkloʊˈfɒsfəmaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ifosfamide": {
     "alias": "i-FOS-fa-mide",
-    "ipa": "ɪˈfɒsfəmaɪd"
+    "ipa": "ɪˈfɒsfəmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "methotrexate": {
     "alias": "meth-oh-TREK-sate",
-    "ipa": "ˌmɛθəˈtrɛkseɪt"
+    "ipa": "ˌmɛθəˈtrɛkseɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pemetrexed": {
     "alias": "pem-e-TREK-sed",
-    "ipa": "ˌpɛmɪˈtrɛksɛd"
+    "ipa": "ˌpɛmɪˈtrɛksɛd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "gemcitabine": {
     "alias": "jem-SITE-a-been",
-    "ipa": "dʒɛmˈsaɪtəbiːn"
+    "ipa": "dʒɛmˈsaɪtəbiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "fluorouracil": {
     "alias": "floor-oh-YOO-ra-sil",
-    "ipa": "ˌflʊroʊˈjʊɚəsɪl"
+    "ipa": "ˌflʊroʊˈjʊɚəsɪl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "capecitabine": {
     "alias": "ka-pe-SITE-a-been",
-    "ipa": "ˌkæpɪˈsaɪtəbiːn"
+    "ipa": "ˌkæpɪˈsaɪtəbiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cytarabine": {
     "alias": "sy-TAIR-a-been",
-    "ipa": "saɪˈtɛɚəbiːn"
+    "ipa": "saɪˈtɛɚəbiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "adalimumab": {
     "alias": "a-da-LIM-oo-mab",
-    "ipa": "əˌdælɪˈmuːmæb"
+    "ipa": "əˌdælɪˈmuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "etanercept": {
     "alias": "e-TAN-er-sept",
-    "ipa": "ɪˈtænɚsɛpt"
+    "ipa": "ɪˈtænɚsɛpt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "infliximab": {
     "alias": "in-FLIK-si-mab",
-    "ipa": "ɪnˈflɪksɪmæb"
+    "ipa": "ɪnˈflɪksɪmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "certolizumab": {
     "alias": "ser-toh-LIZ-oo-mab",
-    "ipa": "ˌsɜːrtoʊˈlɪzjuːmæb"
+    "ipa": "ˌsɜːrtoʊˈlɪzjuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "golimumab": {
     "alias": "go-LIM-ue-mab",
-    "ipa": "ɡoʊˈlɪmjʊˌmæb"
+    "ipa": "ɡoʊˈlɪmjʊˌmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "tocilizumab": {
     "alias": "TOE-sih-LIZ-ue-mab",
-    "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb"
+    "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "sarilumab": {
     "alias": "sar-IL-ue-mab",
-    "ipa": "ˌsærɪˈluːmæb"
+    "ipa": "ˌsærɪˈluːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ustekinumab": {
     "alias": "US-te-KIN-ue-mab",
-    "ipa": "ˌʌstəˈkɪnjʊˌmæb"
+    "ipa": "ˌʌstəˈkɪnjʊˌmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "secukinumab": {
     "alias": "SEK-ue-KIN-ue-mab",
-    "ipa": "ˌsɛkjʊˈkɪnjʊˌmæb"
+    "ipa": "ˌsɛkjʊˈkɪnjʊˌmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ixekizumab": {
     "alias": "IX-e-KIZ-ue-mab",
-    "ipa": "ˌɪksɛˈkɪzjʊˌmæb"
+    "ipa": "ˌɪksɛˈkɪzjʊˌmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "brodalumab": {
     "alias": "broe-DAL-ue-mab",
-    "ipa": "broʊˈdæljʊˌmæb"
+    "ipa": "broʊˈdæljʊˌmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "guselkumab": {
     "alias": "gus-ELK-ue-mab",
-    "ipa": "ˌɡʌsɛlˈkuːmæb"
+    "ipa": "ˌɡʌsɛlˈkuːmæb",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "risankizumab": {
     "alias": "RIS-an-KIZ-ue-mab",
-    "ipa": "ˌrɪsæŋˈkɪzjʊˌmæb"
+    "ipa": "ˌrɪsæŋˈkɪzjʊˌmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tildrakizumab": {
     "alias": "TIL-dra-KIZ-ue-mab",
-    "ipa": "tɪlˈdrækɪzjʊˌmæb"
+    "ipa": "tɪlˈdrækɪzjʊˌmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "abatacept": {
     "alias": "a-BAT-a-sept",
-    "ipa": "ˌæbəˈtæsɛpt"
+    "ipa": "ˌæbəˈtæsɛpt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "leflunomide": {
     "alias": "le-FLOO-no-mide",
-    "ipa": "ˌlɛfˈluːnəˌmaɪd"
+    "ipa": "ˌlɛfˈluːnəˌmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sulfasalazine": {
     "alias": "SUL-fa-SAL-a-zeen",
-    "ipa": "ˌsʌlfəˈsæləˌziːn"
+    "ipa": "ˌsʌlfəˈsæləˌziːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hydroxychloroquine": {
     "alias": "hy-DROX-ee-KLOR-oh-kween",
-    "ipa": "haɪˌdrɑksiˈklɔrəˌkwin"
+    "ipa": "haɪˌdrɑksiˈklɔrəˌkwin",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "azathioprine": {
     "alias": "AY-za-THYE-oh-preen",
-    "ipa": "ˌæzəˈθaɪəˌpriːn"
+    "ipa": "ˌæzəˈθaɪəˌpriːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "mycophenolate": {
     "alias": "MYE-koe-FEN-oh-late",
-    "ipa": "ˌmaɪkoʊˈfɛnəˌleɪt"
+    "ipa": "ˌmaɪkoʊˈfɛnəˌleɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tacrolimus": {
     "alias": "ta-KROE-li-mus",
-    "ipa": "təˈkroʊlɪməs"
+    "ipa": "təˈkroʊlɪməs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cyclosporine": {
     "alias": "SYE-kloe-SPOR-een",
-    "ipa": "ˌsaɪkloʊˈspɔriːn"
+    "ipa": "ˌsaɪkloʊˈspɔriːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sirolimus": {
     "alias": "sir-OH-li-mus",
-    "ipa": "sɪˈroʊlɪməs"
+    "ipa": "sɪˈroʊlɪməs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "everolimus": {
     "alias": "e-VER-oh-LI-mus",
-    "ipa": "ɛˈvɛrəlɪməs"
+    "ipa": "ɛˈvɛrəlɪməs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "levodopa": {
     "alias": "LEE-voe-DOE-pa",
-    "ipa": "ˌlɛvoʊˈdoʊpə"
+    "ipa": "ˌlɛvoʊˈdoʊpə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "carbidopa": {
     "alias": "KAR-bi-DOE-pa",
-    "ipa": "ˌkɑrbɪˈdoʊpə"
+    "ipa": "ˌkɑrbɪˈdoʊpə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pramipexole": {
     "alias": "PRAM-i-PEX-ole",
-    "ipa": "ˌpræmɪˈpɛksoʊl"
+    "ipa": "ˌpræmɪˈpɛksoʊl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ropinirole": {
     "alias": "roe-PIN-i-role",
-    "ipa": "roʊˈpɪnəˌroʊl"
+    "ipa": "roʊˈpɪnəˌroʊl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "rotigotine": {
     "alias": "roe-TIG-oh-teen",
-    "ipa": "roʊˈtɪɡəˌtiːn"
+    "ipa": "roʊˈtɪɡəˌtiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "amantadine": {
     "alias": "a-MAN-ta-deen",
-    "ipa": "əˈmæntəˌdiːn"
+    "ipa": "əˈmæntəˌdiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "entacapone": {
     "alias": "en-TAK-a-pone",
-    "ipa": "ɛnˈtækəˌpoʊn"
+    "ipa": "ɛnˈtækəˌpoʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "safinamide": {
     "alias": "sa-FIN-a-mide",
-    "ipa": "səˈfɪnəˌmaɪd"
+    "ipa": "səˈfɪnəˌmaɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "apomorphine": {
     "alias": "AP-oh-MOR-feen",
-    "ipa": "ˌæpəˈmɔrfiːn"
+    "ipa": "ˌæpəˈmɔrfiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "donepezil": {
     "alias": "doe-NEP-e-zil",
-    "ipa": "doʊˈnɛpəzɪl"
+    "ipa": "doʊˈnɛpəzɪl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rivastigmine": {
     "alias": "riv-uh-STIG-meen",
-    "ipa": "ˌrɪvəˈstɪɡmiːn"
+    "ipa": "ˌrɪvəˈstɪɡmiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "galantamine": {
     "alias": "guh-LAN-tuh-meen",
-    "ipa": "ɡəˈlæntəmiːn"
+    "ipa": "ɡəˈlæntəmiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "memantine": {
     "alias": "muh-MAN-teen",
-    "ipa": "məˈmæntiːn"
+    "ipa": "məˈmæntiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "glatiramer": {
     "alias": "gluh-TIR-uh-mer",
-    "ipa": "ɡləˈtɪrəmər"
+    "ipa": "ɡləˈtɪrəmər",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fingolimod": {
     "alias": "fin-GOL-ih-mod",
-    "ipa": "fɪŋˈɡɒlɪmɒd"
+    "ipa": "fɪŋˈɡɒlɪmɒd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dimethyl fumarate": {
     "alias": "die-METH-ul FYOO-muh-rate",
-    "ipa": "daɪˈmɛθəl ˈfjuməˌreɪt"
+    "ipa": "daɪˈmɛθəl ˈfjuməˌreɪt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "teriflunomide": {
     "alias": "ter-ih-FLOO-noh-mide",
-    "ipa": "ˌtɛrɪˈflunəmaɪd"
+    "ipa": "ˌtɛrɪˈflunəmaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ozanimod": {
     "alias": "oh-ZAN-ih-mod",
-    "ipa": "oʊˈzænɪmɒd"
+    "ipa": "oʊˈzænɪmɒd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "siponimod": {
     "alias": "sih-PON-ih-mod",
-    "ipa": "sɪˈpɒnɪmɒd"
+    "ipa": "sɪˈpɒnɪmɒd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "natalizumab": {
     "alias": "na-tal-IZ-uh-mab",
-    "ipa": "ˌnætəˈlɪzʊmæb"
+    "ipa": "ˌnætəˈlɪzʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ocrelizumab": {
     "alias": "ok-re-LIZ-uh-mab",
-    "ipa": "ˌɒkrɪˈlɪzʊmæb"
+    "ipa": "ˌɒkrɪˈlɪzʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ofatumumab": {
     "alias": "oh-fuh-TOO-muh-mab",
-    "ipa": "ˌɒfəˈtumʊmæb"
+    "ipa": "ˌɒfəˈtumʊmæb",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fumarate": {
     "alias": "FYOO-muh-rate",
-    "ipa": "ˈfjuməˌreɪt"
+    "ipa": "ˈfjuməˌreɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "levothyroxine": {
     "alias": "lee-voh-thigh-ROX-een",
-    "ipa": "ˌliːvoʊθaɪˈrɒksiːn"
+    "ipa": "ˌliːvoʊθaɪˈrɒksiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "prednisone": {
     "alias": "PRED-nih-zone",
-    "ipa": "ˈprɛdnɪsoʊn"
+    "ipa": "ˈprɛdnɪsoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "prednisolone": {
     "alias": "pred-NIS-oh-lone",
-    "ipa": "prɛdˈnɪsəloʊn"
+    "ipa": "prɛdˈnɪsəloʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "methylprednisolone": {
     "alias": "METH-ul-pred-NIS-oh-lone",
-    "ipa": "ˌmɛθəlprɛdˈnɪsəloʊn"
+    "ipa": "ˌmɛθəlprɛdˈnɪsəloʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hydrocortisone": {
     "alias": "HIGH-dro-KOR-tih-zone",
-    "ipa": "ˌhaɪdroʊˈkɔːrtɪsoʊn"
+    "ipa": "ˌhaɪdroʊˈkɔːrtɪsoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dexamethasone": {
     "alias": "dex-uh-METH-uh-zone",
-    "ipa": "ˌdɛksəˈmɛθəsoʊn"
+    "ipa": "ˌdɛksəˈmɛθəsoʊn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fludrocortisone": {
     "alias": "floo-dro-KOR-tih-zone",
-    "ipa": "ˌfludroʊˈkɔːrtɪsoʊn"
+    "ipa": "ˌfludroʊˈkɔːrtɪsoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "alendronate": {
     "alias": "uh-LEN-dro-nate",
-    "ipa": "əˈlɛndrəneɪt"
+    "ipa": "əˈlɛndrəneɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "risedronate": {
     "alias": "rih-SED-ro-nate",
-    "ipa": "rɪˈsɛdrəneɪt"
+    "ipa": "rɪˈsɛdrəneɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ibandronate": {
     "alias": "ih-BAN-dro-nate",
-    "ipa": "ɪˈbændrəneɪt"
+    "ipa": "ɪˈbændrəneɪt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "zoledronic acid": {
     "alias": "zoh-leh-DRON-ik AS-id",
-    "ipa": "zoʊˈlɛdrɒnɪk ˈæsɪd"
+    "ipa": "zoʊˈlɛdrɒnɪk ˈæsɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "denosumab": {
     "alias": "den-OH-suh-mab",
-    "ipa": "dəˈnoʊsʊmæb"
+    "ipa": "dəˈnoʊsʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "teriparatide": {
     "alias": "ter-ih-PAR-uh-tide",
-    "ipa": "ˌtɛrɪˈpærətaɪd"
+    "ipa": "ˌtɛrɪˈpærətaɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "raloxifene": {
     "alias": "ral-OX-ih-feen",
-    "ipa": "ræˈlɒksɪfiːn"
+    "ipa": "ræˈlɒksɪfiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "calcitonin": {
     "alias": "kal-sih-TONE-in",
-    "ipa": "ˌkælsɪˈtoʊnɪn"
+    "ipa": "ˌkælsɪˈtoʊnɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tadalafil": {
     "alias": "tuh-DAF-ih-lil",
-    "ipa": "təˈdælɪfɪl"
+    "ipa": "təˈdælɪfɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sildenafil": {
     "alias": "sil-DEN-uh-fil",
-    "ipa": "sɪlˈdɛnəfɪl"
+    "ipa": "sɪlˈdɛnəfɪl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "vardenafil": {
     "alias": "var-DEN-ah-fil",
-    "ipa": "vɑrˈdɛnəfɪl"
+    "ipa": "vɑrˈdɛnəfɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "finasteride": {
     "alias": "fin-AS-ter-ide",
-    "ipa": "fɪˈnæstəˌraɪd"
+    "ipa": "fɪˈnæstəˌraɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dutasteride": {
     "alias": "doo-TAS-ter-ide",
-    "ipa": "duˈtæstəˌraɪd"
+    "ipa": "duˈtæstəˌraɪd",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tamsulosin": {
     "alias": "tam-SOO-loh-sin",
-    "ipa": "tæmˈsuːləsɪn"
+    "ipa": "tæmˈsuːləsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "silodosin": {
     "alias": "si-LOH-doh-sin",
-    "ipa": "sɪˈloʊdəsɪn"
+    "ipa": "sɪˈloʊdəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "alfuzosin": {
     "alias": "al-FOO-zoh-sin",
-    "ipa": "ælˈfjuːzəsɪn"
+    "ipa": "ælˈfjuːzəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oxybutynin": {
     "alias": "ok-see-BYOO-ti-nin",
-    "ipa": "ˌɑksɪˈbjuːtɪnɪn"
+    "ipa": "ˌɑksɪˈbjuːtɪnɪn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tolterodine": {
     "alias": "tol-TER-oh-deen",
-    "ipa": "tɔlˈtɛrəˌdiːn"
+    "ipa": "tɔlˈtɛrəˌdiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "solifenacin": {
     "alias": "sol-i-FEN-ah-sin",
-    "ipa": "ˌsoʊlɪˈfɛnəsɪn"
+    "ipa": "ˌsoʊlɪˈfɛnəsɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "darifenacin": {
     "alias": "dar-i-FEN-ah-sin",
-    "ipa": "ˌdærɪˈfɛnəsɪn"
+    "ipa": "ˌdærɪˈfɛnəsɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "mirabegron": {
     "alias": "mir-ah-BEG-ron",
-    "ipa": "mɪˈræbəˌɡrɑn"
+    "ipa": "mɪˈræbəˌɡrɑn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "phenazopyridine": {
     "alias": "fen-az-oh-PYR-i-deen",
-    "ipa": "fəˌnæzoʊˈpɪrɪdiːn"
+    "ipa": "fəˌnæzoʊˈpɪrɪdiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hydroxyzine": {
     "alias": "hy-DROK-si-zeen",
-    "ipa": "haɪˈdrɑksɪˌziːn"
+    "ipa": "haɪˈdrɑksɪˌziːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fexofenadine": {
     "alias": "fek-soh-FEN-ah-deen",
-    "ipa": "ˌfɛksoʊˈfɛnəˌdiːn"
+    "ipa": "ˌfɛksoʊˈfɛnəˌdiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "loratadine": {
     "alias": "lor-AT-ah-deen",
-    "ipa": "lɔˈrætəˌdiːn"
+    "ipa": "lɔˈrætəˌdiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cetirizine": {
     "alias": "se-TIR-i-zeen",
-    "ipa": "səˈtɪrɪˌziːn"
+    "ipa": "səˈtɪrɪˌziːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "diphenhydramine": {
     "alias": "dy-fen-HY-drah-meen",
-    "ipa": "ˌdaɪfɛnˈhaɪdrəˌmiːn"
+    "ipa": "ˌdaɪfɛnˈhaɪdrəˌmiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "chlorpheniramine": {
     "alias": "klor-fen-EER-ah-meen",
-    "ipa": "ˌklɔrfɛnˈɪrəˌmiːn"
+    "ipa": "ˌklɔrfɛnˈɪrəˌmiːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "azelastine": {
     "alias": "ah-ZEL-ah-steen",
-    "ipa": "əˈzɛləˌstiːn"
+    "ipa": "əˈzɛləˌstiːn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "olopatadine": {
     "alias": "oh-loh-PAT-ah-deen",
-    "ipa": "ˌoʊloʊˈpætəˌdiːn"
+    "ipa": "ˌoʊloʊˈpætəˌdiːn",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "modafinil": {
     "alias": "mo-DAF-i-nil",
-    "ipa": "moʊˈdæfɪnɪl"
+    "ipa": "moʊˈdæfɪnɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "armodafinil": {
     "alias": "ar-mo-DAF-i-nil",
-    "ipa": "ˌɑrmoʊˈdæfɪnɪl"
+    "ipa": "ˌɑrmoʊˈdæfɪnɪl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "sumatriptan": {
     "alias": "soo-mah-TRIP-tan",
-    "ipa": "ˌsuːməˈtrɪpˌtæn"
+    "ipa": "ˌsuːməˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rizatriptan": {
     "alias": "ry-zah-TRIP-tan",
-    "ipa": "ˌraɪzəˈtrɪpˌtæn"
+    "ipa": "ˌraɪzəˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "zolmitriptan": {
     "alias": "zohl-mi-TRIP-tan",
-    "ipa": "zoʊlˈmɪtrɪpˌtæn"
+    "ipa": "zoʊlˈmɪtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "eletriptan": {
     "alias": "el-e-TRIP-tan",
-    "ipa": "ˌɛləˈtrɪpˌtæn"
+    "ipa": "ˌɛləˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "almotriptan": {
     "alias": "al-moh-TRIP-tan",
-    "ipa": "ˌælmoʊˈtrɪpˌtæn"
+    "ipa": "ˌælmoʊˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "frovatriptan": {
     "alias": "froh-vah-TRIP-tan",
-    "ipa": "ˌfroʊvəˈtrɪpˌtæn"
+    "ipa": "ˌfroʊvəˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "naratriptan": {
     "alias": "nar-ah-TRIP-tan",
-    "ipa": "ˌnærəˈtrɪpˌtæn"
+    "ipa": "ˌnærəˈtrɪpˌtæn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ubrogepant": {
     "alias": "yoo-BROH-jeh-pant",
-    "ipa": "juːˈbroʊdʒəˌpænt"
+    "ipa": "juːˈbroʊdʒəˌpænt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "rimegepant": {
     "alias": "rih-MEH-jeh-pant",
-    "ipa": "rɪˈmɛdʒɪpænt"
+    "ipa": "rɪˈmɛdʒɪpænt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "erenumab": {
     "alias": "eh-REH-nyoo-mab",
-    "ipa": "ɛˈrɛnjʊmæb"
+    "ipa": "ɛˈrɛnjʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fremanezumab": {
     "alias": "freh-mah-NEH-zoo-mab",
-    "ipa": "friˈmænɪzʊmæb"
+    "ipa": "friˈmænɪzʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "galcanezumab": {
     "alias": "gal-kah-NEH-zoo-mab",
-    "ipa": "ɡælˈkænɪzʊmæb"
+    "ipa": "ɡælˈkænɪzʊmæb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "eprodual": {
     "alias": "eh-PROH-dool",
-    "ipa": "ɛˈprɑduəl"
+    "ipa": "ɛˈprɑduəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "onabotulinumtoxinA": {
     "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay",
-    "ipa": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ"
+    "ipa": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "MI": {
     "alias": "myocardial infarction",
-    "ipa": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən"
+    "ipa": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "COPD": {
     "alias": "chronic obstructive pulmonary disease",
-    "ipa": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz"
+    "ipa": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CHF": {
     "alias": "congestive heart failure",
-    "ipa": "kənˈdʒɛstɪv hɑrt ˈfeljɚ"
+    "ipa": "kənˈdʒɛstɪv hɑrt ˈfeljɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "UTI": {
     "alias": "urinary tract infection",
-    "ipa": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən"
+    "ipa": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MRI": {
     "alias": "magnetic resonance imaging",
-    "ipa": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ"
+    "ipa": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CT": {
     "alias": "computed tomography",
-    "ipa": "kəmˈpjutɪd təˈmɑɡrəfi"
+    "ipa": "kəmˈpjutɪd təˈmɑɡrəfi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "EKG": {
     "alias": "electrocardiogram",
-    "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm"
+    "ipa": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ECG": {
     "alias": "electrocardiogram",
-    "ipa": "ɪˌlɛktroʊˈkɑrdiəˌɡræm"
+    "ipa": "ɪˌlɛktroʊˈkɑrdiəˌɡræm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "EEG": {
     "alias": "electroencephalogram",
-    "ipa": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm"
+    "ipa": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "BUN": {
     "alias": "blood urea nitrogen",
-    "ipa": "blʌd jʊˈriə ˈnaɪtrədʒən"
+    "ipa": "blʌd jʊˈriə ˈnaɪtrədʒən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CMP": {
     "alias": "comprehensive metabolic panel",
-    "ipa": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl"
+    "ipa": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CBC": {
     "alias": "complete blood count",
-    "ipa": "kəmˈplit blʌd kaʊnt"
+    "ipa": "kəmˈplit blʌd kaʊnt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TSH": {
     "alias": "thyroid stimulating hormone",
-    "ipa": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn"
+    "ipa": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HbA1c": {
     "alias": "hemoglobin A one C",
-    "ipa": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si"
+    "ipa": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PT": {
     "alias": "prothrombin time",
-    "ipa": "proʊˈθrɑmbɪn taɪm"
+    "ipa": "proʊˈθrɑmbɪn taɪm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "INR": {
     "alias": "international normalized ratio",
-    "ipa": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ"
+    "ipa": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PTT": {
     "alias": "partial thromboplastin time",
-    "ipa": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm"
+    "ipa": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "DVT": {
     "alias": "deep vein thrombosis",
-    "ipa": "dip ven θrɑmˈboʊsɪs"
+    "ipa": "dip ven θrɑmˈboʊsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PE": {
     "alias": "pulmonary embolism",
-    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
+    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CVA": {
     "alias": "cerebrovascular accident",
-    "ipa": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt"
+    "ipa": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TIA": {
     "alias": "transient ischemic attack",
-    "ipa": "ˈtrænziənt ɪsˈkimɪk əˈtæk"
+    "ipa": "ˈtrænziənt ɪsˈkimɪk əˈtæk",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ICU": {
     "alias": "intensive care unit",
-    "ipa": "ɪnˈtɛnsɪv kɛr ˈjunɪt"
+    "ipa": "ɪnˈtɛnsɪv kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NICU": {
     "alias": "neonatal intensive care unit",
-    "ipa": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
+    "ipa": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ER": {
     "alias": "emergency room",
-    "ipa": "ɪˈmɜrdʒənsi rum"
+    "ipa": "ɪˈmɜrdʒənsi rum",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ED": {
     "alias": "emergency department",
-    "ipa": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt"
+    "ipa": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "OR": {
     "alias": "operating room",
-    "ipa": "ˈɑpəˌretɪŋ rum"
+    "ipa": "ˈɑpəˌretɪŋ rum",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PACU": {
     "alias": "post-anesthesia care unit",
-    "ipa": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt"
+    "ipa": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CCU": {
     "alias": "coronary care unit",
-    "ipa": "ˈkɔrəˌnɛri kɛr ˈjunɪt"
+    "ipa": "ˈkɔrəˌnɛri kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SICU": {
     "alias": "surgical intensive care unit",
-    "ipa": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
+    "ipa": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MICU": {
     "alias": "medical intensive care unit",
-    "ipa": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt"
+    "ipa": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "BP": {
     "alias": "blood pressure",
-    "ipa": "ˈblʌd ˈprɛʃɚ"
+    "ipa": "ˈblʌd ˈprɛʃɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HR": {
     "alias": "heart rate",
-    "ipa": "ˈhɑrt ˈreɪt"
+    "ipa": "ˈhɑrt ˈreɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "RR": {
     "alias": "respiratory rate",
-    "ipa": "ˈrɛspɚəˌtɔri ˈreɪt"
+    "ipa": "ˈrɛspɚəˌtɔri ˈreɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SpO2": {
     "alias": "saturation of peripheral oxygen",
-    "ipa": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən"
+    "ipa": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ETCO2": {
     "alias": "end-tidal carbon dioxide",
-    "ipa": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd"
+    "ipa": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "IV": {
     "alias": "intravenous",
-    "ipa": "ˌɪntrəˈvinəs"
+    "ipa": "ˌɪntrəˈvinəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "IM": {
     "alias": "intramuscular",
-    "ipa": "ˌɪntrəˈmʌskjəlɚ"
+    "ipa": "ˌɪntrəˈmʌskjəlɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SC": {
     "alias": "subcutaneous",
-    "ipa": "ˌsʌbkjuˈteɪniəs"
+    "ipa": "ˌsʌbkjuˈteɪniəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PO": {
     "alias": "by mouth",
-    "ipa": "baɪ ˈmaʊθ"
+    "ipa": "baɪ ˈmaʊθ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PR": {
     "alias": "per rectum",
-    "ipa": "pɚ ˈrɛktəm"
+    "ipa": "pɚ ˈrɛktəm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SL": {
     "alias": "sublingual",
-    "ipa": "sʌbˈlɪŋɡwəl"
+    "ipa": "sʌbˈlɪŋɡwəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "OD": {
     "alias": "right eye",
-    "ipa": "ˈraɪt ˈaɪ"
+    "ipa": "ˈraɪt ˈaɪ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "OS": {
     "alias": "left eye",
-    "ipa": "ˈlɛft ˈaɪ"
+    "ipa": "ˈlɛft ˈaɪ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "OU": {
     "alias": "both eyes",
-    "ipa": "ˈboʊθ ˈaɪz"
+    "ipa": "ˈboʊθ ˈaɪz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "AU": {
     "alias": "both ears",
-    "ipa": "ˈboʊθ ˈɪrz"
+    "ipa": "ˈboʊθ ˈɪrz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "AD": {
     "alias": "right ear",
-    "ipa": "ˈraɪt ˈɪr"
+    "ipa": "ˈraɪt ˈɪr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "AS": {
     "alias": "left ear",
-    "ipa": "ˈlɛft ˈɪr"
+    "ipa": "ˈlɛft ˈɪr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "APAP": {
     "alias": "acetaminophen",
-    "ipa": "əˌsitəˈmɪnəfən"
+    "ipa": "əˌsitəˈmɪnəfən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NSAID": {
     "alias": "non-steroidal anti-inflammatory drug",
-    "ipa": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ"
+    "ipa": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PPI": {
     "alias": "proton pump inhibitor",
-    "ipa": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ"
+    "ipa": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ARB": {
     "alias": "angiotensin receptor blocker",
-    "ipa": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ"
+    "ipa": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ACE": {
     "alias": "angiotensin-converting enzyme",
-    "ipa": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm"
+    "ipa": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "BB": {
     "alias": "beta blocker",
-    "ipa": "ˈbeɪtə ˈblɑkɚ"
+    "ipa": "ˈbeɪtə ˈblɑkɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CCB": {
     "alias": "calcium channel blocker",
-    "ipa": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ"
+    "ipa": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SSRI": {
     "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter",
-    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
+    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SNRI": {
     "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter",
-    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ"
+    "ipa": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TCA": {
     "alias": "tri-SIK-lik an-TI-de-PRE-sant",
-    "ipa": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt"
+    "ipa": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MAOI": {
     "alias": "mono-amine OK-si-DASE in-HIB-i-ter",
-    "ipa": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ"
+    "ipa": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "DM": {
     "alias": "di-a-BE-teez mel-LI-tus",
-    "ipa": "ˌdaɪəˈbitiz məˈlaɪtəs"
+    "ipa": "ˌdaɪəˈbitiz məˈlaɪtəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HTN": {
     "alias": "hi-per-TEN-shun",
-    "ipa": "ˌhaɪpɚˈtɛnʃən"
+    "ipa": "ˌhaɪpɚˈtɛnʃən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HLD": {
     "alias": "hi-per-LIP-i-dee-mee-uh",
-    "ipa": "ˌhaɪpɚˈlɪpɪˌdimiə"
+    "ipa": "ˌhaɪpɚˈlɪpɪˌdimiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CAD": {
     "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ",
-    "ipa": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz"
+    "ipa": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PVD": {
     "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ",
-    "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz"
+    "ipa": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CKD": {
     "alias": "kron-ik KID-nee di-ZEEZ",
-    "ipa": "ˈkrɑnɪk ˈkɪdni dɪˈziz"
+    "ipa": "ˈkrɑnɪk ˈkɪdni dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ESRD": {
     "alias": "end-STAGE re-NAL di-ZEEZ",
-    "ipa": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz"
+    "ipa": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "AKI": {
     "alias": "ak-YOOT KID-nee in-JER-ee",
-    "ipa": "əˈkjut ˈkɪdni ˈɪndʒɚi"
+    "ipa": "əˈkjut ˈkɪdni ˈɪndʒɚi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ASTHMA": {
     "alias": "AZ-muh",
-    "ipa": "ˈæzmə"
+    "ipa": "ˈæzmə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GERD": {
     "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ",
-    "ipa": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz"
+    "ipa": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "IBD": {
     "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ",
-    "ipa": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz"
+    "ipa": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "IBS": {
     "alias": "i-RI-ta-bul bo-WEL SIN-drom",
-    "ipa": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm"
+    "ipa": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NASH": {
     "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis",
-    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs"
+    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NAFLD": {
     "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ",
-    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz"
+    "ipa": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HCC": {
     "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma",
-    "ipa": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə"
+    "ipa": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ALL": {
     "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh",
-    "ipa": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə"
+    "ipa": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "AML": {
     "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh",
-    "ipa": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə"
+    "ipa": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CLL": {
     "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh",
-    "ipa": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə"
+    "ipa": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CML": {
     "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh",
-    "ipa": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə"
+    "ipa": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NHL": {
     "alias": "non-HOJ-kin lym-FO-ma",
-    "ipa": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə"
+    "ipa": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Hodgkin": {
     "alias": "HOJ-kin",
-    "ipa": "ˈhɑdʒkɪn"
+    "ipa": "ˈhɑdʒkɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "MM": {
     "alias": "mul-TI-pul my-eh-LO-ma",
-    "ipa": "ˈmʌltɪpəl ˌmaɪəˈloʊmə"
+    "ipa": "ˈmʌltɪpəl ˌmaɪəˈloʊmə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SLE": {
     "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus",
-    "ipa": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs"
+    "ipa": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "RA": {
     "alias": "rew-ma-TOYD ar-THRI-tis",
-    "ipa": "ˌruməˈtɔɪd ɑrˈθraɪtɪs"
+    "ipa": "ˌruməˈtɔɪd ɑrˈθraɪtɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "OA": {
     "alias": "os-tee-o-ar-THRI-tis",
-    "ipa": "ˌɑstioʊɑrˈθraɪtɪs"
+    "ipa": "ˌɑstioʊɑrˈθraɪtɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "DJD": {
     "alias": "de-JEN-er-a-tiv jint di-ZEEZ",
-    "ipa": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz"
+    "ipa": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GOUT": {
     "alias": "gowt",
-    "ipa": "ɡˈaʊt"
+    "ipa": "ɡˈaʊt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "MG": {
     "alias": "myasthenia gravis",
-    "ipa": "ˌmaɪəsˈθiniə ˈɡrævɪs"
+    "ipa": "ˌmaɪəsˈθiniə ˈɡrævɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MS": {
     "alias": "multiple sclerosis",
-    "ipa": "ˈmʌltɪpəl skləˈroʊsɪs"
+    "ipa": "ˈmʌltɪpəl skləˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ALS": {
     "alias": "amyotrophic lateral sclerosis",
-    "ipa": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs"
+    "ipa": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GBS": {
     "alias": "Guillain-Barré syndrome",
-    "ipa": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm"
+    "ipa": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TBI": {
     "alias": "traumatic brain injury",
-    "ipa": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi"
+    "ipa": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PD": {
     "alias": "Parkinson disease",
-    "ipa": "ˈpɑrkɪnsən dɪˌziːz"
+    "ipa": "ˈpɑrkɪnsən dɪˌziːz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HD": {
     "alias": "Huntington disease",
-    "ipa": "ˈhʌntɪŋtən dɪˌziːz"
+    "ipa": "ˈhʌntɪŋtən dɪˌziːz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CJD": {
     "alias": "Creutzfeldt-Jakob disease",
-    "ipa": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz"
+    "ipa": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SCI": {
     "alias": "spinal cord injury",
-    "ipa": "ˈspaɪnəl kɔrd ˈɪndʒəri"
+    "ipa": "ˈspaɪnəl kɔrd ˈɪndʒəri",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CA": {
     "alias": "cancer",
-    "ipa": "ˈkænsɚ"
+    "ipa": "ˈkænsɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "N/V": {
     "alias": "nausea and vomiting",
-    "ipa": "ˈnɔziə ənd ˈvɑmɪtɪŋ"
+    "ipa": "ˈnɔziə ənd ˈvɑmɪtɪŋ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SOB": {
     "alias": "shortness of breath",
-    "ipa": "ˈʃɔrtnəs əv brɛθ"
+    "ipa": "ˈʃɔrtnəs əv brɛθ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CP": {
     "alias": "cerebral palsy",
-    "ipa": "səˈribrəl ˈpɔlzi"
+    "ipa": "səˈribrəl ˈpɔlzi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "N/V/D": {
     "alias": "nausea vomiting and diarrhea",
-    "ipa": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə"
+    "ipa": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "LOC": {
     "alias": "loss of consciousness",
-    "ipa": "ˈlɔs əv ˈkɑnʃəsnəs"
+    "ipa": "ˈlɔs əv ˈkɑnʃəsnəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GCS": {
     "alias": "Glasgow Coma Scale",
-    "ipa": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl"
+    "ipa": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HEENT": {
     "alias": "head eyes ears nose and throat",
-    "ipa": "hˈɛd aɪz ɪrz noʊz ən θroʊt"
+    "ipa": "hˈɛd aɪz ɪrz noʊz ən θroʊt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CV": {
     "alias": "cardiovascular",
-    "ipa": "ˌkɑrdioʊˈvæskjəlɚ"
+    "ipa": "ˌkɑrdioʊˈvæskjəlɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GI": {
     "alias": "gastrointestinal",
-    "ipa": "ˌɡæstroʊɪnˈtɛstənəl"
+    "ipa": "ˌɡæstroʊɪnˈtɛstənəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GU": {
     "alias": "genitourinary",
-    "ipa": "ˌdʒɛnɪtoʊˈjʊrɪnɛri"
+    "ipa": "ˌdʒɛnɪtoʊˈjʊrɪnɛri",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MSK": {
     "alias": "musculoskeletal",
-    "ipa": "ˌmʌskjəloʊˈskɛlətəl"
+    "ipa": "ˌmʌskjəloʊˈskɛlətəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Neuro": {
     "alias": "NEU-roh",
-    "ipa": "ˈnʊroʊ"
+    "ipa": "ˈnʊroʊ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Psych": {
     "alias": "SYKE",
-    "ipa": "sˈaɪk"
+    "ipa": "sˈaɪk",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "Derm": {
     "alias": "derm",
-    "ipa": "ˈdɝm"
+    "ipa": "ˈdɝm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ENT": {
     "alias": "ear nose and throat",
-    "ipa": "ˈɪr noʊz ən θroʊt"
+    "ipa": "ˈɪr noʊz ən θroʊt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "OB": {
     "alias": "obstetrics",
-    "ipa": "əbˈstɛtrɪks"
+    "ipa": "əbˈstɛtrɪks",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "GYN": {
     "alias": "gynecology",
-    "ipa": "ˌɡaɪnəˈkɑlədʒi"
+    "ipa": "ˌɡaɪnəˈkɑlədʒi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "LMP": {
     "alias": "last menstrual period",
-    "ipa": "læst ˈmɛnstruəl ˈpɪriəd"
+    "ipa": "læst ˈmɛnstruəl ˈpɪriəd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "EDC": {
     "alias": "estimated date of confinement",
-    "ipa": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt"
+    "ipa": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Gest": {
     "alias": "gest",
-    "ipa": "dʒˈɛst"
+    "ipa": "dʒˈɛst",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "NS": {
     "alias": "normal saline",
-    "ipa": "ˈnɔrməl səˈliːn"
+    "ipa": "ˈnɔrməl səˈliːn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "LR": {
     "alias": "lactated Ringer's",
-    "ipa": "ˈlækteɪtɪd ˈrɪŋɚz"
+    "ipa": "ˈlækteɪtɪd ˈrɪŋɚz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "D5W": {
     "alias": "D-five-W",
-    "ipa": "dˈiː faɪv dʌbəlju"
+    "ipa": "dˈiː faɪv dʌbəlju",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "D5NS": {
     "alias": "D-five-N-S",
-    "ipa": "dˈiː faɪv ɛn ɛs"
+    "ipa": "dˈiː faɪv ɛn ɛs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "D5LR": {
     "alias": "D-five-L-R",
-    "ipa": "dˈiː faɪv ɛl ɑr"
+    "ipa": "dˈiː faɪv ɛl ɑr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "KCl": {
     "alias": "potassium chloride",
-    "ipa": "pəˈtæsiəm ˈklɔraɪd"
+    "ipa": "pəˈtæsiəm ˈklɔraɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "MgSO4": {
     "alias": "mag-NEE-zee-um sul-FATE",
-    "ipa": "mæɡˈniːziəm sʌlˈfeɪt"
+    "ipa": "mæɡˈniːziəm sʌlˈfeɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CaCl2": {
     "alias": "KAL-see-um KLOR-ide",
-    "ipa": "ˈkælsiəm ˈklɔraɪd"
+    "ipa": "ˈkælsiəm ˈklɔraɪd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NaHCO3": {
     "alias": "SOD-ee-um hye-DROK-sah-dye KAR-bo-nate",
-    "ipa": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt"
+    "ipa": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ABG": {
     "alias": "arterial blood gas",
-    "ipa": "ɑrˈtɪriəl blʌd ɡæs"
+    "ipa": "ɑrˈtɪriəl blʌd ɡæs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "VBG": {
     "alias": "venous blood gas",
-    "ipa": "ˈviːnəs blʌd ɡæs"
+    "ipa": "ˈviːnəs blʌd ɡæs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "LP": {
     "alias": "lumbar puncture",
-    "ipa": "ˈlʌmbɚ ˈpʌŋktʃɚ"
+    "ipa": "ˈlʌmbɚ ˈpʌŋktʃɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "BM": {
     "alias": "bowel movement",
-    "ipa": "ˈbaʊəl ˈmuːvmənt"
+    "ipa": "ˈbaʊəl ˈmuːvmənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "PEG": {
     "alias": "PEG",
-    "ipa": "pˈɛɡ"
+    "ipa": "pˈɛɡ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ICD": {
     "alias": "implantable cardioverter defibrillator",
-    "ipa": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
+    "ipa": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Pacemaker": {
     "alias": "PACE-may-ker",
-    "ipa": "ˈpeɪsmeɪkɚ"
+    "ipa": "ˈpeɪsmeɪkɚ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "AICD": {
     "alias": "automatic implantable cardioverter defibrillator",
-    "ipa": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ"
+    "ipa": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "CABG": {
     "alias": "cabbage",
-    "ipa": "ˈkæbɪdʒ"
+    "ipa": "ˈkæbɪdʒ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "PCI": {
     "alias": "percutaneous coronary intervention",
-    "ipa": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən"
+    "ipa": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TAVR": {
     "alias": "TAH-ver",
-    "ipa": "ˈtɑvɚ"
+    "ipa": "ˈtɑvɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "TEVAR": {
     "alias": "TEV-ar",
-    "ipa": "ˈtɛvɚ"
+    "ipa": "ˈtɛvɚ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "EVAR": {
     "alias": "EE-var",
-    "ipa": "ˈivɚ"
+    "ipa": "ˈivɚ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "PTCA": {
     "alias": "percutaneous transluminal coronary angioplasty",
-    "ipa": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti"
+    "ipa": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ETOH": {
     "alias": "alcohol",
-    "ipa": "ˈælkəˌhɔl"
+    "ipa": "ˈælkəˌhɔl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "IVDU": {
     "alias": "I-V drug use",
-    "ipa": "ˌaɪˈvi drʌɡ ˈjuːs"
+    "ipa": "ˌaɪˈvi drʌɡ ˈjuːs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ASA": {
     "alias": "ASPIR-in",
-    "ipa": "ˈæspɚɪn"
+    "ipa": "ˈæspɚɪn",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "NYD": {
     "alias": "not yet diagnosed",
-    "ipa": "nɑt jɛt ˌdaɪəɡˈnoʊzd"
+    "ipa": "nɑt jɛt ˌdaɪəɡˈnoʊzd",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "HX": {
     "alias": "history",
-    "ipa": "ˈhɪstɚi"
+    "ipa": "ˈhɪstɚi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "Sx": {
     "alias": "symptoms",
-    "ipa": "ˈsɪmptəmz"
+    "ipa": "ˈsɪmptəmz",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Tx": {
     "alias": "treatment",
-    "ipa": "ˈtriːtmənt"
+    "ipa": "ˈtriːtmənt",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Dx": {
     "alias": "diagnosis",
-    "ipa": "ˌdaɪəɡˈnoʊsɪs"
+    "ipa": "ˌdaɪəɡˈnoʊsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "Rx": {
     "alias": "prescription",
-    "ipa": "prɪˈskrɪpʃən"
+    "ipa": "prɪˈskrɪpʃən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "FHx": {
     "alias": "family history",
-    "ipa": "ˈfæməli ˈhɪstɚi"
+    "ipa": "ˈfæməli ˈhɪstɚi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "SHx": {
     "alias": "social history",
-    "ipa": "ˈsoʊʃəl ˈhɪstɚi"
+    "ipa": "ˈsoʊʃəl ˈhɪstɚi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "myocardial infarction": {
     "alias": "my-oh-KAR-dee-al in-FARK-shun",
-    "ipa": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən"
+    "ipa": "ˌmaɪəˈkɑːrdiəl ɪnˈfɑːrkʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "angina pectoris": {
     "alias": "an-JY-nah PEK-tor-is",
-    "ipa": "ænˈdʒaɪnə ˈpɛktərɪs"
+    "ipa": "ænˈdʒaɪnə ˈpɛktərɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "arrhythmia": {
     "alias": "a-RITH-mee-ah",
-    "ipa": "əˈrɪðmiə"
+    "ipa": "əˈrɪðmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "atrial fibrillation": {
     "alias": "AY-tree-al fib-ri-LAY-shun",
-    "ipa": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən"
+    "ipa": "ˈeɪtriəl ˌfɪbrɪˈleɪʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ventricular fibrillation": {
     "alias": "ven-TRIK-yoo-lar fib-ri-LAY-shun",
-    "ipa": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən"
+    "ipa": "vɛnˈtrɪkjələr ˌfɪbrɪˈleɪʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tachycardia": {
     "alias": "tak-ee-KAR-dee-ah",
-    "ipa": "ˌtækiˈkɑːrdiə"
+    "ipa": "ˌtækiˈkɑːrdiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bradycardia": {
     "alias": "brad-ee-KAR-dee-ah",
-    "ipa": "ˌbrædiˈkɑːrdiə"
+    "ipa": "ˌbrædiˈkɑːrdiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypertension": {
     "alias": "hy-per-TEN-shun",
-    "ipa": "ˌhaɪpərˈtɛnʃən"
+    "ipa": "ˌhaɪpərˈtɛnʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypotension": {
     "alias": "hy-poh-TEN-shun",
-    "ipa": "ˌhaɪpoʊˈtɛnʃən"
+    "ipa": "ˌhaɪpoʊˈtɛnʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "atherosclerosis": {
     "alias": "ath-er-oh-skleh-ROH-sis",
-    "ipa": "ˌæθəroʊskləˈroʊsɪs"
+    "ipa": "ˌæθəroʊskləˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "endocarditis": {
     "alias": "en-doh-kar-DY-tis",
-    "ipa": "ˌɛndoʊkɑːrˈdaɪtɪs"
+    "ipa": "ˌɛndoʊkɑːrˈdaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pericarditis": {
     "alias": "per-ee-kar-DY-tis",
-    "ipa": "ˌpɛrɪkɑːrˈdaɪtɪs"
+    "ipa": "ˌpɛrɪkɑːrˈdaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "myocarditis": {
     "alias": "my-oh-kar-DY-tis",
-    "ipa": "ˌmaɪoʊkɑːrˈdaɪtɪs"
+    "ipa": "ˌmaɪoʊkɑːrˈdaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cardiomyopathy": {
     "alias": "kar-dee-oh-my-OP-ah-thee",
-    "ipa": "ˌkɑːrdioʊmaɪˈɑːpəθi"
+    "ipa": "ˌkɑːrdioʊmaɪˈɑːpəθi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "thromboembolism": {
     "alias": "throm-boh-EM-boh-liz-um",
-    "ipa": "ˌθrɑːmboʊˈɛmbəlɪzəm"
+    "ipa": "ˌθrɑːmboʊˈɛmbəlɪzəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "thrombophlebitis": {
     "alias": "throm-boh-fleh-BY-tis",
-    "ipa": "ˌθrɑːmboʊflɪˈbaɪtɪs"
+    "ipa": "ˌθrɑːmboʊflɪˈbaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "phlebitis": {
     "alias": "fleh-BY-tis",
-    "ipa": "flɪˈbaɪtɪs"
+    "ipa": "flɪˈbaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "embolism": {
     "alias": "EM-boh-liz-um",
-    "ipa": "ˈɛmbəlɪzəm"
+    "ipa": "ˈɛmbəlɪzəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "stenosis": {
     "alias": "steh-NOH-sis",
-    "ipa": "stɪˈnoʊsɪs"
+    "ipa": "stɪˈnoʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "regurgitation": {
     "alias": "ree-gur-ji-TAY-shun",
-    "ipa": "rɪˌɡɝːdʒɪˈteɪʃən"
+    "ipa": "rɪˌɡɝːdʒɪˈteɪʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "prolapse": {
     "alias": "proh-LAPS",
-    "ipa": "proʊˈlæps"
+    "ipa": "proʊˈlæps",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "aneurysm": {
     "alias": "AN-yoo-riz-um",
-    "ipa": "ˈænjərɪzəm"
+    "ipa": "ˈænjərɪzəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dissection": {
     "alias": "dy-SEK-shun",
-    "ipa": "dɪˈsɛkʃən"
+    "ipa": "dɪˈsɛkʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ischemia": {
     "alias": "is-KEE-mee-ah",
-    "ipa": "ɪˈskimiə"
+    "ipa": "ɪˈskimiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "infarction": {
     "alias": "in-FARK-shun",
-    "ipa": "ɪnˈfɑːrkʃən"
+    "ipa": "ɪnˈfɑːrkʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "reperfusion": {
     "alias": "REE-per-FYOO-zhun",
-    "ipa": "ˌriːpərˈfjuːʒən"
+    "ipa": "ˌriːpərˈfjuːʒən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypercholesterolemia": {
     "alias": "HY-per-koh-LES-ter-oh-LEE-mee-ah",
-    "ipa": "ˌhaɪpərkəˌlɛstərəˈliːmiə"
+    "ipa": "ˌhaɪpərkəˌlɛstərəˈliːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypertriglyceridemia": {
     "alias": "HY-per-try-GLIS-er-ih-DEE-mee-ah",
-    "ipa": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə"
+    "ipa": "ˌhaɪpərtraɪˌɡlɪsərəˈdiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypoalbuminemia": {
     "alias": "HY-poh-al-BYOO-mih-NEE-mee-ah",
-    "ipa": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə"
+    "ipa": "ˌhaɪpoʊælˌbjuːmɪˈniːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pneumonia": {
     "alias": "noo-MOHN-yah",
-    "ipa": "nuːˈmoʊnjə"
+    "ipa": "nuːˈmoʊnjə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bronchitis": {
     "alias": "brong-KY-tis",
-    "ipa": "brɑːŋˈkaɪtɪs"
+    "ipa": "brɑːŋˈkaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "bronchiectasis": {
     "alias": "brong-kee-EK-tah-sis",
-    "ipa": "ˌbrɑːŋkiˈɛktəsɪs"
+    "ipa": "ˌbrɑːŋkiˈɛktəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "emphysema": {
     "alias": "em-fih-SEE-mah",
-    "ipa": "ˌɛmfɪˈsiːmə"
+    "ipa": "ˌɛmfɪˈsiːmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pneumothorax": {
     "alias": "noo-moh-THOR-aks",
-    "ipa": "ˌnuːmoʊˈθɔːræks"
+    "ipa": "ˌnuːmoʊˈθɔːræks",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hemothorax": {
     "alias": "hee-moh-THOR-aks",
-    "ipa": "ˌhiːmoʊˈθɔːræks"
+    "ipa": "ˌhiːmoʊˈθɔːræks",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pleural effusion": {
     "alias": "PLOO-ral eh-FYOO-zhun",
-    "ipa": "ˈplʊrəl ɪˈfjuːʒən"
+    "ipa": "ˈplʊrəl ɪˈfjuːʒən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pleurisy": {
     "alias": "PLOO-rih-see",
-    "ipa": "ˈplʊrɪsi"
+    "ipa": "ˈplʊrɪsi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "atelectasis": {
     "alias": "at-ih-LEK-tah-sis",
-    "ipa": "ˌætəˈlɛktəsɪs"
+    "ipa": "ˌætəˈlɛktəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pulmonary embolism": {
     "alias": "PUL-moh-nair-ee EM-bol-izm",
-    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm"
+    "ipa": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pulmonary edema": {
     "alias": "PUL-moh-nair-ee eh-DEE-mah",
-    "ipa": "ˈpʊlməˌnɛri ɪˈdiːmə"
+    "ipa": "ˈpʊlməˌnɛri ɪˈdiːmə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pulmonary fibrosis": {
     "alias": "PUL-moh-nair-ee fy-BROH-sis",
-    "ipa": "ˈpʊlməˌnɛri faɪˈbroʊsɪs"
+    "ipa": "ˈpʊlməˌnɛri faɪˈbroʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sarcoidosis": {
     "alias": "SAR-koy-DOH-sis",
-    "ipa": "ˌsɑːrkɔɪˈdoʊsɪs"
+    "ipa": "ˌsɑːrkɔɪˈdoʊsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "tuberculosis": {
     "alias": "too-BER-kyoo-LOH-sis",
-    "ipa": "tuːˌbɜːrkjəˈloʊsɪs"
+    "ipa": "tuːˌbɜːrkjəˈloʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypoxia": {
     "alias": "hy-POK-see-ah",
-    "ipa": "haɪˈpɑːksiə"
+    "ipa": "haɪˈpɑːksiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypercapnia": {
     "alias": "hy-per-KAP-nee-ah",
-    "ipa": "ˌhaɪpərˈkæpniə"
+    "ipa": "ˌhaɪpərˈkæpniə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "respiratory failure": {
     "alias": "RES-pih-rah-tor-ee FAYL-yer",
-    "ipa": "ˈrɛspərəˌtɔːri ˈfeɪljər"
+    "ipa": "ˈrɛspərəˌtɔːri ˈfeɪljər",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "apnea": {
     "alias": "AP-nee-ah",
-    "ipa": "æpˈniːə"
+    "ipa": "æpˈniːə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dyspnea": {
     "alias": "DISP-nee-ah",
-    "ipa": "ˈdɪspniə"
+    "ipa": "ˈdɪspniə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hemoptysis": {
     "alias": "hee-MOP-tih-sis",
-    "ipa": "hɪˈmɑːptəsɪs"
+    "ipa": "hɪˈmɑːptəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "stridor": {
     "alias": "STRY-dor",
-    "ipa": "ˈstraɪdɔːr"
+    "ipa": "ˈstraɪdɔːr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "wheezing": {
     "alias": "WEE-zing",
-    "ipa": "ˈwiːzɪŋ"
+    "ipa": "ˈwiːzɪŋ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "coryza": {
     "alias": "koh-RY-zah",
-    "ipa": "kəˈraɪzə"
+    "ipa": "kəˈraɪzə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "gastroesophageal reflux": {
     "alias": "GAS-troh-ee-sof-ah-JEE-al REE-fluks",
-    "ipa": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks"
+    "ipa": "ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "esophagitis": {
     "alias": "ee-sof-ah-JY-tis",
-    "ipa": "ɪˌsɑːfəˈdʒaɪtɪs"
+    "ipa": "ɪˌsɑːfəˈdʒaɪtɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "gastritis": {
     "alias": "gas-TRY-tis",
-    "ipa": "ɡæˈstraɪtɪs"
+    "ipa": "ɡæˈstraɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "peptic ulcer": {
     "alias": "PEP-tik UL-ser",
-    "ipa": "ˈpɛptɪk ˈʌlsɚ"
+    "ipa": "ˈpɛptɪk ˈʌlsɚ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "gastroenteritis": {
     "alias": "gas-tro-en-ter-EYE-tis",
-    "ipa": "ˌɡæstroʊˌɛntɚˈaɪtɪs"
+    "ipa": "ˌɡæstroʊˌɛntɚˈaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "colitis": {
     "alias": "ko-LYE-tis",
-    "ipa": "kəˈlaɪtɪs"
+    "ipa": "kəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ulcerative colitis": {
     "alias": "UL-ser-a-tiv ko-LYE-tis",
-    "ipa": "ˈʌlsɚətɪv kəˈlaɪtɪs"
+    "ipa": "ˈʌlsɚətɪv kəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "Crohn's disease": {
     "alias": "KROHNZ dih-ZEEZ",
-    "ipa": "kroʊnz dɪˈziz"
+    "ipa": "kroʊnz dɪˈziz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "diverticulitis": {
     "alias": "dye-ver-tik-yoo-LYE-tis",
-    "ipa": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs"
+    "ipa": "ˌdaɪvɚˌtɪkjəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "appendicitis": {
     "alias": "a-pen-dih-SYE-tis",
-    "ipa": "əˌpɛndɪˈsaɪtɪs"
+    "ipa": "əˌpɛndɪˈsaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cholecystitis": {
     "alias": "ko-luh-sis-TYE-tis",
-    "ipa": "ˌkoʊləsɪˈstaɪtɪs"
+    "ipa": "ˌkoʊləsɪˈstaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pancreatitis": {
     "alias": "pan-kree-a-TYE-tis",
-    "ipa": "ˌpæŋkriəˈtaɪtɪs"
+    "ipa": "ˌpæŋkriəˈtaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hepatitis": {
     "alias": "hep-a-TYE-tis",
-    "ipa": "ˌhɛpəˈtaɪtɪs"
+    "ipa": "ˌhɛpəˈtaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cirrhosis": {
     "alias": "sir-OH-sis",
-    "ipa": "sɪˈroʊsɪs"
+    "ipa": "sɪˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cholestasis": {
     "alias": "ko-luh-STAY-sis",
-    "ipa": "ˌkoʊləˈsteɪsɪs"
+    "ipa": "ˌkoʊləˈsteɪsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "steatosis": {
     "alias": "stee-a-TOH-sis",
-    "ipa": "ˌstiəˈtoʊsɪs"
+    "ipa": "ˌstiəˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "steatohepatitis": {
     "alias": "stee-a-toh-hep-a-TYE-tis",
-    "ipa": "ˌstiətoʊˌhɛpəˈtaɪtɪs"
+    "ipa": "ˌstiətoʊˌhɛpəˈtaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "peritonitis": {
     "alias": "pair-ih-toh-NYE-tis",
-    "ipa": "ˌpɛrɪtəˈnaɪtɪs"
+    "ipa": "ˌpɛrɪtəˈnaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ileus": {
     "alias": "IL-ee-us",
-    "ipa": "ˈɪliəs"
+    "ipa": "ˈɪliəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "intussusception": {
     "alias": "in-tuh-suh-SEP-shun",
-    "ipa": "ˌɪntəsəˈsɛpʃən"
+    "ipa": "ˌɪntəsəˈsɛpʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "volvulus": {
     "alias": "VOL-vyoo-lus",
-    "ipa": "ˈvɑlvjələs"
+    "ipa": "ˈvɑlvjələs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hematemesis": {
     "alias": "hee-ma-TEM-eh-sis",
-    "ipa": "ˌhɛməˈtɛməsɪs"
+    "ipa": "ˌhɛməˈtɛməsɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "melena": {
     "alias": "muh-LEE-na",
-    "ipa": "məˈlinə"
+    "ipa": "məˈlinə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hematochezia": {
     "alias": "hee-ma-toh-KEE-zee-a",
-    "ipa": "ˌhɛmətoʊˈkiʒə"
+    "ipa": "ˌhɛmətoʊˈkiʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "choledocholithiasis": {
     "alias": "ko-led-oh-ko-lih-THIGH-a-sis",
-    "ipa": "kəˌlɛdəkoʊˌlɪθaɪəsɪs"
+    "ipa": "kəˌlɛdəkoʊˌlɪθaɪəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cholelithiasis": {
     "alias": "ko-luh-lih-THIGH-a-sis",
-    "ipa": "ˌkoʊləlɪˈθaɪəsɪs"
+    "ipa": "ˌkoʊləlɪˈθaɪəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nephrolithiasis": {
     "alias": "nef-ro-lih-THIGH-a-sis",
-    "ipa": "ˌnɛfroʊlɪˈθaɪəsɪs"
+    "ipa": "ˌnɛfroʊlɪˈθaɪəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sialadenitis": {
     "alias": "sigh-al-a-deh-NYE-tis",
-    "ipa": "ˌsaɪəlædəˈnaɪtɪs"
+    "ipa": "ˌsaɪəlædəˈnaɪtɪs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nephritis": {
     "alias": "neh-FRY-tis",
-    "ipa": "nəˈfraɪtɪs"
+    "ipa": "nəˈfraɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nephrosis": {
     "alias": "neh-FROH-sis",
-    "ipa": "nəˈfroʊsɪs"
+    "ipa": "nəˈfroʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "glomerulonephritis": {
     "alias": "gloh-mer-yoo-loh-neh-FRY-tis",
-    "ipa": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs"
+    "ipa": "ɡloʊˌmɛrjəloʊnəˈfraɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pyelonephritis": {
     "alias": "pye-eh-loh-neh-FRY-tis",
-    "ipa": "ˌpaɪəloʊnəˈfraɪtɪs"
+    "ipa": "ˌpaɪəloʊnəˈfraɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cystitis": {
     "alias": "sis-TYE-tis",
-    "ipa": "sɪˈstaɪtɪs"
+    "ipa": "sɪˈstaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "urethritis": {
     "alias": "yoo-reh-THRY-tis",
-    "ipa": "ˌjʊrɪˈθraɪtɪs"
+    "ipa": "ˌjʊrɪˈθraɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ureterolithiasis": {
     "alias": "yoo-REH-ter-oh-lih-THY-ah-sis",
-    "ipa": "jʊˌrɛtərəlɪˈθaɪəsɪs"
+    "ipa": "jʊˌrɛtərəlɪˈθaɪəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hydronephrosis": {
     "alias": "HY-droh-neh-FROH-sis",
-    "ipa": "ˌhaɪdrənɛˈfroʊsɪs"
+    "ipa": "ˌhaɪdrənɛˈfroʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oliguria": {
     "alias": "oh-lih-GYOO-ree-ah",
-    "ipa": "ˌɑlɪˈɡjʊriə"
+    "ipa": "ˌɑlɪˈɡjʊriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "anuria": {
     "alias": "an-YOO-ree-ah",
-    "ipa": "əˈnjʊriə"
+    "ipa": "əˈnjʊriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hematuria": {
     "alias": "HEE-mah-TOO-ree-ah",
-    "ipa": "ˌhɛməˈtʊriə"
+    "ipa": "ˌhɛməˈtʊriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "proteinuria": {
     "alias": "PROH-tee-NYOO-ree-ah",
-    "ipa": "ˌproʊtiˈnʊriə"
+    "ipa": "ˌproʊtiˈnʊriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dysuria": {
     "alias": "dis-YOO-ree-ah",
-    "ipa": "dɪsˈjʊriə"
+    "ipa": "dɪsˈjʊriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "incontinence": {
     "alias": "in-KON-tih-nens",
-    "ipa": "ɪnˈkɑntɪnəns"
+    "ipa": "ɪnˈkɑntɪnəns",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "retention": {
     "alias": "ree-TEN-shun",
-    "ipa": "rɪˈtɛnʃən"
+    "ipa": "rɪˈtɛnʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "azoospermia": {
     "alias": "AY-zoh-oh-SPER-mee-ah",
-    "ipa": "eɪˌzoʊəˈspɜrmiə"
+    "ipa": "eɪˌzoʊəˈspɜrmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "oligospermia": {
     "alias": "OH-lih-goh-SPER-mee-ah",
-    "ipa": "ˌɑlɪɡoʊˈspɜrmiə"
+    "ipa": "ˌɑlɪɡoʊˈspɜrmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "encephalopathy": {
     "alias": "en-SEH-fah-LOP-ah-thee",
-    "ipa": "ɛnˌsɛfəˈlɑpəθi"
+    "ipa": "ɛnˌsɛfəˈlɑpəθi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "encephalitis": {
     "alias": "en-SEH-fah-LY-tis",
-    "ipa": "ɛnˌsɛfəˈlaɪtɪs"
+    "ipa": "ɛnˌsɛfəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "meningitis": {
     "alias": "MEH-nin-JY-tis",
-    "ipa": "ˌmɛnɪnˈdʒaɪtɪs"
+    "ipa": "ˌmɛnɪnˈdʒaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "myelitis": {
     "alias": "MY-eh-LY-tis",
-    "ipa": "ˌmaɪəˈlaɪtɪs"
+    "ipa": "ˌmaɪəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "neuropathy": {
     "alias": "nyoo-ROP-ah-thee",
-    "ipa": "nʊˈrɑpəθi"
+    "ipa": "nʊˈrɑpəθi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "radiculopathy": {
     "alias": "rah-DIK-yoo-LOP-ah-thee",
-    "ipa": "rəˌdɪkjəˈlɑpəθi"
+    "ipa": "rəˌdɪkjəˈlɑpəθi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "myelopathy": {
     "alias": "MY-eh-LOP-ah-thee",
-    "ipa": "ˌmaɪəˈlɑpəθi"
+    "ipa": "ˌmaɪəˈlɑpəθi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ataxia": {
     "alias": "ah-TAK-see-ah",
-    "ipa": "əˈtæksiə"
+    "ipa": "əˈtæksiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dysarthria": {
     "alias": "dis-AR-three-ah",
-    "ipa": "dɪsˈɑrθriə"
+    "ipa": "dɪsˈɑrθriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "aphasia": {
     "alias": "ah-FAY-zhah",
-    "ipa": "əˈfeɪʒə"
+    "ipa": "əˈfeɪʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "apraxia": {
     "alias": "ah-PRAK-see-ah",
-    "ipa": "əˈpræksiə"
+    "ipa": "əˈpræksiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "agnosia": {
     "alias": "ag-NOH-zhah",
-    "ipa": "æɡˈnoʊʒə"
+    "ipa": "æɡˈnoʊʒə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "anomia": {
     "alias": "ah-NOH-mee-ah",
-    "ipa": "əˈnoʊmiə"
+    "ipa": "əˈnoʊmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dysphagia": {
     "alias": "dis-FAY-jah",
-    "ipa": "dɪsˈfeɪdʒə"
+    "ipa": "dɪsˈfeɪdʒə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dysphonia": {
     "alias": "dis-FOH-nee-ah",
-    "ipa": "dɪsˈfoʊniə"
+    "ipa": "dɪsˈfoʊniə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dyskinesia": {
     "alias": "dis-kih-NEE-zhah",
-    "ipa": "ˌdɪskɪˈniʒə"
+    "ipa": "ˌdɪskɪˈniʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "myoclonus": {
     "alias": "my-OK-loh-nus",
-    "ipa": "maɪˈɑklənəs"
+    "ipa": "maɪˈɑklənəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "chorea": {
     "alias": "koh-REE-ah",
-    "ipa": "kəˈriə"
+    "ipa": "kəˈriə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "athetosis": {
     "alias": "ATH-eh-TOE-sis",
-    "ipa": "ˌæθəˈtoʊsɪs"
+    "ipa": "ˌæθəˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dystonia": {
     "alias": "dis-TOE-nee-ah",
-    "ipa": "dɪsˈtoʊniə"
+    "ipa": "dɪsˈtoʊniə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tremor": {
     "alias": "TREM-or",
-    "ipa": "ˈtrɛmər"
+    "ipa": "ˈtrɛmər",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fasciculation": {
     "alias": "fa-SIK-yoo-LAY-shun",
-    "ipa": "fəˌsɪkjəˈleɪʃən"
+    "ipa": "fəˌsɪkjəˈleɪʃən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "clonus": {
     "alias": "KLOH-nus",
-    "ipa": "ˈkloʊnəs"
+    "ipa": "ˈkloʊnəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nystagmus": {
     "alias": "nis-TAG-mus",
-    "ipa": "nɪˈstæɡməs"
+    "ipa": "nɪˈstæɡməs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ptosis": {
     "alias": "TOE-sis",
-    "ipa": "ˈtoʊsɪs"
+    "ipa": "ˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "miosis": {
     "alias": "my-OH-sis",
-    "ipa": "maɪˈoʊsɪs"
+    "ipa": "maɪˈoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "mydriasis": {
     "alias": "mi-DRY-ah-sis",
-    "ipa": "mɪˈdraɪəsɪs"
+    "ipa": "mɪˈdraɪəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "anisocoria": {
     "alias": "an-EYE-so-KOR-ee-ah",
-    "ipa": "ænˌaɪsəˈkɔriə"
+    "ipa": "ænˌaɪsəˈkɔriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyperreflexia": {
     "alias": "HY-per-re-FLEK-see-ah",
-    "ipa": "ˌhaɪpərrɪˈflɛksiə"
+    "ipa": "ˌhaɪpərrɪˈflɛksiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hyporeflexia": {
     "alias": "HY-po-re-FLEK-see-ah",
-    "ipa": "ˌhaɪpɔrɪˈflɛksiə"
+    "ipa": "ˌhaɪpɔrɪˈflɛksiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "Babinski": {
     "alias": "ba-BIN-skee",
-    "ipa": "bəˈbɪnski"
+    "ipa": "bəˈbɪnski",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "paresthesia": {
     "alias": "par-es-THEE-zhah",
-    "ipa": "ˌpærəsˈθiʒə"
+    "ipa": "ˌpærəsˈθiʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "anesthesia": {
     "alias": "an-es-THEE-zhah",
-    "ipa": "ˌænəsˈθiʒə"
+    "ipa": "ˌænəsˈθiʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyperesthesia": {
     "alias": "HY-per-es-THEE-zhah",
-    "ipa": "ˌhaɪpərəsˈθiʒə"
+    "ipa": "ˌhaɪpərəsˈθiʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dysesthesia": {
     "alias": "dis-es-THEE-zhah",
-    "ipa": "ˌdɪsəsˈθiʒə"
+    "ipa": "ˌdɪsəsˈθiʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "neuralgia": {
     "alias": "nyoo-RAL-jah",
-    "ipa": "nʊˈrældʒə"
+    "ipa": "nʊˈrældʒə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "neuritis": {
     "alias": "nyoo-RY-tis",
-    "ipa": "nʊˈraɪtɪs"
+    "ipa": "nʊˈraɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sciatica": {
     "alias": "sy-AT-ik-ah",
-    "ipa": "saɪˈætɪkə"
+    "ipa": "saɪˈætɪkə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "trigeminal": {
     "alias": "try-JEM-in-al",
-    "ipa": "traɪˈdʒɛmɪnəl"
+    "ipa": "traɪˈdʒɛmɪnəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "prosopagnosia": {
     "alias": "PROS-oh-pag-NOH-zhah",
-    "ipa": "ˌprɑsəpæɡˈnoʊʒə"
+    "ipa": "ˌprɑsəpæɡˈnoʊʒə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyperthyroidism": {
     "alias": "HY-per-THY-roy-dizm",
-    "ipa": "ˌhaɪpərˈθaɪrɔɪdɪzəm"
+    "ipa": "ˌhaɪpərˈθaɪrɔɪdɪzəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypothyroidism": {
     "alias": "HY-po-THY-roy-dizm",
-    "ipa": "ˌhaɪpəˈθaɪrɔɪdɪzəm"
+    "ipa": "ˌhaɪpəˈθaɪrɔɪdɪzəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "thyrotoxicosis": {
     "alias": "THY-ro-TOK-sih-KOH-sis",
-    "ipa": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs"
+    "ipa": "ˌθaɪroʊˌtɑksɪˈkoʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "myxedema": {
     "alias": "mik-seh-DEE-mah",
-    "ipa": "ˌmɪksəˈdiːmə"
+    "ipa": "ˌmɪksəˈdiːmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hyperparathyroidism": {
     "alias": "HY-per-PAR-ah-THY-roy-dizm",
-    "ipa": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm"
+    "ipa": "ˌhaɪpərˌpærəˈθaɪrɔɪdɪzəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypoparathyroidism": {
     "alias": "HY-po-PAR-ah-THY-roy-dizm",
-    "ipa": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm"
+    "ipa": "ˌhaɪpəˌpærəˈθaɪrɔɪdɪzəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypercalcemia": {
     "alias": "HY-per-kal-SEE-mee-ah",
-    "ipa": "ˌhaɪpərkælˈsiːmiə"
+    "ipa": "ˌhaɪpərkælˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypocalcemia": {
     "alias": "HY-po-kal-SEE-mee-ah",
-    "ipa": "ˌhaɪpəkælˈsiːmiə"
+    "ipa": "ˌhaɪpəkælˈsiːmiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hyperkalemia": {
     "alias": "hy-per-kah-LEE-mee-ah",
-    "ipa": "ˌhaɪpərkəˈliːmiə"
+    "ipa": "ˌhaɪpərkəˈliːmiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypokalemia": {
     "alias": "hy-poh-kah-LEE-mee-ah",
-    "ipa": "ˌhaɪpoʊkəˈliːmiə"
+    "ipa": "ˌhaɪpoʊkəˈliːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypernatremia": {
     "alias": "hy-per-nah-TREE-mee-ah",
-    "ipa": "ˌhaɪpərnəˈtriːmiə"
+    "ipa": "ˌhaɪpərnəˈtriːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyponatremia": {
     "alias": "hy-poh-nah-TREE-mee-ah",
-    "ipa": "ˌhaɪpoʊnəˈtriːmiə"
+    "ipa": "ˌhaɪpoʊnəˈtriːmiə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "hypomagnesemia": {
     "alias": "hy-poh-mag-neh-SEE-mee-ah",
-    "ipa": "ˌhaɪpoʊmæɡnəˈsiːmiə"
+    "ipa": "ˌhaɪpoʊmæɡnəˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypermagnesemia": {
     "alias": "hy-per-mag-neh-SEE-mee-ah",
-    "ipa": "ˌhaɪpərmæɡnəˈsiːmiə"
+    "ipa": "ˌhaɪpərmæɡnəˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypophosphatemia": {
     "alias": "hy-poh-fos-fah-TEE-mee-ah",
-    "ipa": "ˌhaɪpoʊfɑːsfəˈtiːmiə"
+    "ipa": "ˌhaɪpoʊfɑːsfəˈtiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyperphosphatemia": {
     "alias": "hy-per-fos-fah-TEE-mee-ah",
-    "ipa": "ˌhaɪpərfɑːsfəˈtiːmiə"
+    "ipa": "ˌhaɪpərfɑːsfəˈtiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "acidosis": {
     "alias": "ah-sih-DOH-sis",
-    "ipa": "ˌæsɪˈdoʊsɪs"
+    "ipa": "ˌæsɪˈdoʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "alkalosis": {
     "alias": "al-kah-LOH-sis",
-    "ipa": "ˌælkəˈloʊsɪs"
+    "ipa": "ˌælkəˈloʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ketoacidosis": {
     "alias": "kee-toh-ah-sih-DOH-sis",
-    "ipa": "ˌkiːtoʊˌæsɪˈdoʊsɪs"
+    "ipa": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hypoglycemia": {
     "alias": "hy-poh-gly-SEE-mee-ah",
-    "ipa": "ˌhaɪpoʊɡlaɪˈsiːmiə"
+    "ipa": "ˌhaɪpoʊɡlaɪˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hyperglycemia": {
     "alias": "hy-per-gly-SEE-mee-ah",
-    "ipa": "ˌhaɪpərɡlaɪˈsiːmiə"
+    "ipa": "ˌhaɪpərɡlaɪˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "insulinoma": {
     "alias": "in-suh-lih-NOH-mah",
-    "ipa": "ˌɪnsəlɪˈnoʊmə"
+    "ipa": "ˌɪnsəlɪˈnoʊmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pheochromocytoma": {
     "alias": "fee-oh-kroh-moh-sy-TOH-mah",
-    "ipa": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə"
+    "ipa": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "anemia": {
     "alias": "ah-NEE-mee-ah",
-    "ipa": "əˈniːmiə"
+    "ipa": "əˈniːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "polycythemia": {
     "alias": "pol-ee-sy-THEE-mee-ah",
-    "ipa": "ˌpɑːlɪsaɪˈθiːmiə"
+    "ipa": "ˌpɑːlɪsaɪˈθiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "thrombocytopenia": {
     "alias": "throm-boh-sy-toh-PEE-nee-ah",
-    "ipa": "ˌθrɑːmboʊˌsaɪtəˈpiːniə"
+    "ipa": "ˌθrɑːmboʊˌsaɪtəˈpiːniə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "thrombocytosis": {
     "alias": "throm-boh-sy-TOH-sis",
-    "ipa": "ˌθrɑːmboʊsaɪˈtoʊsɪs"
+    "ipa": "ˌθrɑːmboʊsaɪˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "leukopenia": {
     "alias": "loo-koh-PEE-nee-ah",
-    "ipa": "ˌluːkəˈpiːniə"
+    "ipa": "ˌluːkəˈpiːniə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "leukocytosis": {
     "alias": "loo-koh-sy-TOH-sis",
-    "ipa": "ˌluːkəsaɪˈtoʊsɪs"
+    "ipa": "ˌluːkəsaɪˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "neutropenia": {
     "alias": "noo-troh-PEE-nee-ah",
-    "ipa": "ˌnuːtrəˈpiːniə"
+    "ipa": "ˌnuːtrəˈpiːniə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "neutrophilia": {
     "alias": "noo-troh-FIL-ee-ah",
-    "ipa": "ˌnuːtrəˈfɪliə"
+    "ipa": "ˌnuːtrəˈfɪliə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "lymphopenia": {
     "alias": "lim-foh-PEE-nee-ah",
-    "ipa": "ˌlɪmfəˈpiːniə"
+    "ipa": "ˌlɪmfəˈpiːniə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lymphocytosis": {
     "alias": "lim-foh-sy-TOH-sis",
-    "ipa": "ˌlɪmfəsaɪˈtoʊsɪs"
+    "ipa": "ˌlɪmfəsaɪˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "monocytosis": {
     "alias": "mon-oh-sy-TOH-sis",
-    "ipa": "ˌmɑːnəsaɪˈtoʊsɪs"
+    "ipa": "ˌmɑːnəsaɪˈtoʊsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "eosinophilia": {
     "alias": "ee-oh-sin-oh-FIL-ee-ah",
-    "ipa": "ˌiːəˌsɪnəˈfɪliə"
+    "ipa": "ˌiːəˌsɪnəˈfɪliə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "basophilia": {
     "alias": "bay-soh-FIL-ee-ah",
-    "ipa": "ˌbeɪsəˈfɪliə"
+    "ipa": "ˌbeɪsəˈfɪliə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pancytopenia": {
     "alias": "pan-sy-toh-PEE-nee-ah",
-    "ipa": "ˌpænsaɪtəˈpiːniə"
+    "ipa": "ˌpænsaɪtəˈpiːniə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hemophilia": {
     "alias": "hee-moh-FIL-ee-ah",
-    "ipa": "ˌhiːməˈfɪliə"
+    "ipa": "ˌhiːməˈfɪliə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "thrombophilia": {
     "alias": "throm-bo-FIL-ee-ah",
-    "ipa": "ˌθrɒmboʊˈfɪliə"
+    "ipa": "ˌθrɒmboʊˈfɪliə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "purpura": {
     "alias": "PUR-pur-ah",
-    "ipa": "ˈpɜːrpjʊrə"
+    "ipa": "ˈpɜːrpjʊrə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "petechiae": {
     "alias": "pe-TEE-kee-eye",
-    "ipa": "pɪˈtɛkiaɪ"
+    "ipa": "pɪˈtɛkiaɪ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ecchymosis": {
     "alias": "ek-ih-MOH-sis",
-    "ipa": "ˌɛkɪˈmoʊsɪs"
+    "ipa": "ˌɛkɪˈmoʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hematoma": {
     "alias": "hee-mah-TOH-mah",
-    "ipa": "ˌhɛməˈtoʊmə"
+    "ipa": "ˌhɛməˈtoʊmə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hemolysis": {
     "alias": "hee-MOL-ih-sis",
-    "ipa": "hɪˈmɒlɪsɪs"
+    "ipa": "hɪˈmɒlɪsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cellulitis": {
     "alias": "sel-yoo-LY-tis",
-    "ipa": "ˌsɛljuˈlaɪtɪs"
+    "ipa": "ˌsɛljuˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "abscess": {
     "alias": "AB-ses",
-    "ipa": "ˈæbsɛs"
+    "ipa": "ˈæbsɛs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "furuncle": {
     "alias": "FYOOR-ung-kul",
-    "ipa": "ˈfjʊrʌŋkəl"
+    "ipa": "ˈfjʊrʌŋkəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "carbuncle": {
     "alias": "KAR-bung-kul",
-    "ipa": "ˈkɑːrbʌŋkəl"
+    "ipa": "ˈkɑːrbʌŋkəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "impetigo": {
     "alias": "im-peh-TY-goh",
-    "ipa": "ˌɪmpɪˈtaɪɡoʊ"
+    "ipa": "ˌɪmpɪˈtaɪɡoʊ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "erysipelas": {
     "alias": "er-ih-SIP-eh-las",
-    "ipa": "ˌɛrɪˈsɪpələs"
+    "ipa": "ˌɛrɪˈsɪpələs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "necrotizing fasciitis": {
     "alias": "NEK-roh-ty-zing fash-ee-EYE-tis",
-    "ipa": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs"
+    "ipa": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "osteomyelitis": {
     "alias": "os-tee-oh-my-eh-LY-tis",
-    "ipa": "ˌɒstioʊˌmaɪəˈlaɪtɪs"
+    "ipa": "ˌɒstioʊˌmaɪəˈlaɪtɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "septic arthritis": {
     "alias": "SEP-tik ar-THRY-tis",
-    "ipa": "ˈsɛptɪk ɑːrˈθraɪtɪs"
+    "ipa": "ˈsɛptɪk ɑːrˈθraɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sepsis": {
     "alias": "SEP-sis",
-    "ipa": "ˈsɛpsɪs"
+    "ipa": "ˈsɛpsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "septicemia": {
     "alias": "sep-tih-SEE-mee-ah",
-    "ipa": "ˌsɛptɪˈsiːmiə"
+    "ipa": "ˌsɛptɪˈsiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bacteremia": {
     "alias": "bak-ter-EE-mee-ah",
-    "ipa": "ˌbæktəˈriːmiə"
+    "ipa": "ˌbæktəˈriːmiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "viremia": {
     "alias": "vy-REE-mee-ah",
-    "ipa": "vaɪˈriːmiə"
+    "ipa": "vaɪˈriːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fungemia": {
     "alias": "fun-JEE-mee-ah",
-    "ipa": "fʌnˈdʒiːmiə"
+    "ipa": "fʌnˈdʒiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "parasitemia": {
     "alias": "par-ah-sih-TEE-mee-ah",
-    "ipa": "ˌpærəsaɪˈtiːmiə"
+    "ipa": "ˌpærəsaɪˈtiːmiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "endotoxemia": {
     "alias": "en-doh-tok-SEE-mee-ah",
-    "ipa": "ˌɛndoʊtɒkˈsiːmiə"
+    "ipa": "ˌɛndoʊtɒkˈsiːmiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "erythema": {
     "alias": "er-ih-THEE-mah",
-    "ipa": "ˌɛrɪˈθiːmə"
+    "ipa": "ˌɛrɪˈθiːmə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "urticaria": {
     "alias": "ur-tih-KAR-ee-ah",
-    "ipa": "ˌɜːrtɪˈkɛriə"
+    "ipa": "ˌɜːrtɪˈkɛriə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pruritus": {
     "alias": "proo-RY-tus",
-    "ipa": "prʊˈraɪtəs"
+    "ipa": "prʊˈraɪtəs",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "eczema": {
     "alias": "EK-zeh-mah",
-    "ipa": "ˈɛksɪmə"
+    "ipa": "ˈɛksɪmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "psoriasis": {
     "alias": "soh-RY-ah-sis",
-    "ipa": "səˈraɪəsɪs"
+    "ipa": "səˈraɪəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "lichenification": {
     "alias": "ly-ken-ih-fih-KAY-shun",
-    "ipa": "lɪˌkɛnɪfɪˈkeɪʃən"
+    "ipa": "lɪˌkɛnɪfɪˈkeɪʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "excoriation": {
     "alias": "eks-kor-ee-AY-shun",
-    "ipa": "ɪkˌskɔːriˈeɪʃən"
+    "ipa": "ɪkˌskɔːriˈeɪʃən",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "vesicle": {
     "alias": "VES-ih-kul",
-    "ipa": "ˈvɛsɪkəl"
+    "ipa": "ˈvɛsɪkəl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "bulla": {
     "alias": "BULL-ah",
-    "ipa": "ˈbʊlə"
+    "ipa": "ˈbʊlə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "pustule": {
     "alias": "PUS-chool",
-    "ipa": "ˈpʌstʃul"
+    "ipa": "ˈpʌstʃul",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "macule": {
     "alias": "MAK-yool",
-    "ipa": "ˈmækjuːl"
+    "ipa": "ˈmækjuːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "papule": {
     "alias": "PAP-yool",
-    "ipa": "ˈpæpjuːl"
+    "ipa": "ˈpæpjuːl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "nodule": {
     "alias": "NOD-yool",
-    "ipa": "ˈnɑːdjuːl"
+    "ipa": "ˈnɑːdjuːl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "plaque": {
     "alias": "PLAK",
-    "ipa": "plˈæk"
+    "ipa": "plˈæk",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "scale": {
     "alias": "SKAYL",
-    "ipa": "skˈeɪl"
+    "ipa": "skˈeɪl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "crust": {
     "alias": "KRUST",
-    "ipa": "krˈʌst"
+    "ipa": "krˈʌst",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "erosion": {
     "alias": "ee-ROH-zhun",
-    "ipa": "ɪˈroʊʒən"
+    "ipa": "ɪˈroʊʒən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ulcer": {
     "alias": "UL-ser",
-    "ipa": "ˈʌlsər"
+    "ipa": "ˈʌlsər",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fissure": {
     "alias": "FISH-ur",
-    "ipa": "ˈfɪʃər"
+    "ipa": "ˈfɪʃər",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "atrophy": {
     "alias": "AT-roh-fee",
-    "ipa": "ˈætrəfi"
+    "ipa": "ˈætrəfi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sclerosis": {
     "alias": "skleh-ROH-sis",
-    "ipa": "skləˈroʊsɪs"
+    "ipa": "skləˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "appendectomy": {
     "alias": "ap-en-DEK-toh-mee",
-    "ipa": "ˌæpənˈdɛktəmi"
+    "ipa": "ˌæpənˈdɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cholecystectomy": {
     "alias": "koh-leh-sis-TEK-toh-mee",
-    "ipa": "ˌkoʊləsɪˈstɛktəmi"
+    "ipa": "ˌkoʊləsɪˈstɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "herniorrhaphy": {
     "alias": "her-nee-OR-ah-fee",
-    "ipa": "ˌhɜːrniˈɔːrəfi"
+    "ipa": "ˌhɜːrniˈɔːrəfi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "colostomy": {
     "alias": "koh-LOS-toh-mee",
-    "ipa": "kəˈlɑːstəmi"
+    "ipa": "kəˈlɑːstəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ileostomy": {
     "alias": "il-ee-OS-toh-mee",
-    "ipa": "ˌɪliˈɑːstəmi"
+    "ipa": "ˌɪliˈɑːstəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nephrectomy": {
     "alias": "neh-FREK-toh-mee",
-    "ipa": "nəˈfrɛktəmi"
+    "ipa": "nəˈfrɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hysterectomy": {
     "alias": "his-teh-REK-toh-mee",
-    "ipa": "ˌhɪstəˈrɛktəmi"
+    "ipa": "ˌhɪstəˈrɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "mastectomy": {
     "alias": "mas-TEK-toh-mee",
-    "ipa": "mæˈstɛktəmi"
+    "ipa": "mæˈstɛktəmi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "thyroidectomy": {
     "alias": "thy-roy-DEK-toh-mee",
-    "ipa": "ˌθaɪrɔɪˈdɛktəmi"
+    "ipa": "ˌθaɪrɔɪˈdɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "parathyroidectomy": {
     "alias": "par-ah-thy-roy-DEK-toh-mee",
-    "ipa": "ˌpærəˌθaɪrɔɪˈdɛktəmi"
+    "ipa": "ˌpærəˌθaɪrɔɪˈdɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "adrenalectomy": {
     "alias": "ad-reh-nal-EK-toh-mee",
-    "ipa": "əˌdriːnəˈlɛktəmi"
+    "ipa": "əˌdriːnəˈlɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "splenectomy": {
     "alias": "spleh-NEK-toh-mee",
-    "ipa": "spliˈnɛktəmi"
+    "ipa": "spliˈnɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pancreatectomy": {
     "alias": "pan-kree-ah-TEK-toh-mee",
-    "ipa": "ˌpæŋkriəˈtɛktəmi"
+    "ipa": "ˌpæŋkriəˈtɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "esophagectomy": {
     "alias": "eh-sof-ah-JEK-toh-mee",
-    "ipa": "iːˌsɑːfəˈdʒɛktəmi"
+    "ipa": "iːˌsɑːfəˈdʒɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "gastrectomy": {
     "alias": "gas-TREK-toh-mee",
-    "ipa": "ɡæˈstrɛktəmi"
+    "ipa": "ɡæˈstrɛktəmi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "colectomy": {
     "alias": "koh-LEK-toh-mee",
-    "ipa": "kəˈlɛktəmi"
+    "ipa": "kəˈlɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "proctectomy": {
     "alias": "prok-TEK-toh-mee",
-    "ipa": "prɑːkˈtɛktəmi"
+    "ipa": "prɑːkˈtɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cystectomy": {
     "alias": "sis-TEK-toh-mee",
-    "ipa": "sɪˈstɛktəmi"
+    "ipa": "sɪˈstɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nephrostomy": {
     "alias": "neh-FROS-toh-mee",
-    "ipa": "nəˈfrɑstəmi"
+    "ipa": "nəˈfrɑstəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ureterostomy": {
     "alias": "yoo-REE-ter-OS-toh-mee",
-    "ipa": "jʊˌriːtəˈrɑstəmi"
+    "ipa": "jʊˌriːtəˈrɑstəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tracheostomy": {
     "alias": "TRAY-kee-OS-toh-mee",
-    "ipa": "ˌtreɪkiˈɑstəmi"
+    "ipa": "ˌtreɪkiˈɑstəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cricothyroidotomy": {
     "alias": "KRY-koh-thy-ROY-DOT-oh-mee",
-    "ipa": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi"
+    "ipa": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "thoracotomy": {
     "alias": "thor-ah-KOT-oh-mee",
-    "ipa": "ˌθɔːrəˈkɑtəmi"
+    "ipa": "ˌθɔːrəˈkɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sternotomy": {
     "alias": "ster-NOT-oh-mee",
-    "ipa": "stɜːrˈnɑtəmi"
+    "ipa": "stɜːrˈnɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "laparotomy": {
     "alias": "lap-ah-ROT-oh-mee",
-    "ipa": "ˌlæpəˈrɑtəmi"
+    "ipa": "ˌlæpəˈrɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "celiotomy": {
     "alias": "see-lee-OT-oh-mee",
-    "ipa": "ˌsiːliˈɑtəmi"
+    "ipa": "ˌsiːliˈɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "arthroscopy": {
     "alias": "ar-THROS-koh-pee",
-    "ipa": "ɑːrˈθrɑskəpi"
+    "ipa": "ɑːrˈθrɑskəpi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "bronchoscopy": {
     "alias": "brong-KOS-koh-pee",
-    "ipa": "brɑŋˈkɑskəpi"
+    "ipa": "brɑŋˈkɑskəpi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "colonoscopy": {
     "alias": "KOH-lon-OS-koh-pee",
-    "ipa": "ˌkoʊləˈnɑskəpi"
+    "ipa": "ˌkoʊləˈnɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "endoscopy": {
     "alias": "en-DOS-koh-pee",
-    "ipa": "ɛnˈdɑskəpi"
+    "ipa": "ɛnˈdɑskəpi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "gastroscopy": {
     "alias": "gas-TROS-koh-pee",
-    "ipa": "ɡæˈstrɑskəpi"
+    "ipa": "ɡæˈstrɑskəpi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sigmoidoscopy": {
     "alias": "sig-moy-DOS-koh-pee",
-    "ipa": "ˌsɪɡmɔɪˈdɑskəpi"
+    "ipa": "ˌsɪɡmɔɪˈdɑskəpi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cystoscopy": {
     "alias": "sis-TOS-koh-pee",
-    "ipa": "sɪˈstɑskəpi"
+    "ipa": "sɪˈstɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "colposcopy": {
     "alias": "kol-POS-koh-pee",
-    "ipa": "kɑlˈpɑskəpi"
+    "ipa": "kɑlˈpɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hysteroscopy": {
     "alias": "his-ter-OS-koh-pee",
-    "ipa": "ˌhɪstəˈrɑskəpi"
+    "ipa": "ˌhɪstəˈrɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "laparoscopy": {
     "alias": "lap-ah-ROS-koh-pee",
-    "ipa": "ˌlæpəˈrɑskəpi"
+    "ipa": "ˌlæpəˈrɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "thoracoscopy": {
     "alias": "thor-ah-KOS-koh-pee",
-    "ipa": "ˌθɔːrəˈkɑskəpi"
+    "ipa": "ˌθɔːrəˈkɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "mediastinoscopy": {
     "alias": "MEE-dee-ah-stih-NOS-koh-pee",
-    "ipa": "ˌmiːdiˌæstəˈnɑskəpi"
+    "ipa": "ˌmiːdiˌæstəˈnɑskəpi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "arthroplasty": {
     "alias": "AR-throh-plas-tee",
-    "ipa": "ˈɑːrθroʊˌplæsti"
+    "ipa": "ˈɑːrθroʊˌplæsti",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "osteotomy": {
     "alias": "os-tee-OT-oh-mee",
-    "ipa": "ˌɑːstiˈɑtəmi"
+    "ipa": "ˌɑːstiˈɑtəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "craniotomy": {
     "alias": "KRAY-nee-OT-oh-mee",
-    "ipa": "ˌkreɪniˈɑtəmi"
+    "ipa": "ˌkreɪniˈɑtəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "laminectomy": {
     "alias": "lam-ih-NEK-toh-mee",
-    "ipa": "ˌlæməˈnɛktəmi"
+    "ipa": "ˌlæməˈnɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "discectomy": {
     "alias": "dis-EK-toh-mee",
-    "ipa": "dɪˈskɛktəmi"
+    "ipa": "dɪˈskɛktəmi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rhizotomy": {
     "alias": "ry-ZOT-oh-mee",
-    "ipa": "raɪˈzɑtəmi"
+    "ipa": "raɪˈzɑtəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "neurectomy": {
     "alias": "nyoo-REK-toh-mee",
-    "ipa": "nʊˈrɛktəmi"
+    "ipa": "nʊˈrɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sympathectomy": {
     "alias": "sim-pah-THEK-toh-mee",
-    "ipa": "ˌsɪmpəˈθɛktəmi"
+    "ipa": "ˌsɪmpəˈθɛktəmi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vagotomy": {
     "alias": "vay-GOT-oh-mee",
-    "ipa": "veɪˈɡɑtəmi"
+    "ipa": "veɪˈɡɑtəmi",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "epithelium": {
     "alias": "eh-pih-THEE-lee-um",
-    "ipa": "ˌɛpəˈθiliəm"
+    "ipa": "ˌɛpəˈθiliəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "endothelium": {
     "alias": "en-doh-THEE-lee-um",
-    "ipa": "ˌɛndoʊˈθiliəm"
+    "ipa": "ˌɛndoʊˈθiliəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "mesothelium": {
     "alias": "meh-zoh-THEE-lee-um",
-    "ipa": "ˌmɛzoʊˈθiliəm"
+    "ipa": "ˌmɛzoʊˈθiliəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "stratum corneum": {
     "alias": "STRAY-tum KOR-nee-um",
-    "ipa": "ˈstreɪtəm ˈkɔrniəm"
+    "ipa": "ˈstreɪtəm ˈkɔrniəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dermis": {
     "alias": "DER-mis",
-    "ipa": "ˈdɜrmɪs"
+    "ipa": "ˈdɜrmɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "epidermis": {
     "alias": "eh-pih-DER-mis",
-    "ipa": "ˌɛpɪˈdɜrmɪs"
+    "ipa": "ˌɛpɪˈdɜrmɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypodermis": {
     "alias": "hy-poh-DER-mis",
-    "ipa": "ˌhaɪpoʊˈdɜrmɪs"
+    "ipa": "ˌhaɪpoʊˈdɜrmɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "subcutaneous": {
     "alias": "sub-kyoo-TAY-nee-us",
-    "ipa": "ˌsʌbkjuˈteɪniəs"
+    "ipa": "ˌsʌbkjuˈteɪniəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fascia": {
     "alias": "FAH-shah",
-    "ipa": "ˈfæʃiə"
+    "ipa": "ˈfæʃiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ligament": {
     "alias": "LIH-gah-ment",
-    "ipa": "ˈlɪɡəmənt"
+    "ipa": "ˈlɪɡəmənt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tendon": {
     "alias": "TEN-dun",
-    "ipa": "ˈtɛndən"
+    "ipa": "ˈtɛndən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "aponeurosis": {
     "alias": "ap-oh-noo-ROH-sis",
-    "ipa": "ˌæpənʊˈroʊsɪs"
+    "ipa": "ˌæpənʊˈroʊsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "bursa": {
     "alias": "BER-sah",
-    "ipa": "ˈbɜrsə"
+    "ipa": "ˈbɜrsə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "meniscus": {
     "alias": "meh-NIS-kus",
-    "ipa": "məˈnɪskəs"
+    "ipa": "məˈnɪskəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cartilage": {
     "alias": "KAR-tih-lij",
-    "ipa": "ˈkɑrtəlɪdʒ"
+    "ipa": "ˈkɑrtəlɪdʒ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "periosteum": {
     "alias": "per-ee-OS-tee-um",
-    "ipa": "ˌpɛriˈɑstiəm"
+    "ipa": "ˌpɛriˈɑstiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "endosteum": {
     "alias": "en-DOS-tee-um",
-    "ipa": "ɛnˈdɑstiəm"
+    "ipa": "ɛnˈdɑstiəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "diaphysis": {
     "alias": "dy-AF-ih-sis",
-    "ipa": "daɪˈæfəsɪs"
+    "ipa": "daɪˈæfəsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "epiphysis": {
     "alias": "eh-PIF-ih-sis",
-    "ipa": "ɪˈpɪfəsɪs"
+    "ipa": "ɪˈpɪfəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "metaphysis": {
     "alias": "meh-TAF-ih-sis",
-    "ipa": "məˈtæfəsɪs"
+    "ipa": "məˈtæfəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "physis": {
     "alias": "FY-sis",
-    "ipa": "ˈfɪsɪs"
+    "ipa": "ˈfɪsɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "symphysis": {
     "alias": "SIM-fih-sis",
-    "ipa": "ˈsɪmfəsɪs"
+    "ipa": "ˈsɪmfəsɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "synovium": {
     "alias": "sih-NOH-vee-um",
-    "ipa": "sɪˈnoʊviəm"
+    "ipa": "sɪˈnoʊviəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "synovia": {
     "alias": "sih-NOH-vee-ah",
-    "ipa": "sɪˈnoʊviə"
+    "ipa": "sɪˈnoʊviə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sutura": {
     "alias": "soo-TOO-rah",
-    "ipa": "suˈtʊrə"
+    "ipa": "suˈtʊrə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fontanelle": {
     "alias": "fon-tah-NEL",
-    "ipa": "ˌfɑntəˈnɛl"
+    "ipa": "ˌfɑntəˈnɛl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "myocardium": {
     "alias": "my-oh-KAR-dee-um",
-    "ipa": "ˌmaɪoʊˈkɑrdiəm"
+    "ipa": "ˌmaɪoʊˈkɑrdiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "epicardium": {
     "alias": "eh-pih-KAR-dee-um",
-    "ipa": "ˌɛpɪˈkɑrdiəm"
+    "ipa": "ˌɛpɪˈkɑrdiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pericardium": {
     "alias": "per-ih-KAR-dee-um",
-    "ipa": "ˌpɛrɪˈkɑrdiəm"
+    "ipa": "ˌpɛrɪˈkɑrdiəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "endocardium": {
     "alias": "en-doh-KAR-dee-um",
-    "ipa": "ˌɛndoʊˈkɑrdiəm"
+    "ipa": "ˌɛndoʊˈkɑrdiəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "intima": {
     "alias": "IN-tih-mah",
-    "ipa": "ˈɪntɪmə"
+    "ipa": "ˈɪntɪmə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "media": {
     "alias": "MEH-dee-ah",
-    "ipa": "ˈmiːdiə"
+    "ipa": "ˈmiːdiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "adventitia": {
     "alias": "ad-ven-TISH-ah",
-    "ipa": "ˌædvɛnˈtɪʃə"
+    "ipa": "ˌædvɛnˈtɪʃə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tunica": {
     "alias": "TOO-nih-kah",
-    "ipa": "ˈtuːnɪkə"
+    "ipa": "ˈtuːnɪkə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "parenchyma": {
     "alias": "pah-REN-kih-mah",
-    "ipa": "pəˈrɛŋkɪmə"
+    "ipa": "pəˈrɛŋkɪmə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "stroma": {
     "alias": "STROH-mah",
-    "ipa": "ˈstroʊmə"
+    "ipa": "ˈstroʊmə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "septum": {
     "alias": "SEP-tum",
-    "ipa": "ˈsɛptəm"
+    "ipa": "ˈsɛptəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "septa": {
     "alias": "SEP-tah",
-    "ipa": "ˈsɛptə"
+    "ipa": "ˈsɛptə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "trabecula": {
     "alias": "trah-BEK-yoo-lah",
-    "ipa": "trəˈbɛkjələ"
+    "ipa": "trəˈbɛkjələ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hilum": {
     "alias": "HY-lum",
-    "ipa": "ˈhaɪləm"
+    "ipa": "ˈhaɪləm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hilus": {
     "alias": "HY-lus",
-    "ipa": "ˈhaɪləs"
+    "ipa": "ˈhaɪləs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sulcus": {
     "alias": "SUL-kus",
-    "ipa": "ˈsʌlkəs"
+    "ipa": "ˈsʌlkəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "gyrus": {
     "alias": "JY-rus",
-    "ipa": "ˈdʒaɪrəs"
+    "ipa": "ˈdʒaɪrəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cortex": {
     "alias": "KOR-teks",
-    "ipa": "ˈkɔrtɛks"
+    "ipa": "ˈkɔrtɛks",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "medulla": {
     "alias": "meh-DOOL-ah",
-    "ipa": "məˈdʌlə"
+    "ipa": "məˈdʌlə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "capsule": {
     "alias": "KAP-sool",
-    "ipa": "ˈkæpsəl"
+    "ipa": "ˈkæpsəl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "lobe": {
     "alias": "LOHB",
-    "ipa": "lˈoʊb"
+    "ipa": "lˈoʊb",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "lobule": {
     "alias": "LOB-yool",
-    "ipa": "ˈlɑbjul"
+    "ipa": "ˈlɑbjul",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "acinus": {
     "alias": "AS-ih-nus",
-    "ipa": "ˈæsɪnəs"
+    "ipa": "ˈæsɪnəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "alveolus": {
     "alias": "al-VEE-oh-lus",
-    "ipa": "ælˈviələs"
+    "ipa": "ælˈviələs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "glomerulus": {
     "alias": "gloh-MER-yoo-lus",
-    "ipa": "ɡloʊˈmɛrjələs"
+    "ipa": "ɡloʊˈmɛrjələs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "nephron": {
     "alias": "NEF-ron",
-    "ipa": "ˈnɛfrɑn"
+    "ipa": "ˈnɛfrɑn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "tubule": {
     "alias": "TOOB-yool",
-    "ipa": "ˈtubjul"
+    "ipa": "ˈtubjul",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ductule": {
     "alias": "DUK-tool",
-    "ipa": "ˈdʌktʃul"
+    "ipa": "ˈdʌktʃul",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ductus": {
     "alias": "DUK-tus",
-    "ipa": "ˈdʌktəs"
+    "ipa": "ˈdʌktəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vas deferens": {
     "alias": "vas DEF-er-enz",
-    "ipa": "vˈæs dɛfərɛnz"
+    "ipa": "vˈæs dɛfərɛnz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "epididymis": {
     "alias": "ep-ih-DID-ih-mis",
-    "ipa": "ˌɛpɪˈdɪdɪmɪs"
+    "ipa": "ˌɛpɪˈdɪdɪmɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fimbria": {
     "alias": "FIM-bree-ah",
-    "ipa": "ˈfɪmbriə"
+    "ipa": "ˈfɪmbriə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "fornix": {
     "alias": "FOR-niks",
-    "ipa": "ˈfɔrnɪks"
+    "ipa": "ˈfɔrnɪks",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "mesentery": {
     "alias": "MEZ-en-ter-ee",
-    "ipa": "ˈmɛzənˌtɛri"
+    "ipa": "ˈmɛzənˌtɛri",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "omentum": {
     "alias": "oh-MEN-tum",
-    "ipa": "oʊˈmɛntəm"
+    "ipa": "oʊˈmɛntəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "peritoneum": {
     "alias": "per-ih-toh-NEE-um",
-    "ipa": "ˌpɛrɪtəˈniəm"
+    "ipa": "ˌpɛrɪtəˈniəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "retroperitoneum": {
     "alias": "REH-troh-per-ih-toh-NEE-um",
-    "ipa": "ˌrɛtroʊˌpɛrɪtəˈniəm"
+    "ipa": "ˌrɛtroʊˌpɛrɪtəˈniəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "mesocolon": {
     "alias": "MEZ-oh-KOH-lon",
-    "ipa": "ˌmɛzəˈkoʊlən"
+    "ipa": "ˌmɛzəˈkoʊlən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "haustra": {
     "alias": "HAW-strah",
-    "ipa": "ˈhɔstrə"
+    "ipa": "ˈhɔstrə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "plicae": {
     "alias": "PLY-see",
-    "ipa": "ˈplaɪsi"
+    "ipa": "ˈplaɪsi",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "rugae": {
     "alias": "ROO-jee",
-    "ipa": "ˈrudiʒi"
+    "ipa": "ˈrudiʒi",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "villi": {
     "alias": "VIL-eye",
-    "ipa": "ˈvɪlaɪ"
+    "ipa": "ˈvɪlaɪ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "microvilli": {
     "alias": "MY-kroh-VIL-eye",
-    "ipa": "ˌmaɪkroʊˈvɪlaɪ"
+    "ipa": "ˌmaɪkroʊˈvɪlaɪ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cryptae": {
     "alias": "KRIP-tee",
-    "ipa": "ˈkrɪpti"
+    "ipa": "ˈkrɪpti",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "pylorus": {
     "alias": "py-LOR-us",
-    "ipa": "paɪˈlɔrəs"
+    "ipa": "paɪˈlɔrəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cardia": {
     "alias": "KAR-dee-ah",
-    "ipa": "ˈkɑrdiə"
+    "ipa": "ˈkɑrdiə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "fundus": {
     "alias": "FUN-dus",
-    "ipa": "ˈfʌndəs"
+    "ipa": "ˈfʌndəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "antrum": {
     "alias": "AN-trum",
-    "ipa": "ˈæntrəm"
+    "ipa": "ˈæntrəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "duodenum": {
     "alias": "doo-oh-DEE-num",
-    "ipa": "ˌduəˈdinəm"
+    "ipa": "ˌduəˈdinəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "jejunum": {
     "alias": "jeh-JOO-num",
-    "ipa": "dʒəˈdʒunəm"
+    "ipa": "dʒəˈdʒunəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ileum": {
     "alias": "IL-ee-um",
-    "ipa": "ˈɪliəm"
+    "ipa": "ˈɪliəm",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cecum": {
     "alias": "SEE-kum",
-    "ipa": "ˈsikəm"
+    "ipa": "ˈsikəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vermiform": {
     "alias": "VER-mih-form",
-    "ipa": "ˈvɜrmɪfɔrm"
+    "ipa": "ˈvɜrmɪfɔrm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "appendix": {
     "alias": "ah-PEN-diks",
-    "ipa": "əˈpɛndɪks"
+    "ipa": "əˈpɛndɪks",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sigmoid": {
     "alias": "SIG-moyd",
-    "ipa": "ˈsɪɡmɔɪd"
+    "ipa": "ˈsɪɡmɔɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "rectum": {
     "alias": "REK-tum",
-    "ipa": "ˈrɛktəm"
+    "ipa": "ˈrɛktəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "anus": {
     "alias": "AY-nus",
-    "ipa": "ˈeɪnəs"
+    "ipa": "ˈeɪnəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sphincter": {
     "alias": "SFINK-ter",
-    "ipa": "ˈsfɪŋktər"
+    "ipa": "ˈsfɪŋktər",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "papilla": {
     "alias": "pah-PIL-ah",
-    "ipa": "pəˈpɪlə"
+    "ipa": "pəˈpɪlə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ampulla": {
     "alias": "am-POOL-ah",
-    "ipa": "æmˈpʊlə"
+    "ipa": "æmˈpʊlə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cholecyst": {
     "alias": "KOH-leh-sist",
-    "ipa": "ˈkoʊləsɪst"
+    "ipa": "ˈkoʊləsɪst",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "choledochus": {
     "alias": "koh-LED-oh-kus",
-    "ipa": "kəˈlɛdəkəs"
+    "ipa": "kəˈlɛdəkəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pancreas": {
     "alias": "PAN-kree-as",
-    "ipa": "ˈpæŋkriəs"
+    "ipa": "ˈpæŋkriəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "islets": {
     "alias": "EYE-lets",
-    "ipa": "ˈaɪlɪts"
+    "ipa": "ˈaɪlɪts",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "acini": {
     "alias": "AS-ih-nye",
-    "ipa": "ˈæsɪnaɪ"
+    "ipa": "ˈæsɪnaɪ",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "centrilobular": {
     "alias": "sen-trih-LOB-yoo-lar",
-    "ipa": "ˌsɛntrɪˈlɑbjələr"
+    "ipa": "ˌsɛntrɪˈlɑbjələr",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "periportal": {
     "alias": "per-ih-POR-tal",
-    "ipa": "ˌpɛrɪˈpɔrtəl"
+    "ipa": "ˌpɛrɪˈpɔrtəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sinusoids": {
     "alias": "SIN-yoo-soydz",
-    "ipa": "ˈsɪnjəsɔɪdz"
+    "ipa": "ˈsɪnjəsɔɪdz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "Kupffer": {
     "alias": "KOOP-fer",
-    "ipa": "ˈkʊfər"
+    "ipa": "ˈkʊfər",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "space of Disse": {
     "alias": "spays of DIS",
-    "ipa": "spˈeɪs əv dɪs"
+    "ipa": "spˈeɪs əv dɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "canaliculi": {
     "alias": "kan-ah-LIK-yoo-lye",
-    "ipa": "ˌkænəˈlɪkjəlaɪ"
+    "ipa": "ˌkænəˈlɪkjəlaɪ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "falciform": {
     "alias": "FAL-sih-form",
-    "ipa": "ˈfælsɪfɔrm"
+    "ipa": "ˈfælsɪfɔrm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "ligamentum teres": {
     "alias": "lig-ah-MEN-tum TER-eez",
-    "ipa": "ˌlɪɡəˈmɛntəm ˈtɛriz"
+    "ipa": "ˌlɪɡəˈmɛntəm ˈtɛriz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ligamentum venosum": {
     "alias": "lig-ah-MEN-tum veh-NOH-sum",
-    "ipa": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm"
+    "ipa": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "porta hepatis": {
     "alias": "POR-tah heh-PAT-is",
-    "ipa": "ˈpɔrtə ˈhɛpətɪs"
+    "ipa": "ˈpɔrtə ˈhɛpətɪs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "coronary": {
     "alias": "KOR-ah-nair-ee",
-    "ipa": "ˈkɔrənɛri"
+    "ipa": "ˈkɔrənɛri",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "circumflex": {
     "alias": "SER-kum-fleks",
-    "ipa": "ˈsɜrkəmflɛks"
+    "ipa": "ˈsɜrkəmflɛks",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "interventricular": {
     "alias": "in-ter-ven-TRIK-yoo-lar",
-    "ipa": "ˌɪntərvɛnˈtrɪkjələr"
+    "ipa": "ˌɪntərvɛnˈtrɪkjələr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "interventricular septum": {
     "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum",
-    "ipa": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm"
+    "ipa": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "papillary muscle": {
     "alias": "PAP-ih-lair-ee MUS-el",
-    "ipa": "ˈpæpɪlɛri ˈmʌsəl"
+    "ipa": "ˈpæpɪlɛri ˈmʌsəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "chordae tendineae": {
     "alias": "KOR-dee ten-DIN-ee-ee",
-    "ipa": "ˈkɔrdi tɛnˈdɪnii"
+    "ipa": "ˈkɔrdi tɛnˈdɪnii",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "leaflet": {
     "alias": "LEEF-let",
-    "ipa": "ˈlifət"
+    "ipa": "ˈlifət",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "semilunar": {
     "alias": "sem-ee-LOO-nar",
-    "ipa": "ˌsɛmiˈlunər"
+    "ipa": "ˌsɛmiˈlunər",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "atrioventricular": {
     "alias": "ay-tree-oh-ven-TRIK-yoo-lar",
-    "ipa": "ˌeɪtrioʊvɛnˈtrɪkjələr"
+    "ipa": "ˌeɪtrioʊvɛnˈtrɪkjələr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ventricular": {
     "alias": "ven-TRIK-yoo-lar",
-    "ipa": "vɛnˈtrɪkjələr"
+    "ipa": "vɛnˈtrɪkjələr",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "sinoatrial": {
     "alias": "sigh-noh-AY-tree-al",
-    "ipa": "ˌsaɪnoʊˈeɪtriəl"
+    "ipa": "ˌsaɪnoʊˈeɪtriəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "coronary sinus": {
     "alias": "KOR-ah-nair-ee SIGH-nus",
-    "ipa": "ˈkɔrənɛri ˈsaɪnəs"
+    "ipa": "ˈkɔrənɛri ˈsaɪnəs",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "vena cava": {
     "alias": "VEE-nah KAY-vah",
-    "ipa": "ˈvinə ˈkeɪvə"
+    "ipa": "ˈvinə ˈkeɪvə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "pulmonary trunk": {
     "alias": "PUL-mah-nair-ee trunk",
-    "ipa": "ˈpʊlmənɛri trʌŋk"
+    "ipa": "ˈpʊlmənɛri trʌŋk",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "aorta": {
     "alias": "ay-OR-tah",
-    "ipa": "eɪˈɔrtə"
+    "ipa": "eɪˈɔrtə",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "carotid": {
     "alias": "kah-ROT-id",
-    "ipa": "kəˈrɑtɪd"
+    "ipa": "kəˈrɑtɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "subclavian": {
     "alias": "sub-KLAY-vee-an",
-    "ipa": "sʌbˈkleɪviən"
+    "ipa": "sʌbˈkleɪviən",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vertebral": {
     "alias": "VER-teh-bral",
-    "ipa": "ˈvɝːtəbrəl"
+    "ipa": "ˈvɝːtəbrəl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "basilar": {
     "alias": "BAS-ih-lar",
-    "ipa": "ˈbæsɪlɚ"
+    "ipa": "ˈbæsɪlɚ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "circle of Willis": {
     "alias": "SER-kul of WIL-is",
-    "ipa": "ˈsɝːkəl əv ˈwɪlɪs"
+    "ipa": "ˈsɝːkəl əv ˈwɪlɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "meninges": {
     "alias": "men-IN-jeez",
-    "ipa": "məˈnɪndʒiːz"
+    "ipa": "məˈnɪndʒiːz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "dura mater": {
     "alias": "DUR-ah MAH-ter",
-    "ipa": "ˈdʊrə ˈmeɪtɚ"
+    "ipa": "ˈdʊrə ˈmeɪtɚ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "arachnoid": {
     "alias": "ah-RAK-noyd",
-    "ipa": "əˈræknɔɪd"
+    "ipa": "əˈræknɔɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "pia mater": {
     "alias": "PEE-ah MAH-ter",
-    "ipa": "ˈpiːə ˈmeɪtɚ"
+    "ipa": "ˈpiːə ˈmeɪtɚ",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "subdural": {
     "alias": "sub-DUR-al",
-    "ipa": "sʌbˈdʊrəl"
+    "ipa": "sʌbˈdʊrəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "subarachnoid": {
     "alias": "sub-ah-RAK-noyd",
-    "ipa": "ˌsʌbəˈræknɔɪd"
+    "ipa": "ˌsʌbəˈræknɔɪd",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "epidural": {
     "alias": "ep-ih-DUR-al",
-    "ipa": "ˌɛpɪˈdʊrəl"
+    "ipa": "ˌɛpɪˈdʊrəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ventricles": {
     "alias": "VEN-trih-kulz",
-    "ipa": "ˈvɛntrɪkəlz"
+    "ipa": "ˈvɛntrɪkəlz",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "foramina": {
     "alias": "fo-RAM-ih-nah",
-    "ipa": "fəˈræmɪnə"
+    "ipa": "fəˈræmɪnə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "aqueduct": {
     "alias": "AK-weh-dukt",
-    "ipa": "ˈækwɪdʌkt"
+    "ipa": "ˈækwɪdʌkt",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "choroid plexus": {
     "alias": "KOR-oyd PLEK-sus",
-    "ipa": "ˈkɔːrɔɪd ˈplɛksəs"
+    "ipa": "ˈkɔːrɔɪd ˈplɛksəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "cauda equina": {
     "alias": "KAW-dah eh-KWY-nah",
-    "ipa": "ˈkɔːdə ɪˈkwaɪnə"
+    "ipa": "ˈkɔːdə ɪˈkwaɪnə",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "filum terminale": {
     "alias": "FY-lum ter-mih-NAH-lee",
-    "ipa": "ˈfaɪləm ˌtɝːmɪˈnɑːli"
+    "ipa": "ˈfaɪləm ˌtɝːmɪˈnɑːli",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "conus medullaris": {
     "alias": "KOH-nus med-yoo-LAR-is",
-    "ipa": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs"
+    "ipa": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "dorsal root": {
     "alias": "DOR-sal ROOT",
-    "ipa": "ˈdɔːrsəl ruːt"
+    "ipa": "ˈdɔːrsəl ruːt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ventral root": {
     "alias": "VEN-tral ROOT",
-    "ipa": "ˈvɛntrəl ruːt"
+    "ipa": "ˈvɛntrəl ruːt",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "ganglion": {
     "alias": "GANG-glee-on",
-    "ipa": "ˈɡæŋɡliən"
+    "ipa": "ˈɡæŋɡliən",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "plexus": {
     "alias": "PLEK-sus",
-    "ipa": "ˈplɛksəs"
+    "ipa": "ˈplɛksəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "phrenic": {
     "alias": "FREN-ik",
-    "ipa": "ˈfrɛnɪk"
+    "ipa": "ˈfrɛnɪk",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "vagus": {
     "alias": "VAY-gus",
-    "ipa": "ˈveɪɡəs"
+    "ipa": "ˈveɪɡəs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "recurrent laryngeal": {
     "alias": "ree-KUR-ent lar-IN-jee-al",
-    "ipa": "rɪˈkɝːənt ləˈrɪndʒiəl"
+    "ipa": "rɪˈkɝːənt ləˈrɪndʒiəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "facial": {
     "alias": "FAY-shal",
-    "ipa": "ˈfeɪʃəl"
+    "ipa": "ˈfeɪʃəl",
+    "telnyx_naturalhd_verdict": "HELPS"
   },
   "vestibulocochlear": {
     "alias": "ves-TIB-yoo-loh-KOK-lee-ar",
-    "ipa": "vɛsˌtɪbjəloʊˈkoʊkliɚ"
+    "ipa": "vɛsˌtɪbjəloʊˈkoʊkliɚ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "glossopharyngeal": {
     "alias": "GLOS-oh-fah-RIN-jee-al",
-    "ipa": "ˌɡlɑːsoʊfəˈrɪndʒiəl"
+    "ipa": "ˌɡlɑːsoʊfəˈrɪndʒiəl",
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "hypoglossal": {
     "alias": "HY-poh-GLOS-al",
-    "ipa": "ˌhaɪpəˈɡlɑːsəl"
+    "ipa": "ˌhaɪpəˈɡlɑːsəl",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "accessory": {
     "alias": "ak-SES-oh-ree",
-    "ipa": "əkˈsɛsəri"
+    "ipa": "əkˈsɛsəri",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "oculomotor": {
     "alias": "OK-yoo-loh-MOH-tor",
-    "ipa": "ˌɑːkjəloʊˈmoʊtɚ"
+    "ipa": "ˌɑːkjəloʊˈmoʊtɚ",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "trochlear": {
     "alias": "TROK-lee-ar",
-    "ipa": "ˈtroʊkliər"
+    "ipa": "ˈtroʊkliər",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "abducens": {
     "alias": "ab-DOO-senz",
-    "ipa": "æbˈdjuːsənz"
+    "ipa": "æbˈdjuːsənz",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "angina": {
     "alias": "angina",
-    "ipa": "ænˈdʒaɪnə"
+    "ipa": "ænˈdʒaɪnə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "epinephrine": {
     "alias": "epinephrine",
-    "ipa": "ˌɛpɪˈnɛfrɪn"
+    "ipa": "ˌɛpɪˈnɛfrɪn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "naloxone": {
     "alias": "naloxone",
-    "ipa": "nəˈlɑksoʊn"
+    "ipa": "nəˈlɑksoʊn",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "hyperlipidemia": {
     "alias": "hyperlipidemia",
-    "ipa": "ˌhaɪpərlɪˈpɪmiə"
+    "ipa": "ˌhaɪpərlɪˈpɪmiə",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "osteoarthritis": {
     "alias": "osteoarthritis",
-    "ipa": "ˌɑstioʊɑrˈθraɪtɪs"
+    "ipa": "ˌɑstioʊɑrˈθraɪtɪs",
+    "telnyx_naturalhd_verdict": "WASH"
   },
   "diabetes mellitus": {
     "alias": "diabetes mellitus",
-    "ipa": "ˌdaɪəˈbitɪz ˈmɛlɪtəs"
+    "ipa": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
+    "telnyx_naturalhd_verdict": "WASH"
   }
 }
