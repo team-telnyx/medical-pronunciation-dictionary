@@ -115,9 +115,22 @@ def prune(out_dir: Path, pattern: str, keep: list[Path]) -> None:
 # ---------------------------------------------------------------------------
 
 def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
-    """One JSON file per CHUNK_SIZE entries. One phoneme entry per term
-    (Telnyx API rejects duplicate text entries, and phoneme is more
-    precise than alias for providers that support IPA)."""
+    """One JSON file per CHUNK_SIZE entries, one ALIAS entry per term.
+
+    Two constraints drive this shape:
+
+    1. The Telnyx API rejects duplicate `text` entries within a dictionary,
+       so each term gets exactly one rule, not an alias and a phoneme.
+    2. Telnyx TTS does not interpret `type: "phoneme"` entries. It reads the
+       IPA string as characters rather than applying it. Verified against
+       Telnyx.NaturalHD.astra with a textbook case: mapping "tomato" to
+       /təˈmeɪtoʊ/ renders as "tee me me to ours". On Telnyx.KokoroTTS.af the
+       same entry is spoken as the literal Unicode names ("schwa second stress
+       M letter 251 ..."). Alias entries are applied correctly.
+
+    So Telnyx gets aliases. The IPA is still exported for providers that do
+    support phonemes; see write_pls and write_retell.
+    """
     out_dir.mkdir(parents=True, exist_ok=True)
     files: list[Path] = []
     for idx, batch in enumerate(chunked(terms, CHUNK_SIZE), start=1):
@@ -125,9 +138,8 @@ def write_telnyx(terms: list[dict], out_dir: Path) -> list[Path]:
         items = [
             {
                 "text": item["text"],
-                "type": "phoneme",
-                "phoneme": item["ipa"],
-                "alphabet": "ipa",
+                "type": "alias",
+                "alias": item["alias"],
             }
             for item in batch
         ]

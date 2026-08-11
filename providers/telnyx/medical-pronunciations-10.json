@@ -3,399 +3,333 @@
   "items": [
     {
       "text": "acini",
-      "type": "phoneme",
-      "phoneme": "ˈæsɪnaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AS-ih-nye"
     },
     {
       "text": "centrilobular",
-      "type": "phoneme",
-      "phoneme": "ˌsɛntrɪˈlɑbjələr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sen-trih-LOB-yoo-lar"
     },
     {
       "text": "periportal",
-      "type": "phoneme",
-      "phoneme": "ˌpɛrɪˈpɔrtəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per-ih-POR-tal"
     },
     {
       "text": "sinusoids",
-      "type": "phoneme",
-      "phoneme": "ˈsɪnjəsɔɪdz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SIN-yoo-soydz"
     },
     {
       "text": "Kupffer",
-      "type": "phoneme",
-      "phoneme": "ˈkʊfər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOOP-fer"
     },
     {
       "text": "space of Disse",
-      "type": "phoneme",
-      "phoneme": "spˈeɪs əv dɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "spays of DIS"
     },
     {
       "text": "canaliculi",
-      "type": "phoneme",
-      "phoneme": "ˌkænəˈlɪkjəlaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kan-ah-LIK-yoo-lye"
     },
     {
       "text": "falciform",
-      "type": "phoneme",
-      "phoneme": "ˈfælsɪfɔrm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FAL-sih-form"
     },
     {
       "text": "ligamentum teres",
-      "type": "phoneme",
-      "phoneme": "ˌlɪɡəˈmɛntəm ˈtɛriz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lig-ah-MEN-tum TER-eez"
     },
     {
       "text": "ligamentum venosum",
-      "type": "phoneme",
-      "phoneme": "ˌlɪɡəˈmɛntəm vɪˈnoʊsəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lig-ah-MEN-tum veh-NOH-sum"
     },
     {
       "text": "porta hepatis",
-      "type": "phoneme",
-      "phoneme": "ˈpɔrtə ˈhɛpətɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "POR-tah heh-PAT-is"
     },
     {
       "text": "coronary",
-      "type": "phoneme",
-      "phoneme": "ˈkɔrənɛri",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOR-ah-nair-ee"
     },
     {
       "text": "circumflex",
-      "type": "phoneme",
-      "phoneme": "ˈsɜrkəmflɛks",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SER-kum-fleks"
     },
     {
       "text": "interventricular",
-      "type": "phoneme",
-      "phoneme": "ˌɪntərvɛnˈtrɪkjələr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "in-ter-ven-TRIK-yoo-lar"
     },
     {
       "text": "interventricular septum",
-      "type": "phoneme",
-      "phoneme": "ˌɪntərvɛnˈtrɪkjələr ˈsɛptəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
     },
     {
       "text": "papillary muscle",
-      "type": "phoneme",
-      "phoneme": "ˈpæpɪlɛri ˈmʌsəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PAP-ih-lair-ee MUS-el"
     },
     {
       "text": "chordae tendineae",
-      "type": "phoneme",
-      "phoneme": "ˈkɔrdi tɛnˈdɪnii",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOR-dee ten-DIN-ee-ee"
     },
     {
       "text": "leaflet",
-      "type": "phoneme",
-      "phoneme": "ˈlifət",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "LEEF-let"
     },
     {
       "text": "semilunar",
-      "type": "phoneme",
-      "phoneme": "ˌsɛmiˈlunər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sem-ee-LOO-nar"
     },
     {
       "text": "atrioventricular",
-      "type": "phoneme",
-      "phoneme": "ˌeɪtrioʊvɛnˈtrɪkjələr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ay-tree-oh-ven-TRIK-yoo-lar"
     },
     {
       "text": "ventricular",
-      "type": "phoneme",
-      "phoneme": "vɛnˈtrɪkjələr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ven-TRIK-yoo-lar"
     },
     {
       "text": "sinoatrial",
-      "type": "phoneme",
-      "phoneme": "ˌsaɪnoʊˈeɪtriəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sigh-noh-AY-tree-al"
     },
     {
       "text": "coronary sinus",
-      "type": "phoneme",
-      "phoneme": "ˈkɔrənɛri ˈsaɪnəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOR-ah-nair-ee SIGH-nus"
     },
     {
       "text": "vena cava",
-      "type": "phoneme",
-      "phoneme": "ˈvinə ˈkeɪvə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VEE-nah KAY-vah"
     },
     {
       "text": "pulmonary trunk",
-      "type": "phoneme",
-      "phoneme": "ˈpʊlmənɛri trʌŋk",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PUL-mah-nair-ee trunk"
     },
     {
       "text": "aorta",
-      "type": "phoneme",
-      "phoneme": "eɪˈɔrtə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ay-OR-tah"
     },
     {
       "text": "carotid",
-      "type": "phoneme",
-      "phoneme": "kəˈrɑtɪd",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kah-ROT-id"
     },
     {
       "text": "subclavian",
-      "type": "phoneme",
-      "phoneme": "sʌbˈkleɪviən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sub-KLAY-vee-an"
     },
     {
       "text": "vertebral",
-      "type": "phoneme",
-      "phoneme": "ˈvɝːtəbrəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VER-teh-bral"
     },
     {
       "text": "basilar",
-      "type": "phoneme",
-      "phoneme": "ˈbæsɪlɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "BAS-ih-lar"
     },
     {
       "text": "circle of Willis",
-      "type": "phoneme",
-      "phoneme": "ˈsɝːkəl əv ˈwɪlɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SER-kul of WIL-is"
     },
     {
       "text": "meninges",
-      "type": "phoneme",
-      "phoneme": "məˈnɪndʒiːz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "men-IN-jeez"
     },
     {
       "text": "dura mater",
-      "type": "phoneme",
-      "phoneme": "ˈdʊrə ˈmeɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "DUR-ah MAH-ter"
     },
     {
       "text": "arachnoid",
-      "type": "phoneme",
-      "phoneme": "əˈræknɔɪd",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ah-RAK-noyd"
     },
     {
       "text": "pia mater",
-      "type": "phoneme",
-      "phoneme": "ˈpiːə ˈmeɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PEE-ah MAH-ter"
     },
     {
       "text": "subdural",
-      "type": "phoneme",
-      "phoneme": "sʌbˈdʊrəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sub-DUR-al"
     },
     {
       "text": "subarachnoid",
-      "type": "phoneme",
-      "phoneme": "ˌsʌbəˈræknɔɪd",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sub-ah-RAK-noyd"
     },
     {
       "text": "epidural",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈdʊrəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ep-ih-DUR-al"
     },
     {
       "text": "ventricles",
-      "type": "phoneme",
-      "phoneme": "ˈvɛntrɪkəlz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VEN-trih-kulz"
     },
     {
       "text": "foramina",
-      "type": "phoneme",
-      "phoneme": "fəˈræmɪnə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "fo-RAM-ih-nah"
     },
     {
       "text": "aqueduct",
-      "type": "phoneme",
-      "phoneme": "ˈækwɪdʌkt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AK-weh-dukt"
     },
     {
       "text": "choroid plexus",
-      "type": "phoneme",
-      "phoneme": "ˈkɔːrɔɪd ˈplɛksəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOR-oyd PLEK-sus"
     },
     {
       "text": "cauda equina",
-      "type": "phoneme",
-      "phoneme": "ˈkɔːdə ɪˈkwaɪnə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KAW-dah eh-KWY-nah"
     },
     {
       "text": "filum terminale",
-      "type": "phoneme",
-      "phoneme": "ˈfaɪləm ˌtɝːmɪˈnɑːli",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FY-lum ter-mih-NAH-lee"
     },
     {
       "text": "conus medullaris",
-      "type": "phoneme",
-      "phoneme": "ˈkoʊnəs ˌmɛdʒəˈlɛrɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOH-nus med-yoo-LAR-is"
     },
     {
       "text": "dorsal root",
-      "type": "phoneme",
-      "phoneme": "ˈdɔːrsəl ruːt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "DOR-sal ROOT"
     },
     {
       "text": "ventral root",
-      "type": "phoneme",
-      "phoneme": "ˈvɛntrəl ruːt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VEN-tral ROOT"
     },
     {
       "text": "ganglion",
-      "type": "phoneme",
-      "phoneme": "ˈɡæŋɡliən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "GANG-glee-on"
     },
     {
       "text": "plexus",
-      "type": "phoneme",
-      "phoneme": "ˈplɛksəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PLEK-sus"
     },
     {
       "text": "phrenic",
-      "type": "phoneme",
-      "phoneme": "ˈfrɛnɪk",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FREN-ik"
     },
     {
       "text": "vagus",
-      "type": "phoneme",
-      "phoneme": "ˈveɪɡəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VAY-gus"
     },
     {
       "text": "recurrent laryngeal",
-      "type": "phoneme",
-      "phoneme": "rɪˈkɝːənt ləˈrɪndʒiəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ree-KUR-ent lar-IN-jee-al"
     },
     {
       "text": "facial",
-      "type": "phoneme",
-      "phoneme": "ˈfeɪʃəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FAY-shal"
     },
     {
       "text": "vestibulocochlear",
-      "type": "phoneme",
-      "phoneme": "vɛsˌtɪbjəloʊˈkoʊkliɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ves-TIB-yoo-loh-KOK-lee-ar"
     },
     {
       "text": "glossopharyngeal",
-      "type": "phoneme",
-      "phoneme": "ˌɡlɑːsoʊfəˈrɪndʒiəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "GLOS-oh-fah-RIN-jee-al"
     },
     {
       "text": "hypoglossal",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpəˈɡlɑːsəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "HY-poh-GLOS-al"
     },
     {
       "text": "accessory",
-      "type": "phoneme",
-      "phoneme": "əkˈsɛsəri",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ak-SES-oh-ree"
     },
     {
       "text": "oculomotor",
-      "type": "phoneme",
-      "phoneme": "ˌɑːkjəloʊˈmoʊtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "OK-yoo-loh-MOH-tor"
     },
     {
       "text": "trochlear",
-      "type": "phoneme",
-      "phoneme": "ˈtroʊkliər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "TROK-lee-ar"
     },
     {
       "text": "abducens",
-      "type": "phoneme",
-      "phoneme": "æbˈdjuːsənz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ab-DOO-senz"
     },
     {
       "text": "angina",
-      "type": "phoneme",
-      "phoneme": "ænˈdʒaɪnə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "angina"
     },
     {
       "text": "epinephrine",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈnɛfrɪn",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "epinephrine"
     },
     {
       "text": "naloxone",
-      "type": "phoneme",
-      "phoneme": "nəˈlɑksoʊn",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "naloxone"
     },
     {
       "text": "hyperlipidemia",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpərlɪˈpɪmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hyperlipidemia"
     },
     {
       "text": "osteoarthritis",
-      "type": "phoneme",
-      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "osteoarthritis"
     },
     {
       "text": "diabetes mellitus",
-      "type": "phoneme",
-      "phoneme": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "diabetes mellitus"
     }
   ]
 }

@@ -21,7 +21,9 @@ python3 import_to_telnyx.py --dry-run   # preview
 python3 import_to_telnyx.py             # create
 ```
 
-Reads `providers/telnyx/` and creates 10 pronunciation dictionaries in your Telnyx account, 966 IPA phoneme entries total. Telnyx caps dictionaries at 100 items and rejects duplicate text entries, so the pack uses one phoneme entry per term.
+Reads `providers/telnyx/` and creates 10 pronunciation dictionaries in your Telnyx account, 966 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
+
+Telnyx TTS applies alias entries but does not interpret IPA phoneme entries, so the Telnyx pack is alias-only. See [Which format each provider gets](#which-format-each-provider-gets).
 
 ### Telnyx Portal
 
@@ -75,15 +77,28 @@ Repeat for files 02 through 10.
 
 **Alias** (plain-text phonetic respelling like `a-TOR-va-STAT-in`) works across every TTS provider. **IPA** (like `əˌtɔr.vəˈstæ.tɪn`) is more precise but only supported by some providers.
 
-`data/terms_master.json` carries both for every term. The converter then emits whichever the provider actually supports: phoneme entries for Telnyx, Vapi, Polly, and Retell, alias plus phoneme for ElevenLabs, alias only for the legacy `pls/` and `txt/` exports, and both columns for `providers/generic/`.
+`data/terms_master.json` carries both for every term, and the converter emits whichever format the provider actually applies.
+
+### Which format each provider gets
+
+| Provider | Emitted | Why |
+|----------|---------|-----|
+| Telnyx | alias | Telnyx TTS does not interpret IPA phoneme entries. Verified on `Telnyx.NaturalHD.astra`: a dictionary mapping `tomato` to `/təˈmeɪtoʊ/` renders as "tee me me to ours". On `Telnyx.KokoroTTS.af` the same entry is spoken as literal Unicode character names. Alias entries are applied correctly. |
+| ElevenLabs | alias + phoneme | PLS supports both per lexeme |
+| Amazon Polly | phoneme | Polly lexicons are IPA-based |
+| Vapi | phoneme (`<<ipa>>`) | Vapi's documented syntax. Not independently verified. |
+| Retell | phoneme | Retell's documented word/phoneme format. Not independently verified. |
+| Generic | both | the consumer decides |
 
 Telnyx, Vapi, and Retell reject duplicate entries for the same word, so those get one rule per term rather than a competing alias and phoneme pair.
+
+The Telnyx TTS request field is `pronunciation_dict_id`, singular, a string. The plural spellings are accepted with HTTP 200 and silently ignored.
 
 ## Provider support
 
 | Provider | Format | Alias | IPA | Files |
 |----------|--------|-------|-----|-------|
-| Telnyx | JSON items | No | Yes | `providers/telnyx/` (10 JSON, 100 phoneme entries each) |
+| Telnyx | JSON items | Yes | No | `providers/telnyx/` (10 JSON, 100 alias entries each) |
 | Telnyx | PLS XML | Yes | Yes | `pls/` (11 PLS, alias-only legacy format) |
 | ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS, alias + phoneme per lexeme) |
 | Vapi | JSON | No | Yes | `providers/vapi/` (1 JSON, 966 `<<ipa>>` entries) |
@@ -109,11 +124,11 @@ medical-pronunciation-dictionary/
 ├── data/
 │   ├── terms_master.json                # Source of truth: 966 terms with alias + IPA
 │   └── audio/
-│       ├── before/                      # 10 MP3 samples without dictionary
-│       ├── after/                       # 10 MP3 samples with alias applied
+│       ├── before/                      # 6 MP3 samples, no dictionary attached
+│       ├── after/                       # 6 MP3 samples, dictionary attached
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
-│   ├── telnyx/                          # 10 JSON files (100 phoneme entries each)
+│   ├── telnyx/                          # 10 JSON files (100 alias entries each)
 │   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
 │   ├── vapi/                            # 1 JSON file (<<ipa>> per term)
 │   ├── amazon-polly/                    # 10 PLS XML files (IPA only, en-US)
@@ -137,20 +152,20 @@ medical-pronunciation-dictionary/
 
 ## Audio samples
 
-10 before/after pairs generated with Telnyx NaturalHD voice (astra). Each pair shows the same sentence spoken with and without the alias applied. Clone the repo and open the MP3s from `data/audio/before/` and `data/audio/after/`.
+6 before/after pairs generated with the Telnyx NaturalHD voice (astra) by `src/generate_audio_samples.py`.
 
-| Term | Alias | Before | After |
-|------|-------|--------|-------|
-| atorvastatin | a-TOR-va-STAT-in | `data/audio/before/atorvastatin_before.mp3` | `data/audio/after/atorvastatin_after.mp3` |
-| omeprazole | oh-MEP-rah-zole | `data/audio/before/omeprazole_before.mp3` | `data/audio/after/omeprazole_after.mp3` |
-| amoxicillin | ah-MOX-i-sil-in | `data/audio/before/amoxicillin_before.mp3` | `data/audio/after/amoxicillin_after.mp3` |
-| metformin | met-FOR-min | `data/audio/before/metformin_before.mp3` | `data/audio/after/metformin_after.mp3` |
-| myocardial infarction | my-oh-KAR-dee-al in-FARK-shun | `data/audio/before/myocardial_infarction_before.mp3` | `data/audio/after/myocardial_infarction_after.mp3` |
-| cholecystectomy | koh-leh-sis-TEK-toh-mee | `data/audio/before/cholecystectomy_before.mp3` | `data/audio/after/cholecystectomy_after.mp3` |
-| cholecystitis | ko-luh-sis-TYE-tis | `data/audio/before/cholecystitis_before.mp3` | `data/audio/after/cholecystitis_after.mp3` |
-| MI | myocardial infarction | `data/audio/before/MI_before.mp3` | `data/audio/after/MI_after.mp3` |
-| COPD | chronic obstructive pulmonary disease | `data/audio/before/COPD_before.mp3` | `data/audio/after/COPD_after.mp3` |
-| epithelium | eh-pih-THEE-lee-um | `data/audio/before/epithelium_before.mp3` | `data/audio/after/epithelium_after.mp3` |
+Both clips in a pair use the **identical sentence text**. The only difference is whether a real Telnyx pronunciation dictionary is attached to the request via `pronunciation_dict_id`. Clone the repo and open the MP3s from `data/audio/before/` and `data/audio/after/`.
+
+These six are terms where attaching the dictionary makes an audible difference. Plenty of medical terms are already pronounced correctly by the engine, and a before/after pair that sounds identical demonstrates nothing, so they are not included here.
+
+| Term | Without dictionary | Alias applied | Files |
+|------|--------------------|---------------|-------|
+| MI | heard as "me" | `myocardial infarction` | [before](data/audio/before/MI_before.mp3) / [after](data/audio/after/MI_after.mp3) |
+| CHF | clipped mid-word | `congestive heart failure` | [before](data/audio/before/CHF_before.mp3) / [after](data/audio/after/CHF_after.mp3) |
+| COPD | dropped entirely | `chronic obstructive pulmonary disease` | [before](data/audio/before/COPD_before.mp3) / [after](data/audio/after/COPD_after.mp3) |
+| DVT | spelled out letter by letter | `deep vein thrombosis` | [before](data/audio/before/DVT_before.mp3) / [after](data/audio/after/DVT_after.mp3) |
+| ceftriaxone | heard as "sef-CHAX-one" | `sef-try-AX-one` | [before](data/audio/before/ceftriaxone_before.mp3) / [after](data/audio/after/ceftriaxone_after.mp3) |
+| furosemide | heard as "FOR-us my-dis" | `fur-OH-se-mide` | [before](data/audio/before/furosemide_before.mp3) / [after](data/audio/after/furosemide_after.mp3) |
 
 ## Adding custom terms
 

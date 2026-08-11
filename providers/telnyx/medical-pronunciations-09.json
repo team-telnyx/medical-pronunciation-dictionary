@@ -3,603 +3,503 @@
   "items": [
     {
       "text": "mediastinoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌmiːdiˌæstəˈnɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MEE-dee-ah-stih-NOS-koh-pee"
     },
     {
       "text": "arthroplasty",
-      "type": "phoneme",
-      "phoneme": "ˈɑːrθroʊˌplæsti",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AR-throh-plas-tee"
     },
     {
       "text": "osteotomy",
-      "type": "phoneme",
-      "phoneme": "ˌɑːstiˈɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "os-tee-OT-oh-mee"
     },
     {
       "text": "craniotomy",
-      "type": "phoneme",
-      "phoneme": "ˌkreɪniˈɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KRAY-nee-OT-oh-mee"
     },
     {
       "text": "laminectomy",
-      "type": "phoneme",
-      "phoneme": "ˌlæməˈnɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lam-ih-NEK-toh-mee"
     },
     {
       "text": "discectomy",
-      "type": "phoneme",
-      "phoneme": "dɪˈskɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "dis-EK-toh-mee"
     },
     {
       "text": "rhizotomy",
-      "type": "phoneme",
-      "phoneme": "raɪˈzɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ry-ZOT-oh-mee"
     },
     {
       "text": "neurectomy",
-      "type": "phoneme",
-      "phoneme": "nʊˈrɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "nyoo-REK-toh-mee"
     },
     {
       "text": "sympathectomy",
-      "type": "phoneme",
-      "phoneme": "ˌsɪmpəˈθɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sim-pah-THEK-toh-mee"
     },
     {
       "text": "vagotomy",
-      "type": "phoneme",
-      "phoneme": "veɪˈɡɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "vay-GOT-oh-mee"
     },
     {
       "text": "epithelium",
-      "type": "phoneme",
-      "phoneme": "ˌɛpəˈθiliəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eh-pih-THEE-lee-um"
     },
     {
       "text": "endothelium",
-      "type": "phoneme",
-      "phoneme": "ˌɛndoʊˈθiliəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "en-doh-THEE-lee-um"
     },
     {
       "text": "mesothelium",
-      "type": "phoneme",
-      "phoneme": "ˌmɛzoʊˈθiliəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "meh-zoh-THEE-lee-um"
     },
     {
       "text": "stratum corneum",
-      "type": "phoneme",
-      "phoneme": "ˈstreɪtəm ˈkɔrniəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "STRAY-tum KOR-nee-um"
     },
     {
       "text": "dermis",
-      "type": "phoneme",
-      "phoneme": "ˈdɜrmɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "DER-mis"
     },
     {
       "text": "epidermis",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈdɜrmɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eh-pih-DER-mis"
     },
     {
       "text": "hypodermis",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpoʊˈdɜrmɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hy-poh-DER-mis"
     },
     {
       "text": "subcutaneous",
-      "type": "phoneme",
-      "phoneme": "ˌsʌbkjuˈteɪniəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sub-kyoo-TAY-nee-us"
     },
     {
       "text": "fascia",
-      "type": "phoneme",
-      "phoneme": "ˈfæʃiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FAH-shah"
     },
     {
       "text": "ligament",
-      "type": "phoneme",
-      "phoneme": "ˈlɪɡəmənt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "LIH-gah-ment"
     },
     {
       "text": "tendon",
-      "type": "phoneme",
-      "phoneme": "ˈtɛndən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "TEN-dun"
     },
     {
       "text": "aponeurosis",
-      "type": "phoneme",
-      "phoneme": "ˌæpənʊˈroʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ap-oh-noo-ROH-sis"
     },
     {
       "text": "bursa",
-      "type": "phoneme",
-      "phoneme": "ˈbɜrsə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "BER-sah"
     },
     {
       "text": "meniscus",
-      "type": "phoneme",
-      "phoneme": "məˈnɪskəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "meh-NIS-kus"
     },
     {
       "text": "cartilage",
-      "type": "phoneme",
-      "phoneme": "ˈkɑrtəlɪdʒ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KAR-tih-lij"
     },
     {
       "text": "periosteum",
-      "type": "phoneme",
-      "phoneme": "ˌpɛriˈɑstiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per-ee-OS-tee-um"
     },
     {
       "text": "endosteum",
-      "type": "phoneme",
-      "phoneme": "ɛnˈdɑstiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "en-DOS-tee-um"
     },
     {
       "text": "diaphysis",
-      "type": "phoneme",
-      "phoneme": "daɪˈæfəsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "dy-AF-ih-sis"
     },
     {
       "text": "epiphysis",
-      "type": "phoneme",
-      "phoneme": "ɪˈpɪfəsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eh-PIF-ih-sis"
     },
     {
       "text": "metaphysis",
-      "type": "phoneme",
-      "phoneme": "məˈtæfəsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "meh-TAF-ih-sis"
     },
     {
       "text": "physis",
-      "type": "phoneme",
-      "phoneme": "ˈfɪsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FY-sis"
     },
     {
       "text": "symphysis",
-      "type": "phoneme",
-      "phoneme": "ˈsɪmfəsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SIM-fih-sis"
     },
     {
       "text": "synovium",
-      "type": "phoneme",
-      "phoneme": "sɪˈnoʊviəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sih-NOH-vee-um"
     },
     {
       "text": "synovia",
-      "type": "phoneme",
-      "phoneme": "sɪˈnoʊviə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sih-NOH-vee-ah"
     },
     {
       "text": "sutura",
-      "type": "phoneme",
-      "phoneme": "suˈtʊrə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "soo-TOO-rah"
     },
     {
       "text": "fontanelle",
-      "type": "phoneme",
-      "phoneme": "ˌfɑntəˈnɛl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "fon-tah-NEL"
     },
     {
       "text": "myocardium",
-      "type": "phoneme",
-      "phoneme": "ˌmaɪoʊˈkɑrdiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "my-oh-KAR-dee-um"
     },
     {
       "text": "epicardium",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈkɑrdiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eh-pih-KAR-dee-um"
     },
     {
       "text": "pericardium",
-      "type": "phoneme",
-      "phoneme": "ˌpɛrɪˈkɑrdiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per-ih-KAR-dee-um"
     },
     {
       "text": "endocardium",
-      "type": "phoneme",
-      "phoneme": "ˌɛndoʊˈkɑrdiəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "en-doh-KAR-dee-um"
     },
     {
       "text": "intima",
-      "type": "phoneme",
-      "phoneme": "ˈɪntɪmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "IN-tih-mah"
     },
     {
       "text": "media",
-      "type": "phoneme",
-      "phoneme": "ˈmiːdiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MEH-dee-ah"
     },
     {
       "text": "adventitia",
-      "type": "phoneme",
-      "phoneme": "ˌædvɛnˈtɪʃə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ad-ven-TISH-ah"
     },
     {
       "text": "tunica",
-      "type": "phoneme",
-      "phoneme": "ˈtuːnɪkə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "TOO-nih-kah"
     },
     {
       "text": "parenchyma",
-      "type": "phoneme",
-      "phoneme": "pəˈrɛŋkɪmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pah-REN-kih-mah"
     },
     {
       "text": "stroma",
-      "type": "phoneme",
-      "phoneme": "ˈstroʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "STROH-mah"
     },
     {
       "text": "septum",
-      "type": "phoneme",
-      "phoneme": "ˈsɛptəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SEP-tum"
     },
     {
       "text": "septa",
-      "type": "phoneme",
-      "phoneme": "ˈsɛptə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SEP-tah"
     },
     {
       "text": "trabecula",
-      "type": "phoneme",
-      "phoneme": "trəˈbɛkjələ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "trah-BEK-yoo-lah"
     },
     {
       "text": "hilum",
-      "type": "phoneme",
-      "phoneme": "ˈhaɪləm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "HY-lum"
     },
     {
       "text": "hilus",
-      "type": "phoneme",
-      "phoneme": "ˈhaɪləs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "HY-lus"
     },
     {
       "text": "sulcus",
-      "type": "phoneme",
-      "phoneme": "ˈsʌlkəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SUL-kus"
     },
     {
       "text": "gyrus",
-      "type": "phoneme",
-      "phoneme": "ˈdʒaɪrəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "JY-rus"
     },
     {
       "text": "cortex",
-      "type": "phoneme",
-      "phoneme": "ˈkɔrtɛks",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOR-teks"
     },
     {
       "text": "medulla",
-      "type": "phoneme",
-      "phoneme": "məˈdʌlə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "meh-DOOL-ah"
     },
     {
       "text": "capsule",
-      "type": "phoneme",
-      "phoneme": "ˈkæpsəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KAP-sool"
     },
     {
       "text": "lobe",
-      "type": "phoneme",
-      "phoneme": "lˈoʊb",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "LOHB"
     },
     {
       "text": "lobule",
-      "type": "phoneme",
-      "phoneme": "ˈlɑbjul",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "LOB-yool"
     },
     {
       "text": "acinus",
-      "type": "phoneme",
-      "phoneme": "ˈæsɪnəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AS-ih-nus"
     },
     {
       "text": "alveolus",
-      "type": "phoneme",
-      "phoneme": "ælˈviələs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "al-VEE-oh-lus"
     },
     {
       "text": "glomerulus",
-      "type": "phoneme",
-      "phoneme": "ɡloʊˈmɛrjələs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gloh-MER-yoo-lus"
     },
     {
       "text": "nephron",
-      "type": "phoneme",
-      "phoneme": "ˈnɛfrɑn",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "NEF-ron"
     },
     {
       "text": "tubule",
-      "type": "phoneme",
-      "phoneme": "ˈtubjul",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "TOOB-yool"
     },
     {
       "text": "ductule",
-      "type": "phoneme",
-      "phoneme": "ˈdʌktʃul",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "DUK-tool"
     },
     {
       "text": "ductus",
-      "type": "phoneme",
-      "phoneme": "ˈdʌktəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "DUK-tus"
     },
     {
       "text": "vas deferens",
-      "type": "phoneme",
-      "phoneme": "vˈæs dɛfərɛnz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "vas DEF-er-enz"
     },
     {
       "text": "epididymis",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈdɪdɪmɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ep-ih-DID-ih-mis"
     },
     {
       "text": "fimbria",
-      "type": "phoneme",
-      "phoneme": "ˈfɪmbriə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FIM-bree-ah"
     },
     {
       "text": "fornix",
-      "type": "phoneme",
-      "phoneme": "ˈfɔrnɪks",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FOR-niks"
     },
     {
       "text": "mesentery",
-      "type": "phoneme",
-      "phoneme": "ˈmɛzənˌtɛri",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MEZ-en-ter-ee"
     },
     {
       "text": "omentum",
-      "type": "phoneme",
-      "phoneme": "oʊˈmɛntəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "oh-MEN-tum"
     },
     {
       "text": "peritoneum",
-      "type": "phoneme",
-      "phoneme": "ˌpɛrɪtəˈniəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per-ih-toh-NEE-um"
     },
     {
       "text": "retroperitoneum",
-      "type": "phoneme",
-      "phoneme": "ˌrɛtroʊˌpɛrɪtəˈniəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "REH-troh-per-ih-toh-NEE-um"
     },
     {
       "text": "mesocolon",
-      "type": "phoneme",
-      "phoneme": "ˌmɛzəˈkoʊlən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MEZ-oh-KOH-lon"
     },
     {
       "text": "haustra",
-      "type": "phoneme",
-      "phoneme": "ˈhɔstrə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "HAW-strah"
     },
     {
       "text": "plicae",
-      "type": "phoneme",
-      "phoneme": "ˈplaɪsi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PLY-see"
     },
     {
       "text": "rugae",
-      "type": "phoneme",
-      "phoneme": "ˈrudiʒi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ROO-jee"
     },
     {
       "text": "villi",
-      "type": "phoneme",
-      "phoneme": "ˈvɪlaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VIL-eye"
     },
     {
       "text": "microvilli",
-      "type": "phoneme",
-      "phoneme": "ˌmaɪkroʊˈvɪlaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MY-kroh-VIL-eye"
     },
     {
       "text": "cryptae",
-      "type": "phoneme",
-      "phoneme": "ˈkrɪpti",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KRIP-tee"
     },
     {
       "text": "pylorus",
-      "type": "phoneme",
-      "phoneme": "paɪˈlɔrəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "py-LOR-us"
     },
     {
       "text": "cardia",
-      "type": "phoneme",
-      "phoneme": "ˈkɑrdiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KAR-dee-ah"
     },
     {
       "text": "fundus",
-      "type": "phoneme",
-      "phoneme": "ˈfʌndəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FUN-dus"
     },
     {
       "text": "antrum",
-      "type": "phoneme",
-      "phoneme": "ˈæntrəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AN-trum"
     },
     {
       "text": "duodenum",
-      "type": "phoneme",
-      "phoneme": "ˌduəˈdinəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "doo-oh-DEE-num"
     },
     {
       "text": "jejunum",
-      "type": "phoneme",
-      "phoneme": "dʒəˈdʒunəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "jeh-JOO-num"
     },
     {
       "text": "ileum",
-      "type": "phoneme",
-      "phoneme": "ˈɪliəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "IL-ee-um"
     },
     {
       "text": "cecum",
-      "type": "phoneme",
-      "phoneme": "ˈsikəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SEE-kum"
     },
     {
       "text": "vermiform",
-      "type": "phoneme",
-      "phoneme": "ˈvɜrmɪfɔrm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VER-mih-form"
     },
     {
       "text": "appendix",
-      "type": "phoneme",
-      "phoneme": "əˈpɛndɪks",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ah-PEN-diks"
     },
     {
       "text": "sigmoid",
-      "type": "phoneme",
-      "phoneme": "ˈsɪɡmɔɪd",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SIG-moyd"
     },
     {
       "text": "rectum",
-      "type": "phoneme",
-      "phoneme": "ˈrɛktəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "REK-tum"
     },
     {
       "text": "anus",
-      "type": "phoneme",
-      "phoneme": "ˈeɪnəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AY-nus"
     },
     {
       "text": "sphincter",
-      "type": "phoneme",
-      "phoneme": "ˈsfɪŋktər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SFINK-ter"
     },
     {
       "text": "papilla",
-      "type": "phoneme",
-      "phoneme": "pəˈpɪlə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pah-PIL-ah"
     },
     {
       "text": "ampulla",
-      "type": "phoneme",
-      "phoneme": "æmˈpʊlə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "am-POOL-ah"
     },
     {
       "text": "cholecyst",
-      "type": "phoneme",
-      "phoneme": "ˈkoʊləsɪst",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOH-leh-sist"
     },
     {
       "text": "choledochus",
-      "type": "phoneme",
-      "phoneme": "kəˈlɛdəkəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "koh-LED-oh-kus"
     },
     {
       "text": "pancreas",
-      "type": "phoneme",
-      "phoneme": "ˈpæŋkriəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PAN-kree-as"
     },
     {
       "text": "islets",
-      "type": "phoneme",
-      "phoneme": "ˈaɪlɪts",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "EYE-lets"
     }
   ]
 }

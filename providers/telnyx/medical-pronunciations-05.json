@@ -3,603 +3,503 @@
   "items": [
     {
       "text": "MRI",
-      "type": "phoneme",
-      "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "magnetic resonance imaging"
     },
     {
       "text": "CT",
-      "type": "phoneme",
-      "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "computed tomography"
     },
     {
       "text": "EKG",
-      "type": "phoneme",
-      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "electrocardiogram"
     },
     {
       "text": "ECG",
-      "type": "phoneme",
-      "phoneme": "ɪˌlɛktroʊˈkɑrdiəˌɡræm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "electrocardiogram"
     },
     {
       "text": "EEG",
-      "type": "phoneme",
-      "phoneme": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "electroencephalogram"
     },
     {
       "text": "BUN",
-      "type": "phoneme",
-      "phoneme": "blʌd jʊˈriə ˈnaɪtrədʒən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "blood urea nitrogen"
     },
     {
       "text": "CMP",
-      "type": "phoneme",
-      "phoneme": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "comprehensive metabolic panel"
     },
     {
       "text": "CBC",
-      "type": "phoneme",
-      "phoneme": "kəmˈplit blʌd kaʊnt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "complete blood count"
     },
     {
       "text": "TSH",
-      "type": "phoneme",
-      "phoneme": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "thyroid stimulating hormone"
     },
     {
       "text": "HbA1c",
-      "type": "phoneme",
-      "phoneme": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hemoglobin A one C"
     },
     {
       "text": "PT",
-      "type": "phoneme",
-      "phoneme": "proʊˈθrɑmbɪn taɪm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "prothrombin time"
     },
     {
       "text": "INR",
-      "type": "phoneme",
-      "phoneme": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "international normalized ratio"
     },
     {
       "text": "PTT",
-      "type": "phoneme",
-      "phoneme": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "partial thromboplastin time"
     },
     {
       "text": "DVT",
-      "type": "phoneme",
-      "phoneme": "dip ven θrɑmˈboʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "deep vein thrombosis"
     },
     {
       "text": "PE",
-      "type": "phoneme",
-      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pulmonary embolism"
     },
     {
       "text": "CVA",
-      "type": "phoneme",
-      "phoneme": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "cerebrovascular accident"
     },
     {
       "text": "TIA",
-      "type": "phoneme",
-      "phoneme": "ˈtrænziənt ɪsˈkimɪk əˈtæk",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "transient ischemic attack"
     },
     {
       "text": "ICU",
-      "type": "phoneme",
-      "phoneme": "ɪnˈtɛnsɪv kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "intensive care unit"
     },
     {
       "text": "NICU",
-      "type": "phoneme",
-      "phoneme": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "neonatal intensive care unit"
     },
     {
       "text": "ER",
-      "type": "phoneme",
-      "phoneme": "ɪˈmɜrdʒənsi rum",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "emergency room"
     },
     {
       "text": "ED",
-      "type": "phoneme",
-      "phoneme": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "emergency department"
     },
     {
       "text": "OR",
-      "type": "phoneme",
-      "phoneme": "ˈɑpəˌretɪŋ rum",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "operating room"
     },
     {
       "text": "PACU",
-      "type": "phoneme",
-      "phoneme": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "post-anesthesia care unit"
     },
     {
       "text": "CCU",
-      "type": "phoneme",
-      "phoneme": "ˈkɔrəˌnɛri kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "coronary care unit"
     },
     {
       "text": "SICU",
-      "type": "phoneme",
-      "phoneme": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "surgical intensive care unit"
     },
     {
       "text": "MICU",
-      "type": "phoneme",
-      "phoneme": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "medical intensive care unit"
     },
     {
       "text": "BP",
-      "type": "phoneme",
-      "phoneme": "ˈblʌd ˈprɛʃɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "blood pressure"
     },
     {
       "text": "HR",
-      "type": "phoneme",
-      "phoneme": "ˈhɑrt ˈreɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "heart rate"
     },
     {
       "text": "RR",
-      "type": "phoneme",
-      "phoneme": "ˈrɛspɚəˌtɔri ˈreɪt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "respiratory rate"
     },
     {
       "text": "SpO2",
-      "type": "phoneme",
-      "phoneme": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "saturation of peripheral oxygen"
     },
     {
       "text": "ETCO2",
-      "type": "phoneme",
-      "phoneme": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "end-tidal carbon dioxide"
     },
     {
       "text": "IV",
-      "type": "phoneme",
-      "phoneme": "ˌɪntrəˈvinəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "intravenous"
     },
     {
       "text": "IM",
-      "type": "phoneme",
-      "phoneme": "ˌɪntrəˈmʌskjəlɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "intramuscular"
     },
     {
       "text": "SC",
-      "type": "phoneme",
-      "phoneme": "ˌsʌbkjuˈteɪniəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "subcutaneous"
     },
     {
       "text": "PO",
-      "type": "phoneme",
-      "phoneme": "baɪ ˈmaʊθ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "by mouth"
     },
     {
       "text": "PR",
-      "type": "phoneme",
-      "phoneme": "pɚ ˈrɛktəm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per rectum"
     },
     {
       "text": "SL",
-      "type": "phoneme",
-      "phoneme": "sʌbˈlɪŋɡwəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sublingual"
     },
     {
       "text": "OD",
-      "type": "phoneme",
-      "phoneme": "ˈraɪt ˈaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "right eye"
     },
     {
       "text": "OS",
-      "type": "phoneme",
-      "phoneme": "ˈlɛft ˈaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "left eye"
     },
     {
       "text": "OU",
-      "type": "phoneme",
-      "phoneme": "ˈboʊθ ˈaɪz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "both eyes"
     },
     {
       "text": "AU",
-      "type": "phoneme",
-      "phoneme": "ˈboʊθ ˈɪrz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "both ears"
     },
     {
       "text": "AD",
-      "type": "phoneme",
-      "phoneme": "ˈraɪt ˈɪr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "right ear"
     },
     {
       "text": "AS",
-      "type": "phoneme",
-      "phoneme": "ˈlɛft ˈɪr",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "left ear"
     },
     {
       "text": "APAP",
-      "type": "phoneme",
-      "phoneme": "əˌsitəˈmɪnəfən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "acetaminophen"
     },
     {
       "text": "NSAID",
-      "type": "phoneme",
-      "phoneme": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "non-steroidal anti-inflammatory drug"
     },
     {
       "text": "PPI",
-      "type": "phoneme",
-      "phoneme": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "proton pump inhibitor"
     },
     {
       "text": "ARB",
-      "type": "phoneme",
-      "phoneme": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "angiotensin receptor blocker"
     },
     {
       "text": "ACE",
-      "type": "phoneme",
-      "phoneme": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "angiotensin-converting enzyme"
     },
     {
       "text": "BB",
-      "type": "phoneme",
-      "phoneme": "ˈbeɪtə ˈblɑkɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "beta blocker"
     },
     {
       "text": "CCB",
-      "type": "phoneme",
-      "phoneme": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "calcium channel blocker"
     },
     {
       "text": "SSRI",
-      "type": "phoneme",
-      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "se-lek-TIV ser-uh-TON-in re-UP-take in-HIB-i-ter"
     },
     {
       "text": "SNRI",
-      "type": "phoneme",
-      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "se-LEK-tiv ser-uh-TON-in nor-e-PIN-e-frin re-UP-take in-HIB-i-ter"
     },
     {
       "text": "TCA",
-      "type": "phoneme",
-      "phoneme": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "tri-SIK-lik an-TI-de-PRE-sant"
     },
     {
       "text": "MAOI",
-      "type": "phoneme",
-      "phoneme": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "mono-amine OK-si-DASE in-HIB-i-ter"
     },
     {
       "text": "DM",
-      "type": "phoneme",
-      "phoneme": "ˌdaɪəˈbitiz məˈlaɪtəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "di-a-BE-teez mel-LI-tus"
     },
     {
       "text": "HTN",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpɚˈtɛnʃən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hi-per-TEN-shun"
     },
     {
       "text": "HLD",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpɚˈlɪpɪˌdimiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hi-per-LIP-i-dee-mee-uh"
     },
     {
       "text": "CAD",
-      "type": "phoneme",
-      "phoneme": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "co-ROH-ner-ee AR-ter-ee di-ZEEZ"
     },
     {
       "text": "PVD",
-      "type": "phoneme",
-      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "per-i-FER-ul vas-KYOO-ler di-ZEEZ"
     },
     {
       "text": "CKD",
-      "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˈkɪdni dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kron-ik KID-nee di-ZEEZ"
     },
     {
       "text": "ESRD",
-      "type": "phoneme",
-      "phoneme": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "end-STAGE re-NAL di-ZEEZ"
     },
     {
       "text": "AKI",
-      "type": "phoneme",
-      "phoneme": "əˈkjut ˈkɪdni ˈɪndʒɚi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ak-YOOT KID-nee in-JER-ee"
     },
     {
       "text": "ASTHMA",
-      "type": "phoneme",
-      "phoneme": "ˈæzmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AZ-muh"
     },
     {
       "text": "GERD",
-      "type": "phoneme",
-      "phoneme": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gas-tro-es-uh-FAJ-ul re-FLUKS di-ZEEZ"
     },
     {
       "text": "IBD",
-      "type": "phoneme",
-      "phoneme": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "in-FLAM-a-tor-ee bo-WEL di-ZEEZ"
     },
     {
       "text": "IBS",
-      "type": "phoneme",
-      "phoneme": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "i-RI-ta-bul bo-WEL SIN-drom"
     },
     {
       "text": "NASH",
-      "type": "phoneme",
-      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "non-al-ka-ho-LIK ste-to-hep-a-TI-tis"
     },
     {
       "text": "NAFLD",
-      "type": "phoneme",
-      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ"
     },
     {
       "text": "HCC",
-      "type": "phoneme",
-      "phoneme": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "he-PAT-o-sel-YOO-ler kar-si-NO-ma"
     },
     {
       "text": "ALL",
-      "type": "phoneme",
-      "phoneme": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ak-YOOT lym-fo-BLAS-tik le-KEE-mee-uh"
     },
     {
       "text": "AML",
-      "type": "phoneme",
-      "phoneme": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ak-YOOT my-eh-LOYD le-KEE-mee-uh"
     },
     {
       "text": "CLL",
-      "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kron-ik lym-fo-SIT-ik le-KEE-mee-uh"
     },
     {
       "text": "CML",
-      "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh"
     },
     {
       "text": "NHL",
-      "type": "phoneme",
-      "phoneme": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "non-HOJ-kin lym-FO-ma"
     },
     {
       "text": "Hodgkin",
-      "type": "phoneme",
-      "phoneme": "ˈhɑdʒkɪn",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "HOJ-kin"
     },
     {
       "text": "MM",
-      "type": "phoneme",
-      "phoneme": "ˈmʌltɪpəl ˌmaɪəˈloʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "mul-TI-pul my-eh-LO-ma"
     },
     {
       "text": "SLE",
-      "type": "phoneme",
-      "phoneme": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sis-TEM-ik loo-PUS er-i-thee-ma-TO-sus"
     },
     {
       "text": "RA",
-      "type": "phoneme",
-      "phoneme": "ˌruməˈtɔɪd ɑrˈθraɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "rew-ma-TOYD ar-THRI-tis"
     },
     {
       "text": "OA",
-      "type": "phoneme",
-      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "os-tee-o-ar-THRI-tis"
     },
     {
       "text": "DJD",
-      "type": "phoneme",
-      "phoneme": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "de-JEN-er-a-tiv jint di-ZEEZ"
     },
     {
       "text": "GOUT",
-      "type": "phoneme",
-      "phoneme": "ɡˈaʊt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gowt"
     },
     {
       "text": "MG",
-      "type": "phoneme",
-      "phoneme": "ˌmaɪəsˈθiniə ˈɡrævɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "myasthenia gravis"
     },
     {
       "text": "MS",
-      "type": "phoneme",
-      "phoneme": "ˈmʌltɪpəl skləˈroʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "multiple sclerosis"
     },
     {
       "text": "ALS",
-      "type": "phoneme",
-      "phoneme": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "amyotrophic lateral sclerosis"
     },
     {
       "text": "GBS",
-      "type": "phoneme",
-      "phoneme": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "Guillain-Barré syndrome"
     },
     {
       "text": "TBI",
-      "type": "phoneme",
-      "phoneme": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "traumatic brain injury"
     },
     {
       "text": "PD",
-      "type": "phoneme",
-      "phoneme": "ˈpɑrkɪnsən dɪˌziːz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "Parkinson disease"
     },
     {
       "text": "HD",
-      "type": "phoneme",
-      "phoneme": "ˈhʌntɪŋtən dɪˌziːz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "Huntington disease"
     },
     {
       "text": "CJD",
-      "type": "phoneme",
-      "phoneme": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "Creutzfeldt-Jakob disease"
     },
     {
       "text": "SCI",
-      "type": "phoneme",
-      "phoneme": "ˈspaɪnəl kɔrd ˈɪndʒəri",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "spinal cord injury"
     },
     {
       "text": "CA",
-      "type": "phoneme",
-      "phoneme": "ˈkænsɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "cancer"
     },
     {
       "text": "N/V",
-      "type": "phoneme",
-      "phoneme": "ˈnɔziə ənd ˈvɑmɪtɪŋ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "nausea and vomiting"
     },
     {
       "text": "SOB",
-      "type": "phoneme",
-      "phoneme": "ˈʃɔrtnəs əv brɛθ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "shortness of breath"
     },
     {
       "text": "CP",
-      "type": "phoneme",
-      "phoneme": "səˈribrəl ˈpɔlzi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "cerebral palsy"
     },
     {
       "text": "N/V/D",
-      "type": "phoneme",
-      "phoneme": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "nausea vomiting and diarrhea"
     },
     {
       "text": "LOC",
-      "type": "phoneme",
-      "phoneme": "ˈlɔs əv ˈkɑnʃəsnəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "loss of consciousness"
     },
     {
       "text": "GCS",
-      "type": "phoneme",
-      "phoneme": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "Glasgow Coma Scale"
     },
     {
       "text": "HEENT",
-      "type": "phoneme",
-      "phoneme": "hˈɛd aɪz ɪrz noʊz ən θroʊt",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "head eyes ears nose and throat"
     },
     {
       "text": "CV",
-      "type": "phoneme",
-      "phoneme": "ˌkɑrdioʊˈvæskjəlɚ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "cardiovascular"
     },
     {
       "text": "GI",
-      "type": "phoneme",
-      "phoneme": "ˌɡæstroʊɪnˈtɛstənəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gastrointestinal"
     }
   ]
 }

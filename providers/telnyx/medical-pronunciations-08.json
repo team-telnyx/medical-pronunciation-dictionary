@@ -3,603 +3,503 @@
   "items": [
     {
       "text": "ketoacidosis",
-      "type": "phoneme",
-      "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kee-toh-ah-sih-DOH-sis"
     },
     {
       "text": "hypoglycemia",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hy-poh-gly-SEE-mee-ah"
     },
     {
       "text": "hyperglycemia",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpərɡlaɪˈsiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hy-per-gly-SEE-mee-ah"
     },
     {
       "text": "insulinoma",
-      "type": "phoneme",
-      "phoneme": "ˌɪnsəlɪˈnoʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "in-suh-lih-NOH-mah"
     },
     {
       "text": "pheochromocytoma",
-      "type": "phoneme",
-      "phoneme": "ˌfiːoʊˌkroʊmoʊsaɪˈtoʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "fee-oh-kroh-moh-sy-TOH-mah"
     },
     {
       "text": "anemia",
-      "type": "phoneme",
-      "phoneme": "əˈniːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ah-NEE-mee-ah"
     },
     {
       "text": "polycythemia",
-      "type": "phoneme",
-      "phoneme": "ˌpɑːlɪsaɪˈθiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pol-ee-sy-THEE-mee-ah"
     },
     {
       "text": "thrombocytopenia",
-      "type": "phoneme",
-      "phoneme": "ˌθrɑːmboʊˌsaɪtəˈpiːniə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "throm-boh-sy-toh-PEE-nee-ah"
     },
     {
       "text": "thrombocytosis",
-      "type": "phoneme",
-      "phoneme": "ˌθrɑːmboʊsaɪˈtoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "throm-boh-sy-TOH-sis"
     },
     {
       "text": "leukopenia",
-      "type": "phoneme",
-      "phoneme": "ˌluːkəˈpiːniə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "loo-koh-PEE-nee-ah"
     },
     {
       "text": "leukocytosis",
-      "type": "phoneme",
-      "phoneme": "ˌluːkəsaɪˈtoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "loo-koh-sy-TOH-sis"
     },
     {
       "text": "neutropenia",
-      "type": "phoneme",
-      "phoneme": "ˌnuːtrəˈpiːniə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "noo-troh-PEE-nee-ah"
     },
     {
       "text": "neutrophilia",
-      "type": "phoneme",
-      "phoneme": "ˌnuːtrəˈfɪliə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "noo-troh-FIL-ee-ah"
     },
     {
       "text": "lymphopenia",
-      "type": "phoneme",
-      "phoneme": "ˌlɪmfəˈpiːniə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lim-foh-PEE-nee-ah"
     },
     {
       "text": "lymphocytosis",
-      "type": "phoneme",
-      "phoneme": "ˌlɪmfəsaɪˈtoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lim-foh-sy-TOH-sis"
     },
     {
       "text": "monocytosis",
-      "type": "phoneme",
-      "phoneme": "ˌmɑːnəsaɪˈtoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "mon-oh-sy-TOH-sis"
     },
     {
       "text": "eosinophilia",
-      "type": "phoneme",
-      "phoneme": "ˌiːəˌsɪnəˈfɪliə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ee-oh-sin-oh-FIL-ee-ah"
     },
     {
       "text": "basophilia",
-      "type": "phoneme",
-      "phoneme": "ˌbeɪsəˈfɪliə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "bay-soh-FIL-ee-ah"
     },
     {
       "text": "pancytopenia",
-      "type": "phoneme",
-      "phoneme": "ˌpænsaɪtəˈpiːniə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pan-sy-toh-PEE-nee-ah"
     },
     {
       "text": "hemophilia",
-      "type": "phoneme",
-      "phoneme": "ˌhiːməˈfɪliə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hee-moh-FIL-ee-ah"
     },
     {
       "text": "thrombophilia",
-      "type": "phoneme",
-      "phoneme": "ˌθrɒmboʊˈfɪliə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "throm-bo-FIL-ee-ah"
     },
     {
       "text": "purpura",
-      "type": "phoneme",
-      "phoneme": "ˈpɜːrpjʊrə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PUR-pur-ah"
     },
     {
       "text": "petechiae",
-      "type": "phoneme",
-      "phoneme": "pɪˈtɛkiaɪ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pe-TEE-kee-eye"
     },
     {
       "text": "ecchymosis",
-      "type": "phoneme",
-      "phoneme": "ˌɛkɪˈmoʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ek-ih-MOH-sis"
     },
     {
       "text": "hematoma",
-      "type": "phoneme",
-      "phoneme": "ˌhɛməˈtoʊmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hee-mah-TOH-mah"
     },
     {
       "text": "hemolysis",
-      "type": "phoneme",
-      "phoneme": "hɪˈmɒlɪsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "hee-MOL-ih-sis"
     },
     {
       "text": "cellulitis",
-      "type": "phoneme",
-      "phoneme": "ˌsɛljuˈlaɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sel-yoo-LY-tis"
     },
     {
       "text": "abscess",
-      "type": "phoneme",
-      "phoneme": "ˈæbsɛs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AB-ses"
     },
     {
       "text": "furuncle",
-      "type": "phoneme",
-      "phoneme": "ˈfjʊrʌŋkəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FYOOR-ung-kul"
     },
     {
       "text": "carbuncle",
-      "type": "phoneme",
-      "phoneme": "ˈkɑːrbʌŋkəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KAR-bung-kul"
     },
     {
       "text": "impetigo",
-      "type": "phoneme",
-      "phoneme": "ˌɪmpɪˈtaɪɡoʊ",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "im-peh-TY-goh"
     },
     {
       "text": "erysipelas",
-      "type": "phoneme",
-      "phoneme": "ˌɛrɪˈsɪpələs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "er-ih-SIP-eh-las"
     },
     {
       "text": "necrotizing fasciitis",
-      "type": "phoneme",
-      "phoneme": "ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "NEK-roh-ty-zing fash-ee-EYE-tis"
     },
     {
       "text": "osteomyelitis",
-      "type": "phoneme",
-      "phoneme": "ˌɒstioʊˌmaɪəˈlaɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "os-tee-oh-my-eh-LY-tis"
     },
     {
       "text": "septic arthritis",
-      "type": "phoneme",
-      "phoneme": "ˈsɛptɪk ɑːrˈθraɪtɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SEP-tik ar-THRY-tis"
     },
     {
       "text": "sepsis",
-      "type": "phoneme",
-      "phoneme": "ˈsɛpsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SEP-sis"
     },
     {
       "text": "septicemia",
-      "type": "phoneme",
-      "phoneme": "ˌsɛptɪˈsiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sep-tih-SEE-mee-ah"
     },
     {
       "text": "bacteremia",
-      "type": "phoneme",
-      "phoneme": "ˌbæktəˈriːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "bak-ter-EE-mee-ah"
     },
     {
       "text": "viremia",
-      "type": "phoneme",
-      "phoneme": "vaɪˈriːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "vy-REE-mee-ah"
     },
     {
       "text": "fungemia",
-      "type": "phoneme",
-      "phoneme": "fʌnˈdʒiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "fun-JEE-mee-ah"
     },
     {
       "text": "parasitemia",
-      "type": "phoneme",
-      "phoneme": "ˌpærəsaɪˈtiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "par-ah-sih-TEE-mee-ah"
     },
     {
       "text": "endotoxemia",
-      "type": "phoneme",
-      "phoneme": "ˌɛndoʊtɒkˈsiːmiə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "en-doh-tok-SEE-mee-ah"
     },
     {
       "text": "erythema",
-      "type": "phoneme",
-      "phoneme": "ˌɛrɪˈθiːmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "er-ih-THEE-mah"
     },
     {
       "text": "urticaria",
-      "type": "phoneme",
-      "phoneme": "ˌɜːrtɪˈkɛriə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ur-tih-KAR-ee-ah"
     },
     {
       "text": "pruritus",
-      "type": "phoneme",
-      "phoneme": "prʊˈraɪtəs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "proo-RY-tus"
     },
     {
       "text": "eczema",
-      "type": "phoneme",
-      "phoneme": "ˈɛksɪmə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "EK-zeh-mah"
     },
     {
       "text": "psoriasis",
-      "type": "phoneme",
-      "phoneme": "səˈraɪəsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "soh-RY-ah-sis"
     },
     {
       "text": "lichenification",
-      "type": "phoneme",
-      "phoneme": "lɪˌkɛnɪfɪˈkeɪʃən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ly-ken-ih-fih-KAY-shun"
     },
     {
       "text": "excoriation",
-      "type": "phoneme",
-      "phoneme": "ɪkˌskɔːriˈeɪʃən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eks-kor-ee-AY-shun"
     },
     {
       "text": "vesicle",
-      "type": "phoneme",
-      "phoneme": "ˈvɛsɪkəl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "VES-ih-kul"
     },
     {
       "text": "bulla",
-      "type": "phoneme",
-      "phoneme": "ˈbʊlə",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "BULL-ah"
     },
     {
       "text": "pustule",
-      "type": "phoneme",
-      "phoneme": "ˈpʌstʃul",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PUS-chool"
     },
     {
       "text": "macule",
-      "type": "phoneme",
-      "phoneme": "ˈmækjuːl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "MAK-yool"
     },
     {
       "text": "papule",
-      "type": "phoneme",
-      "phoneme": "ˈpæpjuːl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PAP-yool"
     },
     {
       "text": "nodule",
-      "type": "phoneme",
-      "phoneme": "ˈnɑːdjuːl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "NOD-yool"
     },
     {
       "text": "plaque",
-      "type": "phoneme",
-      "phoneme": "plˈæk",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "PLAK"
     },
     {
       "text": "scale",
-      "type": "phoneme",
-      "phoneme": "skˈeɪl",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "SKAYL"
     },
     {
       "text": "crust",
-      "type": "phoneme",
-      "phoneme": "krˈʌst",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KRUST"
     },
     {
       "text": "erosion",
-      "type": "phoneme",
-      "phoneme": "ɪˈroʊʒən",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ee-ROH-zhun"
     },
     {
       "text": "ulcer",
-      "type": "phoneme",
-      "phoneme": "ˈʌlsər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "UL-ser"
     },
     {
       "text": "fissure",
-      "type": "phoneme",
-      "phoneme": "ˈfɪʃər",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "FISH-ur"
     },
     {
       "text": "atrophy",
-      "type": "phoneme",
-      "phoneme": "ˈætrəfi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "AT-roh-fee"
     },
     {
       "text": "sclerosis",
-      "type": "phoneme",
-      "phoneme": "skləˈroʊsɪs",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "skleh-ROH-sis"
     },
     {
       "text": "appendectomy",
-      "type": "phoneme",
-      "phoneme": "ˌæpənˈdɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ap-en-DEK-toh-mee"
     },
     {
       "text": "cholecystectomy",
-      "type": "phoneme",
-      "phoneme": "ˌkoʊləsɪˈstɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "koh-leh-sis-TEK-toh-mee"
     },
     {
       "text": "herniorrhaphy",
-      "type": "phoneme",
-      "phoneme": "ˌhɜːrniˈɔːrəfi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "her-nee-OR-ah-fee"
     },
     {
       "text": "colostomy",
-      "type": "phoneme",
-      "phoneme": "kəˈlɑːstəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "koh-LOS-toh-mee"
     },
     {
       "text": "ileostomy",
-      "type": "phoneme",
-      "phoneme": "ˌɪliˈɑːstəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "il-ee-OS-toh-mee"
     },
     {
       "text": "nephrectomy",
-      "type": "phoneme",
-      "phoneme": "nəˈfrɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "neh-FREK-toh-mee"
     },
     {
       "text": "hysterectomy",
-      "type": "phoneme",
-      "phoneme": "ˌhɪstəˈrɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "his-teh-REK-toh-mee"
     },
     {
       "text": "mastectomy",
-      "type": "phoneme",
-      "phoneme": "mæˈstɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "mas-TEK-toh-mee"
     },
     {
       "text": "thyroidectomy",
-      "type": "phoneme",
-      "phoneme": "ˌθaɪrɔɪˈdɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "thy-roy-DEK-toh-mee"
     },
     {
       "text": "parathyroidectomy",
-      "type": "phoneme",
-      "phoneme": "ˌpærəˌθaɪrɔɪˈdɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "par-ah-thy-roy-DEK-toh-mee"
     },
     {
       "text": "adrenalectomy",
-      "type": "phoneme",
-      "phoneme": "əˌdriːnəˈlɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ad-reh-nal-EK-toh-mee"
     },
     {
       "text": "splenectomy",
-      "type": "phoneme",
-      "phoneme": "spliˈnɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "spleh-NEK-toh-mee"
     },
     {
       "text": "pancreatectomy",
-      "type": "phoneme",
-      "phoneme": "ˌpæŋkriəˈtɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "pan-kree-ah-TEK-toh-mee"
     },
     {
       "text": "esophagectomy",
-      "type": "phoneme",
-      "phoneme": "iːˌsɑːfəˈdʒɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "eh-sof-ah-JEK-toh-mee"
     },
     {
       "text": "gastrectomy",
-      "type": "phoneme",
-      "phoneme": "ɡæˈstrɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gas-TREK-toh-mee"
     },
     {
       "text": "colectomy",
-      "type": "phoneme",
-      "phoneme": "kəˈlɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "koh-LEK-toh-mee"
     },
     {
       "text": "proctectomy",
-      "type": "phoneme",
-      "phoneme": "prɑːkˈtɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "prok-TEK-toh-mee"
     },
     {
       "text": "cystectomy",
-      "type": "phoneme",
-      "phoneme": "sɪˈstɛktəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sis-TEK-toh-mee"
     },
     {
       "text": "nephrostomy",
-      "type": "phoneme",
-      "phoneme": "nəˈfrɑstəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "neh-FROS-toh-mee"
     },
     {
       "text": "ureterostomy",
-      "type": "phoneme",
-      "phoneme": "jʊˌriːtəˈrɑstəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "yoo-REE-ter-OS-toh-mee"
     },
     {
       "text": "tracheostomy",
-      "type": "phoneme",
-      "phoneme": "ˌtreɪkiˈɑstəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "TRAY-kee-OS-toh-mee"
     },
     {
       "text": "cricothyroidotomy",
-      "type": "phoneme",
-      "phoneme": "ˌkraɪkoʊˌθaɪrɔɪˈdɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KRY-koh-thy-ROY-DOT-oh-mee"
     },
     {
       "text": "thoracotomy",
-      "type": "phoneme",
-      "phoneme": "ˌθɔːrəˈkɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "thor-ah-KOT-oh-mee"
     },
     {
       "text": "sternotomy",
-      "type": "phoneme",
-      "phoneme": "stɜːrˈnɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ster-NOT-oh-mee"
     },
     {
       "text": "laparotomy",
-      "type": "phoneme",
-      "phoneme": "ˌlæpəˈrɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lap-ah-ROT-oh-mee"
     },
     {
       "text": "celiotomy",
-      "type": "phoneme",
-      "phoneme": "ˌsiːliˈɑtəmi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "see-lee-OT-oh-mee"
     },
     {
       "text": "arthroscopy",
-      "type": "phoneme",
-      "phoneme": "ɑːrˈθrɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "ar-THROS-koh-pee"
     },
     {
       "text": "bronchoscopy",
-      "type": "phoneme",
-      "phoneme": "brɑŋˈkɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "brong-KOS-koh-pee"
     },
     {
       "text": "colonoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌkoʊləˈnɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "KOH-lon-OS-koh-pee"
     },
     {
       "text": "endoscopy",
-      "type": "phoneme",
-      "phoneme": "ɛnˈdɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "en-DOS-koh-pee"
     },
     {
       "text": "gastroscopy",
-      "type": "phoneme",
-      "phoneme": "ɡæˈstrɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "gas-TROS-koh-pee"
     },
     {
       "text": "sigmoidoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌsɪɡmɔɪˈdɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sig-moy-DOS-koh-pee"
     },
     {
       "text": "cystoscopy",
-      "type": "phoneme",
-      "phoneme": "sɪˈstɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "sis-TOS-koh-pee"
     },
     {
       "text": "colposcopy",
-      "type": "phoneme",
-      "phoneme": "kɑlˈpɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "kol-POS-koh-pee"
     },
     {
       "text": "hysteroscopy",
-      "type": "phoneme",
-      "phoneme": "ˌhɪstəˈrɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "his-ter-OS-koh-pee"
     },
     {
       "text": "laparoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌlæpəˈrɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "lap-ah-ROS-koh-pee"
     },
     {
       "text": "thoracoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌθɔːrəˈkɑskəpi",
-      "alphabet": "ipa"
+      "type": "alias",
+      "alias": "thor-ah-KOS-koh-pee"
     }
   ]
 }
