@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0" xml:lang="en-US">
   <lexeme>
-    <grapheme>ubrogepant</grapheme>
-    <alias>yoo-BROH-jeh-pant</alias>
+    <grapheme>stridor</grapheme>
+    <alias>STRY-dor</alias>
   </lexeme>
   <lexeme>
-    <grapheme>rimegepant</grapheme>
-    <alias>rih-MEH-jeh-pant</alias>
+    <grapheme>coryza</grapheme>
+    <alias>koh-RY-zah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>eprodual</grapheme>
-    <alias>eh-PROH-dool</alias>
+    <grapheme>hematemesis</grapheme>
+    <alias>hee-ma-TEM-eh-sis</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>sialadenitis</grapheme>
+    <alias>sigh-al-a-deh-NYE-tis</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>agnosia</grapheme>
+    <alias>ag-NOH-zhah</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>hyponatremia</grapheme>
+    <alias>hy-poh-nah-TREE-mee-ah</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>leukopenia</grapheme>
+    <alias>loo-koh-PEE-nee-ah</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>thrombophilia</grapheme>
+    <alias>throm-bo-FIL-ee-ah</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>furuncle</grapheme>
+    <alias>FYOOR-ung-kul</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>pruritus</grapheme>
+    <alias>proo-RY-tus</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>bulla</grapheme>
+    <alias>BULL-ah</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>papule</grapheme>
+    <alias>PAP-yool</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mastectomy</grapheme>
+    <alias>mas-TEK-toh-mee</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>gastrectomy</grapheme>
+    <alias>gas-TREK-toh-mee</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>endoscopy</grapheme>
+    <alias>en-DOS-koh-pee</alias>
   </lexeme>
 </lexicon>

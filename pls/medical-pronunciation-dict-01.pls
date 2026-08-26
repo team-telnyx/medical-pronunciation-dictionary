@@ -13,16 +13,8 @@
     <alias>ny-MOE-di-peen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nicardipine</grapheme>
-    <alias>ny-KAR-di-peen</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>hydralazine</grapheme>
     <alias>hy-DRAL-a-zeen</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>spironolactone</grapheme>
-    <alias>spir-oh-no-LAK-tone</alias>
   </lexeme>
   <lexeme>
     <grapheme>triamterene</grapheme>
@@ -35,10 +27,6 @@
   <lexeme>
     <grapheme>amiodarone</grapheme>
     <alias>am-ee-OH-da-rone</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>flecainide</grapheme>
-    <alias>FLEH-ka-nide</alias>
   </lexeme>
   <lexeme>
     <grapheme>apixaban</grapheme>
@@ -73,10 +61,6 @@
     <alias>sit-ah-GLIP-tin</alias>
   </lexeme>
   <lexeme>
-    <grapheme>linagliptin</grapheme>
-    <alias>lin-ah-GLIP-tin</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>empagliflozin</grapheme>
     <alias>em-pah-gli-FLOH-zin</alias>
   </lexeme>
@@ -109,20 +93,12 @@
     <alias>nah-TEG-li-nide</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ciprofloxacin</grapheme>
-    <alias>sip-roh-FLOX-ah-sin</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>clindamycin</grapheme>
     <alias>klin-dah-MY-sin</alias>
   </lexeme>
   <lexeme>
     <grapheme>cefuroxime</grapheme>
     <alias>se-fyoor-OX-eem</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ceftriaxone</grapheme>
-    <alias>sef-try-AX-one</alias>
   </lexeme>
   <lexeme>
     <grapheme>cefepime</grapheme>
@@ -153,10 +129,6 @@
     <alias>nah-PROK-sen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>diclofenac</grapheme>
-    <alias>dye-KLOH-fen-ak</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>acetaminophen</grapheme>
     <alias>ah-SEE-tah-MIN-oh-fen</alias>
   </lexeme>
@@ -175,10 +147,6 @@
   <lexeme>
     <grapheme>zonisamide</grapheme>
     <alias>zoh-NIS-ah-mide</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>lacosamide</grapheme>
-    <alias>lah-KOH-sah-mide</alias>
   </lexeme>
   <lexeme>
     <grapheme>rufinamide</grapheme>
@@ -209,10 +177,6 @@
     <alias>on-DAN-seh-tron</alias>
   </lexeme>
   <lexeme>
-    <grapheme>metoclopramide</grapheme>
-    <alias>met-oh-KLOH-prah-mide</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>ipratropium</grapheme>
     <alias>ip-ra-TROH-pee-um</alias>
   </lexeme>
@@ -233,10 +197,6 @@
     <alias>zy-LOO-ton</alias>
   </lexeme>
   <lexeme>
-    <grapheme>desvenlafaxine</grapheme>
-    <alias>des-ven-la-FAK-seen</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>mirtazapine</grapheme>
     <alias>mir-TAZ-a-peen</alias>
   </lexeme>
@@ -247,10 +207,6 @@
   <lexeme>
     <grapheme>vilazodone</grapheme>
     <alias>vil-AZ-oh-done</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>risperidone</grapheme>
-    <alias>ris-PER-ih-done</alias>
   </lexeme>
   <lexeme>
     <grapheme>lurasidone</grapheme>
@@ -329,10 +285,6 @@
     <alias>go-LIM-ue-mab</alias>
   </lexeme>
   <lexeme>
-    <grapheme>tocilizumab</grapheme>
-    <alias>TOE-sih-LIZ-ue-mab</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>sarilumab</grapheme>
     <alias>sar-IL-ue-mab</alias>
   </lexeme>
@@ -399,5 +351,13 @@
   <lexeme>
     <grapheme>naratriptan</grapheme>
     <alias>nar-ah-TRIP-tan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ubrogepant</grapheme>
+    <alias>yoo-BROH-jeh-pant</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>rimegepant</grapheme>
+    <alias>rih-MEH-jeh-pant</alias>
   </lexeme>
 </lexicon>

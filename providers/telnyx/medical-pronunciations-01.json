@@ -17,19 +17,9 @@
       "alias": "ny-MOE-di-peen"
     },
     {
-      "text": "nicardipine",
-      "type": "alias",
-      "alias": "ny-KAR-di-peen"
-    },
-    {
       "text": "hydralazine",
       "type": "alias",
       "alias": "hy-DRAL-a-zeen"
-    },
-    {
-      "text": "spironolactone",
-      "type": "alias",
-      "alias": "spir-oh-no-LAK-tone"
     },
     {
       "text": "triamterene",
@@ -45,11 +35,6 @@
       "text": "amiodarone",
       "type": "alias",
       "alias": "am-ee-OH-da-rone"
-    },
-    {
-      "text": "flecainide",
-      "type": "alias",
-      "alias": "FLEH-ka-nide"
     },
     {
       "text": "apixaban",
@@ -92,11 +77,6 @@
       "alias": "sit-ah-GLIP-tin"
     },
     {
-      "text": "linagliptin",
-      "type": "alias",
-      "alias": "lin-ah-GLIP-tin"
-    },
-    {
       "text": "empagliflozin",
       "type": "alias",
       "alias": "em-pah-gli-FLOH-zin"
@@ -137,11 +117,6 @@
       "alias": "nah-TEG-li-nide"
     },
     {
-      "text": "ciprofloxacin",
-      "type": "alias",
-      "alias": "sip-roh-FLOX-ah-sin"
-    },
-    {
       "text": "clindamycin",
       "type": "alias",
       "alias": "klin-dah-MY-sin"
@@ -150,11 +125,6 @@
       "text": "cefuroxime",
       "type": "alias",
       "alias": "se-fyoor-OX-eem"
-    },
-    {
-      "text": "ceftriaxone",
-      "type": "alias",
-      "alias": "sef-try-AX-one"
     },
     {
       "text": "cefepime",
@@ -192,11 +162,6 @@
       "alias": "nah-PROK-sen"
     },
     {
-      "text": "diclofenac",
-      "type": "alias",
-      "alias": "dye-KLOH-fen-ak"
-    },
-    {
       "text": "acetaminophen",
       "type": "alias",
       "alias": "ah-SEE-tah-MIN-oh-fen"
@@ -220,11 +185,6 @@
       "text": "zonisamide",
       "type": "alias",
       "alias": "zoh-NIS-ah-mide"
-    },
-    {
-      "text": "lacosamide",
-      "type": "alias",
-      "alias": "lah-KOH-sah-mide"
     },
     {
       "text": "rufinamide",
@@ -262,11 +222,6 @@
       "alias": "on-DAN-seh-tron"
     },
     {
-      "text": "metoclopramide",
-      "type": "alias",
-      "alias": "met-oh-KLOH-prah-mide"
-    },
-    {
       "text": "ipratropium",
       "type": "alias",
       "alias": "ip-ra-TROH-pee-um"
@@ -292,11 +247,6 @@
       "alias": "zy-LOO-ton"
     },
     {
-      "text": "desvenlafaxine",
-      "type": "alias",
-      "alias": "des-ven-la-FAK-seen"
-    },
-    {
       "text": "mirtazapine",
       "type": "alias",
       "alias": "mir-TAZ-a-peen"
@@ -310,11 +260,6 @@
       "text": "vilazodone",
       "type": "alias",
       "alias": "vil-AZ-oh-done"
-    },
-    {
-      "text": "risperidone",
-      "type": "alias",
-      "alias": "ris-PER-ih-done"
     },
     {
       "text": "lurasidone",
@@ -412,11 +357,6 @@
       "alias": "go-LIM-ue-mab"
     },
     {
-      "text": "tocilizumab",
-      "type": "alias",
-      "alias": "TOE-sih-LIZ-ue-mab"
-    },
-    {
       "text": "sarilumab",
       "type": "alias",
       "alias": "sar-IL-ue-mab"
@@ -500,6 +440,66 @@
       "text": "naratriptan",
       "type": "alias",
       "alias": "nar-ah-TRIP-tan"
+    },
+    {
+      "text": "ubrogepant",
+      "type": "alias",
+      "alias": "yoo-BROH-jeh-pant"
+    },
+    {
+      "text": "rimegepant",
+      "type": "alias",
+      "alias": "rih-MEH-jeh-pant"
+    },
+    {
+      "text": "MI",
+      "type": "alias",
+      "alias": "myocardial infarction"
+    },
+    {
+      "text": "COPD",
+      "type": "alias",
+      "alias": "chronic obstructive pulmonary disease"
+    },
+    {
+      "text": "CHF",
+      "type": "alias",
+      "alias": "congestive heart failure"
+    },
+    {
+      "text": "UTI",
+      "type": "alias",
+      "alias": "urinary tract infection"
+    },
+    {
+      "text": "MRI",
+      "type": "alias",
+      "alias": "magnetic resonance imaging"
+    },
+    {
+      "text": "CT",
+      "type": "alias",
+      "alias": "computed tomography"
+    },
+    {
+      "text": "EKG",
+      "type": "alias",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "ECG",
+      "type": "alias",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "EEG",
+      "type": "alias",
+      "alias": "electroencephalogram"
+    },
+    {
+      "text": "BUN",
+      "type": "alias",
+      "alias": "blood urea nitrogen"
     }
   ]
 }

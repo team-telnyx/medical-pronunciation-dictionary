@@ -2,71 +2,6 @@
   "name": "Medical Pronunciations 03",
   "items": [
     {
-      "text": "GCS",
-      "type": "alias",
-      "alias": "Glasgow Coma Scale"
-    },
-    {
-      "text": "HEENT",
-      "type": "alias",
-      "alias": "head eyes ears nose and throat"
-    },
-    {
-      "text": "CV",
-      "type": "alias",
-      "alias": "cardiovascular"
-    },
-    {
-      "text": "GI",
-      "type": "alias",
-      "alias": "gastrointestinal"
-    },
-    {
-      "text": "GU",
-      "type": "alias",
-      "alias": "genitourinary"
-    },
-    {
-      "text": "MSK",
-      "type": "alias",
-      "alias": "musculoskeletal"
-    },
-    {
-      "text": "Neuro",
-      "type": "alias",
-      "alias": "NEU-roh"
-    },
-    {
-      "text": "ENT",
-      "type": "alias",
-      "alias": "ear nose and throat"
-    },
-    {
-      "text": "OB",
-      "type": "alias",
-      "alias": "obstetrics"
-    },
-    {
-      "text": "GYN",
-      "type": "alias",
-      "alias": "gynecology"
-    },
-    {
-      "text": "LMP",
-      "type": "alias",
-      "alias": "last menstrual period"
-    },
-    {
-      "text": "EDC",
-      "type": "alias",
-      "alias": "estimated date of confinement"
-    },
-    {
-      "text": "NS",
-      "type": "alias",
-      "alias": "normal saline"
-    },
-    {
       "text": "LR",
       "type": "alias",
       "alias": "lactated Ringer's"
@@ -192,11 +127,6 @@
       "alias": "social history"
     },
     {
-      "text": "sarcoidosis",
-      "type": "alias",
-      "alias": "SAR-koy-DOH-sis"
-    },
-    {
       "text": "stridor",
       "type": "alias",
       "alias": "STRY-dor"
@@ -205,11 +135,6 @@
       "text": "coryza",
       "type": "alias",
       "alias": "koh-RY-zah"
-    },
-    {
-      "text": "esophagitis",
-      "type": "alias",
-      "alias": "ee-sof-ah-JY-tis"
     },
     {
       "text": "hematemesis",
@@ -247,11 +172,6 @@
       "alias": "FYOOR-ung-kul"
     },
     {
-      "text": "carbuncle",
-      "type": "alias",
-      "alias": "KAR-bung-kul"
-    },
-    {
       "text": "pruritus",
       "type": "alias",
       "alias": "proo-RY-tus"
@@ -267,11 +187,6 @@
       "alias": "PAP-yool"
     },
     {
-      "text": "fissure",
-      "type": "alias",
-      "alias": "FISH-ur"
-    },
-    {
       "text": "mastectomy",
       "type": "alias",
       "alias": "mas-TEK-toh-mee"
@@ -285,11 +200,6 @@
       "text": "endoscopy",
       "type": "alias",
       "alias": "en-DOS-koh-pee"
-    },
-    {
-      "text": "vagotomy",
-      "type": "alias",
-      "alias": "vay-GOT-oh-mee"
     },
     {
       "text": "fornix",
@@ -332,19 +242,9 @@
       "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
     },
     {
-      "text": "vena cava",
-      "type": "alias",
-      "alias": "VEE-nah KAY-vah"
-    },
-    {
       "text": "foramina",
       "type": "alias",
       "alias": "fo-RAM-ih-nah"
-    },
-    {
-      "text": "cauda equina",
-      "type": "alias",
-      "alias": "KAW-dah eh-KWY-nah"
     },
     {
       "text": "ganglion",

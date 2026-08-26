@@ -102,7 +102,7 @@
     "alias": "ny-KAR-di-peen",
     "ipa": "naɪˈkɑr.dɪˌpin",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "nitroglycerin",
@@ -130,7 +130,7 @@
     "alias": "spir-oh-no-LAK-tone",
     "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "furosemide",
@@ -249,7 +249,7 @@
     "alias": "FLEH-ka-nide",
     "ipa": "ˈflɛkənaɪd",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "mexiletine",
@@ -445,7 +445,7 @@
     "alias": "lin-ah-GLIP-tin",
     "ipa": "ˌlɪnəˈɡlɪptɪn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "saxagliptin",
@@ -613,7 +613,7 @@
     "alias": "sip-roh-FLOX-ah-sin",
     "ipa": "ˌsaɪproʊˈflɑːksəsɪn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "clindamycin",
@@ -704,7 +704,7 @@
     "alias": "sef-try-AX-one",
     "ipa": "ˌsɛftraɪˈæksoʊn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "cefepime",
@@ -921,7 +921,7 @@
     "alias": "dye-KLOH-fen-ak",
     "ipa": "daɪˈkloʊfənæk",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "ketorolac",
@@ -1068,7 +1068,7 @@
     "alias": "lah-KOH-sah-mide",
     "ipa": "ləˈkoʊsəmaɪd",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "rufinamide",
@@ -1187,7 +1187,7 @@
     "alias": "met-oh-KLOH-prah-mide",
     "ipa": "məˌtoʊkloʊˈpræmaɪd",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "promethazine",
@@ -1467,7 +1467,7 @@
     "alias": "des-ven-la-FAK-seen",
     "ipa": "dɛzˈvɛnələˌfæksiːn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "milnacipran",
@@ -1614,7 +1614,7 @@
     "alias": "ris-PER-ih-done",
     "ipa": "rɪˈspɛrɪdoʊn",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "paliperidone",
@@ -2111,7 +2111,7 @@
     "alias": "TOE-sih-LIZ-ue-mab",
     "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "sarilumab",
@@ -2762,7 +2762,7 @@
     "alias": "eh-PROH-dool",
     "ipa": "ɛˈprɑduəl",
     "category": "drug",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "onabotulinumtoxinA",
@@ -4106,7 +4106,7 @@
     "alias": "SAR-koy-DOH-sis",
     "ipa": "ˌsɑːrkɔɪˈdoʊsɪs",
     "category": "clinical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "tuberculosis",
@@ -4190,7 +4190,7 @@
     "alias": "ee-sof-ah-JY-tis",
     "ipa": "ɪˌsɑːfəˈdʒaɪtɪs",
     "category": "clinical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "gastritis",
@@ -5107,7 +5107,7 @@
     "alias": "KAR-bung-kul",
     "ipa": "ˈkɑːrbʌŋkəl",
     "category": "clinical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "impetigo",
@@ -5324,7 +5324,7 @@
     "alias": "FISH-ur",
     "ipa": "ˈfɪʃər",
     "category": "clinical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "atrophy",
@@ -5667,7 +5667,7 @@
     "alias": "vay-GOT-oh-mee",
     "ipa": "veɪˈɡɑtəmi",
     "category": "clinical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "epithelium",
@@ -6465,7 +6465,7 @@
     "alias": "VEE-nah KAY-vah",
     "ipa": "ˈvinə ˈkeɪvə",
     "category": "anatomical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "pulmonary trunk",
@@ -6598,7 +6598,7 @@
     "alias": "KAW-dah eh-KWY-nah",
     "ipa": "ˈkɔːdə ɪˈkwaɪnə",
     "category": "anatomical",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   {
     "text": "filum terminale",
