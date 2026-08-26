@@ -72,7 +72,7 @@
   "nicardipine": {
     "alias": "ny-KAR-di-peen",
     "ipa": "naɪˈkɑr.dɪˌpin",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "nitroglycerin": {
     "alias": "ny-tro-GLIS-er-in",
@@ -92,7 +92,7 @@
   "spironolactone": {
     "alias": "spir-oh-no-LAK-tone",
     "ipa": "ˌspaɪ.rə.noʊˈlæk.toʊn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "furosemide": {
     "alias": "fur-OH-se-mide",
@@ -177,7 +177,7 @@
   "flecainide": {
     "alias": "FLEH-ka-nide",
     "ipa": "ˈflɛkənaɪd",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "mexiletine": {
     "alias": "mex-IL-eh-teen",
@@ -317,7 +317,7 @@
   "linagliptin": {
     "alias": "lin-ah-GLIP-tin",
     "ipa": "ˌlɪnəˈɡlɪptɪn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "saxagliptin": {
     "alias": "sax-ah-GLIP-tin",
@@ -437,7 +437,7 @@
   "ciprofloxacin": {
     "alias": "sip-roh-FLOX-ah-sin",
     "ipa": "ˌsaɪproʊˈflɑːksəsɪn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "clindamycin": {
     "alias": "klin-dah-MY-sin",
@@ -502,7 +502,7 @@
   "ceftriaxone": {
     "alias": "sef-try-AX-one",
     "ipa": "ˌsɛftraɪˈæksoʊn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "cefepime": {
     "alias": "SEF-e-peem",
@@ -657,7 +657,7 @@
   "diclofenac": {
     "alias": "dye-KLOH-fen-ak",
     "ipa": "daɪˈkloʊfənæk",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "ketorolac": {
     "alias": "kee-TOR-oh-lak",
@@ -762,7 +762,7 @@
   "lacosamide": {
     "alias": "lah-KOH-sah-mide",
     "ipa": "ləˈkoʊsəmaɪd",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "rufinamide": {
     "alias": "roo-FIN-ah-mide",
@@ -847,7 +847,7 @@
   "metoclopramide": {
     "alias": "met-oh-KLOH-prah-mide",
     "ipa": "məˌtoʊkloʊˈpræmaɪd",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "promethazine": {
     "alias": "proh-METH-ah-zeen",
@@ -1047,7 +1047,7 @@
   "desvenlafaxine": {
     "alias": "des-ven-la-FAK-seen",
     "ipa": "dɛzˈvɛnələˌfæksiːn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "milnacipran": {
     "alias": "mil-NA-si-pran",
@@ -1152,7 +1152,7 @@
   "risperidone": {
     "alias": "ris-PER-ih-done",
     "ipa": "rɪˈspɛrɪdoʊn",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "paliperidone": {
     "alias": "pal-ee-PER-ih-done",
@@ -1507,7 +1507,7 @@
   "tocilizumab": {
     "alias": "TOE-sih-LIZ-ue-mab",
     "ipa": "ˌtoʊsɪˈlɪzjʊˌmæb",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "sarilumab": {
     "alias": "sar-IL-ue-mab",
@@ -1972,7 +1972,7 @@
   "eprodual": {
     "alias": "eh-PROH-dool",
     "ipa": "ɛˈprɑduəl",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "onabotulinumtoxinA": {
     "alias": "on-ah-BOT-yoo-ly-num-TOX-in ay",
@@ -2932,7 +2932,7 @@
   "sarcoidosis": {
     "alias": "SAR-koy-DOH-sis",
     "ipa": "ˌsɑːrkɔɪˈdoʊsɪs",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "tuberculosis": {
     "alias": "too-BER-kyoo-LOH-sis",
@@ -2992,7 +2992,7 @@
   "esophagitis": {
     "alias": "ee-sof-ah-JY-tis",
     "ipa": "ɪˌsɑːfəˈdʒaɪtɪs",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "gastritis": {
     "alias": "gas-TRY-tis",
@@ -3647,7 +3647,7 @@
   "carbuncle": {
     "alias": "KAR-bung-kul",
     "ipa": "ˈkɑːrbʌŋkəl",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "impetigo": {
     "alias": "im-peh-TY-goh",
@@ -3802,7 +3802,7 @@
   "fissure": {
     "alias": "FISH-ur",
     "ipa": "ˈfɪʃər",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "atrophy": {
     "alias": "AT-roh-fee",
@@ -4047,7 +4047,7 @@
   "vagotomy": {
     "alias": "vay-GOT-oh-mee",
     "ipa": "veɪˈɡɑtəmi",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "epithelium": {
     "alias": "eh-pih-THEE-lee-um",
@@ -4617,7 +4617,7 @@
   "vena cava": {
     "alias": "VEE-nah KAY-vah",
     "ipa": "ˈvinə ˈkeɪvə",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "pulmonary trunk": {
     "alias": "PUL-mah-nair-ee trunk",
@@ -4712,7 +4712,7 @@
   "cauda equina": {
     "alias": "KAW-dah eh-KWY-nah",
     "ipa": "ˈkɔːdə ɪˈkwaɪnə",
-    "telnyx_naturalhd_verdict": "HELPS"
+    "telnyx_naturalhd_verdict": "HURTS"
   },
   "filum terminale": {
     "alias": "FY-lum ter-mih-NAH-lee",

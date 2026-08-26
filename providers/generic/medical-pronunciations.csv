@@ -13,11 +13,11 @@ enalapril,e-NAL-a-pril,ɪˈnæ.lə.prɪl,drug,WASH
 ramipril,ra-MI-pril,ræˈmɪ.prɪl,drug,WASH
 felodipine,fe-LOE-di-peen,fɪˈloʊ.dɪˌpin,drug,HURTS
 nimodipine,ny-MOE-di-peen,naɪˈmoʊ.dɪˌpin,drug,HELPS
-nicardipine,ny-KAR-di-peen,naɪˈkɑr.dɪˌpin,drug,HELPS
+nicardipine,ny-KAR-di-peen,naɪˈkɑr.dɪˌpin,drug,HURTS
 nitroglycerin,ny-tro-GLIS-er-in,ˌnaɪ.trəˈɡlɪ.sə.rɪn,drug,HURTS
 hydralazine,hy-DRAL-a-zeen,haɪˈdræ.ləˌzin,drug,HELPS
 clonidine,KLON-i-deen,ˈkloʊ.nɪˌdin,drug,HURTS
-spironolactone,spir-oh-no-LAK-tone,ˌspaɪ.rə.noʊˈlæk.toʊn,drug,HELPS
+spironolactone,spir-oh-no-LAK-tone,ˌspaɪ.rə.noʊˈlæk.toʊn,drug,HURTS
 furosemide,fur-OH-se-mide,fʊˈroʊsəmaɪd,drug,WASH
 hydrochlorothiazide,hy-dro-KLOR-oh-THY-a-zide,ˌhaɪ.droʊˌklɔr.oʊˈθaɪ.əˌzaɪd,drug,WASH
 triamterene,try-AM-ter-een,traɪˈæm.tərˌin,drug,HELPS
@@ -34,7 +34,7 @@ amiodarone,am-ee-OH-da-rone,əˈmiːoʊdəroʊn,drug,HELPS
 dronedarone,droe-NEH-da-rone,droʊˈnɛdəroʊn,drug,HURTS
 sotalol,SOH-ta-lol,ˈsoʊtəlɔːl,drug,WASH
 propafenone,pro-PAF-eh-none,proʊˈpæfənoʊn,drug,WASH
-flecainide,FLEH-ka-nide,ˈflɛkənaɪd,drug,HELPS
+flecainide,FLEH-ka-nide,ˈflɛkənaɪd,drug,HURTS
 mexiletine,mex-IL-eh-teen,mɛkˈsɪlətiːn,drug,HURTS
 isosorbide dinitrate,eye-so-SOR-bide dye-NYE-trate,aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt,drug,HURTS
 isosorbide mononitrate,eye-so-SOR-bide mon-oh-NYE-trate,aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt,drug,WASH
@@ -62,7 +62,7 @@ glipizide,GLIP-i-zide,ˈɡlɪpəzaɪd,drug,WASH
 glyburide,GLY-bur-ide,ˈɡlaɪbjʊˌraɪd,drug,HURTS
 pioglitazone,py-oh-GLIT-ah-zone,ˌpaɪoʊɡlɪˈtæzoʊn,drug,WASH
 sitagliptin,sit-ah-GLIP-tin,ˌsɪtəˈɡlɪptɪn,drug,HELPS
-linagliptin,lin-ah-GLIP-tin,ˌlɪnəˈɡlɪptɪn,drug,HELPS
+linagliptin,lin-ah-GLIP-tin,ˌlɪnəˈɡlɪptɪn,drug,HURTS
 saxagliptin,sax-ah-GLIP-tin,ˌsæksəˈɡlɪptɪn,drug,WASH
 alogliptin,al-oh-GLIP-tin,ˌæloʊˈɡlɪptɪn,drug,WASH
 empagliflozin,em-pah-gli-FLOH-zin,ˌɛmpəɡlɪˈfloʊzɪn,drug,HELPS
@@ -86,7 +86,7 @@ amoxicillin,ah-MOX-i-sil-in,əˌmɑːksɪˈsɪlɪn,drug,WASH
 amoxicillin clavulanate,ah-MOX-i-sil-in klav-yoo-LAN-ate,əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt,drug,HURTS
 azithromycin,ah-ZITH-roh-my-sin,æˌzɪθroʊˈmaɪsɪn,drug,WASH
 cephalexin,sef-ah-LEX-in,ˌsɛfəˈlɛksɪn,drug,WASH
-ciprofloxacin,sip-roh-FLOX-ah-sin,ˌsaɪproʊˈflɑːksəsɪn,drug,HELPS
+ciprofloxacin,sip-roh-FLOX-ah-sin,ˌsaɪproʊˈflɑːksəsɪn,drug,HURTS
 clindamycin,klin-dah-MY-sin,ˌklɪndəˈmaɪsɪn,drug,HELPS
 doxycycline,dok-see-SY-kleen,ˌdɑːksiˈsaɪkliːn,drug,HURTS
 metronidazole,me-tro-NI-da-zole,ˌmɛtrəˈnaɪdəzoʊl,drug,WASH
@@ -99,7 +99,7 @@ moxifloxacin,mox-i-FLOX-a-sin,ˌmɑksɪˈflɑksəsɪn,drug,WASH
 cefdinir,SEF-di-ner,ˈsɛfdɪnɪr,drug,WASH
 cefaclor,SEF-a-klor,ˈsɛfəklɔr,drug,WASH
 cefuroxime,se-fyoor-OX-eem,ˌsɛfjʊˈrɑksiːm,drug,HELPS
-ceftriaxone,sef-try-AX-one,ˌsɛftraɪˈæksoʊn,drug,HELPS
+ceftriaxone,sef-try-AX-one,ˌsɛftraɪˈæksoʊn,drug,HURTS
 cefepime,SEF-e-peem,ˈsɛfəpiːm,drug,HELPS
 meropenem,mer-oh-PEN-em,məˈrɑpənɛm,drug,HURTS
 ertapenem,er-ta-PEN-em,ˌɛrtəˈpiːnɛm,drug,HELPS
@@ -130,7 +130,7 @@ ibuprofen,eye-byoo-PROH-fen,ˌaɪbjuˈproʊfən,drug,WASH
 naproxen,nah-PROK-sen,nəˈprɑksən,drug,HELPS
 celecoxib,sel-eh-KOK-sib,səˈlɛksɪb,drug,WASH
 meloxicam,mel-OK-sih-kam,məˈlɑksɪkæm,drug,HURTS
-diclofenac,dye-KLOH-fen-ak,daɪˈkloʊfənæk,drug,HELPS
+diclofenac,dye-KLOH-fen-ak,daɪˈkloʊfənæk,drug,HURTS
 ketorolac,kee-TOR-oh-lak,kiˈtɔrəlæk,drug,HURTS
 indomethacin,in-doh-METH-ah-sin,ˌɪndoʊˈmɛθəsɪn,drug,HURTS
 nabumetone,na-BYOO-meh-tone,nəˈbjumətoʊn,drug,WASH
@@ -151,7 +151,7 @@ levetiracetam,lev-eh-TIHR-ah-seh-tam,ləˌvɛtɪˈræsɪtæm,drug,HURTS
 phenytoin,FEN-ih-toh-in,fəˈnɪtoʊɪn,drug,WASH
 valproic acid,val-PROH-ik AS-id,vælˈproʊɪk ˈæsɪd,drug,HURTS
 zonisamide,zoh-NIS-ah-mide,zoʊˈnɪsəmaɪd,drug,HELPS
-lacosamide,lah-KOH-sah-mide,ləˈkoʊsəmaɪd,drug,HELPS
+lacosamide,lah-KOH-sah-mide,ləˈkoʊsəmaɪd,drug,HURTS
 rufinamide,roo-FIN-ah-mide,ruˈfɪnəmaɪd,drug,HELPS
 omeprazole,oh-MEP-rah-zole,oʊˈmɛprəzoʊl,drug,HURTS
 pantoprazole,pan-TOH-prah-zole,pænˈtoʊprəzoʊl,drug,HELPS
@@ -168,7 +168,7 @@ simethicone,sy-METH-ih-kone,saɪˈmɛθɪkoʊn,drug,WASH
 ondansetron,on-DAN-seh-tron,ɒnˈdænsətrɒn,drug,HELPS
 granisetron,gran-IS-eh-tron,ɡrəˈnɪsətrɒn,drug,WASH
 palonosetron,pal-oh-NOH-seh-tron,pəˌloʊnəˈsɛtrɒn,drug,HURTS
-metoclopramide,met-oh-KLOH-prah-mide,məˌtoʊkloʊˈpræmaɪd,drug,HELPS
+metoclopramide,met-oh-KLOH-prah-mide,məˌtoʊkloʊˈpræmaɪd,drug,HURTS
 promethazine,proh-METH-ah-zeen,proʊˈmɛθəziːn,drug,HURTS
 prochlorperazine,proh-klor-PER-ah-zeen,proʊˌklɔːrˈpɛrəziːn,drug,WASH
 loperamide,loh-PER-ah-mide,loʊˈpɛrəmaɪd,drug,WASH
@@ -208,7 +208,7 @@ escitalopram,es-sit-AL-oh-pram,ˌɛsɪˈtæləpræm,drug,HURTS
 citalopram,sit-AL-oh-pram,sɪˈtæləpræm,drug,HURTS
 paroxetine,pa-ROK-seh-teen,pəˈrɑːksətiːn,drug,HURTS
 venlafaxine,ven-la-FAK-seen,vɛnˈlæfəksiːn,drug,HURTS
-desvenlafaxine,des-ven-la-FAK-seen,dɛzˈvɛnələˌfæksiːn,drug,HELPS
+desvenlafaxine,des-ven-la-FAK-seen,dɛzˈvɛnələˌfæksiːn,drug,HURTS
 milnacipran,mil-NA-si-pran,mɪlˈnæsɪpræn,drug,HURTS
 bupropion,byoo-PRO-pee-on,bjuˈproʊpiɑn,drug,WASH
 mirtazapine,mir-TAZ-a-peen,mɪrˈtæzəpin,drug,HELPS
@@ -229,7 +229,7 @@ rasagiline,ra-SAJ-ih-leen,rəˈsædʒəlin,drug,HURTS
 aripiprazole,a-RIP-ip-ra-zole,əˈrɪpɪprəzoʊl,drug,WASH
 olanzapine,oh-LAN-zah-peen,oʊˈlænzəpin,drug,WASH
 quetiapine,kwe-TIE-ah-peen,kwɛˈtaɪəpin,drug,HURTS
-risperidone,ris-PER-ih-done,rɪˈspɛrɪdoʊn,drug,HELPS
+risperidone,ris-PER-ih-done,rɪˈspɛrɪdoʊn,drug,HURTS
 paliperidone,pal-ee-PER-ih-done,pəˈlɪpərɪdoʊn,drug,HURTS
 ziprasidone,zip-RAS-ih-done,zɪˈpræsɪdoʊn,drug,HURTS
 lurasidone,loo-RAS-ih-done,lʊˈræsɪdoʊn,drug,HELPS
@@ -300,7 +300,7 @@ etanercept,e-TAN-er-sept,ɪˈtænɚsɛpt,drug,HURTS
 infliximab,in-FLIK-si-mab,ɪnˈflɪksɪmæb,drug,WASH
 certolizumab,ser-toh-LIZ-oo-mab,ˌsɜːrtoʊˈlɪzjuːmæb,drug,HELPS
 golimumab,go-LIM-ue-mab,ɡoʊˈlɪmjʊˌmæb,drug,HELPS
-tocilizumab,TOE-sih-LIZ-ue-mab,ˌtoʊsɪˈlɪzjʊˌmæb,drug,HELPS
+tocilizumab,TOE-sih-LIZ-ue-mab,ˌtoʊsɪˈlɪzjʊˌmæb,drug,HURTS
 sarilumab,sar-IL-ue-mab,ˌsærɪˈluːmæb,drug,HELPS
 ustekinumab,US-te-KIN-ue-mab,ˌʌstəˈkɪnjʊˌmæb,drug,HURTS
 secukinumab,SEK-ue-KIN-ue-mab,ˌsɛkjʊˈkɪnjʊˌmæb,drug,WASH
@@ -393,7 +393,7 @@ rimegepant,rih-MEH-jeh-pant,rɪˈmɛdʒɪpænt,drug,HELPS
 erenumab,eh-REH-nyoo-mab,ɛˈrɛnjʊmæb,drug,WASH
 fremanezumab,freh-mah-NEH-zoo-mab,friˈmænɪzʊmæb,drug,WASH
 galcanezumab,gal-kah-NEH-zoo-mab,ɡælˈkænɪzʊmæb,drug,WASH
-eprodual,eh-PROH-dool,ɛˈprɑduəl,drug,HELPS
+eprodual,eh-PROH-dool,ɛˈprɑduəl,drug,HURTS
 onabotulinumtoxinA,on-ah-BOT-yoo-ly-num-TOX-in ay,ɑnəbəˌtulɪnəmˈtɑksɪn eɪ,drug,HURTS
 MI,myocardial infarction,ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən,acronym,HELPS
 COPD,chronic obstructive pulmonary disease,ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz,acronym,HELPS
@@ -585,7 +585,7 @@ atelectasis,at-ih-LEK-tah-sis,ˌætəˈlɛktəsɪs,clinical,HURTS
 pulmonary embolism,PUL-moh-nair-ee EM-bol-izm,ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm,clinical,WASH
 pulmonary edema,PUL-moh-nair-ee eh-DEE-mah,ˈpʊlməˌnɛri ɪˈdiːmə,clinical,HURTS
 pulmonary fibrosis,PUL-moh-nair-ee fy-BROH-sis,ˈpʊlməˌnɛri faɪˈbroʊsɪs,clinical,WASH
-sarcoidosis,SAR-koy-DOH-sis,ˌsɑːrkɔɪˈdoʊsɪs,clinical,HELPS
+sarcoidosis,SAR-koy-DOH-sis,ˌsɑːrkɔɪˈdoʊsɪs,clinical,HURTS
 tuberculosis,too-BER-kyoo-LOH-sis,tuːˌbɜːrkjəˈloʊsɪs,clinical,WASH
 hypoxia,hy-POK-see-ah,haɪˈpɑːksiə,clinical,WASH
 hypercapnia,hy-per-KAP-nee-ah,ˌhaɪpərˈkæpniə,clinical,WASH
@@ -597,7 +597,7 @@ stridor,STRY-dor,ˈstraɪdɔːr,clinical,HELPS
 wheezing,WEE-zing,ˈwiːzɪŋ,clinical,WASH
 coryza,koh-RY-zah,kəˈraɪzə,clinical,HELPS
 gastroesophageal reflux,GAS-troh-ee-sof-ah-JEE-al REE-fluks,ˌɡæstroʊɪˌsɑːfəˈdʒiəl ˈriːflʌks,clinical,WASH
-esophagitis,ee-sof-ah-JY-tis,ɪˌsɑːfəˈdʒaɪtɪs,clinical,HELPS
+esophagitis,ee-sof-ah-JY-tis,ɪˌsɑːfəˈdʒaɪtɪs,clinical,HURTS
 gastritis,gas-TRY-tis,ɡæˈstraɪtɪs,clinical,HURTS
 peptic ulcer,PEP-tik UL-ser,ˈpɛptɪk ˈʌlsɚ,clinical,HURTS
 gastroenteritis,gas-tro-en-ter-EYE-tis,ˌɡæstroʊˌɛntɚˈaɪtɪs,clinical,WASH
@@ -728,7 +728,7 @@ hemolysis,hee-MOL-ih-sis,hɪˈmɒlɪsɪs,clinical,WASH
 cellulitis,sel-yoo-LY-tis,ˌsɛljuˈlaɪtɪs,clinical,HURTS
 abscess,AB-ses,ˈæbsɛs,clinical,WASH
 furuncle,FYOOR-ung-kul,ˈfjʊrʌŋkəl,clinical,HELPS
-carbuncle,KAR-bung-kul,ˈkɑːrbʌŋkəl,clinical,HELPS
+carbuncle,KAR-bung-kul,ˈkɑːrbʌŋkəl,clinical,HURTS
 impetigo,im-peh-TY-goh,ˌɪmpɪˈtaɪɡoʊ,clinical,HURTS
 erysipelas,er-ih-SIP-eh-las,ˌɛrɪˈsɪpələs,clinical,HURTS
 necrotizing fasciitis,NEK-roh-ty-zing fash-ee-EYE-tis,ˈnɛkrətaɪzɪŋ fəˈʃaɪtɪs,clinical,WASH
@@ -759,7 +759,7 @@ scale,SKAYL,skˈeɪl,clinical,WASH
 crust,KRUST,krˈʌst,clinical,WASH
 erosion,ee-ROH-zhun,ɪˈroʊʒən,clinical,WASH
 ulcer,UL-ser,ˈʌlsər,clinical,WASH
-fissure,FISH-ur,ˈfɪʃər,clinical,HELPS
+fissure,FISH-ur,ˈfɪʃər,clinical,HURTS
 atrophy,AT-roh-fee,ˈætrəfi,clinical,WASH
 sclerosis,skleh-ROH-sis,skləˈroʊsɪs,clinical,HURTS
 appendectomy,ap-en-DEK-toh-mee,ˌæpənˈdɛktəmi,clinical,WASH
@@ -808,7 +808,7 @@ discectomy,dis-EK-toh-mee,dɪˈskɛktəmi,clinical,HURTS
 rhizotomy,ry-ZOT-oh-mee,raɪˈzɑtəmi,clinical,WASH
 neurectomy,nyoo-REK-toh-mee,nʊˈrɛktəmi,clinical,WASH
 sympathectomy,sim-pah-THEK-toh-mee,ˌsɪmpəˈθɛktəmi,clinical,WASH
-vagotomy,vay-GOT-oh-mee,veɪˈɡɑtəmi,clinical,HELPS
+vagotomy,vay-GOT-oh-mee,veɪˈɡɑtəmi,clinical,HURTS
 epithelium,eh-pih-THEE-lee-um,ˌɛpəˈθiliəm,anatomical,HURTS
 endothelium,en-doh-THEE-lee-um,ˌɛndoʊˈθiliəm,anatomical,WASH
 mesothelium,meh-zoh-THEE-lee-um,ˌmɛzoʊˈθiliəm,anatomical,HURTS
@@ -922,7 +922,7 @@ atrioventricular,ay-tree-oh-ven-TRIK-yoo-lar,ˌeɪtrioʊvɛnˈtrɪkjələr,anato
 ventricular,ven-TRIK-yoo-lar,vɛnˈtrɪkjələr,anatomical,WASH
 sinoatrial,sigh-noh-AY-tree-al,ˌsaɪnoʊˈeɪtriəl,anatomical,HURTS
 coronary sinus,KOR-ah-nair-ee SIGH-nus,ˈkɔrənɛri ˈsaɪnəs,anatomical,HURTS
-vena cava,VEE-nah KAY-vah,ˈvinə ˈkeɪvə,anatomical,HELPS
+vena cava,VEE-nah KAY-vah,ˈvinə ˈkeɪvə,anatomical,HURTS
 pulmonary trunk,PUL-mah-nair-ee trunk,ˈpʊlmənɛri trʌŋk,anatomical,HURTS
 aorta,ay-OR-tah,eɪˈɔrtə,anatomical,HURTS
 carotid,kah-ROT-id,kəˈrɑtɪd,anatomical,WASH
@@ -941,7 +941,7 @@ ventricles,VEN-trih-kulz,ˈvɛntrɪkəlz,anatomical,HURTS
 foramina,fo-RAM-ih-nah,fəˈræmɪnə,anatomical,HELPS
 aqueduct,AK-weh-dukt,ˈækwɪdʌkt,anatomical,HURTS
 choroid plexus,KOR-oyd PLEK-sus,ˈkɔːrɔɪd ˈplɛksəs,anatomical,WASH
-cauda equina,KAW-dah eh-KWY-nah,ˈkɔːdə ɪˈkwaɪnə,anatomical,HELPS
+cauda equina,KAW-dah eh-KWY-nah,ˈkɔːdə ɪˈkwaɪnə,anatomical,HURTS
 filum terminale,FY-lum ter-mih-NAH-lee,ˈfaɪləm ˌtɝːmɪˈnɑːli,anatomical,WASH
 conus medullaris,KOH-nus med-yoo-LAR-is,ˈkoʊnəs ˌmɛdʒəˈlɛrɪs,anatomical,WASH
 dorsal root,DOR-sal ROOT,ˈdɔːrsəl ruːt,anatomical,WASH

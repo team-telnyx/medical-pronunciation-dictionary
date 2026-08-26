@@ -2,11 +2,11 @@
 
 Prepackaged medical pronunciation dictionary for voice AI TTS engines. 966 drugs, clinical terms, anatomical terms, and medical acronyms with both phonetic alias and IPA pronunciations. Imports into Telnyx, ElevenLabs, Vapi, Retell, and Amazon Polly.
 
-Every alias was tested against a real TTS engine. The alias packs ship only the 271 entries that measurably improve pronunciation, because 309 of the other 695 made it **worse**. See [Which entries ship](#which-entries-ship).
+Every alias was tested against a real TTS engine. The alias packs ship only the 251 entries that measurably improve pronunciation, because 329 of the other 715 made it **worse**. See [Which entries ship](#which-entries-ship).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Terms](https://img.shields.io/badge/terms-966-brightgreen)]()
-[![Verified aliases](https://img.shields.io/badge/verified%20aliases-271-brightgreen)]()
+[![Verified aliases](https://img.shields.io/badge/verified%20aliases-251-brightgreen)]()
 [![Providers](https://img.shields.io/badge/providers-5-blue)]()
 [![Formats](https://img.shields.io/badge/formats-alias%20%2B%20IPA-orange)]()
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)]()
@@ -24,7 +24,7 @@ python3 import_to_telnyx.py --dry-run   # preview
 python3 import_to_telnyx.py             # create
 ```
 
-Reads `providers/telnyx/` and creates 3 pronunciation dictionaries in your Telnyx account, 271 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
+Reads `providers/telnyx/` and creates 3 pronunciation dictionaries in your Telnyx account, 251 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
 
 There are two Telnyx packs. The default is alias, because alias works on every Telnyx voice. IPA phonemes only work on **Telnyx Ultra, MiniMax and Inworld**, and on any other voice they make pronunciation worse rather than being ignored. If you are on one of those three engines:
 
@@ -112,42 +112,68 @@ All 966 terms were rendered twice on `Telnyx.NaturalHD.astra`, with and without 
 
 | Verdict | Terms | Meaning |
 |---------|-------|---------|
-| HELPS | 271 | the alias fixes a real mispronunciation |
+| HELPS | 251 | the alias fixes a real mispronunciation |
 | WASH | 386 | no audible improvement |
-| HURTS | 309 | the alias makes a correctly-pronounced word worse |
+| HURTS | 329 | the alias makes a correctly-pronounced word worse |
 
 It splits almost entirely by category:
 
 | Category | Helps | Hurts |
 |----------|-------|-------|
 | acronym (149) | **91%** | 1% |
-| drug (398) | 26% | 30% |
-| anatomical (150) | 9% | 38% |
-| clinical (269) | 7% | **48%** |
+| drug (398) | 23% | 33% |
+| anatomical (150) | 7% | 39% |
+| clinical (269) | 6% | **50%** |
 
 Acronym aliases are spoken expansions (`MI` -> "myocardial infarction") that the engine reads fluently. The other categories use hyphenated respellings, and the engine reads those syllable by syllable: `encephalopathy` becomes "un say fa lop a v" on a word it already said correctly.
 
-So the alias-based outputs ship the 271 that help. Phoneme-based outputs still carry all 966, because the fragmentation is an alias-tokenisation problem and no phoneme engine has been measured.
+So the alias-based outputs ship the 251 that help. Phoneme-based outputs still carry all 966, because the fragmentation is an alias-tokenisation problem and no phoneme engine has been measured.
 
 | Output | Terms | Filtered? |
 |--------|-------|-----------|
-| `providers/telnyx/` | 271 | yes, alias |
-| `pls/`, `txt/` | 271 | yes, alias-only exports |
-| `providers/elevenlabs/` | 966 lexemes | phoneme on all, `<alias>` on 271 |
+| `providers/telnyx/` | 251 | yes, alias |
+| `pls/`, `txt/` | 251 | yes, alias-only exports |
+| `providers/elevenlabs/` | 966 lexemes | phoneme on all, `<alias>` on 251 |
 | `providers/telnyx-ipa/`, `amazon-polly/`, `vapi/`, `retell/` | 966 (911 for Retell) | no, phoneme |
 | `providers/generic/` | 966 | no, verdict exposed as a column |
 
 `data/terms_master.json` keeps all 966 with a `telnyx_naturalhd_verdict` field. Nothing is deleted. Per-term evidence, including both transcriptions, is in [`data/telnyx_naturalhd_audit.csv`](data/telnyx_naturalhd_audit.csv).
 
-**Caveat:** measured on one voice. A different engine may tokenise hyphenated aliases differently, so the specific 271 is Telnyx-NaturalHD-specific. The method is not.
+**Caveat:** measured on one voice. A different engine may tokenise hyphenated aliases differently, so the specific 251 is Telnyx-NaturalHD-specific. The method is not.
+
+**Re-audit:** an automated re-run of this same methodology on 2026-08-26 (`src/eval_pronunciation.py`, see [Automated eval](#automated-eval)) found 20 of the original 271 HELPS entries no longer measurably help on the current voice model and now measurably hurt; those 20 are reflected in the 251 above. The remaining ~300 verdict deltas the re-run surfaced were not adopted pending a second confirmation run, since a single day's re-audit can't distinguish real model drift from one-off noise at that scale.
+
+## Automated eval
+
+`CONTRIBUTING.md` asks contributors to render a before/after clip and judge the pair blind before setting a new term's verdict. That judgment used to require a human listener. `src/eval_pronunciation.py` automates it end to end:
+
+1. Renders the same carrier sentence twice on a real Telnyx voice, with and without a real `pronunciation_dict_id` attached.
+2. Transcribes both clips blind via Telnyx STT (the transcriber never sees the target term).
+3. Scores string similarity to the target pronunciation.
+4. Passes both transcripts, blind, to an LLM judge that calls HELPS / WASH / HURTS the same way a human would.
+5. For any term whose verdict disagrees with what's already on file, automatically re-renders and re-judges it once more, so a verdict only gets reported as a real change if it holds across two independent renders. Single-sample noise is discarded, not reported.
+
+Checkpointed and resumable: every completed term is appended to `data/eval_checkpoint.jsonl` immediately, so an interrupted run picks up exactly where it left off.
+
+```bash
+export TELNYX_API_KEY=...
+export LITELLM_KEY=...       # or point LITELLM_BASE/JUDGE_MODEL at any OpenAI-compatible chat endpoint
+export LITELLM_BASE=...
+python3 src/eval_pronunciation.py --sample 25   # spot-check across categories
+python3 src/eval_pronunciation.py --all         # full 966-term corpus
+```
+
+Output: `data/telnyx_naturalhd_audit_ai.csv` (same schema as `telnyx_naturalhd_audit.csv`, plus an `stt_model` column) and, if any verdicts disagreed with the stored audit, `data/eval_diff_report.csv` marking each as `CONFIRMED_CHANGE` or `NOISY`.
+
+As of this writing, Telnyx's `openai/whisper-large-v3-turbo` STT model is returning HTTP 500 on every call and the STT endpoint enforces an undocumented 1 request/second rate limit account-wide; the script defaults to `distil-whisper/distil-large-v2` and serializes STT calls accordingly. Check both if the script starts erroring on every term.
 
 ## Provider support
 
 | Provider | Format | Alias | IPA | Files |
 |----------|--------|-------|-----|-------|
-| Telnyx | JSON items | Yes | No | `providers/telnyx/` (3 JSON, 271 verified alias entries) |
+| Telnyx | JSON items | Yes | No | `providers/telnyx/` (3 JSON, 251 verified alias entries) |
 | Telnyx Ultra / MiniMax / Inworld | JSON items | No | Yes | `providers/telnyx-ipa/` (10 JSON, 100 phoneme entries each) |
-| Telnyx | PLS XML | Yes | No | `pls/` (6 PLS, 271 verified aliases) |
+| Telnyx | PLS XML | Yes | No | `pls/` (5 PLS, 251 verified aliases) |
 | ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS, alias + phoneme per lexeme) |
 | Vapi | JSON | No | Yes | `providers/vapi/` (1 JSON, 966 `<<ipa>>` entries) |
 | Amazon Polly | PLS XML | No | Yes | `providers/amazon-polly/` (10 PLS, phoneme only, en-US) |
@@ -177,7 +203,7 @@ medical-pronunciation-dictionary/
 │       ├── after/                       # 6 MP3 samples, dictionary attached
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
-│   ├── telnyx/                          # 3 JSON files (271 verified alias entries)
+│   ├── telnyx/                          # 3 JSON files (251 verified alias entries)
 │   ├── telnyx-ipa/                      # 10 JSON files, IPA (Ultra/MiniMax/Inworld only)
 │   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
 │   ├── vapi/                            # 1 JSON file (<<ipa>> per term)
@@ -185,13 +211,14 @@ medical-pronunciation-dictionary/
 │   ├── retell/                          # 1 JSON file (IPA only, word-level, 911 entries)
 │   ├── stt/                             # keyterms.txt (comma-separated, 966 terms)
 │   └── generic/                         # CSV (text, alias, ipa, category) + nested JSON
-├── pls/                                 # 6 W3C PLS XML files (271 verified aliases)
-├── txt/                                 # 6 plain text files (word=alias format)
+├── pls/                                 # 5 W3C PLS XML files (251 verified aliases)
+├── txt/                                 # 5 plain text files (word=alias format)
 ├── src/
 │   ├── terms.py                         # Curated term lists (966 terms)
 │   ├── generate_pronunciations.py       # Alias pronunciation generator
 │   ├── export_pls.py                    # PLS XML + plain text exporter
-│   └── generate_audio_samples.py        # Before/after audio sample generator
+│   ├── generate_audio_samples.py        # Before/after audio sample generator
+│   └── eval_pronunciation.py            # Automated before/after judge (see below)
 ├── converters/
 │   └── convert_all.py                   # Multi-provider format converter (alias + IPA)
 ├── import_to_telnyx.py                  # One-command Telnyx API import

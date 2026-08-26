@@ -114,7 +114,7 @@ NASH,acronym,non-al-ka-ho-LIK ste-to-hep-a-TI-tis,HELPS,0.556,nash,nonalcohollik
 HLD,acronym,hi-per-LIP-i-dee-mee-uh,HELPS,0.55,hiv,hyperlipideemia,The patient has a history of HLD.
 NAFLD,acronym,non-al-ka-ho-LIK FAT-ee li-VER di-ZEEZ,HELPS,0.547,nafld,nonalcohollike fatty liver disease,The patient has a history of NAFLD.
 IBD,acronym,in-FLAM-a-tor-ee bo-WEL di-ZEEZ,HELPS,0.54,ibd,inflam uh tory bowel disease,The patient has a history of IBD.
-ceftriaxone,drug,sef-try-AX-one,HELPS,0.539,sub jack son,ceph triax one,Please take your ceftriaxone as prescribed.
+ceftriaxone,drug,sef-try-AX-one,HURTS,0.539,sub jack son,ceph triax one,Please take your ceftriaxone as prescribed.
 ER,acronym,emergency room,HELPS,0.533,er,emergency,The patient has a history of ER.
 HCC,acronym,he-PAT-o-sel-YOO-ler kar-si-NO-ma,HELPS,0.532,hcc,he pat o cel u lar car ci no,The patient has a history of HCC.
 IVDU,acronym,I-V drug use,HELPS,0.529,ive do,iv drug use,The patient has a history of IVDU.
@@ -129,12 +129,12 @@ TCA,acronym,tri-SIK-lik an-TI-de-PRE-sant,HELPS,0.464,tci,tricyclical like and t
 facial,anatomical,FAY-shal,HELPS,0.462,,fayshaw,The biopsy shows inflammation in the facial.
 nimodipine,drug,ny-MOE-di-peen,HELPS,0.455,nimada penis,naimo dipine,Please take your nimodipine as prescribed.
 PVD,acronym,per-i-FER-ul vas-KYOO-ler di-ZEEZ,HELPS,0.455,pvd,per i per bull vascular disease,The patient has a history of PVD.
-carbuncle,clinical,KAR-bung-kul,HELPS,0.455,carpal tunnel,carbuncle,The patient was diagnosed with carbuncle.
+carbuncle,clinical,KAR-bung-kul,HURTS,0.455,carpal tunnel,carbuncle,The patient was diagnosed with carbuncle.
 HbA1c,acronym,hemoglobin A one C,HELPS,0.452,h b c,hemoglobin c,The patient has a history of HbA1c.
 guselkumab,drug,gus-ELK-ue-mab,HELPS,0.45,kukulva is,gus el you mab,Please take your guselkumab as prescribed.
-vagotomy,clinical,vay-GOT-oh-mee,HELPS,0.446,fagoni,vagotome,The patient was diagnosed with vagotomy.
+vagotomy,clinical,vay-GOT-oh-mee,HURTS,0.446,fagoni,vagotome,The patient was diagnosed with vagotomy.
 acini,anatomical,AS-ih-nye,HELPS,0.444,,as i,The biopsy shows inflammation in the acini.
-nicardipine,drug,ny-KAR-di-peen,HELPS,0.44,nicker de peen,nicardipine,Please take your nicardipine as prescribed.
+nicardipine,drug,ny-KAR-di-peen,HURTS,0.44,nicker de peen,nicardipine,Please take your nicardipine as prescribed.
 dexlansoprazole,drug,deks-lan-SOH-prah-zole,HELPS,0.438,decks on suprasol,dexlansoprazole,Please take your dexlansoprazole as prescribed.
 OA,acronym,os-tee-o-ar-THRI-tis,HELPS,0.431,o,o s t o r three t i s,The patient has a history of OA.
 ticagrelor,drug,tye-ka-GREL-or,HELPS,0.423,tecquerailer,taka grell or,Please take your ticagrelor as prescribed.
@@ -159,7 +159,7 @@ islets,anatomical,EYE-lets,HELPS,0.308,eyelids,eyelets,The biopsy shows inflamma
 ASTHMA,acronym,AZ-muh,HELPS,0.303,asthma,asmu,The patient has a history of ASTHMA.
 cimetidine,drug,sy-MET-ih-deen,HELPS,0.302,semidyne,cemetideine,Please take your cimetidine as prescribed.
 zonisamide,drug,zoh-NIS-ah-mide,HELPS,0.3,zenasamyda,zonisamida,Please take your zonisamide as prescribed.
-lacosamide,drug,lah-KOH-sah-mide,HELPS,0.3,lycosomitis is,lacosamity,Please take your lacosamide as prescribed.
+lacosamide,drug,lah-KOH-sah-mide,HURTS,0.3,lycosomitis is,lacosamity,Please take your lacosamide as prescribed.
 ranitidine,drug,ran-IH-tih-deen,HELPS,0.3,renatadine,ranitidine,Please take your ranitidine as prescribed.
 SHx,acronym,social history,HELPS,0.3,shacks,social,The patient has a history of SHx.
 CML,acronym,kron-ik my-eh-LOY-deh-ner-tiv le-KEE-mee-uh,HELPS,0.298,cml,chronic myaylodaaaayyyloooodehhhhhd,The patient has a history of CML.
@@ -170,13 +170,13 @@ pregabalin,drug,pree-GAB-ah-lin,HELPS,0.269,pridibillinnis,pregab all in is,Plea
 fenofibrate,drug,fen-oh-FYE-brate,HELPS,0.263,fibbrate,fenofibrate,Please take your fenofibrate as prescribed.
 hematemesis,clinical,hee-ma-TEM-eh-sis,HELPS,0.261,hymatanessus,hematemesses,The patient was diagnosed with hematemesis.
 centrilobular,anatomical,sen-trih-LOB-yoo-lar,HELPS,0.26,centrlo,centrlobular,The biopsy shows inflammation in the centrilobular.
-diclofenac,drug,dye-KLOH-fen-ak,HELPS,0.255,dyeglifinacc,diclfanack,Please take your diclofenac as prescribed.
+diclofenac,drug,dye-KLOH-fen-ak,HURTS,0.255,dyeglifinacc,diclfanack,Please take your diclofenac as prescribed.
 gentamicin,drug,jen-ta-MY-sin,HELPS,0.251,gym tanison,gen tamyosin,Please take your gentamicin as prescribed.
 golimumab,drug,go-LIM-ue-mab,HELPS,0.237,stick golly mooma ab,golim um ab this,Please take your golimumab as prescribed.
 sarilumab,drug,sar-IL-ue-mab,HELPS,0.236,cirillambus,sereliu mabus,Please take your sarilumab as prescribed.
 leukopenia,clinical,loo-koh-PEE-nee-ah,HELPS,0.222,leukemia,leukopenia,The patient was diagnosed with leukopenia.
 cefuroxime,drug,se-fyoor-OX-eem,HELPS,0.219,safooxanmis,cfeor oxym,Please take your cefuroxime as prescribed.
-vena cava,anatomical,VEE-nah KAY-vah,HELPS,0.217,with vena cava,vena cava,The biopsy shows inflammation in the vena cava.
+vena cava,anatomical,VEE-nah KAY-vah,HURTS,0.217,with vena cava,vena cava,The biopsy shows inflammation in the vena cava.
 mastectomy,clinical,mas-TEK-toh-mee,HELPS,0.216,misectome,mastec tomy,The patient was diagnosed with mastectomy.
 cytarabine,drug,sy-TAIR-a-been,HELPS,0.215,saitara beena,c taraben,Please take your cytarabine as prescribed.
 sildenafil,drug,sil-DEN-uh-fil,HELPS,0.215,civitaltel,seal den uh fill,Please take your sildenafil as prescribed.
@@ -185,22 +185,22 @@ linezolid,drug,li-NEZ-o-lid,HELPS,0.213,lens led edge prescribd,lenas o lid pres
 sialadenitis,clinical,sigh-al-a-deh-NYE-tis,HELPS,0.213,cl a denitis,si aladinitis,The patient was diagnosed with sialadenitis.
 interventricular septum,anatomical,in-ter-ven-TRIK-yoo-lar SEP-tum,HELPS,0.207,inflamation interventricular septum,interventricular septum,The biopsy shows inflammation in the interventricular septum.
 ubrogepant,drug,yoo-BROH-jeh-pant,HELPS,0.205,youbrije pad,youbro jeppant,Please take your ubrogepant as prescribed.
-metoclopramide,drug,met-oh-KLOH-prah-mide,HELPS,0.203,medical promit,met o clo promaid,Please take your metoclopramide as prescribed.
+metoclopramide,drug,met-oh-KLOH-prah-mide,HURTS,0.203,medical promit,met o clo promaid,Please take your metoclopramide as prescribed.
 lisinopril,drug,ly-SIN-oh-pril,HELPS,0.2,licenopril,lisinopril,Please take your lisinopril as prescribed.
 nilotinib,drug,ny-LOH-tin-ib,HELPS,0.2,nila ten ab,nila tin ib,Please take your nilotinib as prescribed.
 brodalumab,drug,broe-DAL-ue-mab,HELPS,0.2,brolumimab,brodalumab,Please take your brodalumab as prescribed.
 endoscopy,clinical,en-DOS-koh-pee,HELPS,0.2,endoscoppee,endoscopy,The patient was diagnosed with endoscopy.
 ganglion,anatomical,GANG-glee-on,HELPS,0.2,ganglia,ganglion,The biopsy shows inflammation in the ganglion.
-tocilizumab,drug,TOE-sih-LIZ-ue-mab,HELPS,0.197,tosalisamab,tosi lizu mab,Please take your tocilizumab as prescribed.
+tocilizumab,drug,TOE-sih-LIZ-ue-mab,HURTS,0.197,tosalisamab,tosi lizu mab,Please take your tocilizumab as prescribed.
 paclitaxel,drug,pak-li-TAKS-el,HELPS,0.19,palpa taxol,pacli tax l,Please take your paclitaxel as prescribed.
 daunorubicin,drug,daw-noh-ROO-bi-sin,HELPS,0.19,adona rubison,dono rubisin,Please take your daunorubicin as prescribed.
 gemcitabine,drug,jem-SITE-a-been,HELPS,0.188,jensibun,gemside aben,Please take your gemcitabine as prescribed.
-eprodual,drug,eh-PROH-dool,HELPS,0.183,a pradual,ea produal,Please take your eprodual as prescribed.
+eprodual,drug,eh-PROH-dool,HURTS,0.183,a pradual,ea produal,Please take your eprodual as prescribed.
 lansoprazole,drug,lan-SOH-prah-zole,HELPS,0.179,lanse prizal,lan so prozole,Please take your lansoprazole as prescribed.
 brexpiprazole,drug,brek-SIP-ra-zole,HELPS,0.176,brixit puzzle,brexit rawzolay,Please take your brexpiprazole as prescribed.
 valproate,drug,val-PRO-ate,HELPS,0.176,valprade,valproate,Please take your valproate as prescribed.
 asenapine,drug,a-SEN-a-peen,HELPS,0.176,sanapine,asenapine,Please take your asenapine as prescribed.
-flecainide,drug,FLEH-ka-nide,HELPS,0.175,flucanaidis,fleconide,Please take your flecainide as prescribed.
+flecainide,drug,FLEH-ka-nide,HURTS,0.175,flucanaidis,fleconide,Please take your flecainide as prescribed.
 atorvastatin,drug,a-TOR-va-STAT-in,HELPS,0.17,tor the staten,at torve stat in,Please take your atorvastatin as prescribed.
 armodafinil,drug,ar-mo-DAF-i-nil,HELPS,0.17,modifinel,rmodaff inil,Please take your armodafinil as prescribed.
 insulin detemir,drug,IN-suh-lin DET-uh-meer,HELPS,0.169,insulin to,insulin deer,Please take your insulin detemir as prescribed.
@@ -209,12 +209,12 @@ fornix,anatomical,FOR-niks,HELPS,0.167,formex,fornex,The biopsy shows inflammati
 APAP,acronym,acetaminophen,HELPS,0.165,apac,acidomelphin,The patient has a history of APAP.
 cisplatin,drug,sis-PLAT-in,HELPS,0.163,sis platen,cis plat in,Please take your cisplatin as prescribed.
 alirocumab,drug,a-LIR-oh-kyoo-mab,HELPS,0.162,aleraqamab,alero qumab,Please take your alirocumab as prescribed.
-spironolactone,drug,spir-oh-no-LAK-tone,HELPS,0.161,tick sparnalactone,spire oh no lactone,Please take your spironolactone as prescribed.
+spironolactone,drug,spir-oh-no-LAK-tone,HURTS,0.161,tick sparnalactone,spire oh no lactone,Please take your spironolactone as prescribed.
 foramina,anatomical,fo-RAM-ih-nah,HELPS,0.16,biopsies foramina,forramaid na,The biopsy shows inflammation in the foramina.
-risperidone,drug,ris-PER-ih-done,HELPS,0.157,resprouted on,riz per ive done,Please take your risperidone as prescribed.
+risperidone,drug,ris-PER-ih-done,HURTS,0.157,resprouted on,riz per ive done,Please take your risperidone as prescribed.
 furuncle,clinical,FYOOR-ung-kul,HELPS,0.157,farunkl,feur uncl,The patient was diagnosed with furuncle.
 fludrocortisone,drug,floo-dro-KOR-tih-zone,HELPS,0.155,flutter cortisone,fluodrocortisone,Please take your fludrocortisone as prescribed.
-fissure,clinical,FISH-ur,HELPS,0.154,fisher,fishur,The patient was diagnosed with fissure.
+fissure,clinical,FISH-ur,HURTS,0.154,fisher,fishur,The patient was diagnosed with fissure.
 liraglutide,drug,lir-ah-GLOO-tide,HELPS,0.15,laraglu tie it,laraglu tide,Please take your liraglutide as prescribed.
 oxcarbazepine,drug,oks-kar-BAZ-eh-peen,HELPS,0.148,ox carbazapene,ox carbazepine,Please take your oxcarbazepine as prescribed.
 thrombophilia,clinical,throm-bo-FIL-ee-ah,HELPS,0.148,thrumuhfileeuh,thrombofileeuh,The patient was diagnosed with thrombophilia.
@@ -225,7 +225,7 @@ budesonide,drug,byoo-DEH-soh-nide,HELPS,0.144,beezunaius,bio day so nighty,Pleas
 cryptae,anatomical,KRIP-tee,HELPS,0.144,to crypti,crypti,The biopsy shows inflammation in the cryptae.
 olodaterol,drug,oh-loh-DA-ter-ol,HELPS,0.143,allodaterol,olodaterol,Please take your olodaterol as prescribed.
 simvastatin,drug,sim-va-STAT-in,HELPS,0.142,symbostatin,sinva statin,Please take your simvastatin as prescribed.
-ciprofloxacin,drug,sip-roh-FLOX-ah-sin,HELPS,0.141,seproflaxus in,sip ro flox a sin,Please take your ciprofloxacin as prescribed.
+ciprofloxacin,drug,sip-roh-FLOX-ah-sin,HURTS,0.141,seproflaxus in,sip ro flox a sin,Please take your ciprofloxacin as prescribed.
 cholecyst,anatomical,KOH-leh-sist,HELPS,0.139,collest,coleycyst,The biopsy shows inflammation in the cholecyst.
 clindamycin,drug,klin-dah-MY-sin,HELPS,0.133,clin dyson,clin da my sin,Please take your clindamycin as prescribed.
 stridor,clinical,STRY-dor,HELPS,0.133,straitor,straidor,The patient was diagnosed with stridor.
@@ -241,16 +241,16 @@ hydralazine,drug,hy-DRAL-a-zeen,HELPS,0.12,hy hydralazine,hydralazine,Please tak
 hyponatremia,clinical,hy-poh-nah-TREE-mee-ah,HELPS,0.12,hypernatremia,hyponatremia,The patient was diagnosed with hyponatremia.
 cetuximab,drug,se-TUX-i-mab,HELPS,0.118,sittaxad,siptuxaz,Please take your cetuximab as prescribed.
 acetaminophen,drug,ah-SEE-tah-MIN-oh-fen,HELPS,0.116,asehtuhminuhfen,ahseetahminohfen,Please take your acetaminophen as prescribed.
-desvenlafaxine,drug,des-ven-la-FAK-seen,HELPS,0.116,destbin la vaccine is,destben la vaccine,Please take your desvenlafaxine as prescribed.
+desvenlafaxine,drug,des-ven-la-FAK-seen,HURTS,0.116,destbin la vaccine is,destben la vaccine,Please take your desvenlafaxine as prescribed.
 empagliflozin,drug,em-pah-gli-FLOH-zin,HELPS,0.114,in pagla flows in,impoogly flozin,Please take your empagliflozin as prescribed.
 ipratropium,drug,ip-ra-TROH-pee-um,HELPS,0.114,atropium,ipratropi um,Please take your ipratropium as prescribed.
 canagliflozin,drug,kan-ah-gli-FLOH-zin,HELPS,0.113,canny blisslozen,can agly flows in,Please take your canagliflozin as prescribed.
 cefepime,drug,SEF-e-peem,HELPS,0.111,sephapined,sephapimed,Please take your cefepime as prescribed.
 falciform,anatomical,FAL-sih-form,HELPS,0.111,falcaform,falciform,The biopsy shows inflammation in the falciform.
-cauda equina,anatomical,KAW-dah eh-KWY-nah,HELPS,0.11,macada eequina,cada equina,The biopsy shows inflammation in the cauda equina.
+cauda equina,anatomical,KAW-dah eh-KWY-nah,HURTS,0.11,macada eequina,cada equina,The biopsy shows inflammation in the cauda equina.
 triamterene,drug,try-AM-ter-een,HELPS,0.104,triumptorin,triam terra seen,Please take your triamterene as prescribed.
 apixaban,drug,a-PIX-a-ban,HELPS,0.104,care at pixaban,care pixaban,Please take your apixaban as prescribed.
-linagliptin,drug,lin-ah-GLIP-tin,HELPS,0.104,lnad glibton,lin ad glibtin,Please take your linagliptin as prescribed.
+linagliptin,drug,lin-ah-GLIP-tin,HURTS,0.104,lnad glibton,lin ad glibtin,Please take your linagliptin as prescribed.
 chlorpheniramine,drug,klor-fen-EER-ah-meen,HELPS,0.104,clirfinarami and,chlorfenmira uh mean,Please take your chlorpheniramine as prescribed.
 papule,clinical,PAP-yool,HELPS,0.103,pappel,ppapyul,The patient was diagnosed with papule.
 amiodarone,drug,am-ee-OH-da-rone,HELPS,0.1,anyoderone,ameoderone,Please take your amiodarone as prescribed.
@@ -258,13 +258,13 @@ sitagliptin,drug,sit-ah-GLIP-tin,HELPS,0.1,sigliptin,sitagliptin,Please take you
 lurasidone,drug,loo-RAS-ih-done,HELPS,0.1,lurisidone,lurasidone,Please take your lurasidone as prescribed.
 ixekizumab,drug,IX-e-KIZ-ue-mab,HELPS,0.1,exekizimab,ixikizumab,Please take your ixekizumab as prescribed.
 rimegepant,drug,rih-MEH-jeh-pant,HELPS,0.095,raneshapath,remajaypant,Please take your rimegepant as prescribed.
-esophagitis,clinical,ee-sof-ah-JY-tis,HELPS,0.095,asafajitis,esafajitis,The patient was diagnosed with esophagitis.
+esophagitis,clinical,ee-sof-ah-JY-tis,HURTS,0.095,asafajitis,esafajitis,The patient was diagnosed with esophagitis.
 pembrolizumab,drug,pem-broh-LIZ-oo-mab,HELPS,0.092,pumberly z mab,penbro liz o mab,Please take your pembrolizumab as prescribed.
 clopidogrel,drug,kloh-PID-oh-grel,HELPS,0.091,clopidobrel,clopidogrel,Please take your clopidogrel as prescribed.
 semaglutide,drug,sem-ah-GLOO-tide,HELPS,0.091,semiglutide,semaglutide,Please take your semaglutide as prescribed.
 mirtazapine,drug,mir-TAZ-a-peen,HELPS,0.091,murtazapine,mirtazapine,Please take your mirtazapine as prescribed.
 almotriptan,drug,al-moh-TRIP-tan,HELPS,0.091,almatriptan,almotriptan,Please take your almotriptan as prescribed.
-sarcoidosis,clinical,SAR-koy-DOH-sis,HELPS,0.091,sarcoidosus,sarcoidosis,The patient was diagnosed with sarcoidosis.
+sarcoidosis,clinical,SAR-koy-DOH-sis,HURTS,0.091,sarcoidosus,sarcoidosis,The patient was diagnosed with sarcoidosis.
 gastrectomy,clinical,gas-TREK-toh-mee,HELPS,0.091,destrectomy,dastrectomy,The patient was diagnosed with gastrectomy.
 pramipexole,drug,PRAM-i-PEX-ole,HELPS,0.088,promaxol,pram ipaxolias,Please take your pramipexole as prescribed.
 zileuton,drug,zy-LOO-ton,HELPS,0.086,zeutin,zilutan,Please take your zileuton as prescribed.

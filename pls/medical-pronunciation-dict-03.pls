@@ -1,83 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0" xml:lang="en-US">
   <lexeme>
-    <grapheme>sarcoidosis</grapheme>
-    <alias>SAR-koy-DOH-sis</alias>
+    <grapheme>fornix</grapheme>
+    <alias>FOR-niks</alias>
   </lexeme>
   <lexeme>
-    <grapheme>stridor</grapheme>
-    <alias>STRY-dor</alias>
+    <grapheme>cryptae</grapheme>
+    <alias>KRIP-tee</alias>
   </lexeme>
   <lexeme>
-    <grapheme>coryza</grapheme>
-    <alias>koh-RY-zah</alias>
+    <grapheme>cholecyst</grapheme>
+    <alias>KOH-leh-sist</alias>
   </lexeme>
   <lexeme>
-    <grapheme>esophagitis</grapheme>
-    <alias>ee-sof-ah-JY-tis</alias>
+    <grapheme>islets</grapheme>
+    <alias>EYE-lets</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hematemesis</grapheme>
-    <alias>hee-ma-TEM-eh-sis</alias>
+    <grapheme>acini</grapheme>
+    <alias>AS-ih-nye</alias>
   </lexeme>
   <lexeme>
-    <grapheme>sialadenitis</grapheme>
-    <alias>sigh-al-a-deh-NYE-tis</alias>
+    <grapheme>centrilobular</grapheme>
+    <alias>sen-trih-LOB-yoo-lar</alias>
   </lexeme>
   <lexeme>
-    <grapheme>agnosia</grapheme>
-    <alias>ag-NOH-zhah</alias>
+    <grapheme>falciform</grapheme>
+    <alias>FAL-sih-form</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hyponatremia</grapheme>
-    <alias>hy-poh-nah-TREE-mee-ah</alias>
+    <grapheme>interventricular septum</grapheme>
+    <alias>in-ter-ven-TRIK-yoo-lar SEP-tum</alias>
   </lexeme>
   <lexeme>
-    <grapheme>leukopenia</grapheme>
-    <alias>loo-koh-PEE-nee-ah</alias>
+    <grapheme>foramina</grapheme>
+    <alias>fo-RAM-ih-nah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>thrombophilia</grapheme>
-    <alias>throm-bo-FIL-ee-ah</alias>
+    <grapheme>ganglion</grapheme>
+    <alias>GANG-glee-on</alias>
   </lexeme>
   <lexeme>
-    <grapheme>furuncle</grapheme>
-    <alias>FYOOR-ung-kul</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>carbuncle</grapheme>
-    <alias>KAR-bung-kul</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>pruritus</grapheme>
-    <alias>proo-RY-tus</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>bulla</grapheme>
-    <alias>BULL-ah</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>papule</grapheme>
-    <alias>PAP-yool</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>fissure</grapheme>
-    <alias>FISH-ur</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>mastectomy</grapheme>
-    <alias>mas-TEK-toh-mee</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>gastrectomy</grapheme>
-    <alias>gas-TREK-toh-mee</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>endoscopy</grapheme>
-    <alias>en-DOS-koh-pee</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>vagotomy</grapheme>
-    <alias>vay-GOT-oh-mee</alias>
+    <grapheme>facial</grapheme>
+    <alias>FAY-shal</alias>
   </lexeme>
 </lexicon>

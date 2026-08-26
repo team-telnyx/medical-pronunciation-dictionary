@@ -2,71 +2,6 @@
   "name": "Medical Pronunciations 02",
   "items": [
     {
-      "text": "ubrogepant",
-      "type": "alias",
-      "alias": "yoo-BROH-jeh-pant"
-    },
-    {
-      "text": "rimegepant",
-      "type": "alias",
-      "alias": "rih-MEH-jeh-pant"
-    },
-    {
-      "text": "eprodual",
-      "type": "alias",
-      "alias": "eh-PROH-dool"
-    },
-    {
-      "text": "MI",
-      "type": "alias",
-      "alias": "myocardial infarction"
-    },
-    {
-      "text": "COPD",
-      "type": "alias",
-      "alias": "chronic obstructive pulmonary disease"
-    },
-    {
-      "text": "CHF",
-      "type": "alias",
-      "alias": "congestive heart failure"
-    },
-    {
-      "text": "UTI",
-      "type": "alias",
-      "alias": "urinary tract infection"
-    },
-    {
-      "text": "MRI",
-      "type": "alias",
-      "alias": "magnetic resonance imaging"
-    },
-    {
-      "text": "CT",
-      "type": "alias",
-      "alias": "computed tomography"
-    },
-    {
-      "text": "EKG",
-      "type": "alias",
-      "alias": "electrocardiogram"
-    },
-    {
-      "text": "ECG",
-      "type": "alias",
-      "alias": "electrocardiogram"
-    },
-    {
-      "text": "EEG",
-      "type": "alias",
-      "alias": "electroencephalogram"
-    },
-    {
-      "text": "BUN",
-      "type": "alias",
-      "alias": "blood urea nitrogen"
-    },
-    {
       "text": "CMP",
       "type": "alias",
       "alias": "comprehensive metabolic panel"
@@ -500,6 +435,71 @@
       "text": "LOC",
       "type": "alias",
       "alias": "loss of consciousness"
+    },
+    {
+      "text": "GCS",
+      "type": "alias",
+      "alias": "Glasgow Coma Scale"
+    },
+    {
+      "text": "HEENT",
+      "type": "alias",
+      "alias": "head eyes ears nose and throat"
+    },
+    {
+      "text": "CV",
+      "type": "alias",
+      "alias": "cardiovascular"
+    },
+    {
+      "text": "GI",
+      "type": "alias",
+      "alias": "gastrointestinal"
+    },
+    {
+      "text": "GU",
+      "type": "alias",
+      "alias": "genitourinary"
+    },
+    {
+      "text": "MSK",
+      "type": "alias",
+      "alias": "musculoskeletal"
+    },
+    {
+      "text": "Neuro",
+      "type": "alias",
+      "alias": "NEU-roh"
+    },
+    {
+      "text": "ENT",
+      "type": "alias",
+      "alias": "ear nose and throat"
+    },
+    {
+      "text": "OB",
+      "type": "alias",
+      "alias": "obstetrics"
+    },
+    {
+      "text": "GYN",
+      "type": "alias",
+      "alias": "gynecology"
+    },
+    {
+      "text": "LMP",
+      "type": "alias",
+      "alias": "last menstrual period"
+    },
+    {
+      "text": "EDC",
+      "type": "alias",
+      "alias": "estimated date of confinement"
+    },
+    {
+      "text": "NS",
+      "type": "alias",
+      "alias": "normal saline"
     }
   ]
 }
