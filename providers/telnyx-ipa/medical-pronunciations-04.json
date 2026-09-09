@@ -250,7 +250,7 @@
     {
       "text": "fumarate",
       "type": "phoneme",
-      "phoneme": "ˈfjuməˌreɪt",
+      "phoneme": "ˈfjuː.mə.reɪt",
       "alphabet": "ipa"
     },
     {
@@ -316,7 +316,7 @@
     {
       "text": "zoledronic acid",
       "type": "phoneme",
-      "phoneme": "zoʊˈlɛdrɒnɪk ˈæsɪd",
+      "phoneme": "zoʊˈlɛ.drɒn.ɪk ˈæs.ɪd",
       "alphabet": "ipa"
     },
     {
@@ -560,12 +560,6 @@
       "alphabet": "ipa"
     },
     {
-      "text": "eprodual",
-      "type": "phoneme",
-      "phoneme": "ɛˈprɑduəl",
-      "alphabet": "ipa"
-    },
-    {
       "text": "onabotulinumtoxinA",
       "type": "phoneme",
       "phoneme": "ɑnəbəˌtulɪnəmˈtɑksɪn eɪ",
@@ -599,6 +593,12 @@
       "text": "MRI",
       "type": "phoneme",
       "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "CT",
+      "type": "phoneme",
+      "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi",
       "alphabet": "ipa"
     }
   ]

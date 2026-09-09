@@ -8,7 +8,7 @@
   {
     "text": "Lipitor",
     "alias": "LIP-i-tor",
-    "ipa": "l\u026a\u02c8p\u026a.t\u0254r",
+    "ipa": "\u02c8l\u026ap.\u026a.t\u0254r",
     "category": "drug"
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "text": "metoprolol succinate",
-    "alias": "me-TOE-pro-lol SUK-si-nate",
-    "ipa": "m\u0259\u02c8to\u028a.pr\u0259.l\u0254l \u02c8s\u028ck.s\u026a\u02ccne\u026at",
+    "alias": "met-oh-PROE-lol SUK-si-nate",
+    "ipa": "m\u025bt.o\u028a\u02c8pro\u028a.l\u0252l \u02c8s\u028ck.s\u026a.ne\u026at",
     "category": "drug"
   },
   {
     "text": "metoprolol tartrate",
-    "alias": "me-TOE-pro-lol TAR-trate",
-    "ipa": "m\u0259\u02c8to\u028a.pr\u0259.l\u0254l \u02c8t\u0251r.tre\u026at",
+    "alias": "met-oh-PROE-lol TAR-trate",
+    "ipa": "m\u025bt.o\u028a\u02c8pro\u028a.l\u0252l \u02c8t\u0251r.tre\u026at",
     "category": "drug"
   },
   {
@@ -223,14 +223,14 @@
   },
   {
     "text": "isosorbide dinitrate",
-    "alias": "eye-so-SOR-bide dye-NYE-trate",
-    "ipa": "a\u026aso\u028a\u02c8s\u0254\u02d0rba\u026ad da\u026a\u02c8na\u026atre\u026at",
+    "alias": "eye-soe-SOR-bide dye-NYE-trate",
+    "ipa": "\u02cca\u026a.so\u028a\u02c8s\u0254r.ba\u026ad da\u026a\u02c8na\u026a.tre\u026at",
     "category": "drug"
   },
   {
     "text": "isosorbide mononitrate",
-    "alias": "eye-so-SOR-bide mon-oh-NYE-trate",
-    "ipa": "a\u026aso\u028a\u02c8s\u0254\u02d0rba\u026ad \u02ccm\u0252no\u028a\u02c8na\u026atre\u026at",
+    "alias": "eye-soe-SOR-bide mon-oh-NYE-trate",
+    "ipa": "\u02cca\u026a.so\u028a\u02c8s\u0254r.ba\u026ad \u02ccm\u0252n.o\u028a\u02c8na\u026a.tre\u026at",
     "category": "drug"
   },
   {
@@ -505,8 +505,8 @@
   },
   {
     "text": "amoxicillin clavulanate",
-    "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
-    "ipa": "\u0259\u02ccm\u0251\u02d0ks\u026a\u02c8s\u026al\u026an kl\u00e6vju\u02d0\u02c8l\u00e6ne\u026at",
+    "alias": "a-MOX-i-SIL-in klav-yoo-LAN-ate",
+    "ipa": "\u0259\u02c8m\u0252ks.\u026a\u02c8s\u026al.\u026an kl\u00e6v.ju\u02d0\u02c8l\u00e6n.e\u026at",
     "category": "drug"
   },
   {
@@ -548,7 +548,7 @@
   {
     "text": "sulfamethoxazole trimethoprim",
     "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
-    "ipa": "\u02ccs\u028clf\u0259m\u0259\u02c8\u03b8\u0251ks\u0259zo\u028al tra\u026a\u02c8m\u025b\u03b8\u0259pr\u026am",
+    "ipa": "\u02ccs\u028cl.f\u0259.m\u025b\u03b8\u02c8\u0252k.s\u0259.zo\u028al tra\u026a\u02c8m\u025b\u03b8.\u0259.pr\u026am",
     "category": "drug"
   },
   {
@@ -560,7 +560,7 @@
   {
     "text": "penicillin",
     "alias": "pen-i-SIL-in",
-    "ipa": "\u02ccp\u025bn\u026a\u02c8s\u026al\u026an",
+    "ipa": "\u02ccp\u025bn.\u026a\u02c8s\u026al.\u026an",
     "category": "drug"
   },
   {
@@ -756,12 +756,6 @@
     "category": "drug"
   },
   {
-    "text": "acyclovir",
-    "alias": "ay-SY-kloh-veer",
-    "ipa": "e\u026a\u02c8sa\u026akl\u0259v\u026ar",
-    "category": "drug"
-  },
-  {
     "text": "ibuprofen",
     "alias": "eye-BYOO-proe-fen",
     "ipa": "\u02c8a\u026a.bju\u02d0\u02c8pro\u028a.f\u025bn",
@@ -901,8 +895,8 @@
   },
   {
     "text": "valproic acid",
-    "alias": "val-PROH-ik AS-id",
-    "ipa": "v\u00e6l\u02c8pro\u028a\u026ak \u02c8\u00e6s\u026ad",
+    "alias": "val-PROE-ik AS-id",
+    "ipa": "v\u00e6l\u02c8pro\u028a.\u026ak \u02c8\u00e6s.\u026ad",
     "category": "drug"
   },
   {
@@ -1040,7 +1034,7 @@
   {
     "text": "docusate",
     "alias": "DOK-yoo-sate",
-    "ipa": "\u02c8d\u0252kjuse\u026at",
+    "ipa": "\u02c8d\u0252k.ju\u02d0.se\u026at",
     "category": "drug"
   },
   {
@@ -2054,7 +2048,7 @@
   {
     "text": "fumarate",
     "alias": "FYOO-muh-rate",
-    "ipa": "\u02c8fjum\u0259\u02ccre\u026at",
+    "ipa": "\u02c8fju\u02d0.m\u0259.re\u026at",
     "category": "drug"
   },
   {
@@ -2119,8 +2113,8 @@
   },
   {
     "text": "zoledronic acid",
-    "alias": "zoh-leh-DRON-ik AS-id",
-    "ipa": "zo\u028a\u02c8l\u025bdr\u0252n\u026ak \u02c8\u00e6s\u026ad",
+    "alias": "zoh-LEH-dron-ik AS-id",
+    "ipa": "zo\u028a\u02c8l\u025b.dr\u0252n.\u026ak \u02c8\u00e6s.\u026ad",
     "category": "drug"
   },
   {
@@ -2361,12 +2355,6 @@
     "text": "galcanezumab",
     "alias": "gal-kah-NEH-zoo-mab",
     "ipa": "\u0261\u00e6l\u02c8k\u00e6n\u026az\u028am\u00e6b",
-    "category": "drug"
-  },
-  {
-    "text": "eprodual",
-    "alias": "eh-PROH-dool",
-    "ipa": "\u025b\u02c8pr\u0251du\u0259l",
     "category": "drug"
   },
   {

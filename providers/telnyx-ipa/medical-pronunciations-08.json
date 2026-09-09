@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 08",
   "items": [
     {
-      "text": "hypoglycemia",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
-      "alphabet": "ipa"
-    },
-    {
       "text": "hyperglycemia",
       "type": "phoneme",
       "phoneme": "ˌhaɪpərɡlaɪˈsiːmiə",
@@ -599,6 +593,12 @@
       "text": "mediastinoscopy",
       "type": "phoneme",
       "phoneme": "ˌmiːdiˌæstəˈnɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "arthroplasty",
+      "type": "phoneme",
+      "phoneme": "ˈɑːrθroʊˌplæsti",
       "alphabet": "ipa"
     }
   ]

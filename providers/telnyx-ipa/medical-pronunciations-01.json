@@ -10,7 +10,7 @@
     {
       "text": "Lipitor",
       "type": "phoneme",
-      "phoneme": "lɪˈpɪ.tɔr",
+      "phoneme": "ˈlɪp.ɪ.tɔr",
       "alphabet": "ipa"
     },
     {
@@ -40,13 +40,13 @@
     {
       "text": "metoprolol succinate",
       "type": "phoneme",
-      "phoneme": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt",
+      "phoneme": "mɛt.oʊˈproʊ.lɒl ˈsʌk.sɪ.neɪt",
       "alphabet": "ipa"
     },
     {
       "text": "metoprolol tartrate",
       "type": "phoneme",
-      "phoneme": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt",
+      "phoneme": "mɛt.oʊˈproʊ.lɒl ˈtɑr.treɪt",
       "alphabet": "ipa"
     },
     {
@@ -226,13 +226,13 @@
     {
       "text": "isosorbide dinitrate",
       "type": "phoneme",
-      "phoneme": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt",
+      "phoneme": "ˌaɪ.soʊˈsɔr.baɪd daɪˈnaɪ.treɪt",
       "alphabet": "ipa"
     },
     {
       "text": "isosorbide mononitrate",
       "type": "phoneme",
-      "phoneme": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt",
+      "phoneme": "ˌaɪ.soʊˈsɔr.baɪd ˌmɒn.oʊˈnaɪ.treɪt",
       "alphabet": "ipa"
     },
     {
@@ -508,7 +508,7 @@
     {
       "text": "amoxicillin clavulanate",
       "type": "phoneme",
-      "phoneme": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt",
+      "phoneme": "əˈmɒks.ɪˈsɪl.ɪn klæv.juːˈlæn.eɪt",
       "alphabet": "ipa"
     },
     {
@@ -550,7 +550,7 @@
     {
       "text": "sulfamethoxazole trimethoprim",
       "type": "phoneme",
-      "phoneme": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm",
+      "phoneme": "ˌsʌl.fə.mɛθˈɒk.sə.zoʊl traɪˈmɛθ.ə.prɪm",
       "alphabet": "ipa"
     },
     {
@@ -562,7 +562,7 @@
     {
       "text": "penicillin",
       "type": "phoneme",
-      "phoneme": "ˌpɛnɪˈsɪlɪn",
+      "phoneme": "ˌpɛn.ɪˈsɪl.ɪn",
       "alphabet": "ipa"
     },
     {

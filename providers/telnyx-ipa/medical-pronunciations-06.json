@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 06",
   "items": [
     {
-      "text": "MSK",
-      "type": "phoneme",
-      "phoneme": "mʌskjoʊsklɪˈlɛtərəl",
-      "alphabet": "ipa"
-    },
-    {
       "text": "Neuro",
       "type": "phoneme",
       "phoneme": "nʊˈroʊloʊdʒi",
@@ -599,6 +593,12 @@
       "text": "peptic ulcer",
       "type": "phoneme",
       "phoneme": "ˈpɛptɪk ˈʌlsɚ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "gastroenteritis",
+      "type": "phoneme",
+      "phoneme": "ˌɡæstroʊˌɛntɚˈaɪtɪs",
       "alphabet": "ipa"
     }
   ]
