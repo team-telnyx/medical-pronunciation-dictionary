@@ -82,7 +82,7 @@
     {
       "text": "rifampin",
       "type": "phoneme",
-      "phoneme": "rɪˈfæmpɪn",
+      "phoneme": "ˈrɪf.æm.pɪn",
       "alphabet": "ipa"
     },
     {
@@ -158,15 +158,9 @@
       "alphabet": "ipa"
     },
     {
-      "text": "aciklovir",
-      "type": "phoneme",
-      "phoneme": "eɪˈsaɪkləvɪr",
-      "alphabet": "ipa"
-    },
-    {
       "text": "ibuprofen",
       "type": "phoneme",
-      "phoneme": "ˌaɪbjuˈproʊfən",
+      "phoneme": "ˈaɪ.bjuːˈproʊ.fɛn",
       "alphabet": "ipa"
     },
     {
@@ -196,7 +190,7 @@
     {
       "text": "ketorolac",
       "type": "phoneme",
-      "phoneme": "kiˈtɔrəlæk",
+      "phoneme": "ˈkiː.toʊˈroʊl.æk",
       "alphabet": "ipa"
     },
     {
@@ -214,7 +208,7 @@
     {
       "text": "etodolac",
       "type": "phoneme",
-      "phoneme": "iˈtoʊdəlæk",
+      "phoneme": "ˈiː.toʊˈdoʊ.læk",
       "alphabet": "ipa"
     },
     {
@@ -226,7 +220,7 @@
     {
       "text": "acetaminophen",
       "type": "phoneme",
-      "phoneme": "əˌsiːtəˈmɪnəfən",
+      "phoneme": "əˈsɛt.əˈmiː.noʊ.fɛn",
       "alphabet": "ipa"
     },
     {
@@ -238,7 +232,7 @@
     {
       "text": "gabapentin",
       "type": "phoneme",
-      "phoneme": "ˌɡæbəˈpɛntɪn",
+      "phoneme": "ˈɡæ.bəˈpɛn.tɪn",
       "alphabet": "ipa"
     },
     {
@@ -268,7 +262,7 @@
     {
       "text": "topiramate",
       "type": "phoneme",
-      "phoneme": "toʊˈpɪrəmeɪt",
+      "phoneme": "toʊˈpaɪr.ə.meɪt",
       "alphabet": "ipa"
     },
     {
@@ -292,13 +286,13 @@
     {
       "text": "levetiracetam",
       "type": "phoneme",
-      "phoneme": "ləˌvɛtɪˈræsɪtæm",
+      "phoneme": "ˈliː.vɛˈtaɪ.rə.sɛ.tæm",
       "alphabet": "ipa"
     },
     {
       "text": "phenytoin",
       "type": "phoneme",
-      "phoneme": "fəˈnɪtoʊɪn",
+      "phoneme": "ˈfɛn.ɪ.tɔɪn",
       "alphabet": "ipa"
     },
     {
@@ -406,7 +400,7 @@
     {
       "text": "granisetron",
       "type": "phoneme",
-      "phoneme": "ɡrəˈnɪsətrɒn",
+      "phoneme": "grəˈnɪsətrɒn",
       "alphabet": "ipa"
     },
     {
@@ -418,7 +412,7 @@
     {
       "text": "metoclopramide",
       "type": "phoneme",
-      "phoneme": "məˌtoʊkloʊˈpræmaɪd",
+      "phoneme": "ˌmɛt.oʊˈkloʊ.prə.maɪd",
       "alphabet": "ipa"
     },
     {
@@ -472,13 +466,13 @@
     {
       "text": "albuterol",
       "type": "phoneme",
-      "phoneme": "ælˈbjuːtərɒl",
+      "phoneme": "ælˈbjuː.tə.rɒl",
       "alphabet": "ipa"
     },
     {
       "text": "levalbuterol",
       "type": "phoneme",
-      "phoneme": "ˌlɛvælˈbjuːtərɒl",
+      "phoneme": "ˌlɛv.ælˈbjuː.tə.rɒl",
       "alphabet": "ipa"
     },
     {
@@ -502,7 +496,7 @@
     {
       "text": "glycopyrrolate",
       "type": "phoneme",
-      "phoneme": "ˌɡlaɪkoʊˈpɪroʊleɪt",
+      "phoneme": "ɡlaɪˈkoʊ.paɪˈroʊ.leɪt",
       "alphabet": "ipa"
     },
     {
@@ -550,7 +544,7 @@
     {
       "text": "ciclesonide",
       "type": "phoneme",
-      "phoneme": "sɪˈklɛsənaɪd",
+      "phoneme": "saɪˈklɛs.oʊ.naɪd",
       "alphabet": "ipa"
     },
     {
@@ -599,6 +593,12 @@
       "text": "mepolizumab",
       "type": "phoneme",
       "phoneme": "məˈpɑːlɪzʊmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "reslizumab",
+      "type": "phoneme",
+      "phoneme": "rɛzˈlɪzʊmæb",
       "alphabet": "ipa"
     }
   ]

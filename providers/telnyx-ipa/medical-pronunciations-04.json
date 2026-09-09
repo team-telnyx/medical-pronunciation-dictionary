@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 04",
   "items": [
     {
-      "text": "golimumab",
-      "type": "phoneme",
-      "phoneme": "ɡoʊˈlɪmjʊˌmæb",
-      "alphabet": "ipa"
-    },
-    {
       "text": "tocilizumab",
       "type": "phoneme",
       "phoneme": "ˌtoʊsɪˈlɪzjʊˌmæb",
@@ -46,7 +40,7 @@
     {
       "text": "guselkumab",
       "type": "phoneme",
-      "phoneme": "ˌɡʌsɛlˈkuːmæb",
+      "phoneme": "ɡjuːˈsɛl.kuː.mæb",
       "alphabet": "ipa"
     },
     {
@@ -64,7 +58,7 @@
     {
       "text": "abatacept",
       "type": "phoneme",
-      "phoneme": "ˌæbəˈtæsɛpt",
+      "phoneme": "əˈbæ.tə.sɛpt",
       "alphabet": "ipa"
     },
     {
@@ -118,7 +112,7 @@
     {
       "text": "everolimus",
       "type": "phoneme",
-      "phoneme": "ɛˈvɛrəlɪməs",
+      "phoneme": "ɛˈvɛr.oʊˈlaɪ.məs",
       "alphabet": "ipa"
     },
     {
@@ -196,7 +190,7 @@
     {
       "text": "memantine",
       "type": "phoneme",
-      "phoneme": "məˈmæntiːn",
+      "phoneme": "ˈmɛm.æn.tiːn",
       "alphabet": "ipa"
     },
     {
@@ -214,7 +208,7 @@
     {
       "text": "dimethyl fumarate",
       "type": "phoneme",
-      "phoneme": "daɪˈmɛθəl ˈfjuməˌreɪt",
+      "phoneme": "daɪˈmɛθ.ɪlˈfjuː.mə.reɪt",
       "alphabet": "ipa"
     },
     {
@@ -388,13 +382,13 @@
     {
       "text": "silodosin",
       "type": "phoneme",
-      "phoneme": "sɪˈloʊdəsɪn",
+      "phoneme": "saɪˈloʊ.doʊ.sɪn",
       "alphabet": "ipa"
     },
     {
       "text": "alfuzosin",
       "type": "phoneme",
-      "phoneme": "ælˈfjuːzəsɪn",
+      "phoneme": "ælˈfjuː.zoʊ.sɪn",
       "alphabet": "ipa"
     },
     {
@@ -430,7 +424,7 @@
     {
       "text": "phenazopyridine",
       "type": "phoneme",
-      "phoneme": "fəˌnæzoʊˈpɪrɪdiːn",
+      "phoneme": "fɛnˈæz.oʊˈpɪr.ɪ.diːn",
       "alphabet": "ipa"
     },
     {
@@ -466,7 +460,7 @@
     {
       "text": "chlorpheniramine",
       "type": "phoneme",
-      "phoneme": "ˌklɔrfɛnˈɪrəˌmiːn",
+      "phoneme": "klɔrˈfɛnˈɪr.ə.miːn",
       "alphabet": "ipa"
     },
     {
@@ -478,7 +472,7 @@
     {
       "text": "olopatadine",
       "type": "phoneme",
-      "phoneme": "ˌoʊloʊˈpætəˌdiːn",
+      "phoneme": "oʊˈloʊ.pəˈtæ.diːn",
       "alphabet": "ipa"
     },
     {
@@ -532,7 +526,7 @@
     {
       "text": "naratriptan",
       "type": "phoneme",
-      "phoneme": "ˌnærəˈtrɪpˌtæn",
+      "phoneme": "ˈnær.əˈtrɪp.tæn",
       "alphabet": "ipa"
     },
     {
@@ -580,25 +574,31 @@
     {
       "text": "MI",
       "type": "phoneme",
-      "phoneme": "ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən",
+      "phoneme": "ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən",
       "alphabet": "ipa"
     },
     {
       "text": "COPD",
       "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz",
+      "phoneme": "ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz",
       "alphabet": "ipa"
     },
     {
       "text": "CHF",
       "type": "phoneme",
-      "phoneme": "kənˈdʒɛstɪv hɑrt ˈfeljɚ",
+      "phoneme": "kənˈɡɛstɪv hɑrt ˈfɜːr",
       "alphabet": "ipa"
     },
     {
       "text": "UTI",
       "type": "phoneme",
-      "phoneme": "ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən",
+      "phoneme": "ˌjuːriˈnɛri træk ˈɪnfɛkʃən",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "MRI",
+      "type": "phoneme",
+      "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
       "alphabet": "ipa"
     }
   ]

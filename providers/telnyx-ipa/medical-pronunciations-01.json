@@ -16,7 +16,7 @@
     {
       "text": "lisinopril",
       "type": "phoneme",
-      "phoneme": "laɪˈsɪnoʊprɪl",
+      "phoneme": "laɪˈsɪ.nə.prɪl",
       "alphabet": "ipa"
     },
     {
@@ -52,7 +52,7 @@
     {
       "text": "carvedilol",
       "type": "phoneme",
-      "phoneme": "kɑrˈvɛ.dɪ.lɔl",
+      "phoneme": "ˈkɑr.vɛ.dɪl.ɔl",
       "alphabet": "ipa"
     },
     {
@@ -118,7 +118,7 @@
     {
       "text": "furosemide",
       "type": "phoneme",
-      "phoneme": "fʊˈroʊsəmaɪd",
+      "phoneme": "fjʊˈroʊ.səˌmaɪd",
       "alphabet": "ipa"
     },
     {
@@ -172,13 +172,13 @@
     {
       "text": "doxazosin",
       "type": "phoneme",
-      "phoneme": "dɑkˈsæ.zə.sɪn",
+      "phoneme": "dɒksˈeɪ.zoʊ.sɪn",
       "alphabet": "ipa"
     },
     {
       "text": "terazosin",
       "type": "phoneme",
-      "phoneme": "təˈræ.zə.sɪn",
+      "phoneme": "tɛrˈeɪ.zoʊ.sɪn",
       "alphabet": "ipa"
     },
     {
@@ -190,7 +190,7 @@
     {
       "text": "amiodarone",
       "type": "phoneme",
-      "phoneme": "əˈmiːoʊdəroʊn",
+      "phoneme": "əˈmiː.oʊ.də.roʊn",
       "alphabet": "ipa"
     },
     {
@@ -208,7 +208,7 @@
     {
       "text": "propafenone",
       "type": "phoneme",
-      "phoneme": "proʊˈpæfənoʊn",
+      "phoneme": "proʊ.pəˈfiːn.oʊn",
       "alphabet": "ipa"
     },
     {
@@ -238,7 +238,7 @@
     {
       "text": "warfarin",
       "type": "phoneme",
-      "phoneme": "ˈwɔːrfərɪn",
+      "phoneme": "ˈwɔr.fər.ɪn",
       "alphabet": "ipa"
     },
     {
@@ -256,7 +256,7 @@
     {
       "text": "dabigatran",
       "type": "phoneme",
-      "phoneme": "dəˈbɪɡətræn",
+      "phoneme": "də.bɪˈɡæt.ræn",
       "alphabet": "ipa"
     },
     {
@@ -274,7 +274,7 @@
     {
       "text": "ticagrelor",
       "type": "phoneme",
-      "phoneme": "taɪˈkæɡrəlɔːr",
+      "phoneme": "taɪˈkæ.ɡrɛl.ɔr",
       "alphabet": "ipa"
     },
     {
@@ -292,7 +292,7 @@
     {
       "text": "gemfibrozil",
       "type": "phoneme",
-      "phoneme": "dʒɛmˈfaɪbrəzɪl",
+      "phoneme": "dʒɛmˈfaɪ.broʊ.zɪl",
       "alphabet": "ipa"
     },
     {
@@ -310,7 +310,7 @@
     {
       "text": "simvastatin",
       "type": "phoneme",
-      "phoneme": "ˌsɪmvəˈstætɪn",
+      "phoneme": "ˈsɪm.və.ˈstæt.ɪn",
       "alphabet": "ipa"
     },
     {
@@ -340,13 +340,13 @@
     {
       "text": "alirocumab",
       "type": "phoneme",
-      "phoneme": "əˌlɪroʊˈkuːmæb",
+      "phoneme": "æl.ɪˈrɒk.uː.mæb",
       "alphabet": "ipa"
     },
     {
       "text": "evolocumab",
       "type": "phoneme",
-      "phoneme": "ɪˈvoʊloʊkuːmæb",
+      "phoneme": "ɛˈvoʊ.lɒk.uː.mæb",
       "alphabet": "ipa"
     },
     {
@@ -388,7 +388,7 @@
     {
       "text": "saxagliptin",
       "type": "phoneme",
-      "phoneme": "ˌsæksəˈɡlɪptɪn",
+      "phoneme": "sæksˈæ.ɡlɪp.tɪn",
       "alphabet": "ipa"
     },
     {
@@ -454,7 +454,7 @@
     {
       "text": "insulin lispro",
       "type": "phoneme",
-      "phoneme": "ˈɪnsəlɪn ˈlɪsproʊ",
+      "phoneme": "ˈɪn.sə.lɪnˈlaɪ.sproʊ",
       "alphabet": "ipa"
     },
     {
@@ -496,13 +496,13 @@
     {
       "text": "nateglinide",
       "type": "phoneme",
-      "phoneme": "nəˈtɛɡlɪnaɪd",
+      "phoneme": "nəˈteɪ.ɡlɪ.naɪd",
       "alphabet": "ipa"
     },
     {
       "text": "amoxicillin",
       "type": "phoneme",
-      "phoneme": "əˌmɑːksɪˈsɪlɪn",
+      "phoneme": "əˈmɒks.ɪˈsɪl.ɪn",
       "alphabet": "ipa"
     },
     {
@@ -514,7 +514,7 @@
     {
       "text": "azithromycin",
       "type": "phoneme",
-      "phoneme": "æˌzɪθroʊˈmaɪsɪn",
+      "phoneme": "æzˈɪθ.roʊˈmaɪ.sɪn",
       "alphabet": "ipa"
     },
     {
@@ -556,7 +556,7 @@
     {
       "text": "nitrofurantoin",
       "type": "phoneme",
-      "phoneme": "ˌnaɪtroʊfjʊˈræntoʊɪn",
+      "phoneme": "ˌnaɪ.troʊ.fjʊˈræn.toɪn",
       "alphabet": "ipa"
     },
     {
@@ -568,7 +568,7 @@
     {
       "text": "vancomycin",
       "type": "phoneme",
-      "phoneme": "væŋkoʊˈmaɪsɪn",
+      "phoneme": "væŋˈkoʊmaɪsɪn",
       "alphabet": "ipa"
     },
     {

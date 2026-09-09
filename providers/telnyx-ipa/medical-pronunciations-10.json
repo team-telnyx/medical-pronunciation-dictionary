@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 10",
   "items": [
     {
-      "text": "acini",
-      "type": "phoneme",
-      "phoneme": "ˈæsɪnaɪ",
-      "alphabet": "ipa"
-    },
-    {
       "text": "centrilobular",
       "type": "phoneme",
       "phoneme": "ˌsɛntrɪˈlɑbjələr",
@@ -34,7 +28,7 @@
     {
       "text": "space of Disse",
       "type": "phoneme",
-      "phoneme": "spˈeɪs əv dɪs",
+      "phoneme": "speɪs əv dɪs",
       "alphabet": "ipa"
     },
     {
@@ -104,9 +98,21 @@
       "alphabet": "ipa"
     },
     {
+      "text": "valve",
+      "type": "phoneme",
+      "phoneme": "vælv",
+      "alphabet": "ipa"
+    },
+    {
       "text": "leaflet",
       "type": "phoneme",
       "phoneme": "ˈlifət",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "cusp",
+      "type": "phoneme",
+      "phoneme": "kʌsp",
       "alphabet": "ipa"
     },
     {
@@ -359,42 +365,6 @@
       "text": "abducens",
       "type": "phoneme",
       "phoneme": "æbˈdjuːsənz",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "angina",
-      "type": "phoneme",
-      "phoneme": "ænˈdʒaɪnə",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "epinephrine",
-      "type": "phoneme",
-      "phoneme": "ˌɛpɪˈnɛfrɪn",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "naloxone",
-      "type": "phoneme",
-      "phoneme": "nəˈlɑksoʊn",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "hyperlipidemia",
-      "type": "phoneme",
-      "phoneme": "ˌhaɪpərlɪˈpɪmiə",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "osteoarthritis",
-      "type": "phoneme",
-      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
-      "alphabet": "ipa"
-    },
-    {
-      "text": "diabetes mellitus",
-      "type": "phoneme",
-      "phoneme": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
       "alphabet": "ipa"
     }
   ]

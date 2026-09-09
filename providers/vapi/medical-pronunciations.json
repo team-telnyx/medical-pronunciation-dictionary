@@ -11,7 +11,7 @@
     },
     {
       "text": "lisinopril",
-      "alias": "<<laɪˈsɪnoʊprɪl>>"
+      "alias": "<<laɪˈsɪ.nə.prɪl>>"
     },
     {
       "text": "metoprolol",
@@ -35,7 +35,7 @@
     },
     {
       "text": "carvedilol",
-      "alias": "<<kɑrˈvɛ.dɪ.lɔl>>"
+      "alias": "<<ˈkɑr.vɛ.dɪl.ɔl>>"
     },
     {
       "text": "valsartan",
@@ -79,7 +79,7 @@
     },
     {
       "text": "furosemide",
-      "alias": "<<fʊˈroʊsəmaɪd>>"
+      "alias": "<<fjʊˈroʊ.səˌmaɪd>>"
     },
     {
       "text": "hydrochlorothiazide",
@@ -115,11 +115,11 @@
     },
     {
       "text": "doxazosin",
-      "alias": "<<dɑkˈsæ.zə.sɪn>>"
+      "alias": "<<dɒksˈeɪ.zoʊ.sɪn>>"
     },
     {
       "text": "terazosin",
-      "alias": "<<təˈræ.zə.sɪn>>"
+      "alias": "<<tɛrˈeɪ.zoʊ.sɪn>>"
     },
     {
       "text": "prazosin",
@@ -127,7 +127,7 @@
     },
     {
       "text": "amiodarone",
-      "alias": "<<əˈmiːoʊdəroʊn>>"
+      "alias": "<<əˈmiː.oʊ.də.roʊn>>"
     },
     {
       "text": "dronedarone",
@@ -139,7 +139,7 @@
     },
     {
       "text": "propafenone",
-      "alias": "<<proʊˈpæfənoʊn>>"
+      "alias": "<<proʊ.pəˈfiːn.oʊn>>"
     },
     {
       "text": "flecainide",
@@ -159,7 +159,7 @@
     },
     {
       "text": "warfarin",
-      "alias": "<<ˈwɔːrfərɪn>>"
+      "alias": "<<ˈwɔr.fər.ɪn>>"
     },
     {
       "text": "rivaroxaban",
@@ -171,7 +171,7 @@
     },
     {
       "text": "dabigatran",
-      "alias": "<<dəˈbɪɡətræn>>"
+      "alias": "<<də.bɪˈɡæt.ræn>>"
     },
     {
       "text": "clopidogrel",
@@ -183,7 +183,7 @@
     },
     {
       "text": "ticagrelor",
-      "alias": "<<taɪˈkæɡrəlɔːr>>"
+      "alias": "<<taɪˈkæ.ɡrɛl.ɔr>>"
     },
     {
       "text": "ezetimibe",
@@ -195,7 +195,7 @@
     },
     {
       "text": "gemfibrozil",
-      "alias": "<<dʒɛmˈfaɪbrəzɪl>>"
+      "alias": "<<dʒɛmˈfaɪ.broʊ.zɪl>>"
     },
     {
       "text": "niacin",
@@ -207,7 +207,7 @@
     },
     {
       "text": "simvastatin",
-      "alias": "<<ˌsɪmvəˈstætɪn>>"
+      "alias": "<<ˈsɪm.və.ˈstæt.ɪn>>"
     },
     {
       "text": "rosuvastatin",
@@ -227,11 +227,11 @@
     },
     {
       "text": "alirocumab",
-      "alias": "<<əˌlɪroʊˈkuːmæb>>"
+      "alias": "<<æl.ɪˈrɒk.uː.mæb>>"
     },
     {
       "text": "evolocumab",
-      "alias": "<<ɪˈvoʊloʊkuːmæb>>"
+      "alias": "<<ɛˈvoʊ.lɒk.uː.mæb>>"
     },
     {
       "text": "metformin",
@@ -259,7 +259,7 @@
     },
     {
       "text": "saxagliptin",
-      "alias": "<<ˌsæksəˈɡlɪptɪn>>"
+      "alias": "<<sæksˈæ.ɡlɪp.tɪn>>"
     },
     {
       "text": "alogliptin",
@@ -303,7 +303,7 @@
     },
     {
       "text": "insulin lispro",
-      "alias": "<<ˈɪnsəlɪn ˈlɪsproʊ>>"
+      "alias": "<<ˈɪn.sə.lɪnˈlaɪ.sproʊ>>"
     },
     {
       "text": "insulin aspart",
@@ -331,11 +331,11 @@
     },
     {
       "text": "nateglinide",
-      "alias": "<<nəˈtɛɡlɪnaɪd>>"
+      "alias": "<<nəˈteɪ.ɡlɪ.naɪd>>"
     },
     {
       "text": "amoxicillin",
-      "alias": "<<əˌmɑːksɪˈsɪlɪn>>"
+      "alias": "<<əˈmɒks.ɪˈsɪl.ɪn>>"
     },
     {
       "text": "amoxicillin clavulanate",
@@ -343,7 +343,7 @@
     },
     {
       "text": "azithromycin",
-      "alias": "<<æˌzɪθroʊˈmaɪsɪn>>"
+      "alias": "<<æzˈɪθ.roʊˈmaɪ.sɪn>>"
     },
     {
       "text": "cephalexin",
@@ -371,7 +371,7 @@
     },
     {
       "text": "nitrofurantoin",
-      "alias": "<<ˌnaɪtroʊfjʊˈræntoʊɪn>>"
+      "alias": "<<ˌnaɪ.troʊ.fjʊˈræn.toɪn>>"
     },
     {
       "text": "penicillin",
@@ -379,7 +379,7 @@
     },
     {
       "text": "vancomycin",
-      "alias": "<<væŋkoʊˈmaɪsɪn>>"
+      "alias": "<<væŋˈkoʊmaɪsɪn>>"
     },
     {
       "text": "levofloxacin",
@@ -455,7 +455,7 @@
     },
     {
       "text": "rifampin",
-      "alias": "<<rɪˈfæmpɪn>>"
+      "alias": "<<ˈrɪf.æm.pɪn>>"
     },
     {
       "text": "isoniazid",
@@ -506,12 +506,8 @@
       "alias": "<<ˌoʊsɛlˈtæmɪvɪr>>"
     },
     {
-      "text": "aciklovir",
-      "alias": "<<eɪˈsaɪkləvɪr>>"
-    },
-    {
       "text": "ibuprofen",
-      "alias": "<<ˌaɪbjuˈproʊfən>>"
+      "alias": "<<ˈaɪ.bjuːˈproʊ.fɛn>>"
     },
     {
       "text": "naproxen",
@@ -531,7 +527,7 @@
     },
     {
       "text": "ketorolac",
-      "alias": "<<kiˈtɔrəlæk>>"
+      "alias": "<<ˈkiː.toʊˈroʊl.æk>>"
     },
     {
       "text": "indomethacin",
@@ -543,7 +539,7 @@
     },
     {
       "text": "etodolac",
-      "alias": "<<iˈtoʊdəlæk>>"
+      "alias": "<<ˈiː.toʊˈdoʊ.læk>>"
     },
     {
       "text": "oxaprozin",
@@ -551,7 +547,7 @@
     },
     {
       "text": "acetaminophen",
-      "alias": "<<əˌsiːtəˈmɪnəfən>>"
+      "alias": "<<əˈsɛt.əˈmiː.noʊ.fɛn>>"
     },
     {
       "text": "tramadol",
@@ -559,7 +555,7 @@
     },
     {
       "text": "gabapentin",
-      "alias": "<<ˌɡæbəˈpɛntɪn>>"
+      "alias": "<<ˈɡæ.bəˈpɛn.tɪn>>"
     },
     {
       "text": "pregabalin",
@@ -579,7 +575,7 @@
     },
     {
       "text": "topiramate",
-      "alias": "<<toʊˈpɪrəmeɪt>>"
+      "alias": "<<toʊˈpaɪr.ə.meɪt>>"
     },
     {
       "text": "carbamazepine",
@@ -595,11 +591,11 @@
     },
     {
       "text": "levetiracetam",
-      "alias": "<<ləˌvɛtɪˈræsɪtæm>>"
+      "alias": "<<ˈliː.vɛˈtaɪ.rə.sɛ.tæm>>"
     },
     {
       "text": "phenytoin",
-      "alias": "<<fəˈnɪtoʊɪn>>"
+      "alias": "<<ˈfɛn.ɪ.tɔɪn>>"
     },
     {
       "text": "valproic acid",
@@ -671,7 +667,7 @@
     },
     {
       "text": "granisetron",
-      "alias": "<<ɡrəˈnɪsətrɒn>>"
+      "alias": "<<grəˈnɪsətrɒn>>"
     },
     {
       "text": "palonosetron",
@@ -679,7 +675,7 @@
     },
     {
       "text": "metoclopramide",
-      "alias": "<<məˌtoʊkloʊˈpræmaɪd>>"
+      "alias": "<<ˌmɛt.oʊˈkloʊ.prə.maɪd>>"
     },
     {
       "text": "promethazine",
@@ -715,11 +711,11 @@
     },
     {
       "text": "albuterol",
-      "alias": "<<ælˈbjuːtərɒl>>"
+      "alias": "<<ælˈbjuː.tə.rɒl>>"
     },
     {
       "text": "levalbuterol",
-      "alias": "<<ˌlɛvælˈbjuːtərɒl>>"
+      "alias": "<<ˌlɛv.ælˈbjuː.tə.rɒl>>"
     },
     {
       "text": "ipratropium",
@@ -735,7 +731,7 @@
     },
     {
       "text": "glycopyrrolate",
-      "alias": "<<ˌɡlaɪkoʊˈpɪroʊleɪt>>"
+      "alias": "<<ɡlaɪˈkoʊ.paɪˈroʊ.leɪt>>"
     },
     {
       "text": "formoterol",
@@ -767,7 +763,7 @@
     },
     {
       "text": "ciclesonide",
-      "alias": "<<sɪˈklɛsənaɪd>>"
+      "alias": "<<saɪˈklɛs.oʊ.naɪd>>"
     },
     {
       "text": "beclomethasone",
@@ -811,7 +807,7 @@
     },
     {
       "text": "omalizumab",
-      "alias": "<<oʊˈmælɪzʊmæb>>"
+      "alias": "<<oʊ.məˈlaɪ.zuː.mæb>>"
     },
     {
       "text": "sertraline",
@@ -835,7 +831,7 @@
     },
     {
       "text": "venlafaxine",
-      "alias": "<<vɛnˈlæfəksiːn>>"
+      "alias": "<<ˈvɛn.ləˈfæk.siːn>>"
     },
     {
       "text": "desvenlafaxine",
@@ -859,7 +855,7 @@
     },
     {
       "text": "nefazodone",
-      "alias": "<<nəˈfæzədoʊn>>"
+      "alias": "<<nɛfˈeɪ.zoʊ.doʊn>>"
     },
     {
       "text": "vortioxetine",
@@ -899,7 +895,7 @@
     },
     {
       "text": "isocarboxazid",
-      "alias": "<<ˌaɪsoʊkɑrˈbɑksəzɪd>>"
+      "alias": "<<ˌaɪ.soʊ.kɑrˈbɒks.ə.zɪd>>"
     },
     {
       "text": "selegiline",
@@ -911,7 +907,7 @@
     },
     {
       "text": "aripiprazole",
-      "alias": "<<əˈrɪpɪprəzoʊl>>"
+      "alias": "<<ˈeɪ.rɪˈpɪp.reɪ.zoʊl>>"
     },
     {
       "text": "olanzapine",
@@ -931,7 +927,7 @@
     },
     {
       "text": "ziprasidone",
-      "alias": "<<zɪˈpræsɪdoʊn>>"
+      "alias": "<<zɪˈpreɪ.sɪ.doʊn>>"
     },
     {
       "text": "lurasidone",
@@ -939,7 +935,7 @@
     },
     {
       "text": "brexpiprazole",
-      "alias": "<<brɛksˈpɪprəzoʊl>>"
+      "alias": "<<brɛksˈpɪp.rə.zoʊl>>"
     },
     {
       "text": "cariprazine",
@@ -1011,7 +1007,7 @@
     },
     {
       "text": "goserelin",
-      "alias": "<<ɡoʊˈsɛr.ə.lɪn>>"
+      "alias": "<<ˈɡoʊ.sɛˈrɛl.ɪn>>"
     },
     {
       "text": "triptorelin",
@@ -1075,7 +1071,7 @@
     },
     {
       "text": "bevacizumab",
-      "alias": "<<bəˌvæk.sɪˈzuː.mæb>>"
+      "alias": "<<bɛ.vəˈsɪz.juː.mæb>>"
     },
     {
       "text": "cetuximab",
@@ -1111,7 +1107,7 @@
     },
     {
       "text": "cisplatin",
-      "alias": "<<sɪsˈpleɪtɪn>>"
+      "alias": "<<ˈsɪs.plæ.tɪn>>"
     },
     {
       "text": "carboplatin",
@@ -1119,7 +1115,7 @@
     },
     {
       "text": "oxaliplatin",
-      "alias": "<<ɒkˈsælɪplætɪn>>"
+      "alias": "<<ˌɒksˈæl.ɪˈplæ.tɪn>>"
     },
     {
       "text": "paclitaxel",
@@ -1151,7 +1147,7 @@
     },
     {
       "text": "etoposide",
-      "alias": "<<ɪˈtoʊpəsaɪd>>"
+      "alias": "<<ɛˈtoʊˈpoʊ.saɪd>>"
     },
     {
       "text": "cyclophosphamide",
@@ -1163,15 +1159,15 @@
     },
     {
       "text": "methotrexate",
-      "alias": "<<ˌmɛθəˈtrɛkseɪt>>"
+      "alias": "<<ˌmɛθəˈtɹɛkseɪt>>"
     },
     {
       "text": "pemetrexed",
-      "alias": "<<ˌpɛmɪˈtrɛksɛd>>"
+      "alias": "<<ˌpɛmɪˈtɹɛksɛd>>"
     },
     {
       "text": "gemcitabine",
-      "alias": "<<dʒɛmˈsaɪtəbiːn>>"
+      "alias": "<<dʒɛmˈsɪt.ə.biːn>>"
     },
     {
       "text": "fluorouracil",
@@ -1187,11 +1183,11 @@
     },
     {
       "text": "adalimumab",
-      "alias": "<<əˌdælɪˈmuːmæb>>"
+      "alias": "<<əˈdæl.eɪ.mə.mæb>>"
     },
     {
       "text": "etanercept",
-      "alias": "<<ɪˈtænɚsɛpt>>"
+      "alias": "<<ˈɛt.əˈnɛr.sɛpt>>"
     },
     {
       "text": "infliximab",
@@ -1231,7 +1227,7 @@
     },
     {
       "text": "guselkumab",
-      "alias": "<<ˌɡʌsɛlˈkuːmæb>>"
+      "alias": "<<ɡjuːˈsɛl.kuː.mæb>>"
     },
     {
       "text": "risankizumab",
@@ -1243,7 +1239,7 @@
     },
     {
       "text": "abatacept",
-      "alias": "<<ˌæbəˈtæsɛpt>>"
+      "alias": "<<əˈbæ.tə.sɛpt>>"
     },
     {
       "text": "leflunomide",
@@ -1279,7 +1275,7 @@
     },
     {
       "text": "everolimus",
-      "alias": "<<ɛˈvɛrəlɪməs>>"
+      "alias": "<<ɛˈvɛr.oʊˈlaɪ.məs>>"
     },
     {
       "text": "levodopa",
@@ -1331,7 +1327,7 @@
     },
     {
       "text": "memantine",
-      "alias": "<<məˈmæntiːn>>"
+      "alias": "<<ˈmɛm.æn.tiːn>>"
     },
     {
       "text": "glatiramer",
@@ -1343,7 +1339,7 @@
     },
     {
       "text": "dimethyl fumarate",
-      "alias": "<<daɪˈmɛθəl ˈfjuməˌreɪt>>"
+      "alias": "<<daɪˈmɛθ.ɪlˈfjuː.mə.reɪt>>"
     },
     {
       "text": "teriflunomide",
@@ -1459,11 +1455,11 @@
     },
     {
       "text": "silodosin",
-      "alias": "<<sɪˈloʊdəsɪn>>"
+      "alias": "<<saɪˈloʊ.doʊ.sɪn>>"
     },
     {
       "text": "alfuzosin",
-      "alias": "<<ælˈfjuːzəsɪn>>"
+      "alias": "<<ælˈfjuː.zoʊ.sɪn>>"
     },
     {
       "text": "oxybutynin",
@@ -1487,7 +1483,7 @@
     },
     {
       "text": "phenazopyridine",
-      "alias": "<<fəˌnæzoʊˈpɪrɪdiːn>>"
+      "alias": "<<fɛnˈæz.oʊˈpɪr.ɪ.diːn>>"
     },
     {
       "text": "hydroxyzine",
@@ -1511,7 +1507,7 @@
     },
     {
       "text": "chlorpheniramine",
-      "alias": "<<ˌklɔrfɛnˈɪrəˌmiːn>>"
+      "alias": "<<klɔrˈfɛnˈɪr.ə.miːn>>"
     },
     {
       "text": "azelastine",
@@ -1519,7 +1515,7 @@
     },
     {
       "text": "olopatadine",
-      "alias": "<<ˌoʊloʊˈpætəˌdiːn>>"
+      "alias": "<<oʊˈloʊ.pəˈtæ.diːn>>"
     },
     {
       "text": "modafinil",
@@ -1555,7 +1551,7 @@
     },
     {
       "text": "naratriptan",
-      "alias": "<<ˌnærəˈtrɪpˌtæn>>"
+      "alias": "<<ˈnær.əˈtrɪp.tæn>>"
     },
     {
       "text": "ubrogepant",
@@ -1587,19 +1583,19 @@
     },
     {
       "text": "MI",
-      "alias": "<<ˌmaɪəˈkɑrdiəl ɪnˈfɑrkʃən>>"
+      "alias": "<<ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən>>"
     },
     {
       "text": "COPD",
-      "alias": "<<ˈkrɑnɪk əbˈstrʌktɪv ˈpʊlməˌnɛri dɪˈziz>>"
+      "alias": "<<ˌkroʊnɪk əbˈstrʌktɪv ˌpʊlməˈnɛri dɪˈziːz>>"
     },
     {
       "text": "CHF",
-      "alias": "<<kənˈdʒɛstɪv hɑrt ˈfeljɚ>>"
+      "alias": "<<kənˈɡɛstɪv hɑrt ˈfɜːr>>"
     },
     {
       "text": "UTI",
-      "alias": "<<ˈjʊrəˌnɛri trækt ɪnˈfɛkʃən>>"
+      "alias": "<<ˌjuːriˈnɛri træk ˈɪnfɛkʃən>>"
     },
     {
       "text": "MRI",
@@ -1615,239 +1611,239 @@
     },
     {
       "text": "ECG",
-      "alias": "<<ɪˌlɛktroʊˈkɑrdiəˌɡræm>>"
+      "alias": "<<ɪˌlɛktroʊkɑrdiˈɑɡrəm>>"
     },
     {
       "text": "EEG",
-      "alias": "<<ɪˌlɛktroʊɛnˈsɛfələˌɡræm>>"
+      "alias": "<<ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm>>"
     },
     {
       "text": "BUN",
-      "alias": "<<blʌd jʊˈriə ˈnaɪtrədʒən>>"
+      "alias": "<<ˈblʌd ˌjuːriəˈnaɪtroʊdʒən>>"
     },
     {
       "text": "CMP",
-      "alias": "<<ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl>>"
+      "alias": "<<ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl>>"
     },
     {
       "text": "CBC",
-      "alias": "<<kəmˈplit blʌd kaʊnt>>"
+      "alias": "<<ˌkɑmpliːt ˈblʌd ˈkaʊnt>>"
     },
     {
       "text": "TSH",
-      "alias": "<<ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn>>"
+      "alias": "<<ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn>>"
     },
     {
       "text": "HbA1c",
-      "alias": "<<ˌhimoʊˈɡloʊbɪn eɪ wʌn si>>"
+      "alias": "<<ˌheməɡloʊbɪn eɪ wʌn siː>>"
     },
     {
       "text": "PT",
-      "alias": "<<proʊˈθrɑmbɪn taɪm>>"
+      "alias": "<<ˌprɑθrɑmbɪn ˈtaɪm>>"
     },
     {
       "text": "INR",
-      "alias": "<<ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ>>"
+      "alias": "<<ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ>>"
     },
     {
       "text": "PTT",
-      "alias": "<<ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm>>"
+      "alias": "<<ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm>>"
     },
     {
       "text": "DVT",
-      "alias": "<<dip ven θrɑmˈboʊsɪs>>"
+      "alias": "<<ˌdiːp veɪn ˈθrɑmbəˌsɪs>>"
     },
     {
       "text": "PE",
-      "alias": "<<ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm>>"
+      "alias": "<<ˌpʊlməˈnɛri ɛmˈboʊlɪzəm>>"
     },
     {
       "text": "CVA",
-      "alias": "<<ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt>>"
+      "alias": "<<ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt>>"
     },
     {
       "text": "TIA",
-      "alias": "<<ˈtrænziənt ɪsˈkimɪk əˈtæk>>"
+      "alias": "<<trænˈzɪənt ɪˈskɛmɪk əˈtæk>>"
     },
     {
       "text": "ICU",
-      "alias": "<<ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
+      "alias": "<<ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt>>"
     },
     {
       "text": "NICU",
-      "alias": "<<ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
+      "alias": "<<ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt>>"
     },
     {
       "text": "ER",
-      "alias": "<<ɪˈmɜrdʒənsi rum>>"
+      "alias": "<<ɪmˈɜːrdʒənsi ˈruːm>>"
     },
     {
       "text": "ED",
-      "alias": "<<ɪˈmɜrdʒənsi dɪˈpɑrtmənt>>"
+      "alias": "<<ˌɛrˈdiː>>"
     },
     {
       "text": "OR",
-      "alias": "<<ˈɑpəˌretɪŋ rum>>"
+      "alias": "<<ˈɔr>>"
     },
     {
       "text": "PACU",
-      "alias": "<<poʊst ˌænəsˈθiʒə kɛr ˈjunɪt>>"
+      "alias": "<<pəˈkuː>>"
     },
     {
       "text": "CCU",
-      "alias": "<<ˈkɔrəˌnɛri kɛr ˈjunɪt>>"
+      "alias": "<<ˌsiːˌsiːˈjuː>>"
     },
     {
       "text": "SICU",
-      "alias": "<<ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
+      "alias": "<<ˌɛsˌaɪˌsiːˈjuː>>"
     },
     {
       "text": "MICU",
-      "alias": "<<ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt>>"
+      "alias": "<<ˌɛmˌaɪˌsiːˈjuː>>"
     },
     {
       "text": "BP",
-      "alias": "<<ˈblʌd ˈprɛʃɚ>>"
+      "alias": "<<ˌbiːˈpiː>>"
     },
     {
       "text": "HR",
-      "alias": "<<ˈhɑrt ˈreɪt>>"
+      "alias": "<<ˌeɪtʃˈɑr>>"
     },
     {
       "text": "RR",
-      "alias": "<<ˈrɛspɚəˌtɔri ˈreɪt>>"
+      "alias": "<<ˌɑrˈɑr>>"
     },
     {
       "text": "SpO2",
-      "alias": "<<ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən>>"
+      "alias": "<<ˌɛsˌpiːˈoʊ tuː>>"
     },
     {
       "text": "ETCO2",
-      "alias": "<<ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd>>"
+      "alias": "<<ˌiːˌtiːˌsiːˈoʊ tuː>>"
     },
     {
       "text": "IV",
-      "alias": "<<ˌɪntrəˈvinəs>>"
+      "alias": "<<ˌaɪˈviː>>"
     },
     {
       "text": "IM",
-      "alias": "<<ˌɪntrəˈmʌskjəlɚ>>"
+      "alias": "<<ˌaɪˈɛm>>"
     },
     {
       "text": "SC",
-      "alias": "<<ˌsʌbkjuˈteɪniəs>>"
+      "alias": "<<ˌɛsˈsiː>>"
     },
     {
       "text": "PO",
-      "alias": "<<baɪ ˈmaʊθ>>"
+      "alias": "<<ˌpiːˈoʊ>>"
     },
     {
       "text": "PR",
-      "alias": "<<pɚ ˈrɛktəm>>"
+      "alias": "<<ˌpiːˈɑr>>"
     },
     {
       "text": "SL",
-      "alias": "<<sʌbˈlɪŋɡwəl>>"
+      "alias": "<<ˌɛsˈɛl>>"
     },
     {
       "text": "OD",
-      "alias": "<<ˈraɪt ˈaɪ>>"
+      "alias": "<<ˌoʊˈdiː>>"
     },
     {
       "text": "OS",
-      "alias": "<<ˈlɛft ˈaɪ>>"
+      "alias": "<<ˌoʊˈɛs>>"
     },
     {
       "text": "OU",
-      "alias": "<<ˈboʊθ ˈaɪz>>"
+      "alias": "<<ˌoʊˈjuː>>"
     },
     {
       "text": "AU",
-      "alias": "<<ˈboʊθ ˈɪrz>>"
+      "alias": "<<ˌeɪˈjuː>>"
     },
     {
       "text": "AD",
-      "alias": "<<ˈraɪt ˈɪr>>"
+      "alias": "<<ˌeɪˈdiː>>"
     },
     {
       "text": "AS",
-      "alias": "<<ˈlɛft ˈɪr>>"
+      "alias": "<<ˌeɪˈɛs>>"
     },
     {
       "text": "APAP",
-      "alias": "<<əˌsitəˈmɪnəfən>>"
+      "alias": "<<ˈeɪpæp>>"
     },
     {
       "text": "NSAID",
-      "alias": "<<ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ>>"
+      "alias": "<<ˈɛnsɛd>>"
     },
     {
       "text": "PPI",
-      "alias": "<<ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ>>"
+      "alias": "<<ˌpiːˌpiːˈaɪ>>"
     },
     {
       "text": "ARB",
-      "alias": "<<ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ>>"
+      "alias": "<<ˌeɪˌɑrˈbiː>>"
     },
     {
       "text": "ACE",
-      "alias": "<<ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm>>"
+      "alias": "<<ˈeɪs>>"
     },
     {
       "text": "BB",
-      "alias": "<<ˈbeɪtə ˈblɑkɚ>>"
+      "alias": "<<ˌbiːˈbiː>>"
     },
     {
       "text": "CCB",
-      "alias": "<<ˈkælsiəm ˈtʃænəl ˈblɑkɚ>>"
+      "alias": "<<ˌsiːˌsiːˈbiː>>"
     },
     {
       "text": "SSRI",
-      "alias": "<<sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ>>"
+      "alias": "<<ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər>>"
     },
     {
       "text": "SNRI",
-      "alias": "<<sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ>>"
+      "alias": "<<ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər>>"
     },
     {
       "text": "TCA",
-      "alias": "<<traɪˈsɪklɪk ˌæntidɪˈprɛsənt>>"
+      "alias": "<<ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt>>"
     },
     {
       "text": "MAOI",
-      "alias": "<<ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ>>"
+      "alias": "<<ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər>>"
     },
     {
       "text": "DM",
-      "alias": "<<ˌdaɪəˈbitiz məˈlaɪtəs>>"
+      "alias": "<<ˌdaɪəˈbiːtɪz ˈmɛlɪtəs>>"
     },
     {
       "text": "HTN",
-      "alias": "<<ˌhaɪpɚˈtɛnʃən>>"
+      "alias": "<<haɪˈpɜːrtənʃən>>"
     },
     {
       "text": "HLD",
-      "alias": "<<ˌhaɪpɚˈlɪpɪˌdimiə>>"
+      "alias": "<<ˌhaɪpərˈlɪpɪˌdiːmɪə>>"
     },
     {
       "text": "CAD",
-      "alias": "<<kəˈroʊnɚi ˈɑrtɚi dɪˈziz>>"
+      "alias": "<<ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz>>"
     },
     {
       "text": "PVD",
-      "alias": "<<ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz>>"
+      "alias": "<<ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz>>"
     },
     {
       "text": "CKD",
-      "alias": "<<ˈkrɑnɪk ˈkɪdni dɪˈziz>>"
+      "alias": "<<ˌkrɑnɪk ˈkɪdni ˈdɪziːz>>"
     },
     {
       "text": "ESRD",
-      "alias": "<<ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz>>"
+      "alias": "<<ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz>>"
     },
     {
       "text": "AKI",
-      "alias": "<<əˈkjut ˈkɪdni ˈɪndʒɚi>>"
+      "alias": "<<ˈækjʊt kɪdˈni ˈɪndʒəri>>"
     },
     {
       "text": "ASTHMA",
@@ -1855,47 +1851,47 @@
     },
     {
       "text": "GERD",
-      "alias": "<<ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz>>"
+      "alias": "<<ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz>>"
     },
     {
       "text": "IBD",
-      "alias": "<<ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz>>"
+      "alias": "<<ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz>>"
     },
     {
       "text": "IBS",
-      "alias": "<<ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm>>"
+      "alias": "<<ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm>>"
     },
     {
       "text": "NASH",
-      "alias": "<<ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs>>"
+      "alias": "<<ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs>>"
     },
     {
       "text": "NAFLD",
-      "alias": "<<ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz>>"
+      "alias": "<<ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz>>"
     },
     {
       "text": "HCC",
-      "alias": "<<həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə>>"
+      "alias": "<<ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə>>"
     },
     {
       "text": "ALL",
-      "alias": "<<əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə>>"
+      "alias": "<<ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə>>"
     },
     {
       "text": "AML",
-      "alias": "<<əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə>>"
+      "alias": "<<ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə>>"
     },
     {
       "text": "CLL",
-      "alias": "<<ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə>>"
+      "alias": "<<ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə>>"
     },
     {
       "text": "CML",
-      "alias": "<<ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə>>"
+      "alias": "<<ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə>>"
     },
     {
       "text": "NHL",
-      "alias": "<<ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə>>"
+      "alias": "<<ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə>>"
     },
     {
       "text": "Hodgkin",
@@ -1903,171 +1899,171 @@
     },
     {
       "text": "MM",
-      "alias": "<<ˈmʌltɪpəl ˌmaɪəˈloʊmə>>"
+      "alias": "<<ˈmʌltɪpl ˈmaɪˈloʊmə>>"
     },
     {
       "text": "SLE",
-      "alias": "<<sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs>>"
+      "alias": "<<ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs>>"
     },
     {
       "text": "RA",
-      "alias": "<<ˌruməˈtɔɪd ɑrˈθraɪtɪs>>"
+      "alias": "<<ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs>>"
     },
     {
       "text": "OA",
-      "alias": "<<ˌɑstioʊɑrˈθraɪtɪs>>"
+      "alias": "<<ˈɑːsθrəʊˈaɪtɪs>>"
     },
     {
       "text": "DJD",
-      "alias": "<<dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz>>"
+      "alias": "<<ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz>>"
     },
     {
       "text": "GOUT",
-      "alias": "<<ɡˈaʊt>>"
+      "alias": "<<ɡaʊt>>"
     },
     {
       "text": "MG",
-      "alias": "<<ˌmaɪəsˈθiniə ˈɡrævɪs>>"
+      "alias": "<<maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən>>"
     },
     {
       "text": "MS",
-      "alias": "<<ˈmʌltɪpəl skləˈroʊsɪs>>"
+      "alias": "<<ˈmʌltɪpl sklɪˈroʊsɪs>>"
     },
     {
       "text": "ALS",
-      "alias": "<<əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs>>"
+      "alias": "<<əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs>>"
     },
     {
       "text": "GBS",
-      "alias": "<<ɡiˈjæn bəˈreɪ ˈsɪndroʊm>>"
+      "alias": "<<ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm>>"
     },
     {
       "text": "TBI",
-      "alias": "<<trəˈmætɪk ˈbreɪn ˈɪndʒɚi>>"
+      "alias": "<<trəˈmætɪk brɛn ɪnˈdʒʊri>>"
     },
     {
       "text": "PD",
-      "alias": "<<ˈpɑrkɪnsən dɪˌziːz>>"
+      "alias": "<<pɑːrkɪnsən ˈdɪziːz>>"
     },
     {
       "text": "HD",
-      "alias": "<<ˈhʌntɪŋtən dɪˌziːz>>"
+      "alias": "<<hʌnˈtɪŋtən ˈdɪziːz>>"
     },
     {
       "text": "CJD",
-      "alias": "<<ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz>>"
+      "alias": "<<krʊtsfɛlt dʒækəb ˈdɪziːz>>"
     },
     {
       "text": "SCI",
-      "alias": "<<ˈspaɪnəl kɔrd ˈɪndʒəri>>"
+      "alias": "<<spaɪnəl kɔːrd ɪnˈdʒʊri>>"
     },
     {
       "text": "CA",
-      "alias": "<<ˈkænsɚ>>"
+      "alias": "<<kɑːnsər>>"
     },
     {
       "text": "N/V",
-      "alias": "<<ˈnɔziə ənd ˈvɑmɪtɪŋ>>"
+      "alias": "<<nɔːziə ənd voʊmɪtɪŋ>>"
     },
     {
       "text": "SOB",
-      "alias": "<<ˈʃɔrtnəs əv brɛθ>>"
+      "alias": "<<ʃɔːrtnis əv brɛθ>>"
     },
     {
       "text": "CP",
-      "alias": "<<səˈribrəl ˈpɔlzi>>"
+      "alias": "<<sɛrɪbrəl ˈpɔːlsi>>"
     },
     {
       "text": "N/V/D",
-      "alias": "<<ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə>>"
+      "alias": "<<nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə>>"
     },
     {
       "text": "LOC",
-      "alias": "<<ˈlɔs əv ˈkɑnʃəsnəs>>"
+      "alias": "<<lɑːs əv kɔnˈʃuːʃən>>"
     },
     {
       "text": "GCS",
-      "alias": "<<ˈɡlæsɡoʊ ˈkoʊmə skeɪl>>"
+      "alias": "<<ɡlæsɡoʊ kɔmə skoːr>>"
     },
     {
       "text": "HEENT",
-      "alias": "<<hˈɛd aɪz ɪrz noʊz ən θroʊt>>"
+      "alias": "<<hɛd aɪz ɪrz noʊz ənd θroʊt>>"
     },
     {
       "text": "CV",
-      "alias": "<<ˌkɑrdioʊˈvæskjəlɚ>>"
+      "alias": "<<kɑːrdjoʊˈvæskjələr>>"
     },
     {
       "text": "GI",
-      "alias": "<<ˌɡæstroʊɪnˈtɛstənəl>>"
+      "alias": "<<ɡæstroʊɪnˈtɛstənəl>>"
     },
     {
       "text": "GU",
-      "alias": "<<ˌdʒɛnɪtoʊˈjʊrɪnɛri>>"
+      "alias": "<<dʒɛnɪtoʊˈrɪnəri>>"
     },
     {
       "text": "MSK",
-      "alias": "<<ˌmʌskjəloʊˈskɛlətəl>>"
+      "alias": "<<mʌskjoʊsklɪˈlɛtərəl>>"
     },
     {
       "text": "Neuro",
-      "alias": "<<ˈnʊroʊ>>"
+      "alias": "<<nʊˈroʊloʊdʒi>>"
     },
     {
       "text": "Psych",
-      "alias": "<<sˈaɪk>>"
+      "alias": "<<saɪˈkætri>>"
     },
     {
       "text": "Derm",
-      "alias": "<<ˈdɝm>>"
+      "alias": "<<dɜːrməˈtɑːlədʒi>>"
     },
     {
       "text": "ENT",
-      "alias": "<<ˈɪr noʊz ən θroʊt>>"
+      "alias": "<<ɪr noʊz ənd θroʊt>>"
     },
     {
       "text": "OB",
-      "alias": "<<əbˈstɛtrɪks>>"
+      "alias": "<<ɑːbstəˈtrɪks>>"
     },
     {
       "text": "GYN",
-      "alias": "<<ˌɡaɪnəˈkɑlədʒi>>"
+      "alias": "<<ɡaɪnɪˈkɑːlədʒi>>"
     },
     {
       "text": "LMP",
-      "alias": "<<læst ˈmɛnstruəl ˈpɪriəd>>"
+      "alias": "<<læst mɛnstrəl ˈpɪriəd>>"
     },
     {
       "text": "EDC",
-      "alias": "<<ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt>>"
+      "alias": "<<ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment>>"
     },
     {
       "text": "Gest",
-      "alias": "<<dʒˈɛst>>"
+      "alias": "<<dʒɛst>>"
     },
     {
       "text": "NS",
-      "alias": "<<ˈnɔrməl səˈliːn>>"
+      "alias": "<<nɔːrməl saʊn>>"
     },
     {
       "text": "LR",
-      "alias": "<<ˈlækteɪtɪd ˈrɪŋɚz>>"
+      "alias": "<<lækˈtɛtˌɪd rɪŋɡərz>>"
     },
     {
       "text": "D5W",
-      "alias": "<<dˈiː faɪv dʌbəlju>>"
+      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər>>"
     },
     {
       "text": "D5NS",
-      "alias": "<<dˈiː faɪv ɛn ɛs>>"
+      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn>>"
     },
     {
       "text": "D5LR",
-      "alias": "<<dˈiː faɪv ɛl ɑr>>"
+      "alias": "<<faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz>>"
     },
     {
       "text": "KCl",
-      "alias": "<<pəˈtæsiəm ˈklɔraɪd>>"
+      "alias": "<<pəˈtæsiəm klɔːraɪd>>"
     },
     {
       "text": "MgSO4",
@@ -2075,95 +2071,95 @@
     },
     {
       "text": "CaCl2",
-      "alias": "<<ˈkælsiəm ˈklɔraɪd>>"
+      "alias": "<<kælsiəm klɔːraɪd>>"
     },
     {
       "text": "NaHCO3",
-      "alias": "<<ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt>>"
+      "alias": "<<soʊdiəm aɪkaɹˈbɒnət>>"
     },
     {
       "text": "ABG",
-      "alias": "<<ɑrˈtɪriəl blʌd ɡæs>>"
+      "alias": "<<ˈɑːtəriəl bluːd ɡæz>>"
     },
     {
       "text": "VBG",
-      "alias": "<<ˈviːnəs blʌd ɡæs>>"
+      "alias": "<<vɛnəs bluːd ɡæz>>"
     },
     {
       "text": "LP",
-      "alias": "<<ˈlʌmbɚ ˈpʌŋktʃɚ>>"
+      "alias": "<<ˈlʌmbər ˈpʌŋktʃər>>"
     },
     {
       "text": "BM",
-      "alias": "<<ˈbaʊəl ˈmuːvmənt>>"
+      "alias": "<<baʊəl muːvmənt>>"
     },
     {
       "text": "PEG",
-      "alias": "<<pˈɛɡ>>"
+      "alias": "<<pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi>>"
     },
     {
       "text": "ICD",
-      "alias": "<<ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ>>"
+      "alias": "<<ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər>>"
     },
     {
       "text": "Pacemaker",
-      "alias": "<<ˈpeɪsmeɪkɚ>>"
+      "alias": "<<ˈpeɪsˌmeɪkər>>"
     },
     {
       "text": "AICD",
-      "alias": "<<ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ>>"
+      "alias": "<<ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər>>"
     },
     {
       "text": "CABG",
-      "alias": "<<ˈkæbɪdʒ>>"
+      "alias": "<<ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft>>"
     },
     {
       "text": "PCI",
-      "alias": "<<ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən>>"
+      "alias": "<<pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən>>"
     },
     {
       "text": "TAVR",
-      "alias": "<<ˈtɑvɚ>>"
+      "alias": "<<ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt>>"
     },
     {
       "text": "TEVAR",
-      "alias": "<<ˈtɛvɚ>>"
+      "alias": "<<ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər>>"
     },
     {
       "text": "EVAR",
-      "alias": "<<ˈivɚ>>"
+      "alias": "<<ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər>>"
     },
     {
       "text": "PTCA",
-      "alias": "<<ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti>>"
+      "alias": "<<pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti>>"
     },
     {
       "text": "ETOH",
-      "alias": "<<ˈælkəˌhɔl>>"
+      "alias": "<<ˈɛθənɔːl>>"
     },
     {
       "text": "IVDU",
-      "alias": "<<ˌaɪˈvi drʌɡ ˈjuːs>>"
+      "alias": "<<ˌɪntɹəˈviːnəs dɹʌɡ juːzər>>"
     },
     {
       "text": "ASA",
-      "alias": "<<ˈæspɚɪn>>"
+      "alias": "<<ˈæspərɪn>>"
     },
     {
       "text": "NYD",
-      "alias": "<<nɑt jɛt ˌdaɪəɡˈnoʊzd>>"
+      "alias": "<<nɑːt jɛt dɪˈtɜːrmɪnd>>"
     },
     {
       "text": "HX",
-      "alias": "<<ˈhɪstɚi>>"
+      "alias": "<<hɪˈstɒri>>"
     },
     {
       "text": "Sx",
-      "alias": "<<ˈsɪmptəmz>>"
+      "alias": "<<ˈsɪmpəmz>>"
     },
     {
       "text": "Tx",
-      "alias": "<<ˈtriːtmənt>>"
+      "alias": "<<ˌtrɛtmənt>>"
     },
     {
       "text": "Dx",
@@ -2171,15 +2167,15 @@
     },
     {
       "text": "Rx",
-      "alias": "<<prɪˈskrɪpʃən>>"
+      "alias": "<<ˌpɝːskrɪpʃən>>"
     },
     {
       "text": "FHx",
-      "alias": "<<ˈfæməli ˈhɪstɚi>>"
+      "alias": "<<ˌfæmɪli hɪˈstɒri>>"
     },
     {
       "text": "SHx",
-      "alias": "<<ˈsoʊʃəl ˈhɪstɚi>>"
+      "alias": "<<ˌsɝːʒəkəl hɪˈstɒri>>"
     },
     {
       "text": "myocardial infarction",
@@ -2371,7 +2367,7 @@
     },
     {
       "text": "dyspnea",
-      "alias": "<<ˈdɪspniə>>"
+      "alias": "<<dɪspˈniːə>>"
     },
     {
       "text": "hemoptysis",
@@ -2923,7 +2919,7 @@
     },
     {
       "text": "impetigo",
-      "alias": "<<ˌɪmpɪˈtaɪɡoʊ>>"
+      "alias": "<<ˌɪmpɪˈtaɪgoʊ>>"
     },
     {
       "text": "erysipelas",
@@ -3023,15 +3019,15 @@
     },
     {
       "text": "plaque",
-      "alias": "<<plˈæk>>"
+      "alias": "<<plæk>>"
     },
     {
       "text": "scale",
-      "alias": "<<skˈeɪl>>"
+      "alias": "<<skeɪl>>"
     },
     {
       "text": "crust",
-      "alias": "<<krˈʌst>>"
+      "alias": "<<krʌst>>"
     },
     {
       "text": "erosion",
@@ -3427,7 +3423,7 @@
     },
     {
       "text": "lobe",
-      "alias": "<<lˈoʊb>>"
+      "alias": "<<loʊb>>"
     },
     {
       "text": "lobule",
@@ -3463,7 +3459,7 @@
     },
     {
       "text": "vas deferens",
-      "alias": "<<vˈæs dɛfərɛnz>>"
+      "alias": "<<væs dɛfərɛnz>>"
     },
     {
       "text": "epididymis",
@@ -3623,7 +3619,7 @@
     },
     {
       "text": "space of Disse",
-      "alias": "<<spˈeɪs əv dɪs>>"
+      "alias": "<<speɪs əv dɪs>>"
     },
     {
       "text": "canaliculi",
@@ -3670,8 +3666,16 @@
       "alias": "<<ˈkɔrdi tɛnˈdɪnii>>"
     },
     {
+      "text": "valve",
+      "alias": "<<vælv>>"
+    },
+    {
       "text": "leaflet",
       "alias": "<<ˈlifət>>"
+    },
+    {
+      "text": "cusp",
+      "alias": "<<kʌsp>>"
     },
     {
       "text": "semilunar",
@@ -3840,30 +3844,6 @@
     {
       "text": "abducens",
       "alias": "<<æbˈdjuːsənz>>"
-    },
-    {
-      "text": "angina",
-      "alias": "<<ænˈdʒaɪnə>>"
-    },
-    {
-      "text": "epinephrine",
-      "alias": "<<ˌɛpɪˈnɛfrɪn>>"
-    },
-    {
-      "text": "naloxone",
-      "alias": "<<nəˈlɑksoʊn>>"
-    },
-    {
-      "text": "hyperlipidemia",
-      "alias": "<<ˌhaɪpərlɪˈpɪmiə>>"
-    },
-    {
-      "text": "osteoarthritis",
-      "alias": "<<ˌɑstioʊɑrˈθraɪtɪs>>"
-    },
-    {
-      "text": "diabetes mellitus",
-      "alias": "<<ˌdaɪəˈbitɪz ˈmɛlɪtəs>>"
     }
   ]
 }

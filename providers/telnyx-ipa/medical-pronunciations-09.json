@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 09",
   "items": [
     {
-      "text": "mediastinoscopy",
-      "type": "phoneme",
-      "phoneme": "ˌmiːdiˌæstəˈnɑskəpi",
-      "alphabet": "ipa"
-    },
-    {
       "text": "arthroplasty",
       "type": "phoneme",
       "phoneme": "ˈɑːrθroʊˌplæsti",
@@ -340,7 +334,7 @@
     {
       "text": "lobe",
       "type": "phoneme",
-      "phoneme": "lˈoʊb",
+      "phoneme": "loʊb",
       "alphabet": "ipa"
     },
     {
@@ -394,7 +388,7 @@
     {
       "text": "vas deferens",
       "type": "phoneme",
-      "phoneme": "vˈæs dɛfərɛnz",
+      "phoneme": "væs dɛfərɛnz",
       "alphabet": "ipa"
     },
     {
@@ -599,6 +593,12 @@
       "text": "islets",
       "type": "phoneme",
       "phoneme": "ˈaɪlɪts",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "acini",
+      "type": "phoneme",
+      "phoneme": "ˈæsɪnaɪ",
       "alphabet": "ipa"
     }
   ]
