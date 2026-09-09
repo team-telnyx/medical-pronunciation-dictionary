@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 09",
   "items": [
     {
-      "text": "arthroplasty",
-      "type": "phoneme",
-      "phoneme": "ˈɑːrθroʊˌplæsti",
-      "alphabet": "ipa"
-    },
-    {
       "text": "osteotomy",
       "type": "phoneme",
       "phoneme": "ˌɑːstiˈɑtəmi",
@@ -599,6 +593,12 @@
       "text": "acini",
       "type": "phoneme",
       "phoneme": "ˈæsɪnaɪ",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "centrilobular",
+      "type": "phoneme",
+      "phoneme": "ˌsɛntrɪˈlɑbjələr",
       "alphabet": "ipa"
     }
   ]

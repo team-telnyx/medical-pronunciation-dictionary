@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 05",
   "items": [
     {
-      "text": "CT",
-      "type": "phoneme",
-      "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi",
-      "alphabet": "ipa"
-    },
-    {
       "text": "EKG",
       "type": "phoneme",
       "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
@@ -599,6 +593,12 @@
       "text": "GU",
       "type": "phoneme",
       "phoneme": "dʒɛnɪtoʊˈrɪnəri",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "MSK",
+      "type": "phoneme",
+      "phoneme": "mʌskjoʊsklɪˈlɛtərəl",
       "alphabet": "ipa"
     }
   ]

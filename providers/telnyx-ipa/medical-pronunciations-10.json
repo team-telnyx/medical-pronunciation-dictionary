@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 10",
   "items": [
     {
-      "text": "centrilobular",
-      "type": "phoneme",
-      "phoneme": "ˌsɛntrɪˈlɑbjələr",
-      "alphabet": "ipa"
-    },
-    {
       "text": "periportal",
       "type": "phoneme",
       "phoneme": "ˌpɛrɪˈpɔrtəl",

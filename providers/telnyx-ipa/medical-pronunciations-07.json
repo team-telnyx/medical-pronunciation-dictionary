@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 07",
   "items": [
     {
-      "text": "gastroenteritis",
-      "type": "phoneme",
-      "phoneme": "ˌɡæstroʊˌɛntɚˈaɪtɪs",
-      "alphabet": "ipa"
-    },
-    {
       "text": "colitis",
       "type": "phoneme",
       "phoneme": "kəˈlaɪtɪs",
@@ -599,6 +593,12 @@
       "text": "ketoacidosis",
       "type": "phoneme",
       "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hypoglycemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
       "alphabet": "ipa"
     }
   ]

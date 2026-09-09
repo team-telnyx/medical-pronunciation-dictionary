@@ -6,7 +6,7 @@
   },
   "Lipitor": {
     "alias": "LIP-i-tor",
-    "ipa": "lɪˈpɪ.tɔr",
+    "ipa": "ˈlɪp.ɪ.tɔr",
     "telnyx_naturalhd_verdict": ""
   },
   "lisinopril": {
@@ -30,13 +30,13 @@
     "telnyx_naturalhd_verdict": ""
   },
   "metoprolol succinate": {
-    "alias": "me-TOE-pro-lol SUK-si-nate",
-    "ipa": "məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt",
+    "alias": "met-oh-PROE-lol SUK-si-nate",
+    "ipa": "mɛt.oʊˈproʊ.lɒl ˈsʌk.sɪ.neɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "metoprolol tartrate": {
-    "alias": "me-TOE-pro-lol TAR-trate",
-    "ipa": "məˈtoʊ.prə.lɔl ˈtɑr.treɪt",
+    "alias": "met-oh-PROE-lol TAR-trate",
+    "ipa": "mɛt.oʊˈproʊ.lɒl ˈtɑr.treɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "carvedilol": {
@@ -185,13 +185,13 @@
     "telnyx_naturalhd_verdict": ""
   },
   "isosorbide dinitrate": {
-    "alias": "eye-so-SOR-bide dye-NYE-trate",
-    "ipa": "aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt",
+    "alias": "eye-soe-SOR-bide dye-NYE-trate",
+    "ipa": "ˌaɪ.soʊˈsɔr.baɪd daɪˈnaɪ.treɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "isosorbide mononitrate": {
-    "alias": "eye-so-SOR-bide mon-oh-NYE-trate",
-    "ipa": "aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt",
+    "alias": "eye-soe-SOR-bide mon-oh-NYE-trate",
+    "ipa": "ˌaɪ.soʊˈsɔr.baɪd ˌmɒn.oʊˈnaɪ.treɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "warfarin": {
@@ -420,8 +420,8 @@
     "telnyx_naturalhd_verdict": ""
   },
   "amoxicillin clavulanate": {
-    "alias": "ah-MOX-i-sil-in klav-yoo-LAN-ate",
-    "ipa": "əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt",
+    "alias": "a-MOX-i-SIL-in klav-yoo-LAN-ate",
+    "ipa": "əˈmɒks.ɪˈsɪl.ɪn klæv.juːˈlæn.eɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "azithromycin": {
@@ -456,7 +456,7 @@
   },
   "sulfamethoxazole trimethoprim": {
     "alias": "sul-fa-meth-OX-a-zole try-METH-oh-prim",
-    "ipa": "ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm",
+    "ipa": "ˌsʌl.fə.mɛθˈɒk.sə.zoʊl traɪˈmɛθ.ə.prɪm",
     "telnyx_naturalhd_verdict": ""
   },
   "nitrofurantoin": {
@@ -466,7 +466,7 @@
   },
   "penicillin": {
     "alias": "pen-i-SIL-in",
-    "ipa": "ˌpɛnɪˈsɪlɪn",
+    "ipa": "ˌpɛn.ɪˈsɪl.ɪn",
     "telnyx_naturalhd_verdict": ""
   },
   "vancomycin": {
@@ -745,8 +745,8 @@
     "telnyx_naturalhd_verdict": ""
   },
   "valproic acid": {
-    "alias": "val-PROH-ik AS-id",
-    "ipa": "vælˈproʊɪk ˈæsɪd",
+    "alias": "val-PROE-ik AS-id",
+    "ipa": "vælˈproʊ.ɪk ˈæs.ɪd",
     "telnyx_naturalhd_verdict": ""
   },
   "zonisamide": {
@@ -861,7 +861,7 @@
   },
   "docusate": {
     "alias": "DOK-yoo-sate",
-    "ipa": "ˈdɒkjuseɪt",
+    "ipa": "ˈdɒk.juː.seɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "polyethylene glycol": {
@@ -1706,7 +1706,7 @@
   },
   "fumarate": {
     "alias": "FYOO-muh-rate",
-    "ipa": "ˈfjuməˌreɪt",
+    "ipa": "ˈfjuː.mə.reɪt",
     "telnyx_naturalhd_verdict": ""
   },
   "levothyroxine": {
@@ -1760,8 +1760,8 @@
     "telnyx_naturalhd_verdict": ""
   },
   "zoledronic acid": {
-    "alias": "zoh-leh-DRON-ik AS-id",
-    "ipa": "zoʊˈlɛdrɒnɪk ˈæsɪd",
+    "alias": "zoh-LEH-dron-ik AS-id",
+    "ipa": "zoʊˈlɛ.drɒn.ɪk ˈæs.ɪd",
     "telnyx_naturalhd_verdict": ""
   },
   "denosumab": {
@@ -1962,11 +1962,6 @@
   "galcanezumab": {
     "alias": "gal-kah-NEH-zoo-mab",
     "ipa": "ɡælˈkænɪzʊmæb",
-    "telnyx_naturalhd_verdict": ""
-  },
-  "eprodual": {
-    "alias": "eh-PROH-dool",
-    "ipa": "ɛˈprɑduəl",
     "telnyx_naturalhd_verdict": ""
   },
   "onabotulinumtoxinA": {

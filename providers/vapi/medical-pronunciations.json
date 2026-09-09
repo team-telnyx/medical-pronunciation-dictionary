@@ -7,7 +7,7 @@
     },
     {
       "text": "Lipitor",
-      "alias": "<<lɪˈpɪ.tɔr>>"
+      "alias": "<<ˈlɪp.ɪ.tɔr>>"
     },
     {
       "text": "lisinopril",
@@ -27,11 +27,11 @@
     },
     {
       "text": "metoprolol succinate",
-      "alias": "<<məˈtoʊ.prə.lɔl ˈsʌk.sɪˌneɪt>>"
+      "alias": "<<mɛt.oʊˈproʊ.lɒl ˈsʌk.sɪ.neɪt>>"
     },
     {
       "text": "metoprolol tartrate",
-      "alias": "<<məˈtoʊ.prə.lɔl ˈtɑr.treɪt>>"
+      "alias": "<<mɛt.oʊˈproʊ.lɒl ˈtɑr.treɪt>>"
     },
     {
       "text": "carvedilol",
@@ -151,11 +151,11 @@
     },
     {
       "text": "isosorbide dinitrate",
-      "alias": "<<aɪsoʊˈsɔːrbaɪd daɪˈnaɪtreɪt>>"
+      "alias": "<<ˌaɪ.soʊˈsɔr.baɪd daɪˈnaɪ.treɪt>>"
     },
     {
       "text": "isosorbide mononitrate",
-      "alias": "<<aɪsoʊˈsɔːrbaɪd ˌmɒnoʊˈnaɪtreɪt>>"
+      "alias": "<<ˌaɪ.soʊˈsɔr.baɪd ˌmɒn.oʊˈnaɪ.treɪt>>"
     },
     {
       "text": "warfarin",
@@ -339,7 +339,7 @@
     },
     {
       "text": "amoxicillin clavulanate",
-      "alias": "<<əˌmɑːksɪˈsɪlɪn klævjuːˈlæneɪt>>"
+      "alias": "<<əˈmɒks.ɪˈsɪl.ɪn klæv.juːˈlæn.eɪt>>"
     },
     {
       "text": "azithromycin",
@@ -367,7 +367,7 @@
     },
     {
       "text": "sulfamethoxazole trimethoprim",
-      "alias": "<<ˌsʌlfəməˈθɑksəzoʊl traɪˈmɛθəprɪm>>"
+      "alias": "<<ˌsʌl.fə.mɛθˈɒk.sə.zoʊl traɪˈmɛθ.ə.prɪm>>"
     },
     {
       "text": "nitrofurantoin",
@@ -375,7 +375,7 @@
     },
     {
       "text": "penicillin",
-      "alias": "<<ˌpɛnɪˈsɪlɪn>>"
+      "alias": "<<ˌpɛn.ɪˈsɪl.ɪn>>"
     },
     {
       "text": "vancomycin",
@@ -599,7 +599,7 @@
     },
     {
       "text": "valproic acid",
-      "alias": "<<vælˈproʊɪk ˈæsɪd>>"
+      "alias": "<<vælˈproʊ.ɪk ˈæs.ɪd>>"
     },
     {
       "text": "zonisamide",
@@ -691,7 +691,7 @@
     },
     {
       "text": "docusate",
-      "alias": "<<ˈdɒkjuseɪt>>"
+      "alias": "<<ˈdɒk.juː.seɪt>>"
     },
     {
       "text": "polyethylene glycol",
@@ -1367,7 +1367,7 @@
     },
     {
       "text": "fumarate",
-      "alias": "<<ˈfjuməˌreɪt>>"
+      "alias": "<<ˈfjuː.mə.reɪt>>"
     },
     {
       "text": "levothyroxine",
@@ -1411,7 +1411,7 @@
     },
     {
       "text": "zoledronic acid",
-      "alias": "<<zoʊˈlɛdrɒnɪk ˈæsɪd>>"
+      "alias": "<<zoʊˈlɛ.drɒn.ɪk ˈæs.ɪd>>"
     },
     {
       "text": "denosumab",
@@ -1572,10 +1572,6 @@
     {
       "text": "galcanezumab",
       "alias": "<<ɡælˈkænɪzʊmæb>>"
-    },
-    {
-      "text": "eprodual",
-      "alias": "<<ɛˈprɑduəl>>"
     },
     {
       "text": "onabotulinumtoxinA",
