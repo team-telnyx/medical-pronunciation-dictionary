@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 05",
   "items": [
     {
-      "text": "MRI",
-      "type": "phoneme",
-      "phoneme": "mæɡˈnɛtɪk ˈrɛzənəns ˈɪmɪdʒɪŋ",
-      "alphabet": "ipa"
-    },
-    {
       "text": "CT",
       "type": "phoneme",
       "phoneme": "kəmˈpjutɪd təˈmɑɡrəfi",
@@ -22,355 +16,355 @@
     {
       "text": "ECG",
       "type": "phoneme",
-      "phoneme": "ɪˌlɛktroʊˈkɑrdiəˌɡræm",
+      "phoneme": "ɪˌlɛktroʊkɑrdiˈɑɡrəm",
       "alphabet": "ipa"
     },
     {
       "text": "EEG",
       "type": "phoneme",
-      "phoneme": "ɪˌlɛktroʊɛnˈsɛfələˌɡræm",
+      "phoneme": "ɪˌlɛktroʊɛnsɛfəˈlɑɡrəm",
       "alphabet": "ipa"
     },
     {
       "text": "BUN",
       "type": "phoneme",
-      "phoneme": "blʌd jʊˈriə ˈnaɪtrədʒən",
+      "phoneme": "ˈblʌd ˌjuːriəˈnaɪtroʊdʒən",
       "alphabet": "ipa"
     },
     {
       "text": "CMP",
       "type": "phoneme",
-      "phoneme": "ˌkɑmprɪˈhɛnsɪv ˌmɛtəˈbɑlɪk ˈpænəl",
+      "phoneme": "ˌkɑmpliːt ˈmɛtəbəlɪk ˈpænəl",
       "alphabet": "ipa"
     },
     {
       "text": "CBC",
       "type": "phoneme",
-      "phoneme": "kəmˈplit blʌd kaʊnt",
+      "phoneme": "ˌkɑmpliːt ˈblʌd ˈkaʊnt",
       "alphabet": "ipa"
     },
     {
       "text": "TSH",
       "type": "phoneme",
-      "phoneme": "ˈθaɪrɔɪd ˈstɪmjəˌletɪŋ ˈhɔrmoʊn",
+      "phoneme": "ˌθaɪroʊd ˈstɪmjʊˌleɪtɪŋ ˈhɔːrmoʊn",
       "alphabet": "ipa"
     },
     {
       "text": "HbA1c",
       "type": "phoneme",
-      "phoneme": "ˌhimoʊˈɡloʊbɪn eɪ wʌn si",
+      "phoneme": "ˌheməɡloʊbɪn eɪ wʌn siː",
       "alphabet": "ipa"
     },
     {
       "text": "PT",
       "type": "phoneme",
-      "phoneme": "proʊˈθrɑmbɪn taɪm",
+      "phoneme": "ˌprɑθrɑmbɪn ˈtaɪm",
       "alphabet": "ipa"
     },
     {
       "text": "INR",
       "type": "phoneme",
-      "phoneme": "ˌɪntɚˈnæʃənəl ˈnɔrməˌlaɪzd ˈreɪʃioʊ",
+      "phoneme": "ˌɪntəˈnæʃənəl ˌnɔːrməlaɪzd ˈræʃioʊ",
       "alphabet": "ipa"
     },
     {
       "text": "PTT",
       "type": "phoneme",
-      "phoneme": "ˈpɑrʃəl ˌθrɑmboʊˈplæstɪn taɪm",
+      "phoneme": "ˌpɑrʃəl ˌθrɑmbəˈplæstɪn ˈtaɪm",
       "alphabet": "ipa"
     },
     {
       "text": "DVT",
       "type": "phoneme",
-      "phoneme": "dip ven θrɑmˈboʊsɪs",
+      "phoneme": "ˌdiːp veɪn ˈθrɑmbəˌsɪs",
       "alphabet": "ipa"
     },
     {
       "text": "PE",
       "type": "phoneme",
-      "phoneme": "ˈpʊlməˌnɛri ˈɛmbəˌlɪzəm",
+      "phoneme": "ˌpʊlməˈnɛri ɛmˈboʊlɪzəm",
       "alphabet": "ipa"
     },
     {
       "text": "CVA",
       "type": "phoneme",
-      "phoneme": "ˌsɛrəbroʊˈvæskjəlɚ ˈæksɪdənt",
+      "phoneme": "ˌsɛrɪbroʊvæˈskjʊlər əˈsɛnt",
       "alphabet": "ipa"
     },
     {
       "text": "TIA",
       "type": "phoneme",
-      "phoneme": "ˈtrænziənt ɪsˈkimɪk əˈtæk",
+      "phoneme": "trænˈzɪənt ɪˈskɛmɪk əˈtæk",
       "alphabet": "ipa"
     },
     {
       "text": "ICU",
       "type": "phoneme",
-      "phoneme": "ɪnˈtɛnsɪv kɛr ˈjunɪt",
+      "phoneme": "ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt",
       "alphabet": "ipa"
     },
     {
       "text": "NICU",
       "type": "phoneme",
-      "phoneme": "ˌnioʊˈneɪtəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+      "phoneme": "ˌnɛnətəl ˌɪntɛnsɪv ˈkɛr ˈjuːnɪt",
       "alphabet": "ipa"
     },
     {
       "text": "ER",
       "type": "phoneme",
-      "phoneme": "ɪˈmɜrdʒənsi rum",
+      "phoneme": "ɪmˈɜːrdʒənsi ˈruːm",
       "alphabet": "ipa"
     },
     {
       "text": "ED",
       "type": "phoneme",
-      "phoneme": "ɪˈmɜrdʒənsi dɪˈpɑrtmənt",
+      "phoneme": "ˌɛrˈdiː",
       "alphabet": "ipa"
     },
     {
       "text": "OR",
       "type": "phoneme",
-      "phoneme": "ˈɑpəˌretɪŋ rum",
+      "phoneme": "ˈɔr",
       "alphabet": "ipa"
     },
     {
       "text": "PACU",
       "type": "phoneme",
-      "phoneme": "poʊst ˌænəsˈθiʒə kɛr ˈjunɪt",
+      "phoneme": "pəˈkuː",
       "alphabet": "ipa"
     },
     {
       "text": "CCU",
       "type": "phoneme",
-      "phoneme": "ˈkɔrəˌnɛri kɛr ˈjunɪt",
+      "phoneme": "ˌsiːˌsiːˈjuː",
       "alphabet": "ipa"
     },
     {
       "text": "SICU",
       "type": "phoneme",
-      "phoneme": "ˈsɜrdʒɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+      "phoneme": "ˌɛsˌaɪˌsiːˈjuː",
       "alphabet": "ipa"
     },
     {
       "text": "MICU",
       "type": "phoneme",
-      "phoneme": "ˈmɛdɪkəl ɪnˈtɛnsɪv kɛr ˈjunɪt",
+      "phoneme": "ˌɛmˌaɪˌsiːˈjuː",
       "alphabet": "ipa"
     },
     {
       "text": "BP",
       "type": "phoneme",
-      "phoneme": "ˈblʌd ˈprɛʃɚ",
+      "phoneme": "ˌbiːˈpiː",
       "alphabet": "ipa"
     },
     {
       "text": "HR",
       "type": "phoneme",
-      "phoneme": "ˈhɑrt ˈreɪt",
+      "phoneme": "ˌeɪtʃˈɑr",
       "alphabet": "ipa"
     },
     {
       "text": "RR",
       "type": "phoneme",
-      "phoneme": "ˈrɛspɚəˌtɔri ˈreɪt",
+      "phoneme": "ˌɑrˈɑr",
       "alphabet": "ipa"
     },
     {
       "text": "SpO2",
       "type": "phoneme",
-      "phoneme": "ˌsætʃəˈreɪʃən ʌv pəˈrɪfɚəl ˈɑksɪdʒən",
+      "phoneme": "ˌɛsˌpiːˈoʊ tuː",
       "alphabet": "ipa"
     },
     {
       "text": "ETCO2",
       "type": "phoneme",
-      "phoneme": "ˌɛndˈtaɪdəl ˈkɑrbən daɪˈɑksaɪd",
+      "phoneme": "ˌiːˌtiːˌsiːˈoʊ tuː",
       "alphabet": "ipa"
     },
     {
       "text": "IV",
       "type": "phoneme",
-      "phoneme": "ˌɪntrəˈvinəs",
+      "phoneme": "ˌaɪˈviː",
       "alphabet": "ipa"
     },
     {
       "text": "IM",
       "type": "phoneme",
-      "phoneme": "ˌɪntrəˈmʌskjəlɚ",
+      "phoneme": "ˌaɪˈɛm",
       "alphabet": "ipa"
     },
     {
       "text": "SC",
       "type": "phoneme",
-      "phoneme": "ˌsʌbkjuˈteɪniəs",
+      "phoneme": "ˌɛsˈsiː",
       "alphabet": "ipa"
     },
     {
       "text": "PO",
       "type": "phoneme",
-      "phoneme": "baɪ ˈmaʊθ",
+      "phoneme": "ˌpiːˈoʊ",
       "alphabet": "ipa"
     },
     {
       "text": "PR",
       "type": "phoneme",
-      "phoneme": "pɚ ˈrɛktəm",
+      "phoneme": "ˌpiːˈɑr",
       "alphabet": "ipa"
     },
     {
       "text": "SL",
       "type": "phoneme",
-      "phoneme": "sʌbˈlɪŋɡwəl",
+      "phoneme": "ˌɛsˈɛl",
       "alphabet": "ipa"
     },
     {
       "text": "OD",
       "type": "phoneme",
-      "phoneme": "ˈraɪt ˈaɪ",
+      "phoneme": "ˌoʊˈdiː",
       "alphabet": "ipa"
     },
     {
       "text": "OS",
       "type": "phoneme",
-      "phoneme": "ˈlɛft ˈaɪ",
+      "phoneme": "ˌoʊˈɛs",
       "alphabet": "ipa"
     },
     {
       "text": "OU",
       "type": "phoneme",
-      "phoneme": "ˈboʊθ ˈaɪz",
+      "phoneme": "ˌoʊˈjuː",
       "alphabet": "ipa"
     },
     {
       "text": "AU",
       "type": "phoneme",
-      "phoneme": "ˈboʊθ ˈɪrz",
+      "phoneme": "ˌeɪˈjuː",
       "alphabet": "ipa"
     },
     {
       "text": "AD",
       "type": "phoneme",
-      "phoneme": "ˈraɪt ˈɪr",
+      "phoneme": "ˌeɪˈdiː",
       "alphabet": "ipa"
     },
     {
       "text": "AS",
       "type": "phoneme",
-      "phoneme": "ˈlɛft ˈɪr",
+      "phoneme": "ˌeɪˈɛs",
       "alphabet": "ipa"
     },
     {
       "text": "APAP",
       "type": "phoneme",
-      "phoneme": "əˌsitəˈmɪnəfən",
+      "phoneme": "ˈeɪpæp",
       "alphabet": "ipa"
     },
     {
       "text": "NSAID",
       "type": "phoneme",
-      "phoneme": "ˌnɑnstɛˈrɔɪdəl ˌæntiɪnˈflæməˌtɔri ˈdrʌɡ",
+      "phoneme": "ˈɛnsɛd",
       "alphabet": "ipa"
     },
     {
       "text": "PPI",
       "type": "phoneme",
-      "phoneme": "ˈproʊtɑn ˈpʌmp ɪnˈhɪbɪtɚ",
+      "phoneme": "ˌpiːˌpiːˈaɪ",
       "alphabet": "ipa"
     },
     {
       "text": "ARB",
       "type": "phoneme",
-      "phoneme": "ˌændʒioʊˈtɛnsɪn riˈsɛptɚ ˈblɑkɚ",
+      "phoneme": "ˌeɪˌɑrˈbiː",
       "alphabet": "ipa"
     },
     {
       "text": "ACE",
       "type": "phoneme",
-      "phoneme": "ˌændʒioʊˈtɛnsɪn kənˈvɝtɪŋ ˈɛnzaɪm",
+      "phoneme": "ˈeɪs",
       "alphabet": "ipa"
     },
     {
       "text": "BB",
       "type": "phoneme",
-      "phoneme": "ˈbeɪtə ˈblɑkɚ",
+      "phoneme": "ˌbiːˈbiː",
       "alphabet": "ipa"
     },
     {
       "text": "CCB",
       "type": "phoneme",
-      "phoneme": "ˈkælsiəm ˈtʃænəl ˈblɑkɚ",
+      "phoneme": "ˌsiːˌsiːˈbiː",
       "alphabet": "ipa"
     },
     {
       "text": "SSRI",
       "type": "phoneme",
-      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
+      "phoneme": "ˌsɛlɛkˈtɪv ˌsɛroʊˈtɑnɪn riˈæptər ɪnˈhɪbɪtər",
       "alphabet": "ipa"
     },
     {
       "text": "SNRI",
       "type": "phoneme",
-      "phoneme": "sɪˈlɛktɪv ˌsɛrəˈtoʊnɪn ˌnɔrɛˈpɪnəfrɪn riˈʌpteɪk ɪnˈhɪbɪtɚ",
+      "phoneme": "ˌsɛroʊˈtɑnɪn ˌnɔrɛˈpɪnɛfrɪn riˈæptər ɪnˈhɪbɪtər",
       "alphabet": "ipa"
     },
     {
       "text": "TCA",
       "type": "phoneme",
-      "phoneme": "traɪˈsɪklɪk ˌæntidɪˈprɛsənt",
+      "phoneme": "ˌtraɪˈsaɪklɪk ˌæntɪˈdɛprɛsənt",
       "alphabet": "ipa"
     },
     {
       "text": "MAOI",
       "type": "phoneme",
-      "phoneme": "ˌmɑnoʊəˈmin ˈɑksɪdeɪs ɪnˈhɪbɪtɚ",
+      "phoneme": "ˌmɑnoʊˈæmɪn ˈɑksɪˌdɛs ɪnˈhɪbɪtər",
       "alphabet": "ipa"
     },
     {
       "text": "DM",
       "type": "phoneme",
-      "phoneme": "ˌdaɪəˈbitiz məˈlaɪtəs",
+      "phoneme": "ˌdaɪəˈbiːtɪz ˈmɛlɪtəs",
       "alphabet": "ipa"
     },
     {
       "text": "HTN",
       "type": "phoneme",
-      "phoneme": "ˌhaɪpɚˈtɛnʃən",
+      "phoneme": "haɪˈpɜːrtənʃən",
       "alphabet": "ipa"
     },
     {
       "text": "HLD",
       "type": "phoneme",
-      "phoneme": "ˌhaɪpɚˈlɪpɪˌdimiə",
+      "phoneme": "ˌhaɪpərˈlɪpɪˌdiːmɪə",
       "alphabet": "ipa"
     },
     {
       "text": "CAD",
       "type": "phoneme",
-      "phoneme": "kəˈroʊnɚi ˈɑrtɚi dɪˈziz",
+      "phoneme": "ˌkɔːrnəri ˈɑːrtəri ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "PVD",
       "type": "phoneme",
-      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjulɚ dɪˈziz",
+      "phoneme": "ˌpɛrɪˈfɛrəl ˈvæskjələr ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "CKD",
       "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˈkɪdni dɪˈziz",
+      "phoneme": "ˌkrɑnɪk ˈkɪdni ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "ESRD",
       "type": "phoneme",
-      "phoneme": "ˈɛndˌsteɪdʒ ˈrinəl dɪˈziz",
+      "phoneme": "ˌɛndˌsteɪdʒ riˈnæl ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "AKI",
       "type": "phoneme",
-      "phoneme": "əˈkjut ˈkɪdni ˈɪndʒɚi",
+      "phoneme": "ˈækjʊt kɪdˈni ˈɪndʒəri",
       "alphabet": "ipa"
     },
     {
@@ -382,67 +376,67 @@
     {
       "text": "GERD",
       "type": "phoneme",
-      "phoneme": "ˌɡæstroʊˌɛsəˈfædʒəl riˈflʌks dɪˈziz",
+      "phoneme": "ˌɡæstroʊɪˈsɑfədʒiəl riˈflʌks ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "IBD",
       "type": "phoneme",
-      "phoneme": "ɪnˈflæməˌtɔri ˈbaʊəl dɪˈziz",
+      "phoneme": "ˌaɪˈnaɪmətəri ˈbɑwəl ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "IBS",
       "type": "phoneme",
-      "phoneme": "ˈɪrɪtəbəl ˈbaʊəl ˈsɪndroʊm",
+      "phoneme": "ˌaɪrɪtəbl ˈbɑwəl ˈsɪndroʊm",
       "alphabet": "ipa"
     },
     {
       "text": "NASH",
       "type": "phoneme",
-      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˌstɛtoʊˌhɛpəˈtaɪtɪs",
+      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈstiːtəʊˌhaɪˈpætɪtɪs",
       "alphabet": "ipa"
     },
     {
       "text": "NAFLD",
       "type": "phoneme",
-      "phoneme": "ˌnɑnˌælkəˈhɑlɪk ˈfæti ˈlɪvɚ dɪˈziz",
+      "phoneme": "ˌnɑnˈælkəhɑlɪk ˈfætli ˈlɪvər ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "HCC",
       "type": "phoneme",
-      "phoneme": "həˈpætoʊˌsɛljulɚ ˌkɑrsɪˈnoʊmə",
+      "phoneme": "ˌhɛpətəʊˌsɛljʊlər ˈkɑːrsɪˈnoʊmə",
       "alphabet": "ipa"
     },
     {
       "text": "ALL",
       "type": "phoneme",
-      "phoneme": "əˈkjut ˌlɪmfoʊˈblæstɪk lɪˈkimiə",
+      "phoneme": "ˈækjʊt lɪmˈfɑblæstɪk ˈluːkiːmɪə",
       "alphabet": "ipa"
     },
     {
       "text": "AML",
       "type": "phoneme",
-      "phoneme": "əˈkjut ˌmaɪəˈlɔɪd lɪˈkimiə",
+      "phoneme": "ˈækjʊt mɪˌɛlɔɪd ˈluːkiːmɪə",
       "alphabet": "ipa"
     },
     {
       "text": "CLL",
       "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˌlɪmfoʊˈsɪtɪk lɪˈkimiə",
+      "phoneme": "ˌkrɑnɪk lɪmˈfɑblæstɪk ˈluːkiːmɪə",
       "alphabet": "ipa"
     },
     {
       "text": "CML",
       "type": "phoneme",
-      "phoneme": "ˈkrɑnɪk ˌmaɪəˈlɔɪdɪˌnɛrtɪv lɪˈkimiə",
+      "phoneme": "ˌkrɑnɪk mɪˌɛlɔɪd ˈluːkiːmɪə",
       "alphabet": "ipa"
     },
     {
       "text": "NHL",
       "type": "phoneme",
-      "phoneme": "ˌnɑnˈhɑdʒkɪn lɪmˈfoʊmə",
+      "phoneme": "ˌnɑnˈhɑdʒkɪn ˈlɪmfəmə",
       "alphabet": "ipa"
     },
     {
@@ -454,151 +448,157 @@
     {
       "text": "MM",
       "type": "phoneme",
-      "phoneme": "ˈmʌltɪpəl ˌmaɪəˈloʊmə",
+      "phoneme": "ˈmʌltɪpl ˈmaɪˈloʊmə",
       "alphabet": "ipa"
     },
     {
       "text": "SLE",
       "type": "phoneme",
-      "phoneme": "sɪˈstɛmɪk luˈpus ˌɛrɪˌθiməˈtoʊsəs",
+      "phoneme": "ˌsɪstəmɪk lʊˈpɜːrəs ˌɛrɪˈθɛməˈtoʊsəs",
       "alphabet": "ipa"
     },
     {
       "text": "RA",
       "type": "phoneme",
-      "phoneme": "ˌruməˈtɔɪd ɑrˈθraɪtɪs",
+      "phoneme": "ˌruːməˈtoʊɪd ˈɑːrθraɪtɪs",
       "alphabet": "ipa"
     },
     {
       "text": "OA",
       "type": "phoneme",
-      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
+      "phoneme": "ˈɑːsθrəʊˈaɪtɪs",
       "alphabet": "ipa"
     },
     {
       "text": "DJD",
       "type": "phoneme",
-      "phoneme": "dɪˈdʒɛnɚətɪv ˈdʒɪnt dɪˈziz",
+      "phoneme": "ˌdɪˈɡɛnərətɪv dʒɔɪnt ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "GOUT",
       "type": "phoneme",
-      "phoneme": "ɡˈaʊt",
+      "phoneme": "ɡaʊt",
       "alphabet": "ipa"
     },
     {
       "text": "MG",
       "type": "phoneme",
-      "phoneme": "ˌmaɪəsˈθiniə ˈɡrævɪs",
+      "phoneme": "maɪəˈkɑːrdjəl ɪnˈfɑːrkʃən",
       "alphabet": "ipa"
     },
     {
       "text": "MS",
       "type": "phoneme",
-      "phoneme": "ˈmʌltɪpəl skləˈroʊsɪs",
+      "phoneme": "ˈmʌltɪpl sklɪˈroʊsɪs",
       "alphabet": "ipa"
     },
     {
       "text": "ALS",
       "type": "phoneme",
-      "phoneme": "əˌmaɪəˈtrɑfɪk ˈlætɚəl skləˈroʊsɪs",
+      "phoneme": "əˈmɪoʊtroʊfɪk ləˈtɛrəl sklɪˈroʊsɪs",
       "alphabet": "ipa"
     },
     {
       "text": "GBS",
       "type": "phoneme",
-      "phoneme": "ɡiˈjæn bəˈreɪ ˈsɪndroʊm",
+      "phoneme": "ɡɪljɛn bɑːˈreɪ sɪnˈdroʊm",
       "alphabet": "ipa"
     },
     {
       "text": "TBI",
       "type": "phoneme",
-      "phoneme": "trəˈmætɪk ˈbreɪn ˈɪndʒɚi",
+      "phoneme": "trəˈmætɪk brɛn ɪnˈdʒʊri",
       "alphabet": "ipa"
     },
     {
       "text": "PD",
       "type": "phoneme",
-      "phoneme": "ˈpɑrkɪnsən dɪˌziːz",
+      "phoneme": "pɑːrkɪnsən ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "HD",
       "type": "phoneme",
-      "phoneme": "ˈhʌntɪŋtən dɪˌziːz",
+      "phoneme": "hʌnˈtɪŋtən ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "CJD",
       "type": "phoneme",
-      "phoneme": "ˈkrɔɪtsfɛlt ˈjɑkɑb dɪˌziːz",
+      "phoneme": "krʊtsfɛlt dʒækəb ˈdɪziːz",
       "alphabet": "ipa"
     },
     {
       "text": "SCI",
       "type": "phoneme",
-      "phoneme": "ˈspaɪnəl kɔrd ˈɪndʒəri",
+      "phoneme": "spaɪnəl kɔːrd ɪnˈdʒʊri",
       "alphabet": "ipa"
     },
     {
       "text": "CA",
       "type": "phoneme",
-      "phoneme": "ˈkænsɚ",
+      "phoneme": "kɑːnsər",
       "alphabet": "ipa"
     },
     {
       "text": "N/V",
       "type": "phoneme",
-      "phoneme": "ˈnɔziə ənd ˈvɑmɪtɪŋ",
+      "phoneme": "nɔːziə ənd voʊmɪtɪŋ",
       "alphabet": "ipa"
     },
     {
       "text": "SOB",
       "type": "phoneme",
-      "phoneme": "ˈʃɔrtnəs əv brɛθ",
+      "phoneme": "ʃɔːrtnis əv brɛθ",
       "alphabet": "ipa"
     },
     {
       "text": "CP",
       "type": "phoneme",
-      "phoneme": "səˈribrəl ˈpɔlzi",
+      "phoneme": "sɛrɪbrəl ˈpɔːlsi",
       "alphabet": "ipa"
     },
     {
       "text": "N/V/D",
       "type": "phoneme",
-      "phoneme": "ˈnɔziə ˈvɑmɪtɪŋ ən ˌdaɪəˈriə",
+      "phoneme": "nɔːziə voʊmɪtɪŋ ənd dɪˈɑːrjə",
       "alphabet": "ipa"
     },
     {
       "text": "LOC",
       "type": "phoneme",
-      "phoneme": "ˈlɔs əv ˈkɑnʃəsnəs",
+      "phoneme": "lɑːs əv kɔnˈʃuːʃən",
       "alphabet": "ipa"
     },
     {
       "text": "GCS",
       "type": "phoneme",
-      "phoneme": "ˈɡlæsɡoʊ ˈkoʊmə skeɪl",
+      "phoneme": "ɡlæsɡoʊ kɔmə skoːr",
       "alphabet": "ipa"
     },
     {
       "text": "HEENT",
       "type": "phoneme",
-      "phoneme": "hˈɛd aɪz ɪrz noʊz ən θroʊt",
+      "phoneme": "hɛd aɪz ɪrz noʊz ənd θroʊt",
       "alphabet": "ipa"
     },
     {
       "text": "CV",
       "type": "phoneme",
-      "phoneme": "ˌkɑrdioʊˈvæskjəlɚ",
+      "phoneme": "kɑːrdjoʊˈvæskjələr",
       "alphabet": "ipa"
     },
     {
       "text": "GI",
       "type": "phoneme",
-      "phoneme": "ˌɡæstroʊɪnˈtɛstənəl",
+      "phoneme": "ɡæstroʊɪnˈtɛstənəl",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "GU",
+      "type": "phoneme",
+      "phoneme": "dʒɛnɪtoʊˈrɪnəri",
       "alphabet": "ipa"
     }
   ]

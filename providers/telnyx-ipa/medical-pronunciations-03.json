@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 03",
   "items": [
     {
-      "text": "reslizumab",
-      "type": "phoneme",
-      "phoneme": "rɛzˈlɪzʊmæb",
-      "alphabet": "ipa"
-    },
-    {
       "text": "dupilumab",
       "type": "phoneme",
       "phoneme": "duːˈpɪljuːmæb",
@@ -16,7 +10,7 @@
     {
       "text": "omalizumab",
       "type": "phoneme",
-      "phoneme": "oʊˈmælɪzʊmæb",
+      "phoneme": "oʊ.məˈlaɪ.zuː.mæb",
       "alphabet": "ipa"
     },
     {
@@ -52,7 +46,7 @@
     {
       "text": "venlafaxine",
       "type": "phoneme",
-      "phoneme": "vɛnˈlæfəksiːn",
+      "phoneme": "ˈvɛn.ləˈfæk.siːn",
       "alphabet": "ipa"
     },
     {
@@ -88,7 +82,7 @@
     {
       "text": "nefazodone",
       "type": "phoneme",
-      "phoneme": "nəˈfæzədoʊn",
+      "phoneme": "nɛfˈeɪ.zoʊ.doʊn",
       "alphabet": "ipa"
     },
     {
@@ -148,7 +142,7 @@
     {
       "text": "isocarboxazid",
       "type": "phoneme",
-      "phoneme": "ˌaɪsoʊkɑrˈbɑksəzɪd",
+      "phoneme": "ˌaɪ.soʊ.kɑrˈbɒks.ə.zɪd",
       "alphabet": "ipa"
     },
     {
@@ -166,7 +160,7 @@
     {
       "text": "aripiprazole",
       "type": "phoneme",
-      "phoneme": "əˈrɪpɪprəzoʊl",
+      "phoneme": "ˈeɪ.rɪˈpɪp.reɪ.zoʊl",
       "alphabet": "ipa"
     },
     {
@@ -196,7 +190,7 @@
     {
       "text": "ziprasidone",
       "type": "phoneme",
-      "phoneme": "zɪˈpræsɪdoʊn",
+      "phoneme": "zɪˈpreɪ.sɪ.doʊn",
       "alphabet": "ipa"
     },
     {
@@ -208,7 +202,7 @@
     {
       "text": "brexpiprazole",
       "type": "phoneme",
-      "phoneme": "brɛksˈpɪprəzoʊl",
+      "phoneme": "brɛksˈpɪp.rə.zoʊl",
       "alphabet": "ipa"
     },
     {
@@ -316,7 +310,7 @@
     {
       "text": "goserelin",
       "type": "phoneme",
-      "phoneme": "ɡoʊˈsɛr.ə.lɪn",
+      "phoneme": "ˈɡoʊ.sɛˈrɛl.ɪn",
       "alphabet": "ipa"
     },
     {
@@ -412,7 +406,7 @@
     {
       "text": "bevacizumab",
       "type": "phoneme",
-      "phoneme": "bəˌvæk.sɪˈzuː.mæb",
+      "phoneme": "bɛ.vəˈsɪz.juː.mæb",
       "alphabet": "ipa"
     },
     {
@@ -466,7 +460,7 @@
     {
       "text": "cisplatin",
       "type": "phoneme",
-      "phoneme": "sɪsˈpleɪtɪn",
+      "phoneme": "ˈsɪs.plæ.tɪn",
       "alphabet": "ipa"
     },
     {
@@ -478,7 +472,7 @@
     {
       "text": "oxaliplatin",
       "type": "phoneme",
-      "phoneme": "ɒkˈsælɪplætɪn",
+      "phoneme": "ˌɒksˈæl.ɪˈplæ.tɪn",
       "alphabet": "ipa"
     },
     {
@@ -526,7 +520,7 @@
     {
       "text": "etoposide",
       "type": "phoneme",
-      "phoneme": "ɪˈtoʊpəsaɪd",
+      "phoneme": "ɛˈtoʊˈpoʊ.saɪd",
       "alphabet": "ipa"
     },
     {
@@ -544,19 +538,19 @@
     {
       "text": "methotrexate",
       "type": "phoneme",
-      "phoneme": "ˌmɛθəˈtrɛkseɪt",
+      "phoneme": "ˌmɛθəˈtɹɛkseɪt",
       "alphabet": "ipa"
     },
     {
       "text": "pemetrexed",
       "type": "phoneme",
-      "phoneme": "ˌpɛmɪˈtrɛksɛd",
+      "phoneme": "ˌpɛmɪˈtɹɛksɛd",
       "alphabet": "ipa"
     },
     {
       "text": "gemcitabine",
       "type": "phoneme",
-      "phoneme": "dʒɛmˈsaɪtəbiːn",
+      "phoneme": "dʒɛmˈsɪt.ə.biːn",
       "alphabet": "ipa"
     },
     {
@@ -580,13 +574,13 @@
     {
       "text": "adalimumab",
       "type": "phoneme",
-      "phoneme": "əˌdælɪˈmuːmæb",
+      "phoneme": "əˈdæl.eɪ.mə.mæb",
       "alphabet": "ipa"
     },
     {
       "text": "etanercept",
       "type": "phoneme",
-      "phoneme": "ɪˈtænɚsɛpt",
+      "phoneme": "ˈɛt.əˈnɛr.sɛpt",
       "alphabet": "ipa"
     },
     {
@@ -599,6 +593,12 @@
       "text": "certolizumab",
       "type": "phoneme",
       "phoneme": "ˌsɜːrtoʊˈlɪzjuːmæb",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "golimumab",
+      "type": "phoneme",
+      "phoneme": "ɡoʊˈlɪmjʊˌmæb",
       "alphabet": "ipa"
     }
   ]

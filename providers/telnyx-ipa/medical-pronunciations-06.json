@@ -2,105 +2,99 @@
   "name": "Medical Pronunciations 06",
   "items": [
     {
-      "text": "GU",
-      "type": "phoneme",
-      "phoneme": "ˌdʒɛnɪtoʊˈjʊrɪnɛri",
-      "alphabet": "ipa"
-    },
-    {
       "text": "MSK",
       "type": "phoneme",
-      "phoneme": "ˌmʌskjəloʊˈskɛlətəl",
+      "phoneme": "mʌskjoʊsklɪˈlɛtərəl",
       "alphabet": "ipa"
     },
     {
       "text": "Neuro",
       "type": "phoneme",
-      "phoneme": "ˈnʊroʊ",
+      "phoneme": "nʊˈroʊloʊdʒi",
       "alphabet": "ipa"
     },
     {
       "text": "Psych",
       "type": "phoneme",
-      "phoneme": "sˈaɪk",
+      "phoneme": "saɪˈkætri",
       "alphabet": "ipa"
     },
     {
       "text": "Derm",
       "type": "phoneme",
-      "phoneme": "ˈdɝm",
+      "phoneme": "dɜːrməˈtɑːlədʒi",
       "alphabet": "ipa"
     },
     {
       "text": "ENT",
       "type": "phoneme",
-      "phoneme": "ˈɪr noʊz ən θroʊt",
+      "phoneme": "ɪr noʊz ənd θroʊt",
       "alphabet": "ipa"
     },
     {
       "text": "OB",
       "type": "phoneme",
-      "phoneme": "əbˈstɛtrɪks",
+      "phoneme": "ɑːbstəˈtrɪks",
       "alphabet": "ipa"
     },
     {
       "text": "GYN",
       "type": "phoneme",
-      "phoneme": "ˌɡaɪnəˈkɑlədʒi",
+      "phoneme": "ɡaɪnɪˈkɑːlədʒi",
       "alphabet": "ipa"
     },
     {
       "text": "LMP",
       "type": "phoneme",
-      "phoneme": "læst ˈmɛnstruəl ˈpɪriəd",
+      "phoneme": "læst mɛnstrəl ˈpɪriəd",
       "alphabet": "ipa"
     },
     {
       "text": "EDC",
       "type": "phoneme",
-      "phoneme": "ˈɛstɪˌmeɪtɪd deɪt əv kənˈfaɪnmənt",
+      "phoneme": "ɛstɪˈmeɪtɪd ˈdɛt əv kənˈfainment",
       "alphabet": "ipa"
     },
     {
       "text": "Gest",
       "type": "phoneme",
-      "phoneme": "dʒˈɛst",
+      "phoneme": "dʒɛst",
       "alphabet": "ipa"
     },
     {
       "text": "NS",
       "type": "phoneme",
-      "phoneme": "ˈnɔrməl səˈliːn",
+      "phoneme": "nɔːrməl saʊn",
       "alphabet": "ipa"
     },
     {
       "text": "LR",
       "type": "phoneme",
-      "phoneme": "ˈlækteɪtɪd ˈrɪŋɚz",
+      "phoneme": "lækˈtɛtˌɪd rɪŋɡərz",
       "alphabet": "ipa"
     },
     {
       "text": "D5W",
       "type": "phoneme",
-      "phoneme": "dˈiː faɪv dʌbəlju",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn waʊtər",
       "alphabet": "ipa"
     },
     {
       "text": "D5NS",
       "type": "phoneme",
-      "phoneme": "dˈiː faɪv ɛn ɛs",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn nɔːrməl saʊn",
       "alphabet": "ipa"
     },
     {
       "text": "D5LR",
       "type": "phoneme",
-      "phoneme": "dˈiː faɪv ɛl ɑr",
+      "phoneme": "faɪv pərsɛnt dɛkstɹoʊz ɪn lækˈtɛtˌɪd rɪŋɡərz",
       "alphabet": "ipa"
     },
     {
       "text": "KCl",
       "type": "phoneme",
-      "phoneme": "pəˈtæsiəm ˈklɔraɪd",
+      "phoneme": "pəˈtæsiəm klɔːraɪd",
       "alphabet": "ipa"
     },
     {
@@ -112,139 +106,139 @@
     {
       "text": "CaCl2",
       "type": "phoneme",
-      "phoneme": "ˈkælsiəm ˈklɔraɪd",
+      "phoneme": "kælsiəm klɔːraɪd",
       "alphabet": "ipa"
     },
     {
       "text": "NaHCO3",
       "type": "phoneme",
-      "phoneme": "ˈsoʊdiəm haɪˈdrɑksədaɪ kɑrˈboʊneɪt",
+      "phoneme": "soʊdiəm aɪkaɹˈbɒnət",
       "alphabet": "ipa"
     },
     {
       "text": "ABG",
       "type": "phoneme",
-      "phoneme": "ɑrˈtɪriəl blʌd ɡæs",
+      "phoneme": "ˈɑːtəriəl bluːd ɡæz",
       "alphabet": "ipa"
     },
     {
       "text": "VBG",
       "type": "phoneme",
-      "phoneme": "ˈviːnəs blʌd ɡæs",
+      "phoneme": "vɛnəs bluːd ɡæz",
       "alphabet": "ipa"
     },
     {
       "text": "LP",
       "type": "phoneme",
-      "phoneme": "ˈlʌmbɚ ˈpʌŋktʃɚ",
+      "phoneme": "ˈlʌmbər ˈpʌŋktʃər",
       "alphabet": "ipa"
     },
     {
       "text": "BM",
       "type": "phoneme",
-      "phoneme": "ˈbaʊəl ˈmuːvmənt",
+      "phoneme": "baʊəl muːvmənt",
       "alphabet": "ipa"
     },
     {
       "text": "PEG",
       "type": "phoneme",
-      "phoneme": "pˈɛɡ",
+      "phoneme": "pɛrˈkjuːtəniəs ˌɛndəˈskɒpɪk ɡæstrəˈstɔmi",
       "alphabet": "ipa"
     },
     {
       "text": "ICD",
       "type": "phoneme",
-      "phoneme": "ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+      "phoneme": "ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər",
       "alphabet": "ipa"
     },
     {
       "text": "Pacemaker",
       "type": "phoneme",
-      "phoneme": "ˈpeɪsmeɪkɚ",
+      "phoneme": "ˈpeɪsˌmeɪkər",
       "alphabet": "ipa"
     },
     {
       "text": "AICD",
       "type": "phoneme",
-      "phoneme": "ˌɔtəˈmætɪk ɪmˈplæntəbəl ˈkɑrdioʊvɝtɚ diˈfɪbrɪleɪtɚ",
+      "phoneme": "ˈɔːtəˌmætɪk ˈɪmplæntəbəl kɑːrdiˈoʊvɜːtər dɪˈfɪbriˌleɪtər",
       "alphabet": "ipa"
     },
     {
       "text": "CABG",
       "type": "phoneme",
-      "phoneme": "ˈkæbɪdʒ",
+      "phoneme": "ˌkɒrənɛri ˈɑːtəri bæpəs ɡræft",
       "alphabet": "ipa"
     },
     {
       "text": "PCI",
       "type": "phoneme",
-      "phoneme": "ˌpɝkjuˈteɪniəs ˈkɔrəˌnɛri ˌɪntɚˈvɛnʃən",
+      "phoneme": "pɜːrˈkjuːtəniəs kɒrənɛri ˌɪntəˈvɛnʃən",
       "alphabet": "ipa"
     },
     {
       "text": "TAVR",
       "type": "phoneme",
-      "phoneme": "ˈtɑvɚ",
+      "phoneme": "ˌtrænsˈkætətər ˈɔːrtɪk vɑːlv rɪˈpleɪsmənt",
       "alphabet": "ipa"
     },
     {
       "text": "TEVAR",
       "type": "phoneme",
-      "phoneme": "ˈtɛvɚ",
+      "phoneme": "ˌθɔːræsɪk ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər",
       "alphabet": "ipa"
     },
     {
       "text": "EVAR",
       "type": "phoneme",
-      "phoneme": "ˈivɚ",
+      "phoneme": "ˌɛndəʊvɑːskjʊlər ˈɔːrtɪk rɪˈpeər",
       "alphabet": "ipa"
     },
     {
       "text": "PTCA",
       "type": "phoneme",
-      "phoneme": "ˌpɝkjuˈteɪniəs trænsˈluːmɪnəl ˈkɔrəˌnɛri ˈændʒioʊˌplæsti",
+      "phoneme": "pɜːrˈkjuːtəniəs trænsˈluːmɪnəl kɒrənɛri ˌænʤɪˈɑːplæsti",
       "alphabet": "ipa"
     },
     {
       "text": "ETOH",
       "type": "phoneme",
-      "phoneme": "ˈælkəˌhɔl",
+      "phoneme": "ˈɛθənɔːl",
       "alphabet": "ipa"
     },
     {
       "text": "IVDU",
       "type": "phoneme",
-      "phoneme": "ˌaɪˈvi drʌɡ ˈjuːs",
+      "phoneme": "ˌɪntɹəˈviːnəs dɹʌɡ juːzər",
       "alphabet": "ipa"
     },
     {
       "text": "ASA",
       "type": "phoneme",
-      "phoneme": "ˈæspɚɪn",
+      "phoneme": "ˈæspərɪn",
       "alphabet": "ipa"
     },
     {
       "text": "NYD",
       "type": "phoneme",
-      "phoneme": "nɑt jɛt ˌdaɪəɡˈnoʊzd",
+      "phoneme": "nɑːt jɛt dɪˈtɜːrmɪnd",
       "alphabet": "ipa"
     },
     {
       "text": "HX",
       "type": "phoneme",
-      "phoneme": "ˈhɪstɚi",
+      "phoneme": "hɪˈstɒri",
       "alphabet": "ipa"
     },
     {
       "text": "Sx",
       "type": "phoneme",
-      "phoneme": "ˈsɪmptəmz",
+      "phoneme": "ˈsɪmpəmz",
       "alphabet": "ipa"
     },
     {
       "text": "Tx",
       "type": "phoneme",
-      "phoneme": "ˈtriːtmənt",
+      "phoneme": "ˌtrɛtmənt",
       "alphabet": "ipa"
     },
     {
@@ -256,19 +250,19 @@
     {
       "text": "Rx",
       "type": "phoneme",
-      "phoneme": "prɪˈskrɪpʃən",
+      "phoneme": "ˌpɝːskrɪpʃən",
       "alphabet": "ipa"
     },
     {
       "text": "FHx",
       "type": "phoneme",
-      "phoneme": "ˈfæməli ˈhɪstɚi",
+      "phoneme": "ˌfæmɪli hɪˈstɒri",
       "alphabet": "ipa"
     },
     {
       "text": "SHx",
       "type": "phoneme",
-      "phoneme": "ˈsoʊʃəl ˈhɪstɚi",
+      "phoneme": "ˌsɝːʒəkəl hɪˈstɒri",
       "alphabet": "ipa"
     },
     {
@@ -556,7 +550,7 @@
     {
       "text": "dyspnea",
       "type": "phoneme",
-      "phoneme": "ˈdɪspniə",
+      "phoneme": "dɪspˈniːə",
       "alphabet": "ipa"
     },
     {
@@ -599,6 +593,12 @@
       "text": "gastritis",
       "type": "phoneme",
       "phoneme": "ɡæˈstraɪtɪs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "peptic ulcer",
+      "type": "phoneme",
+      "phoneme": "ˈpɛptɪk ˈʌlsɚ",
       "alphabet": "ipa"
     }
   ]

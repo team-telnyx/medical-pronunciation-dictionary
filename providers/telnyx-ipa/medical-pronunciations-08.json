@@ -2,12 +2,6 @@
   "name": "Medical Pronunciations 08",
   "items": [
     {
-      "text": "ketoacidosis",
-      "type": "phoneme",
-      "phoneme": "ˌkiːtoʊˌæsɪˈdoʊsɪs",
-      "alphabet": "ipa"
-    },
-    {
       "text": "hypoglycemia",
       "type": "phoneme",
       "phoneme": "ˌhaɪpoʊɡlaɪˈsiːmiə",
@@ -184,7 +178,7 @@
     {
       "text": "impetigo",
       "type": "phoneme",
-      "phoneme": "ˌɪmpɪˈtaɪɡoʊ",
+      "phoneme": "ˌɪmpɪˈtaɪgoʊ",
       "alphabet": "ipa"
     },
     {
@@ -334,19 +328,19 @@
     {
       "text": "plaque",
       "type": "phoneme",
-      "phoneme": "plˈæk",
+      "phoneme": "plæk",
       "alphabet": "ipa"
     },
     {
       "text": "scale",
       "type": "phoneme",
-      "phoneme": "skˈeɪl",
+      "phoneme": "skeɪl",
       "alphabet": "ipa"
     },
     {
       "text": "crust",
       "type": "phoneme",
-      "phoneme": "krˈʌst",
+      "phoneme": "krʌst",
       "alphabet": "ipa"
     },
     {
@@ -599,6 +593,12 @@
       "text": "thoracoscopy",
       "type": "phoneme",
       "phoneme": "ˌθɔːrəˈkɑskəpi",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "mediastinoscopy",
+      "type": "phoneme",
+      "phoneme": "ˌmiːdiˌæstəˈnɑskəpi",
       "alphabet": "ipa"
     }
   ]
