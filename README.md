@@ -2,11 +2,11 @@
 
 Prepackaged medical pronunciation dictionary for voice AI TTS engines. 966 drugs, clinical terms, anatomical terms, and medical acronyms with both phonetic alias and IPA pronunciations. Imports into Telnyx, ElevenLabs, Vapi, Retell, and Amazon Polly.
 
-Every alias was tested against a real TTS engine. The alias packs ship only the 251 entries that measurably improve pronunciation, because 329 of the other 715 made it **worse**. See [Which entries ship](#which-entries-ship).
+Every alias was tested against a real TTS engine. The alias packs ship only the 236 entries measured to improve pronunciation, because in the audit 329 aliases made it **worse**. See [Which entries ship](#which-entries-ship).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Terms](https://img.shields.io/badge/terms-966-brightgreen)]()
-[![Verified aliases](https://img.shields.io/badge/verified%20aliases-251-brightgreen)]()
+[![Verified aliases](https://img.shields.io/badge/verified%20aliases-236-brightgreen)]()
 [![Providers](https://img.shields.io/badge/providers-5-blue)]()
 [![Formats](https://img.shields.io/badge/formats-alias%20%2B%20IPA-orange)]()
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)]()
@@ -24,7 +24,7 @@ python3 import_to_telnyx.py --dry-run   # preview
 python3 import_to_telnyx.py             # create
 ```
 
-Reads `providers/telnyx/` and creates 3 pronunciation dictionaries in your Telnyx account, 251 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
+Reads `providers/telnyx/` and creates 3 pronunciation dictionaries in your Telnyx account, 236 alias entries total. Telnyx caps dictionaries at 100 items and rejects duplicate `text` entries, so the pack uses one alias entry per term.
 
 There are two Telnyx packs. The default is alias, because alias works on every Telnyx voice. IPA phonemes only work on **Telnyx Ultra, MiniMax and Inworld**, and on any other voice they make pronunciation worse rather than being ignored. If you are on one of those three engines:
 
@@ -127,21 +127,23 @@ It splits almost entirely by category:
 
 Acronym aliases are spoken expansions (`MI` -> "myocardial infarction") that the engine reads fluently. The other categories use hyphenated respellings, and the engine reads those syllable by syllable: `encephalopathy` becomes "un say fa lop a v" on a word it already said correctly.
 
-So the alias-based outputs ship the 251 that help. Phoneme-based outputs still carry all 966, because the fragmentation is an alias-tokenisation problem and no phoneme engine has been measured.
+So the alias-based outputs ship only entries whose current alias was measured HELPS. Phoneme-based outputs still carry all 966, because the fragmentation is an alias-tokenisation problem and no phoneme engine has been measured.
 
 | Output | Terms | Filtered? |
 |--------|-------|-----------|
-| `providers/telnyx/` | 251 | yes, alias |
-| `pls/`, `txt/` | 251 | yes, alias-only exports |
-| `providers/elevenlabs/` | 966 lexemes | phoneme on all, `<alias>` on 251 |
+| `providers/telnyx/` | 236 | yes, alias |
+| `pls/`, `txt/` | 236 | yes, alias-only exports |
+| `providers/elevenlabs/` | 966 lexemes | phoneme on all, `<alias>` on 236 |
 | `providers/telnyx-ipa/`, `amazon-polly/`, `vapi/`, `retell/` | 966 (911 for Retell) | no, phoneme |
 | `providers/generic/` | 966 | no, verdict exposed as a column |
 
+**Corrections since the audit:** on 2026-09-09, 64 aliases were corrected against MedlinePlus, ClinCalc and Merriam-Webster (PRs #14 and #15), and 2 terms (`cusp`, `valve`) were added. A stored verdict belongs to the alias it was measured on, so these 66 are marked `UNMEASURED` and held out of the alias packs until they are re-measured. 15 of them had been HELPS, which is why the alias packs ship 236 rather than 251. They are still in every phoneme pack.
+
 `data/terms_master.json` keeps all 966 with a `telnyx_naturalhd_verdict` field. Nothing is deleted. Per-term evidence, including both transcriptions, is in [`data/telnyx_naturalhd_audit.csv`](data/telnyx_naturalhd_audit.csv).
 
-**Caveat:** measured on one voice. A different engine may tokenise hyphenated aliases differently, so the specific 251 is Telnyx-NaturalHD-specific. The method is not.
+**Caveat:** measured on one voice. A different engine may tokenise hyphenated aliases differently, so the specific list is Telnyx-NaturalHD-specific. The method is not. `Telnyx.NaturalHD.astra` has since been retired and no longer appears in `GET /v2/text-to-speech/voices`, so these verdicts describe the voice they were measured on, not current Telnyx voices. A re-audit on a current voice has not been run yet.
 
-**Re-audit:** an automated re-run of this same methodology on 2026-08-26 (`src/eval_pronunciation.py`, see [Automated eval](#automated-eval)) found 20 of the original 271 HELPS entries no longer measurably help on the current voice model and now measurably hurt; those 20 are reflected in the 251 above. The remaining ~300 verdict deltas the re-run surfaced were not adopted pending a second confirmation run, since a single day's re-audit can't distinguish real model drift from one-off noise at that scale.
+**Re-audit:** an automated re-run of this same methodology on 2026-08-26 (`src/eval_pronunciation.py`, see [Automated eval](#automated-eval)) found 20 of the original 271 HELPS entries no longer measurably help on the current voice model and now measurably hurt; those 20 were pulled, which took the ship count from 271 to 251. The remaining ~300 verdict deltas the re-run surfaced were not adopted pending a second confirmation run, since a single day's re-audit can't distinguish real model drift from one-off noise at that scale.
 
 ## Automated eval
 
@@ -171,9 +173,9 @@ As of this writing, Telnyx's `openai/whisper-large-v3-turbo` STT model is return
 
 | Provider | Format | Alias | IPA | Files |
 |----------|--------|-------|-----|-------|
-| Telnyx | JSON items | Yes | No | `providers/telnyx/` (3 JSON, 251 verified alias entries) |
+| Telnyx | JSON items | Yes | No | `providers/telnyx/` (3 JSON, 236 verified alias entries) |
 | Telnyx Ultra / MiniMax / Inworld | JSON items | No | Yes | `providers/telnyx-ipa/` (10 JSON, 100 phoneme entries each) |
-| Telnyx | PLS XML | Yes | No | `pls/` (5 PLS, 251 verified aliases) |
+| Telnyx | PLS XML | Yes | No | `pls/` (5 PLS, 236 verified aliases) |
 | ElevenLabs | PLS XML | Yes | Yes | `providers/elevenlabs/` (10 PLS, alias + phoneme per lexeme) |
 | Vapi | JSON | No | Yes | `providers/vapi/` (1 JSON, 966 `<<ipa>>` entries) |
 | Amazon Polly | PLS XML | No | Yes | `providers/amazon-polly/` (10 PLS, phoneme only, en-US) |
@@ -203,7 +205,7 @@ medical-pronunciation-dictionary/
 │       ├── after/                       # 6 MP3 samples, dictionary attached
 │       └── manifest.json                # Audio sample manifest
 ├── providers/
-│   ├── telnyx/                          # 3 JSON files (251 verified alias entries)
+│   ├── telnyx/                          # 3 JSON files (236 verified alias entries)
 │   ├── telnyx-ipa/                      # 10 JSON files, IPA (Ultra/MiniMax/Inworld only)
 │   ├── elevenlabs/                      # 10 PLS XML files (alias + IPA per lexeme)
 │   ├── vapi/                            # 1 JSON file (<<ipa>> per term)
@@ -211,7 +213,7 @@ medical-pronunciation-dictionary/
 │   ├── retell/                          # 1 JSON file (IPA only, word-level, 911 entries)
 │   ├── stt/                             # keyterms.txt (comma-separated, 966 terms)
 │   └── generic/                         # CSV (text, alias, ipa, category) + nested JSON
-├── pls/                                 # 5 W3C PLS XML files (251 verified aliases)
+├── pls/                                 # 5 W3C PLS XML files (236 verified aliases)
 ├── txt/                                 # 5 plain text files (word=alias format)
 ├── src/
 │   ├── terms.py                         # Curated term lists (966 terms)
@@ -268,7 +270,7 @@ For production healthcare deployments, have a clinician or pharmacist review at 
 
 ## Telnyx dictionary quota
 
-This pack creates 10 dictionaries (one per 100 terms). Telnyx allows 50 dictionaries per organization, so this pack uses 20% of the quota. If you need to import additional pronunciation dictionaries for other domains, you have 40 slots remaining.
+The default alias pack creates 3 dictionaries. The IPA pack (`--ipa`) creates 10, one per 100 terms. Telnyx allows 50 dictionaries per organization, so the alias pack uses 6% of the quota and the IPA pack uses 20%.
 
 ## Contributing
 

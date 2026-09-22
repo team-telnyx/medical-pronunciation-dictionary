@@ -103,8 +103,9 @@ def alias_safe(terms: list[dict]) -> list[dict]:
     """Terms whose alias measurably improves pronunciation.
 
     Every term was rendered twice on Telnyx.NaturalHD.astra, with and without
-    its alias entry, and the pairs were judged blind. Results across 966 terms:
-    271 HELPS, 386 WASH (no audible change), 309 HURTS.
+    its alias entry, and the pairs were judged blind. See the README "Which entries
+    ship" section for current counts. Terms whose alias changed after the audit
+    are marked UNMEASURED and excluded until re-measured.
 
     HURTS is the reason this filter exists. A heavily hyphenated respelling is
     read syllable by syllable, so `encephalopathy` -> "un say fa lop a v" on a

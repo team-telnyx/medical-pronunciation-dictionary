@@ -25,10 +25,6 @@
     <alias>e-PLER-e-none</alias>
   </lexeme>
   <lexeme>
-    <grapheme>amiodarone</grapheme>
-    <alias>am-ee-OH-da-rone</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>apixaban</grapheme>
     <alias>a-PIX-a-ban</alias>
   </lexeme>
@@ -37,24 +33,12 @@
     <alias>kloh-PID-oh-grel</alias>
   </lexeme>
   <lexeme>
-    <grapheme>ticagrelor</grapheme>
-    <alias>tye-ka-GREL-or</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>fenofibrate</grapheme>
     <alias>fen-oh-FYE-brate</alias>
   </lexeme>
   <lexeme>
-    <grapheme>simvastatin</grapheme>
-    <alias>sim-va-STAT-in</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>pravastatin</grapheme>
     <alias>PRAV-va-STAT-in</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>alirocumab</grapheme>
-    <alias>a-LIR-oh-kyoo-mab</alias>
   </lexeme>
   <lexeme>
     <grapheme>sitagliptin</grapheme>
@@ -87,10 +71,6 @@
   <lexeme>
     <grapheme>miglitol</grapheme>
     <alias>MIG-li-tol</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>nateglinide</grapheme>
-    <alias>nah-TEG-li-nide</alias>
   </lexeme>
   <lexeme>
     <grapheme>clindamycin</grapheme>
@@ -129,16 +109,8 @@
     <alias>nah-PROK-sen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>acetaminophen</grapheme>
-    <alias>ah-SEE-tah-MIN-oh-fen</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>pregabalin</grapheme>
     <alias>pree-GAB-ah-lin</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>topiramate</grapheme>
-    <alias>toh-PIHR-ah-mayt</alias>
   </lexeme>
   <lexeme>
     <grapheme>oxcarbazepine</grapheme>
@@ -201,20 +173,12 @@
     <alias>mir-TAZ-a-peen</alias>
   </lexeme>
   <lexeme>
-    <grapheme>nefazodone</grapheme>
-    <alias>ne-FAZ-oh-done</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>vilazodone</grapheme>
     <alias>vil-AZ-oh-done</alias>
   </lexeme>
   <lexeme>
     <grapheme>lurasidone</grapheme>
     <alias>loo-RAS-ih-done</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>brexpiprazole</grapheme>
-    <alias>brek-SIP-ra-zole</alias>
   </lexeme>
   <lexeme>
     <grapheme>valproate</grapheme>
@@ -253,10 +217,6 @@
     <alias>a-VEL-oo-mab</alias>
   </lexeme>
   <lexeme>
-    <grapheme>cisplatin</grapheme>
-    <alias>sis-PLAT-in</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>paclitaxel</grapheme>
     <alias>pak-li-TAKS-el</alias>
   </lexeme>
@@ -265,16 +225,8 @@
     <alias>daw-noh-ROO-bi-sin</alias>
   </lexeme>
   <lexeme>
-    <grapheme>gemcitabine</grapheme>
-    <alias>jem-SITE-a-been</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>cytarabine</grapheme>
     <alias>sy-TAIR-a-been</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>adalimumab</grapheme>
-    <alias>a-da-LIM-oo-mab</alias>
   </lexeme>
   <lexeme>
     <grapheme>certolizumab</grapheme>
@@ -295,10 +247,6 @@
   <lexeme>
     <grapheme>brodalumab</grapheme>
     <alias>broe-DAL-ue-mab</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>guselkumab</grapheme>
-    <alias>gus-ELK-ue-mab</alias>
   </lexeme>
   <lexeme>
     <grapheme>pramipexole</grapheme>
@@ -325,10 +273,6 @@
     <alias>dar-i-FEN-ah-sin</alias>
   </lexeme>
   <lexeme>
-    <grapheme>chlorpheniramine</grapheme>
-    <alias>klor-fen-EER-ah-meen</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>armodafinil</grapheme>
     <alias>ar-mo-DAF-i-nil</alias>
   </lexeme>
@@ -347,10 +291,6 @@
   <lexeme>
     <grapheme>frovatriptan</grapheme>
     <alias>froh-vah-TRIP-tan</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>naratriptan</grapheme>
-    <alias>nar-ah-TRIP-tan</alias>
   </lexeme>
   <lexeme>
     <grapheme>ubrogepant</grapheme>
