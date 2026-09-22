@@ -3840,6 +3840,30 @@
     {
       "text": "abducens",
       "alias": "<<æbˈdjuːsənz>>"
+    },
+    {
+      "text": "angina",
+      "alias": "<<ænˈdʒaɪnə>>"
+    },
+    {
+      "text": "diabetes mellitus",
+      "alias": "<<ˌdaɪəˈbitɪz ˈmɛlɪtəs>>"
+    },
+    {
+      "text": "epinephrine",
+      "alias": "<<ˌɛpɪˈnɛfrɪn>>"
+    },
+    {
+      "text": "hyperlipidemia",
+      "alias": "<<ˌhaɪpərˌlɪpɪˈdimiə>>"
+    },
+    {
+      "text": "naloxone",
+      "alias": "<<nəˈlɑksoʊn>>"
+    },
+    {
+      "text": "osteoarthritis",
+      "alias": "<<ˌɑstioʊɑrˈθraɪtɪs>>"
     }
   ]
 }

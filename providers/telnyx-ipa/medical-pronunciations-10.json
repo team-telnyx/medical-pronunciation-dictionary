@@ -360,6 +360,42 @@
       "type": "phoneme",
       "phoneme": "æbˈdjuːsənz",
       "alphabet": "ipa"
+    },
+    {
+      "text": "angina",
+      "type": "phoneme",
+      "phoneme": "ænˈdʒaɪnə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "phoneme",
+      "phoneme": "ˌdaɪəˈbitɪz ˈmɛlɪtəs",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "epinephrine",
+      "type": "phoneme",
+      "phoneme": "ˌɛpɪˈnɛfrɪn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "phoneme",
+      "phoneme": "ˌhaɪpərˌlɪpɪˈdimiə",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "naloxone",
+      "type": "phoneme",
+      "phoneme": "nəˈlɑksoʊn",
+      "alphabet": "ipa"
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "phoneme",
+      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs",
+      "alphabet": "ipa"
     }
   ]
 }

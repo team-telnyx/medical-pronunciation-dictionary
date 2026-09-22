@@ -4530,6 +4530,31 @@
       "word": "abducens",
       "alphabet": "ipa",
       "phoneme": "æbˈdjuːsənz"
+    },
+    {
+      "word": "angina",
+      "alphabet": "ipa",
+      "phoneme": "ænˈdʒaɪnə"
+    },
+    {
+      "word": "epinephrine",
+      "alphabet": "ipa",
+      "phoneme": "ˌɛpɪˈnɛfrɪn"
+    },
+    {
+      "word": "hyperlipidemia",
+      "alphabet": "ipa",
+      "phoneme": "ˌhaɪpərˌlɪpɪˈdimiə"
+    },
+    {
+      "word": "naloxone",
+      "alphabet": "ipa",
+      "phoneme": "nəˈlɑksoʊn"
+    },
+    {
+      "word": "osteoarthritis",
+      "alphabet": "ipa",
+      "phoneme": "ˌɑstioʊɑrˈθraɪtɪs"
     }
   ]
 }

@@ -1,0 +1,185 @@
+{
+  "name": "Medical Pronunciations 03",
+  "items": [
+    {
+      "text": "ETOH",
+      "type": "alias",
+      "alias": "alcohol"
+    },
+    {
+      "text": "IVDU",
+      "type": "alias",
+      "alias": "I-V drug use"
+    },
+    {
+      "text": "ASA",
+      "type": "alias",
+      "alias": "ASPIR-in"
+    },
+    {
+      "text": "NYD",
+      "type": "alias",
+      "alias": "not yet diagnosed"
+    },
+    {
+      "text": "Sx",
+      "type": "alias",
+      "alias": "symptoms"
+    },
+    {
+      "text": "Tx",
+      "type": "alias",
+      "alias": "treatment"
+    },
+    {
+      "text": "Dx",
+      "type": "alias",
+      "alias": "diagnosis"
+    },
+    {
+      "text": "Rx",
+      "type": "alias",
+      "alias": "prescription"
+    },
+    {
+      "text": "FHx",
+      "type": "alias",
+      "alias": "family history"
+    },
+    {
+      "text": "SHx",
+      "type": "alias",
+      "alias": "social history"
+    },
+    {
+      "text": "stridor",
+      "type": "alias",
+      "alias": "STRY-dor"
+    },
+    {
+      "text": "coryza",
+      "type": "alias",
+      "alias": "koh-RY-zah"
+    },
+    {
+      "text": "hematemesis",
+      "type": "alias",
+      "alias": "hee-ma-TEM-eh-sis"
+    },
+    {
+      "text": "sialadenitis",
+      "type": "alias",
+      "alias": "sigh-al-a-deh-NYE-tis"
+    },
+    {
+      "text": "agnosia",
+      "type": "alias",
+      "alias": "ag-NOH-zhah"
+    },
+    {
+      "text": "hyponatremia",
+      "type": "alias",
+      "alias": "hy-poh-nah-TREE-mee-ah"
+    },
+    {
+      "text": "leukopenia",
+      "type": "alias",
+      "alias": "loo-koh-PEE-nee-ah"
+    },
+    {
+      "text": "thrombophilia",
+      "type": "alias",
+      "alias": "throm-bo-FIL-ee-ah"
+    },
+    {
+      "text": "furuncle",
+      "type": "alias",
+      "alias": "FYOOR-ung-kul"
+    },
+    {
+      "text": "pruritus",
+      "type": "alias",
+      "alias": "proo-RY-tus"
+    },
+    {
+      "text": "bulla",
+      "type": "alias",
+      "alias": "BULL-ah"
+    },
+    {
+      "text": "papule",
+      "type": "alias",
+      "alias": "PAP-yool"
+    },
+    {
+      "text": "mastectomy",
+      "type": "alias",
+      "alias": "mas-TEK-toh-mee"
+    },
+    {
+      "text": "gastrectomy",
+      "type": "alias",
+      "alias": "gas-TREK-toh-mee"
+    },
+    {
+      "text": "endoscopy",
+      "type": "alias",
+      "alias": "en-DOS-koh-pee"
+    },
+    {
+      "text": "fornix",
+      "type": "alias",
+      "alias": "FOR-niks"
+    },
+    {
+      "text": "cryptae",
+      "type": "alias",
+      "alias": "KRIP-tee"
+    },
+    {
+      "text": "cholecyst",
+      "type": "alias",
+      "alias": "KOH-leh-sist"
+    },
+    {
+      "text": "islets",
+      "type": "alias",
+      "alias": "EYE-lets"
+    },
+    {
+      "text": "acini",
+      "type": "alias",
+      "alias": "AS-ih-nye"
+    },
+    {
+      "text": "centrilobular",
+      "type": "alias",
+      "alias": "sen-trih-LOB-yoo-lar"
+    },
+    {
+      "text": "falciform",
+      "type": "alias",
+      "alias": "FAL-sih-form"
+    },
+    {
+      "text": "interventricular septum",
+      "type": "alias",
+      "alias": "in-ter-ven-TRIK-yoo-lar SEP-tum"
+    },
+    {
+      "text": "foramina",
+      "type": "alias",
+      "alias": "fo-RAM-ih-nah"
+    },
+    {
+      "text": "ganglion",
+      "type": "alias",
+      "alias": "GANG-glee-on"
+    },
+    {
+      "text": "facial",
+      "type": "alias",
+      "alias": "FAY-shal"
+    }
+  ]
+}

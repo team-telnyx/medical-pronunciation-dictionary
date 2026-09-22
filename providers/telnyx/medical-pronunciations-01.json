@@ -1,0 +1,505 @@
+{
+  "name": "Medical Pronunciations 01",
+  "items": [
+    {
+      "text": "atorvastatin",
+      "type": "alias",
+      "alias": "a-TOR-va-STAT-in"
+    },
+    {
+      "text": "lisinopril",
+      "type": "alias",
+      "alias": "ly-SIN-oh-pril"
+    },
+    {
+      "text": "nimodipine",
+      "type": "alias",
+      "alias": "ny-MOE-di-peen"
+    },
+    {
+      "text": "hydralazine",
+      "type": "alias",
+      "alias": "hy-DRAL-a-zeen"
+    },
+    {
+      "text": "triamterene",
+      "type": "alias",
+      "alias": "try-AM-ter-een"
+    },
+    {
+      "text": "eplerenone",
+      "type": "alias",
+      "alias": "e-PLER-e-none"
+    },
+    {
+      "text": "apixaban",
+      "type": "alias",
+      "alias": "a-PIX-a-ban"
+    },
+    {
+      "text": "clopidogrel",
+      "type": "alias",
+      "alias": "kloh-PID-oh-grel"
+    },
+    {
+      "text": "fenofibrate",
+      "type": "alias",
+      "alias": "fen-oh-FYE-brate"
+    },
+    {
+      "text": "pravastatin",
+      "type": "alias",
+      "alias": "PRAV-va-STAT-in"
+    },
+    {
+      "text": "sitagliptin",
+      "type": "alias",
+      "alias": "sit-ah-GLIP-tin"
+    },
+    {
+      "text": "empagliflozin",
+      "type": "alias",
+      "alias": "em-pah-gli-FLOH-zin"
+    },
+    {
+      "text": "canagliflozin",
+      "type": "alias",
+      "alias": "kan-ah-gli-FLOH-zin"
+    },
+    {
+      "text": "semaglutide",
+      "type": "alias",
+      "alias": "sem-ah-GLOO-tide"
+    },
+    {
+      "text": "liraglutide",
+      "type": "alias",
+      "alias": "lir-ah-GLOO-tide"
+    },
+    {
+      "text": "insulin aspart",
+      "type": "alias",
+      "alias": "IN-suh-lin AS-part"
+    },
+    {
+      "text": "insulin detemir",
+      "type": "alias",
+      "alias": "IN-suh-lin DET-uh-meer"
+    },
+    {
+      "text": "miglitol",
+      "type": "alias",
+      "alias": "MIG-li-tol"
+    },
+    {
+      "text": "clindamycin",
+      "type": "alias",
+      "alias": "klin-dah-MY-sin"
+    },
+    {
+      "text": "cefuroxime",
+      "type": "alias",
+      "alias": "se-fyoor-OX-eem"
+    },
+    {
+      "text": "cefepime",
+      "type": "alias",
+      "alias": "SEF-e-peem"
+    },
+    {
+      "text": "ertapenem",
+      "type": "alias",
+      "alias": "er-ta-PEN-em"
+    },
+    {
+      "text": "gentamicin",
+      "type": "alias",
+      "alias": "jen-ta-MY-sin"
+    },
+    {
+      "text": "linezolid",
+      "type": "alias",
+      "alias": "li-NEZ-o-lid"
+    },
+    {
+      "text": "ethambutol",
+      "type": "alias",
+      "alias": "e-THAM-byoo-tol"
+    },
+    {
+      "text": "oseltamivir",
+      "type": "alias",
+      "alias": "oh-sel-TAM-ih-veer"
+    },
+    {
+      "text": "naproxen",
+      "type": "alias",
+      "alias": "nah-PROK-sen"
+    },
+    {
+      "text": "pregabalin",
+      "type": "alias",
+      "alias": "pree-GAB-ah-lin"
+    },
+    {
+      "text": "oxcarbazepine",
+      "type": "alias",
+      "alias": "oks-kar-BAZ-eh-peen"
+    },
+    {
+      "text": "zonisamide",
+      "type": "alias",
+      "alias": "zoh-NIS-ah-mide"
+    },
+    {
+      "text": "rufinamide",
+      "type": "alias",
+      "alias": "roo-FIN-ah-mide"
+    },
+    {
+      "text": "pantoprazole",
+      "type": "alias",
+      "alias": "pan-TOH-prah-zole"
+    },
+    {
+      "text": "lansoprazole",
+      "type": "alias",
+      "alias": "lan-SOH-prah-zole"
+    },
+    {
+      "text": "dexlansoprazole",
+      "type": "alias",
+      "alias": "deks-lan-SOH-prah-zole"
+    },
+    {
+      "text": "ranitidine",
+      "type": "alias",
+      "alias": "ran-IH-tih-deen"
+    },
+    {
+      "text": "cimetidine",
+      "type": "alias",
+      "alias": "sy-MET-ih-deen"
+    },
+    {
+      "text": "ondansetron",
+      "type": "alias",
+      "alias": "on-DAN-seh-tron"
+    },
+    {
+      "text": "ipratropium",
+      "type": "alias",
+      "alias": "ip-ra-TROH-pee-um"
+    },
+    {
+      "text": "olodaterol",
+      "type": "alias",
+      "alias": "oh-loh-DA-ter-ol"
+    },
+    {
+      "text": "budesonide",
+      "type": "alias",
+      "alias": "byoo-DEH-soh-nide"
+    },
+    {
+      "text": "zafirlukast",
+      "type": "alias",
+      "alias": "za-FIR-loo-kast"
+    },
+    {
+      "text": "zileuton",
+      "type": "alias",
+      "alias": "zy-LOO-ton"
+    },
+    {
+      "text": "mirtazapine",
+      "type": "alias",
+      "alias": "mir-TAZ-a-peen"
+    },
+    {
+      "text": "vilazodone",
+      "type": "alias",
+      "alias": "vil-AZ-oh-done"
+    },
+    {
+      "text": "lurasidone",
+      "type": "alias",
+      "alias": "loo-RAS-ih-done"
+    },
+    {
+      "text": "valproate",
+      "type": "alias",
+      "alias": "val-PRO-ate"
+    },
+    {
+      "text": "asenapine",
+      "type": "alias",
+      "alias": "a-SEN-a-peen"
+    },
+    {
+      "text": "dasatinib",
+      "type": "alias",
+      "alias": "da-SAT-in-ib"
+    },
+    {
+      "text": "nilotinib",
+      "type": "alias",
+      "alias": "ny-LOH-tin-ib"
+    },
+    {
+      "text": "ibrutinib",
+      "type": "alias",
+      "alias": "eye-BROO-tin-ib"
+    },
+    {
+      "text": "cetuximab",
+      "type": "alias",
+      "alias": "se-TUX-i-mab"
+    },
+    {
+      "text": "pembrolizumab",
+      "type": "alias",
+      "alias": "pem-broh-LIZ-oo-mab"
+    },
+    {
+      "text": "atezolizumab",
+      "type": "alias",
+      "alias": "a-TEZ-oh-LIZ-oo-mab"
+    },
+    {
+      "text": "avelumab",
+      "type": "alias",
+      "alias": "a-VEL-oo-mab"
+    },
+    {
+      "text": "paclitaxel",
+      "type": "alias",
+      "alias": "pak-li-TAKS-el"
+    },
+    {
+      "text": "daunorubicin",
+      "type": "alias",
+      "alias": "daw-noh-ROO-bi-sin"
+    },
+    {
+      "text": "cytarabine",
+      "type": "alias",
+      "alias": "sy-TAIR-a-been"
+    },
+    {
+      "text": "certolizumab",
+      "type": "alias",
+      "alias": "ser-toh-LIZ-oo-mab"
+    },
+    {
+      "text": "golimumab",
+      "type": "alias",
+      "alias": "go-LIM-ue-mab"
+    },
+    {
+      "text": "sarilumab",
+      "type": "alias",
+      "alias": "sar-IL-ue-mab"
+    },
+    {
+      "text": "ixekizumab",
+      "type": "alias",
+      "alias": "IX-e-KIZ-ue-mab"
+    },
+    {
+      "text": "brodalumab",
+      "type": "alias",
+      "alias": "broe-DAL-ue-mab"
+    },
+    {
+      "text": "pramipexole",
+      "type": "alias",
+      "alias": "PRAM-i-PEX-ole"
+    },
+    {
+      "text": "donepezil",
+      "type": "alias",
+      "alias": "doe-NEP-e-zil"
+    },
+    {
+      "text": "fludrocortisone",
+      "type": "alias",
+      "alias": "floo-dro-KOR-tih-zone"
+    },
+    {
+      "text": "risedronate",
+      "type": "alias",
+      "alias": "rih-SED-ro-nate"
+    },
+    {
+      "text": "sildenafil",
+      "type": "alias",
+      "alias": "sil-DEN-uh-fil"
+    },
+    {
+      "text": "darifenacin",
+      "type": "alias",
+      "alias": "dar-i-FEN-ah-sin"
+    },
+    {
+      "text": "armodafinil",
+      "type": "alias",
+      "alias": "ar-mo-DAF-i-nil"
+    },
+    {
+      "text": "sumatriptan",
+      "type": "alias",
+      "alias": "soo-mah-TRIP-tan"
+    },
+    {
+      "text": "zolmitriptan",
+      "type": "alias",
+      "alias": "zohl-mi-TRIP-tan"
+    },
+    {
+      "text": "almotriptan",
+      "type": "alias",
+      "alias": "al-moh-TRIP-tan"
+    },
+    {
+      "text": "frovatriptan",
+      "type": "alias",
+      "alias": "froh-vah-TRIP-tan"
+    },
+    {
+      "text": "ubrogepant",
+      "type": "alias",
+      "alias": "yoo-BROH-jeh-pant"
+    },
+    {
+      "text": "rimegepant",
+      "type": "alias",
+      "alias": "rih-MEH-jeh-pant"
+    },
+    {
+      "text": "MI",
+      "type": "alias",
+      "alias": "myocardial infarction"
+    },
+    {
+      "text": "COPD",
+      "type": "alias",
+      "alias": "chronic obstructive pulmonary disease"
+    },
+    {
+      "text": "CHF",
+      "type": "alias",
+      "alias": "congestive heart failure"
+    },
+    {
+      "text": "UTI",
+      "type": "alias",
+      "alias": "urinary tract infection"
+    },
+    {
+      "text": "MRI",
+      "type": "alias",
+      "alias": "magnetic resonance imaging"
+    },
+    {
+      "text": "CT",
+      "type": "alias",
+      "alias": "computed tomography"
+    },
+    {
+      "text": "EKG",
+      "type": "alias",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "ECG",
+      "type": "alias",
+      "alias": "electrocardiogram"
+    },
+    {
+      "text": "EEG",
+      "type": "alias",
+      "alias": "electroencephalogram"
+    },
+    {
+      "text": "BUN",
+      "type": "alias",
+      "alias": "blood urea nitrogen"
+    },
+    {
+      "text": "CMP",
+      "type": "alias",
+      "alias": "comprehensive metabolic panel"
+    },
+    {
+      "text": "CBC",
+      "type": "alias",
+      "alias": "complete blood count"
+    },
+    {
+      "text": "TSH",
+      "type": "alias",
+      "alias": "thyroid stimulating hormone"
+    },
+    {
+      "text": "HbA1c",
+      "type": "alias",
+      "alias": "hemoglobin A one C"
+    },
+    {
+      "text": "PT",
+      "type": "alias",
+      "alias": "prothrombin time"
+    },
+    {
+      "text": "INR",
+      "type": "alias",
+      "alias": "international normalized ratio"
+    },
+    {
+      "text": "PTT",
+      "type": "alias",
+      "alias": "partial thromboplastin time"
+    },
+    {
+      "text": "DVT",
+      "type": "alias",
+      "alias": "deep vein thrombosis"
+    },
+    {
+      "text": "PE",
+      "type": "alias",
+      "alias": "pulmonary embolism"
+    },
+    {
+      "text": "CVA",
+      "type": "alias",
+      "alias": "cerebrovascular accident"
+    },
+    {
+      "text": "TIA",
+      "type": "alias",
+      "alias": "transient ischemic attack"
+    },
+    {
+      "text": "ICU",
+      "type": "alias",
+      "alias": "intensive care unit"
+    },
+    {
+      "text": "NICU",
+      "type": "alias",
+      "alias": "neonatal intensive care unit"
+    },
+    {
+      "text": "ER",
+      "type": "alias",
+      "alias": "emergency room"
+    },
+    {
+      "text": "ED",
+      "type": "alias",
+      "alias": "emergency department"
+    }
+  ]
+}
