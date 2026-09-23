@@ -5,6 +5,7 @@ Prepackaged medical pronunciation dictionary for voice AI TTS engines. 966 drugs
 Every alias was tested against a real TTS engine. The alias packs ship only the 236 entries measured to improve pronunciation, because in the audit 329 aliases made it **worse**. See [Which entries ship](#which-entries-ship).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Data CC BY 4.0](https://img.shields.io/badge/License--Data-CC%20BY%204.0-blue.svg)](LICENSE-DATA)
 [![Terms](https://img.shields.io/badge/terms-966-brightgreen)]()
 [![Verified aliases](https://img.shields.io/badge/verified%20aliases-236-brightgreen)]()
 [![Providers](https://img.shields.io/badge/providers-5-blue)]()
@@ -278,4 +279,6 @@ PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add terms, add pr
 
 ## License
 
-MIT (c) Telnyx, Inc. See [LICENSE](LICENSE).
+Code is MIT licensed (c) Telnyx, Inc. See [LICENSE](LICENSE).
+
+The pronunciation data (all files under `data/`, `providers/`, `pls/`, and `txt/`) is licensed under [Creative Commons Attribution 4.0](LICENSE-DATA). Use, share, and remix the dataset commercially with attribution to this repository.
